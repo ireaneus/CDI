@@ -1,0 +1,2 @@
+# CDI
+Contenders Discipleship Initiative
