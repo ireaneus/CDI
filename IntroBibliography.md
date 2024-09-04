@@ -76,7 +76,7 @@ Theistic Belief Systems:
 3. Atheism - Belief in no God
 4. Deism - Belief in a non-personal God
 5. Theism - Belief in a personally involved God
-Revelation - Truth Revealed
+#### Revelation - Truth Revealed
 #### General Revelation
 1. Nature’s witness
 Psalm 19:1-4; Acts 14:17; Psalm 104:5-9; 2 Peter 3:4-5; Romans 1:19-20
