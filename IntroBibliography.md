@@ -1,4 +1,4 @@
-# Introduction to Bibliography Session 1 and 2
+# Introduction to Bibliography Session 1
 ## SESSION 1, PART 1– INTRODUCTION TO BIBLIOLOGY
 At the end of this session, you will be able to explain the following:
 - The Basics of Online Video Learning
@@ -32,3 +32,55 @@ New American Standard Bible (2020)
 3) Topical study
 4) Biographical study
 5) Paraphrase
+
+### Session Schedule
+- Introduction
+- Old Testament Survey
+- New Testament Survey
+- Old Testament Authenticity
+- New Testament Authenticity
+- Inspiration of Scripture
+- Authority of Scripture
+- Introduction to Hermeneutics
+- Rules of Interpretation
+- Typology
+- Bible Study Tools / Take Home Mid-Term Test
+- Bible Study Methods – Exegesis
+- Bible Study Methods – Circumstantial Study
+- Bible Study Methods - Topical Study
+- Bible Study Methods - Biographical Study
+- Bible Study Methods – Paraphrase
+- Final Test / Review
+
+### Seven Subjects Covered
+1. Bible Survey – Old and New Testaments
+2. Biblical Culture – Understanding the culture of the time the Bible was written. You
+should have already ordered a copy of “The Manners & Customs of Bible Times” by
+Ralph Gower.
+3. Bibliology – Theology of Scripture – What the Bible is About
+4. Introduction to Bible Languages – Hebrew and Greek
+5. Hermeneutics – The Science of Interpreting the Bible
+6. Typology – Old Testament Pointing to the New Testament (persons, places and
+things)
+7. Bible Study Method – Five-Step Method
+  1) Word study
+  2) Circumstantial study
+  3) Topical study
+  4) Biographical study
+  5) Paraphrase
+
+### Introduction to Bibliology
+Theistic Belief Systems:
+1. Pantheism - All is God
+2. Polytheism - Many Gods
+3. Atheism - Belief in no God
+4. Deism - Belief in a non-personal God
+5. Theism - Belief in a personally involved God
+Revelation - Truth Revealed
+#### General Revelation
+1. Nature’s witness
+Psalm 19:1-4; Acts 14:17; Psalm 104:5-9; 2 Peter 3:4-5; Romans 1:19-20
+2. History's witness
+I Kings 8:56; Acts 7:2-53; Acts 17:26-28
+3. Conscience's witness
+Ecclesiastes 3:11; 2 Corinthians 3:3; Romans 2:14-15
