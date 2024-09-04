@@ -104,18 +104,55 @@ even a Gentile doctor and a tax collector.
 
 > **Eph 6:10-17** 10. *Finally, be strong in the Lord and in the strength of His might.* 11. *Put on the full armor of God, so that you will be able to stand firm against the schemes of the devil.* 12. *For our struggle is not against flesh and blood, but against the rulers, against the powers, against the world forces of this darkness, against the spiritual forces of wickedness in the heavenly places.* 13. *Therefore, take up the full armor of God, so that you will be able to resist on the evil day, and having done everything, to stand firm.* 14. *Stand firm therefore, having belted your waist with truth, and having put on the breastplate of righteousness,* 15. *and having strapped on your feet the preparation of the gospel of peace;* 16. *in addition to all, taking up the shield of faith with which you will be able to extinguish all the flaming arrows of the evil one.* 17. *And take the helmet of salvation and the sword of the Spirit, which is the word of God.*
 
-5. Object and Source of Faith - 1 Thess 2:13; Rom 10:17
-7. Complete - Rev 22:18-19
-8. Comprehensive - 2 Tim 3:16-17
-9. Infallible - Matt 5:18; 1 Kings 8:56,
-10. Inerrant - 2 Pe 1:16-19
-11. True - Jn 8:44; 2 Cor 4:4; Jn 17:17;
-12. A Historical Record:
+5. Object and Source of Faith 
+
+> **1 Thess 2:13** 13. *For this reason we also constantly thank God that when you received the word of God which you heard from us, you accepted it not as the word of mere men, but as what it really is, the word of God, which also is at work in you who believe.*
+
+> **Rom 10:17** 17. *So faith comes from hearing, and hearing by the word of Christ.*
+
+6. Complete 
+
+> **Rev 22:18-19** 18. *I testify to everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues that are written in this book;* 19. *and if anyone takes away from the words of the book of this prophecy, God will take away his part from the tree of life and from the holy city, which are written in this book.*
+
+7. Comprehensive
+
+> **2 Tim 3:16-17** 16. *All Scripture is inspired by God and beneficial for teaching, for rebuke, for correction, for training in righteousness;* 17. *so that the man or woman of God may be fully capable, equipped for every good work.*
+
+8. Infallible 
+
+> **Matt 5:18** 18. *For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke of a letter shall pass from the Law, until all is accomplished!*
+
+> **1 Kings 8:56** 56. *“Blessed be the Lord, who has given rest to His people Israel in accordance with everything that He promised; not one word has failed of all His good promise, which He promised through Moses His servant.*
+
+9. Inerrant 
+
+> **2 Pe 1:16-19** 16. *For we did not follow cleverly devised tales when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty. 17For when He received honor and glory from God the Father, such a declaration as this was made to Him by the Majestic Glory: “This is My beloved Son with whom I am well pleased”— 18and we ourselves heard this declaration made from heaven when we were with Him on the holy mountain.*
+
+10. True
+
+> **Jn 8:44** 44. *You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and does not stand in the truth because there is no truth in him. Whenever he tells a lie, he speaks from his own nature, because he is a liar and the father of lies.*
+
+> **2 Cor 4:4** 4. *in whose case the god of this world has blinded the minds of the unbelieving so that they will not see the light of the gospel of the glory of Christ, who is the image of God.*
+
+> **Jn 17:17** 17. *Sanctify them in the truth; Your word is truth.*
+
+11. A Historical Record:
    1) from eternity past to eternity future
    2) of God's dealings with man
    3) of two divergent streams of humanity, the godly and ungodly
    4) of the nation of Israel
    5) of God's promised Messiah Gen 3
-12. “Christocentric” - John 5:39
-13. To Be Studied - 2 Tim 2:15; 2 Peter 1:19; Heb 2:1-3; 2 Peter 3:16
+12. “Christocentric”
+
+> **John 5:39** 39. *You examine the Scriptures because you think that in them you have eternal life; and it is those very Scriptures that testify about Me;*
+
+13. To Be Studied
+
+> **2 Tim 2:15** 15. *Be diligent to present yourself approved to God as a worker who does not need to be ashamed, accurately handling the word of truth.*
+
+> **2 Peter 1:19** 19. *And so we have the prophetic word made more sure, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts.*
+
+> **Heb 2:1-3** 1. *For this reason we must pay much closer attention to what we have heard, so that we do not drift away from it. 2For if the word spoken through angels proved unalterable, and every violation and act of disobedience received a just punishment, 3how will we escape if we neglect so great a salvation? After it was at first spoken through the Lord, it was confirmed to us by those who heard,*
+
+> **2 Peter 3:16** 16. *as also in all his letters, speaking in them of these things, in which there are some things that are hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction.*
 
