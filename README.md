@@ -4,11 +4,11 @@ Contenders Discipleship Initiative
 ## Bibliology
 ### How to Study the Bible
 
-The Doctrine of Inspiration
-Biblical Culture
-Biblical Interpretation
-Survey of Old and New Testaments
-Intro to Bible Study Tools
-Hermeneutics
-Typology
-Five-Step Bible Study Method
+1. The Doctrine of Inspiration
+2. Biblical Culture
+3. Biblical Interpretation
+4. Survey of Old and New Testaments
+5. Intro to Bible Study Tools
+6. Hermeneutics
+7. Typology
+8. Five-Step Bible Study Method
