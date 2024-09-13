@@ -354,4 +354,64 @@ They lengthened their furrows.”*
 
 ### “mocked” Matthew 27:29-31
 **Psalm 102:**
-- *
+- *Prayer of an Afflicted Man for Mercy on Himself and on Zion.
+A Prayer of the Afflicted when he is faint and pours out his complaint before the Lord.
+1Hear my prayer, O Lord!
+And let my cry for help come to You.
+2Do not hide Your face from me in the day of my distress;
+Incline Your ear to me;
+In the day when I call answer me quickly.
+3For my days have been consumed in smoke,
+And my bones have been scorched like a hearth.
+4My heart has been smitten like grass and has withered away,
+Indeed, I forget to eat my bread.
+5Because of the loudness of my groaning
+My bones cling to my flesh.
+6I resemble a pelican of the wilderness;
+I have become like an owl of the waste places.
+7I lie awake,
+I have become like a lonely bird on a housetop.
+8My enemies have reproached me all day long;
+Those who deride me have used my name as a curse.
+9For I have eaten ashes like bread
+And mingled my drink with weeping
+10Because of Your indignation and Your wrath,
+For You have lifted me up and cast me away.
+11My days are like a lengthened shadow,
+And I wither away like grass.
+12But You, O Lord, abide forever,
+And Your name to all generations.
+13You will arise and have compassion on Zion;
+For it is time to be gracious to her,
+For the appointed time has come.
+14Surely Your servants find pleasure in her stones
+And feel pity for her dust.
+15So the nations will fear the name of the Lord
+And all the kings of the earth Your glory.
+16For the Lord has built up Zion;
+He has appeared in His glory.
+17He has regarded the prayer of the destitute
+And has not despised their prayer.
+18This will be written for the generation to come,
+That a people yet to be created may praise the Lord.
+19For He looked down from His holy height;
+From heaven the Lord gazed upon the earth,
+20To hear the groaning of the prisoner,
+To set free those who were doomed to death,
+21That men may tell of the name of the Lord in Zion
+And His praise in Jerusalem,
+22When the peoples are gathered together,
+And the kingdoms, to serve the Lord.
+23He has weakened my strength in the way;
+He has shortened my days.
+24I say, “O my God, do not take me away in the midst of my days,
+Your years are throughout all generations.
+25Of old You founded the earth,
+And the heavens are the work of Your hands.
+26Even they will perish, but You endure;
+And all of them will wear out like a garment;
+Like clothing You will change them and they will be changed.
+27But You are the same,
+And Your years will not come to an end.
+28The children of Your servants will continue,
+And their descendants will be established before You.”*
