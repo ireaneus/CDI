@@ -352,7 +352,7 @@ They lengthened their furrows.”*
 
 ---
 
-### “mocked” Matthew 27:29-31
+### “mocked”
 **Psalm 102:**
 - *Prayer of an Afflicted Man for Mercy on Himself and on Zion.
 A Prayer of the Afflicted when he is faint and pours out his complaint before the Lord.
@@ -415,3 +415,107 @@ Like clothing You will change them and they will be changed.
 And Your years will not come to an end.
 28The children of Your servants will continue,
 And their descendants will be established before You.”*
+
+**Matthew 27:29-31**
+- *And after twisting together a crown of thorns, they put it on His head, and a reed in His right hand; and they knelt down before Him and mocked Him, saying, “Hail, King of the Jews!” 30They spat on Him, and took the reed and began to beat Him on the head. 31After they had mocked Him, they took the scarlet robe off Him and put His own garments back on Him, and led Him away to crucify Him.*
+
+---
+
+### “taunted with ‘No help from God for you!’”
+**Psalm 22:6-8**
+- *But I am a worm and not a man,
+A reproach of men and despised by the people.
+7All who see me sneer at me;
+They separate with the lip, they wag the head, saying,
+8“Commit yourself to the Lord; let Him deliver him;
+Let Him rescue him, because He delights in him.”*
+
+**Matthew 27:39-43**
+- *And those passing by were hurling abuse at Him, wagging their heads 40and saying, “You who are going to destroy the temple and rebuild it in three days, save Yourself! If You are the Son of God, come down from the cross.” 41In the same way the chief priests also, along with the scribes and elders, were mocking Him and saying, 42“He saved others; He cannot save Himself. He is the King of Israel; let Him now come down from the cross, and we will believe in Him. 43He trusts in God; let God rescue Him now, if He delights in Him; for He said, ‘I am the Son of God.’ ”*
+
+---
+
+### “hands and feet pierced” 
+**Psalm 22:16**
+- *For dogs have surrounded me;
+A band of evildoers has encompassed me;
+They pierced my hands and my feet.*
+
+**John 19:23; 20:25**
+- *Then the soldiers, when they had crucified Jesus, took His outer garments and made four parts, a part to every soldier and also the tunic; now the tunic was seamless, woven in one piece.*
+- *So the other disciples were saying to him, “We have seen the Lord!” But he said to them, “Unless I see in His hands the imprint of the nails, and put my finger into the place of the nails, and put my hand into His side, I will not believe.”*
+
+---
+
+### “clothing parceled out, but one piece gambled for whole” 
+**Psalm 22:18**
+- *They divide my garments among them,
+And for my clothing they cast lots.*
+
+**John 19:23-24**
+- *Then the soldiers, when they had crucified Jesus, took His outer garments and made four parts, a part to every soldier and also the tunic; now the tunic was seamless, woven in one piece. 24So they said to one another, “Let us not tear it, but cast lots for it, to decide whose it shall be”; this was to fulfill the Scripture: “They divided My outer garments among them, and for My clothing they cast lots.”*
+
+---
+
+### “insulted while dying with wagging heads and scorn”
+**Psalm 22:7**
+- *All who see me sneer at me;
+They separate with the lip, they wag the head, saying,*
+
+**Matthew 27:39**
+- *And those passing by were hurling abuse at Him, wagging their heads*
+
+---
+
+### “crucified with sinners”
+**Isaiah 53:12**
+- *Therefore, I will allot Him a portion with the great,
+And He will divide the booty with the strong;
+Because He poured out Himself to death,
+And was numbered with the transgressors;
+Yet He Himself bore the sin of many,
+And interceded for the transgressors.*
+
+**Matthew 27:38**
+- *At that time two robbers *were crucified with Him, one on the right and one on the left.*
+
+---
+
+### “given gall and vinegar to drink” 
+**Psalm 69:21**
+- *They also gave me gall for my food
+And for my thirst they gave me vinegar to drink.*
+
+**Matthew 27:34; 48**
+- *they gave Him wine to drink mixed with gall; and after tasting it, He was unwilling to drink.*
+- *Immediately one of them ran, and taking a sponge, he filled it with sour wine and put it on a reed, and gave Him a drink*
+
+---
+
+### “no bones broken” 
+**Psalm 34:20**
+- *He keeps all his bones,
+Not one of them is broken.*
+
+**John 19:33**
+- *but coming to Jesus, when they saw that He was already dead, they did not break His legs.*
+
+---
+
+### “forsaken of God”
+**Psalm 22:1**
+- *My God, my God, why have You forsaken me?
+Far from my deliverance are the words of my groaning.*
+
+**Matthew 27:46**
+- *About the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lama sabachthani?” that is, “My God, My God, why have You forsaken Me?”*
+
+---
+
+### “died at the appointed time foretold to Daniel”
+**Daniel 9:24-26**
+- *“Seventy weeks have been decreed for your people and your holy city, to finish the transgression, to make an end of sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy and to anoint the most holy place. 25So you are to know and discern that from the issuing of a decree to restore and rebuild Jerusalem until Messiah the Prince there will be seven weeks and sixty-two weeks; it will be built again, with plaza and moat, even in times of distress. 26Then after the sixty-two weeks the Messiah will be cut off and have nothing, and the people of the prince who is to come will destroy the city and the sanctuary. And its end will come with a flood; even to the end there will be war; desolations are determined.*
+
+> Seven seventies (490 years) is the determined time. The death of Christ happened at the Passover in the month Nisan, in the four thousand seven hundred and forty-sixth year of the Julian period. Four hundred and ninety years, reckoned back from the above year, leads us directly to the month Nisan in the four thousand two hundred and fifty-sixth year of the same period; the very month and year in which Ezra had his commission from Artaxerxes Longimanus, king of Persia, to restore and rebuild Jerusalem.
+
+
