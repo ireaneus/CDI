@@ -518,4 +518,38 @@ Far from my deliverance are the words of my groaning.*
 
 > Seven seventies (490 years) is the determined time. The death of Christ happened at the Passover in the month Nisan, in the four thousand seven hundred and forty-sixth year of the Julian period. Four hundred and ninety years, reckoned back from the above year, leads us directly to the month Nisan in the four thousand two hundred and fifty-sixth year of the same period; the very month and year in which Ezra had his commission from Artaxerxes Longimanus, king of Persia, to restore and rebuild Jerusalem.
 
+---
 
+### “buried in a rich man’s tomb” 
+**Isaiah 53:9**
+- *His grave was assigned with wicked men,
+Yet He was with a rich man in His death,
+Because He had done no violence,
+Nor was there any deceit in His mouth.*
+
+**Matthew 27:57-60**
+- *When it was evening, there came a rich man from Arimathea, named Joseph, who himself had also become a disciple of Jesus. 58This man went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him. 59And Joseph took the body and wrapped it in a clean linen cloth, 60and laid it in his own new tomb, which he had hewn out in the rock; and he rolled a large stone against the entrance of the tomb and went away.*
+
+---
+
+###   “raised from the dead” 
+**Psalm 16:10**
+- *For You will not abandon my soul to Sheol;
+Nor will You allow Your Holy One to undergo decay.*
+
+**Matthew 28:5-9**
+- *The angel said to the women, “Do not be afraid; for I know that you are looking for Jesus who has been crucified. 6He is not here, for He has risen, just as He said. Come, see the place where He was lying. 7Go quickly and tell His disciples that He has risen from the dead; and behold, He is going ahead of you into Galilee, there you will see Him; behold, I have told you.”
+8And they left the tomb quickly with fear and great joy and ran to report it to His disciples. 9And behold, Jesus met them and greeted them. And they came up and took hold of His feet and worshiped Him*
+
+---
+
+### “rise from the dead on the third day” 
+**Hosea 6:2**
+- *He will revive us after two days;
+He will raise us up on the third day,
+That we may live before Him.*
+
+**Matthew 27:57-28:6**
+- *When it was evening, there came a rich man from Arimathea, named Joseph, who himself had also become a disciple of Jesus. 58This man went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him. 59And Joseph took the body and wrapped it in a clean linen cloth, 60and laid it in his own new tomb, which he had hewn out in the rock; and he rolled a large stone against the entrance of the tomb and went away. 61And Mary Magdalene was there, and the other Mary, sitting opposite the grave.
+62Now on the next day, the day after the preparation, the chief priests and the Pharisees gathered together with Pilate, 63and said, “Sir, we remember that when He was still alive that deceiver said, ‘After three days I am to rise again.’ 64Therefore, give orders for the grave to be made secure until the third day, otherwise His disciples may come and steal Him away and say to the people, ‘He has risen from the dead,’ and the last deception will be worse than the first.” 65Pilate said to them, “You have a guard; go, make it as secure as you know how.” 66And they went and made the grave secure, and along with the guard they set a seal on the stone.*
+- *Now after the Sabbath, as it began to dawn toward the first day of the week, Mary Magdalene and the other Mary came to look at the grave. 2And behold, a severe earthquake had occurred, for an angel of the Lord descended from heaven and came and rolled away the stone and sat upon it. 3And his appearance was like lightning, and his clothing as white as snow. 4The guards shook for fear of him and became like dead men. 5The angel said to the women, “Do not be afraid; for I know that you are looking for Jesus who has been crucified. 6He is not here, for He has risen, just as He said. Come, see the place where He was lying*
