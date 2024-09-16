@@ -6,7 +6,7 @@ God is an infinite being, we are finite humans that cannot understand perfectly 
 *Can you discover the limits of the Almighty?"*
 
 ## Modes of Revelation: General and Special
-### General Revelation
+### GENERAL REVELATION
 **Through Nature**
 > **Psalms 19:1-6** *1The heavens are telling of the glory of God;
 And their expanse is declaring the work of His hands.
@@ -91,6 +91,26 @@ Jacob is the allotment of His inheritance.*
 
 > **Ephesians 3:8-9** *8To me, the very least of all saints, this grace was given, to preach to the Gentiles the unfathomable riches of Christ, 9and to bring to light what is the administration of the mystery which for ages has been hidden in God who created all things;*
 > Hidden to the minds of men
+
+**Regarding Condemnation**
+> **Romans 1:20-21** *20For since the creation of the world His invisible attributes, His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. 21For even though they knew God, they did not honor Him as God or give thanks, but they became futile in their speculations, and their foolish heart was darkened.*
+> General revelation is sufficient to condemn
+> If God reveals (light) to someone, then He will send someone to show more light. Missionaires
+> **Romans 1:18-25** *18For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, 19because that which is known about God is evident within them; for God made it evident to them. 20For since the creation of the world His invisible attributes, His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. 21For even though they knew God, they did not honor Him as God or give thanks, but they became futile in their speculations, and their foolish heart was darkened. 22Professing to be wise, they became fools, 23and exchanged the glory of the incorruptible God for an image in the form of corruptible man and of birds and four-footed animals and crawling creatures.
+24Therefore God gave them over in the lusts of their hearts to impurity, so that their bodies would be dishonored among them. 25For they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.*
+> vs. 24 God gave them over.
+
+**Summary** Through General Revelation is suffecient to condemn a person but insufficient to present the Gospel (greater light).
+
+### SPECIAL REVELATION
+1. Interpret truths from General Revelation
+2. Revelation of Salvation
+3. Revelation of the Goodness and Severity of God. Rain both grows and destroys
+> **Hebrews 1:1-2** *1God, after He spoke long ago to the fathers in the prophets in many portions and in many ways, 2in these last days has spoken to us in His Son, whom He appointed heir of all things, through whom also He made the world.*
+#### Many Portions and many ways
+1. **Theophanies** God revealing Himself visibly, by means of Shachinah Glory, pillar of fire.. and by The Angel of the Lord - preincarnate Christ
+2. **Miracles** An event so extraordinary that it is unexplainable in nature. Even unbelievers believe it is power from God (Acts 3:1-4:22, 4:16-22, 14:8-16). Whole section on miracles (The Bible and Divin Revelation. Ariel)
+3. Direct Revelation
 
 
 
