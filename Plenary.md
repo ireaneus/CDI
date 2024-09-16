@@ -1,5 +1,5 @@
 # Plenary Inspiration
-**The whole of scripture is inspired both in substance and in structure*
+**The whole of scripture is inspired both in substance and in structure**
 
 ## What is the definition of Plenary Inspiration?
 **Plenary Inspiration** refers to the belief that **all parts of Scripture** are equally and fully inspired by God. This doctrine holds that the Bible, in its entirety, is divinely inspired, meaning that every section—whether historical, poetic, doctrinal, or moral—is authoritative and without error in its original form.
@@ -52,5 +52,12 @@ The doctrine of **Plenary Inspiration** carries several important implications f
 
 In summary, **Plenary Inspiration** affirms that all Scripture is fully inspired, authoritative, and free from error. This has far-reaching implications for how Christians interpret, apply, and trust the Bible in all aspects of life, doctrine, and church practice.
 
+The Bible is the final authority not only on faith and practice, but final authority on any subject the bible addresses itself on.  ie.. History, social, geography, 
+
+1. When the 40 writers wrote the original 66 books of the Bible there was no errors, no mistakes, not one jot was misplaced
+2. There was no omissions, everything God wanted to include and in its timing was included
+3. Preserved from authors making addtions to the word written
+4. The authors wrote with the words in the order God intended
+5. God super-intended and the authors were instruments to the complete scriptures
 
 
