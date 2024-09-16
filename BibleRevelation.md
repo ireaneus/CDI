@@ -54,3 +54,27 @@ For the day of war and battle?*
 Nor from the desert comes exaltation;
 7But God is the Judge;
 He puts down one and exalts another.*
+> God's Providence raised Hitler, Stalin, Roosevelt, Saul, David, Nebochednezzer
+
+> **Acts 17:26** *26and He made from one man every nation of mankind to live on all the face of the earth, having determined their appointed times and the boundaries of their habitation,*
+> Boundaries, and borders of nations are set
+
+> **Deut 32:8-9** *8When the Most High gave the nations their inheritance,
+When He separated the sons of man,
+He set the boundaries of the peoples
+According to the number of the sons of Israel.
+9For the Lord’s portion is His people;
+Jacob is the allotment of His inheritance.*
+> History of the nation of Isreal
+
+> **Romans 8:28** *28And we know that God causes all things to work together for good to those who love God, to those who are called according to His purpose.*
+
+**Through Preservation**
+> **Acts 17:28** *28for in Him we live and move and exist, as even some of your own poets have said, ‘For we also are His children.’*
+> Human Preservation
+
+> **Col 1:17** *17He is before all things, and in Him all things hold together.*
+> **Heb 1:3** *3And He is the radiance of His glory and the exact representation of His nature, and upholds all things by the word of His power. When He had made purification of sins, He sat down at the right hand of the Majesty on high,*
+> Universal Preservation
+
+
