@@ -3,10 +3,42 @@
 **Tunics**
 - loincloth (John 21:7,19:23)
 - tunic
-- outer garments 
+- outer garments (Luke 3:11, Isa. 58:7)
+- cloak (Exodus 22:26-27)
+- footwear (Luke 3:16; Amos 2:6)
+- veil (Gen. 24:65, Isa. 9:6)
+- ornamentation (Isa. 3:18; 1Peter 3:3-4; Ezekiel 23:40)
 
 **Men and Women clothes**
 - Deuteronomy 22:5
+- Women's covering (1 Corinthians 11:16)
 
 **Joseph's coat**
-- Genesis 37:3
+- Genesis 37:3,23,32
+
+**Gird up your loins**
+- 1 Peter 1:13
+
+**Cloak fringes**
+- Numbers 15:38-39
+- Matthew 23:5, 9:20
+
+**Cloak and tunic**
+- Matthew 5:40
+- Luke 6:29
+
+**washing clothes**
+- Psm. 51:2,7
+
+**tearing clothes**
+- Job 1:20
+- Gen. 37:29, 34
+- Josh. 7:4
+
+** God's Armour**
+- Isa. 59:16-17
+- Ephesians 6:10-17
+
+**priests clothing**
+- 1 Sam. 2:18-19
+- Exodus 28
