@@ -42,3 +42,23 @@
 **priests clothing**
 - 1 Sam. 2:18-19
 - Exodus 28
+
+## Chapter 2
+### Dwellings
+*Proverbs 16:33 Lots casting find His will*
+
+**dividing the land**
+- *Psalm 16:6 David pleasant local*
+- *Deuteronomy 19:14 landmarks*
+- *1 Kings of 21:3 dishonor to sell*
+
+**selling the land**
+- *Leviticus 25:10 returned to original owner*
+- *Leviticus 25:13-17 sale value jubilee*
+- *Jeremiah 32:9-12, Gen 23:4-20 transfer process*
+- *Deuteronomy 25:5-6, Ruth 4 original owner buy back*
+
+**Property rights**
+- *Job 3:20-21, Proverbs 2:3-5*
+- *Matthew 13:44 buried on land*
+
