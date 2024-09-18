@@ -3,7 +3,7 @@
 
 
 ### Scripture
-"I believe in the 66 books that make up the complete canon of scripture as the Protestant Bible. They are the divinely inspired, infallible, inerrant, and immutable Word of God. God predetermined every writer, their timing in history, and their personal experiences to bring their unique perspective and style. God's sovereign hand ensured that their words convey His message with perfect accuracy. The Bible is the living word, the authoritative source for faith and practice, it is sufficient for teaching, correcting, and equipping believers for righteous living."
+"I believe in the 66 books that make up the Protestant Bible as the complete canon of scripture. They are the divinely inspired, infallible, inerrant, and immutable Word of God. God preordained the writers, their timing in history, and their personal experiences to bring their unique perspective and style. God's sovereign hand ensured that their words convey His message with meticulous accuracy. The Bible is the living word, the authoritative source for faith and practice, it is sufficient for teaching, correcting, and equipping believers for righteous living."
 - **Key Scriptures**: 2 Timothy 3:16-17; 2 Peter 1:20-21; Revelation 22:18-19; Deuteronomy 4:2; Matthew 5:18
 
 ---
