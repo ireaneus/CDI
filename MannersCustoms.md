@@ -61,4 +61,10 @@
 **Property rights**
 - *Job 3:20-21, Proverbs 2:3-5*
 - *Matthew 13:44 buried on land*
+- *2 Kings 2:9; Luke 15:31 Elisha double portion*
+- *Numbers 27:1-11 Law of inheritances*
+
+**Homeland**
+- *Psalm 61:3-4; Isaiah 4:6 understanding homeland*
+
 
