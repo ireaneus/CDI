@@ -2,7 +2,7 @@
 ### Clothing
 **Tunics**
 - loincloth (John 21:7,19:23)
-- tunic
+- tunic (Mark 6:8; 1 Samuel 25:13)
 - outer garments (Luke 3:11, Isa. 58:7)
 - cloak (Exodus 22:26-27)
 - footwear (Luke 3:16; Amos 2:6)
