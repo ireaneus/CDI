@@ -41,26 +41,34 @@ anything of note.
 **The Deity of Jesus Christ** *The Eternal Word (NKJV)*
 
 > *1In the beginning was the Word, and the Word was with God, and the Word was God. 2He was in the beginning with God. 3All things came into being through Him, and apart from Him nothing came into being that has come into being. 4In Him was life, and the life was the Light of men. 5The Light shines in the darkness, and the darkness did not comprehend it.*
->
+
 > **Strong's**:
-> - vs. 1 *the beginning - G746 ἀρχῇ (archē), N-DSF, used absolutely, of the beginning of all things*
-> - *was - G1510 εἰμί eimi, V-IAI-3S, I exist (used only when emphatic):—am, have been, × it is I, was.*
-> - *the - G3588 ὁ ho, T-NSM, the definite article; the (sometimes to be supplied, at others omitted, in English idiom)*
-> - *Word - G3506 λόγος logos, N-NSM, /lógos ("word") is preeminently used of Christ (Jn 1:1), expressing the thoughts of the Father through the Spirit.*
-> - *with - G4314 πρός pros, PREP, A strengthen form of pro; a preposition of direction; forward to*
-> - *God - G2316 θεός theos, N-ASM, theh'-os; of uncertain affinity; a deity, especially (with G3588) the supreme Divinity; figuratively, a magistrate; by Hebraism, very:—X exceeding, God, god(-ly, -ward).*
-> - vs. 2 (see vs.1) *He G3778 οὗτος houtos, D-NSM, :—he (it was that), hereof, it, she, such as, the same, these, they, this (man, same, woman), which, who.*
-> - vs. 3 *All things PHRASE G3956 πᾶς pas, A-NPN, radically means "all." Used without the article it means "every," every kind or variety. The neuter plural without the article*
-> - *came into being PHRASE G1096 γίνομαι ginomai, V-AMI-3S, "to become," is sometimes translated by the Passive Voice of the verb to make*
-> - *Him G846 αὐτός autos,P-GSM, he himself and no other," emphatic, e.g., Mat 1:21, where the RV brings out the emphasis by the rendering "it is He;*
-> - vs. 4 *life G2222 ζωή zoe, N-NSM, (Eng., "zoo," "zoology") is used in the NT "of life as a principle, life in the absolute sense, life as God has it, that which the Father has in Himself, and which He gave to the Incarnate Son to have in Himself,*
-> - *Light G5457 φῶς phos, N-NSM,"to give light" (from roots pha--, and phan--, expressing "light as seen by the eye," and, metaphorically, as "reaching the mind," whence phaino, "to make to appear," phaneros, "evident,"*
-> - *of men G444 ἄνθρωπος anthropos,N-GPM, anth'-ro-pos; from G435 and ὤψ ṓps (the countenance; from G3700); man-faced, i.e. a human being:—certain, man.*
+> - vs.1 the beginning - *G746 ἀρχῇ (archē), N-DSF, used absolutely, of the beginning of all things*
+> - was - *G1510 εἰμί eimi, V-IAI-3S, I exist (used only when emphatic):—am, have been, × it is I, was.*
+> - the - *G3588 ὁ ho, T-NSM, the definite article; the (sometimes to be supplied, at others omitted, in English idiom)*
+> - Word - *G3506 λόγος logos, N-NSM, /lógos ("word") is preeminently used of Christ (Jn 1:1), expressing the thoughts of the Father through the Spirit.*
+> - with - *G4314 πρός pros, PREP, A strengthen form of pro; a preposition of direction; forward to*
+> - God - *G2316 θεός theos, N-ASM, theh'-os; of uncertain affinity; a deity, especially (with G3588) the supreme Divinity; figuratively, a magistrate; by Hebraism, very:—X exceeding, God, god(-ly, -ward).*
+> - vs.2 (see vs.1) He - *G3778 οὗτος houtos, D-NSM, :—he (it was that), hereof, it, she, such as, the same, these, they, this (man, same, woman), which, who.*
+> - vs.3 All things PHRASE - *G3956 πᾶς pas, A-NPN, radically means "all." Used without the article it means "every," every kind or variety. The neuter plural without the article*
+> - came into being PHRASE - *G1096 γίνομαι ginomai, V-AMI-3S, "to become," is sometimes translated by the Passive Voice of the verb to make*
+> - Him - *G846 αὐτός autos,P-GSM, he himself and no other," emphatic, e.g., Mat 1:21, where the RV brings out the emphasis by the rendering "it is He;*
+> - vs. 4 life - *G2222 ζωή zoe, N-NSM, (Eng., "zoo," "zoology") is used in the NT "of life as a principle, life in the absolute sense, life as God has it, that which the Father has in Himself, and which He gave to the Incarnate Son to have in Himself,*
+> - Light - *G5457 φῶς phos, N-NSM,"to give light" (from roots pha--, and phan--, expressing "light as seen by the eye," and, metaphorically, as "reaching the mind," whence phaino, "to make to appear," phaneros, "evident,"*
+> - of men - *G444 ἄνθρωπος anthropos,N-GPM, anth'-ro-pos; from G435 and ὤψ ṓps (the countenance; from G3700); man-faced, i.e. a human being:—certain, man.*
+> - vs.5 shines - *G5316 φαίνω phaino ,V-PAI-3S, signifies, in the Active Voice, "to shine;"*
+> - darkness - *G4653 σκοτία skotia,N-DSF,of spiritual or moral "darkness," emblematic of sin, as a condition of moral or spiritual depravity*
+> - did not - *G3756, a primary word; the absolute negative (compare G3361) adverb;*
+> - comprehend - *G2638 καταλαμβάνω katalambano V-AAI-3S,"to lay hold of" with the mind, to understand, perceive, e.g., metaphorically, of darkness with regard to light*
 
 **The Witness John** *John’s Witness: The True Light (NKJV)*
 
 > *6There came a man sent from God, whose name was John. 7He came as a witness, to testify about the Light, so that all might believe through him. 8He was not the Light, but he came to testify about the Light.*
->
+
+> **Strong's**
+> - vs.6 There came - *G1096 γίνομαι ginomai, V-AMI-3S, "to become," is sometimes translated by the Passive Voice of the verb "to make"*
+> - a man - *G444 ἄνθρωπος anthropos, N-NSM, generally, of "a human being, male or female," without reference to sex or nationality*
+
 > *9There was the true Light which, coming into the world, enlightens every man. 10He was in the world, and the world was made through Him, and the world did not know Him. 11He came to His own, and those who were His own did not receive Him. 12But as many as received Him, to them He gave the right to become children of God, even to those who believe in His name, 13who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.*
 
 
