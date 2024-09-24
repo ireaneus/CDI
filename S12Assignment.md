@@ -16,14 +16,21 @@ anything of note.
 - 3: PERSON indicates the subject of the verb. Third person is the he/she/it/they perspective.
 - I: Imperfect Generally represents continual or repeated action. Where the present tense might indicate "they are asking," the imperfect would indicate "they kept on asking."
 - I: Indictative Is a simple statement of fact. If an action really occurs or has occurred or will occur, it will be rendered in the indicative mood.
+- A: Adjective is a word, phrase, or clause that describes another noun or pronoun and an adjective must agree with its noun or pronoun in GENDER, NUMBER, and CASE.
 - A: Active Represents the subject as the doer or performer of the action.
+- A: Aorist There is no direct or clear English equivalent for this tense, though it is generally rendered as a simple past tense in most translations.
 - A: Accusative The accusative case refers to the case used for a noun or pronoun that is a direct object.
+- G: Genitive The genitive case refers to the case used for a noun, pronoun, or adjective to show description.
 - N: Noun A word denoting anything that can be named, usually an object, person, place, idea, or action.
 - N: Nominative The nominative case refers to the case used for a noun or pronoun when it is the subject of a verb.
+- N: Neuter The gender that includes most words or grammatical forms referring to things classed as neither masculine nor feminine.
+- M: Middle voice Denotes that the subject is both an agent of an action and somehow concerned with the action.
+- D: Demonstrative pronoun Words, such as this and that, used to indicate which entities are being referred to and to distinguish those entities from others.
 - D: Dative The dative case shows the relationship of an indirect object to a verb, often found inside a prepositional phrase.
 - S: Sincular Denoting one person or thing.
 - F: Feminine Denoting a gender of nouns and adjectives, conventionally regarded as female.
 - M: Masculine Denoting a gender of nouns and adjectives, conventionally regarded as male.
+- P: Personal / Possessive Pronoun indicating possession, also known as absolute possessives.
 - T: Difinite Article A definite article indicates specificity. Greek has only one article, which has 24 forms. The Greek article is definite, and it is often (but not always) translated "the". It functions very differently from the English "the".
 - V: Verb A word or phrase denoting an action. In the Greek language, the verb usually communicates FIVE pieces of information: PERSON, NUMBER, TENSE, MOOD, and VOICE
 - CONJ: Conjuncture A word or phrase that links words, phrases, clauses, or sentences.
@@ -36,12 +43,19 @@ anything of note.
 > *1In the beginning was the Word, and the Word was with God, and the Word was God. 2He was in the beginning with God. 3All things came into being through Him, and apart from Him nothing came into being that has come into being. 4In Him was life, and the life was the Light of men. 5The Light shines in the darkness, and the darkness did not comprehend it.*
 >
 > **Strong's**:
-> - *the beginning - G746 ἀρχῇ (archē), N-DSF, used absolutely, of the beginning of all things*
+> - vs. 1 *the beginning - G746 ἀρχῇ (archē), N-DSF, used absolutely, of the beginning of all things*
 > - *was - G1510 εἰμί eimi, V-IAI-3S, I exist (used only when emphatic):—am, have been, × it is I, was.*
 > - *the - G3588 ὁ ho, T-NSM, the definite article; the (sometimes to be supplied, at others omitted, in English idiom)*
 > - *Word - G3506 λόγος logos, N-NSM, /lógos ("word") is preeminently used of Christ (Jn 1:1), expressing the thoughts of the Father through the Spirit.*
 > - *with - G4314 πρός pros, PREP, A strengthen form of pro; a preposition of direction; forward to*
 > - *God - G2316 θεός theos, N-ASM, theh'-os; of uncertain affinity; a deity, especially (with G3588) the supreme Divinity; figuratively, a magistrate; by Hebraism, very:—X exceeding, God, god(-ly, -ward).*
+> - vs. 2 (see vs.1) *He G3778 οὗτος houtos, D-NSM, :—he (it was that), hereof, it, she, such as, the same, these, they, this (man, same, woman), which, who.*
+> - vs. 3 *All things PHRASE G3956 πᾶς pas, A-NPN, radically means "all." Used without the article it means "every," every kind or variety. The neuter plural without the article*
+> - *came into being PHRASE G1096 γίνομαι ginomai, V-AMI-3S, "to become," is sometimes translated by the Passive Voice of the verb to make*
+> - *Him G846 αὐτός autos,P-GSM, he himself and no other," emphatic, e.g., Mat 1:21, where the RV brings out the emphasis by the rendering "it is He;*
+> - vs. 4 *life G2222 ζωή zoe, N-NSM, (Eng., "zoo," "zoology") is used in the NT "of life as a principle, life in the absolute sense, life as God has it, that which the Father has in Himself, and which He gave to the Incarnate Son to have in Himself,*
+> - *Light G5457 φῶς phos, N-NSM,"to give light" (from roots pha--, and phan--, expressing "light as seen by the eye," and, metaphorically, as "reaching the mind," whence phaino, "to make to appear," phaneros, "evident,"*
+> - *of men G444 ἄνθρωπος anthropos,N-GPM, anth'-ro-pos; from G435 and ὤψ ṓps (the countenance; from G3700); man-faced, i.e. a human being:—certain, man.*
 
 **The Witness John** *John’s Witness: The True Light (NKJV)*
 
