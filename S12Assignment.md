@@ -71,10 +71,12 @@ anything of note.
 > - was John - *G2491 Ἰωάννης ioannes N-NSM,"Jehovah is a gracious giver"*
 > - vs.7 a witness - *G3141 μαρτυρία martyria,N-ASF,"testimony, a bearing witness," is translated "witness"*
 > - testify - *G3140 μαρτυρέω martyreo,V-AAS-3S,of prophets and apostles, to the righteousness of God to Christ*
-> - might believe - *G4100 πιστεύω pisteuo, V-AAS-3P, to have faith (in, upon, or with respect to, a person or thing),
+> - might believe - *G4100 πιστεύω pisteuo, V-AAS-3P, to have faith (in, upon, or with respect to, a person or thing),*
 
 > *9There was the true Light which, coming into the world, enlightens every man. 10He was in the world, and the world was made through Him, and the world did not know Him. 11He came to His own, and those who were His own did not receive Him. 12But as many as received Him, to them He gave the right to become children of God, even to those who believe in His name, 13who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.*
 
+> **Strong's**
+> - vs.9 enlightens - *G5461 photizo,Verb - Present Active Indicative - 3rd Person Singular,to shed rays, i.e. to shine or (transitively) to brighten up (literally or figuratively):—enlighten, illuminate, (bring to, give) light, make to see.
 
 
 **The Word Made Flesh** *The Word Becomes Flesh (NKJV)*
