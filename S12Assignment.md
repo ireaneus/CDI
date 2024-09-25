@@ -76,7 +76,10 @@ anything of note.
 > *9There was the true Light which, coming into the world, enlightens every man. 10He was in the world, and the world was made through Him, and the world did not know Him. 11He came to His own, and those who were His own did not receive Him. 12But as many as received Him, to them He gave the right to become children of God, even to those who believe in His name, 13who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.*
 
 > **Strong's**
-> - vs.9 enlightens - *G5461 photizo,Verb - Present Active Indicative - 3rd Person Singular,to shed rays, i.e. to shine or (transitively) to brighten up (literally or figuratively):—enlighten, illuminate, (bring to, give) light, make to see.
+> - vs.9 enlightens - *G5461 photizo,Verb - Present Active Indicative - 3rd Person Singular,to shed rays, i.e. to shine or (transitively) to brighten up (literally or figuratively):—enlighten, illuminate, (bring to, give) light, make to see.*
+> - vs.10 world - *G2889 κόσμος kosmos,N-DSM,primarily "order, arrangement, ornament, adornment", is used to denoteby metonymy, the "human race, mankind,"*
+> - through - *G1223 διά dia,PREP,lit., "on account of this, for this cause," signifying the ground or reason*
+> - know - *G1097 ginosko,Verb - Aorist Active Indicative - 3rd Person Singular,signifies "to be taking in knowledge, to come to know, recognize, understand," or "to understand completely,"
 
 
 **The Word Made Flesh** *The Word Becomes Flesh (NKJV)*
