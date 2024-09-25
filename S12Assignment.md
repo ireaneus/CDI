@@ -125,16 +125,32 @@ anything of note.
 > - Moses - *G3475 Μωϋσῆς moyses, N-GSM, "drawing out"*
 > - Jesus - *G2424 Ἰησοῦς iesous, N-GSM, is a transliteration of the Heb. "Joshua," meaning "Jehovah is salvation," i.e., "is the Savior," "a common name among the Jews,
 > - Christ - *G5547 Χριστός christos, N-GSM, anointed It is added, as an appellative (`Messiah', 'anointed'), to the proper name is a proper name (as respects the use of a large or a small initial letter the critical editions vary: Tdf. seems to use the capital initial in all cases; Treg. is inconsistent (using a small letter, for instance, in all the a capital in Mark 1:1 a small letter, etc.); WH have adopted the principle of using a capital when the article is absent and avoiding it when the article is present*
-> - vs.18 No one - *G3762 οὐδείς oudeis, N-ASM, absolutely and not one, no one, none, no*
-> - 
+> - vs.18 No one PHRASE - *G3762 οὐδείς oudeis, N-ASM, absolutely and not one, no one, none, no*
+> - has seen PHRASE - *G3708 ὁράω horao, V-PAI-3S, to see with the mind, to perceive, know: absolutely in an emphatic sense, of Christ, who has an immediate and perfect knowledge of God without being taught by another, John 1:18; John 6:46; ὄψεσθαί Θεόν καθώς ἐστιν, of the knowledge of God that may be looked for in his future kingdom*
+> - at any time - *G4455 πώποτε popote, ADV, adverb, ever, at any time*
+> - the only begotten - See G3439, Adjective - Nominative Singular Masculine
+> - bosom - *G2859 κόλπος kolpos, N-ASM, the front of the body between the arms lying (turned) unto the bosom of his father (God), i. e. in the closest and most intimate relation to the Father*
+> - He has explained PHRASE - *G1834 ἐξηγέομαι exegeomai, V-AMI-3S,in the sentence the other meaning of the verb is in view, to unfold in teaching, "to declare" by making known.*
+> - [Him] - *G1565 ἐκεῖνος ekeinos, D-NSM, used absolutely referring to a noun immediately preceding equivalent to the forcibly uttered German der (that one etc.), in which sense it serves to recall and lay stress upon nouns just before used (cf. our resumptive the same;*
+
 
 
 
 **The Testimony of John** *A Voice in the Wilderness (NKJV)*
 
-> *19This is the testimony of John, when the Jews sent to him priests and Levites from Jerusalem to ask him, “Who are you?” 20And he confessed and did not deny, but confessed, “I am not the Christ.” 21They asked him, “What then? Are you Elijah?” And he said, “I am not.” “Are you the Prophet?” And he answered, “No.” 22Then they said to him, “Who are you, so that we may give an answer to those who sent us? What do you say about yourself?” 23He said, “I am A VOICE OF ONE CRYING IN THE WILDERNESS, ‘MAKE STRAIGHT THE WAY OF THE LORD,’ as Isaiah the prophet said.”*
->
-> *24Now they had been sent from the Pharisees. 25They asked him, and said to him, “Why then are you baptizing, if you are not the Christ, nor Elijah, nor the Prophet?” 26John answered them saying, “I baptize in water, but among you stands One whom you do not know. 27“It is He who comes after me, the thong of whose sandal I am not worthy to untie.” 28These things took place in Bethany beyond the Jordan, where John was baptizing.*
+*19This is the testimony of John, when the Jews sent to him priests and Levites from Jerusalem to ask him, “Who are you?” 20And he confessed and did not deny, but confessed, “I am not the Christ.” 21They asked him, “What then? Are you Elijah?” And he said, “I am not.” “Are you the Prophet?” And he answered, “No.” 22Then they said to him, “Who are you, so that we may give an answer to those who sent us? What do you say about yourself?” 23He said, “I am A VOICE OF ONE CRYING IN THE WILDERNESS, ‘MAKE STRAIGHT THE WAY OF THE LORD,’ as Isaiah the prophet said.”*
+
+> **Strong's**
+> - vs.19 testamony - *G3141 μαρτυρία martyria, N-NSF, what one testifies, testimony: universally in a predominantly dogmatic sense respecting matters relating to the truth of Christianity: of the testimony establishing the Messiahship and the divinity of Jesus (see μαρτυρέω, a.), given by — John the Baptist:*
+> - of John - *G2491 Ἰωάννης ioannes, N-GSM, "Jehovah is a gracious giver"*
+> - jews - *G2453 Ἰουδαῖος ioudaios, A-NMP, without a noun, substantively, Jewish as respects birth, race, religion; a Jew: The apostle John, inasmuch as agreeably to the state of things in his day he looked upon the Jews as a body of men hostile to Christianity, with whom he had come to see that both he and all true Christians had nothing in common as respects religious matters, even in his record of the life of Jesus not only himself makes a distinction between the Jews and Jesus, but ascribes to Jesus and his apostles language in which they distinguish themselves from the Jews, as though the latter sprang from an alien race: John 11:8; John 13:33. And those who (not only at Jerusalem, but also in Galilee, cf. John 6:41, 52) opposed his divine Master and his Master's cause — especially the rulers, priests, members of the Sanhedrin, Pharisees — he does not hesitate to style οἱ Ἰουδαῖοι, since the hatred of these leaders exhibits the hatred of the whole nation toward Jesus:*
+> - priests - *G2409 ἱερεύς hiereus, N-APM, Hebrew כֹּהֵן, a priest; one who offers sacrifices and in general is busied with sacred rites;of the priests of the Jews*
+> - Levites - *G3019 Λευίτης leuites, N-APM, in a norrower sense those were called Levites (Hebrew לֵוִי בְּנֵי, לְוִיִּים) who, not being of the race of Aaron for whom alone the priesthood was reserved, served as assistants of the priests. It was their duty to keep the sacred utensils and the temple clean, to provide the sacred loaves, to open and shut the gates of the temple, to sing sacred hymns in the temple, and do many other things*
+> - Jerusalem - *G2414 Ἱεροσόλυμα hierosolyma, N-GPM, the capital of Palestine, situated nearly in the center of the country, on the confines of the tribes of Benjamin and Judah, in a region so elevated that ἀναβαίνειν, עָלָה, to go up, fitly describes the approach to it from any quarter. The name is used in the N. T.*
+> - 
+
+
+*24Now they had been sent from the Pharisees. 25They asked him, and said to him, “Why then are you baptizing, if you are not the Christ, nor Elijah, nor the Prophet?” 26John answered them saying, “I baptize in water, but among you stands One whom you do not know. 27“It is He who comes after me, the thong of whose sandal I am not worthy to untie.” 28These things took place in Bethany beyond the Jordan, where John was baptizing.*
 
 *The Lamb of God (NKJV)*
 > *29The next day he saw Jesus coming to him and said, “Behold, the Lamb of God who takes away the sin of the world! 30“This is He on behalf of whom I said, ‘After me comes a Man who has a higher rank than I, for He existed before me.’ 31“I did not recognize Him, but so that He might be manifested to Israel, I came baptizing in water.” 32John testified saying, “I have seen the Spirit descending as a dove out of heaven, and He remained upon Him. 33“I did not recognize Him, but He who sent me to baptize in water said to me, ‘He upon whom you see the Spirit descending and remaining upon Him, this is the One who baptizes in the Holy Spirit.’ 34“I myself have seen, and have testified that this is the Son of God.”*
