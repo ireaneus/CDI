@@ -40,7 +40,7 @@ anything of note.
 ## John 1:1 - 2:2 NASB1995
 **The Deity of Jesus Christ** *The Eternal Word (NKJV)*
 
-> *1In the beginning was the Word, and the Word was with God, and the Word was God. 2He was in the beginning with God. 3All things came into being through Him, and apart from Him nothing came into being that has come into being. 4In Him was life, and the life was the Light of men. 5The Light shines in the darkness, and the darkness did not comprehend it.*
+*1In the beginning was the Word, and the Word was with God, and the Word was God. 2He was in the beginning with God. 3All things came into being through Him, and apart from Him nothing came into being that has come into being. 4In Him was life, and the life was the Light of men. 5The Light shines in the darkness, and the darkness did not comprehend it.*
 
 > **Strong's**:
 > - vs.1 the beginning - *G746 ἀρχῇ (archē), N-DSF, used absolutely, of the beginning of all things*
@@ -63,28 +63,70 @@ anything of note.
 
 **The Witness John** *John’s Witness: The True Light (NKJV)*
 
-> *6There came a man sent from God, whose name was John. 7He came as a witness, to testify about the Light, so that all might believe through him. 8He was not the Light, but he came to testify about the Light.*
+*6There came a man sent from God, whose name was John. 7He came as a witness, to testify about the Light, so that all might believe through him. 8He was not the Light, but he came to testify about the Light.*
 
 > **Strong's**
-> - vs.6 There came - *G1096 γίνομαι ginomai, V-AMI-3S, "to become," is sometimes translated by the Passive Voice of the verb "to make"*
+> - vs.6 There came PHRASE - See G1096 
 > - a man - *G444 ἄνθρωπος anthropos, N-NSM, generally, of "a human being, male or female," without reference to sex or nationality*
+> - sent - *G649 ἀποστέλλω apostello, Verb - Perfect Passive Participle - Nominative Singular Masculine, "to send on service, or with a commission."*
 > - was John - *G2491 Ἰωάννης ioannes N-NSM,"Jehovah is a gracious giver"*
 > - vs.7 a witness - *G3141 μαρτυρία martyria,N-ASF,"testimony, a bearing witness," is translated "witness"*
 > - testify - *G3140 μαρτυρέω martyreo,V-AAS-3S,of prophets and apostles, to the righteousness of God to Christ*
 > - might believe - *G4100 πιστεύω pisteuo, V-AAS-3P, to have faith (in, upon, or with respect to, a person or thing),*
 
-> *9There was the true Light which, coming into the world, enlightens every man. 10He was in the world, and the world was made through Him, and the world did not know Him. 11He came to His own, and those who were His own did not receive Him. 12But as many as received Him, to them He gave the right to become children of God, even to those who believe in His name, 13who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.*
+*9There was the true Light which, coming into the world, enlightens every man. 10He was in the world, and the world was made through Him, and the world did not know Him. 11He came to His own, and those who were His own did not receive Him. 12But as many as received Him, to them He gave the right to become children of God, even to those who believe in His name, 13who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.*
 
 > **Strong's**
 > - vs.9 enlightens - *G5461 photizo,Verb - Present Active Indicative - 3rd Person Singular,to shed rays, i.e. to shine or (transitively) to brighten up (literally or figuratively):—enlighten, illuminate, (bring to, give) light, make to see.*
 > - vs.10 world - *G2889 κόσμος kosmos,N-DSM,primarily "order, arrangement, ornament, adornment", is used to denoteby metonymy, the "human race, mankind,"*
 > - through - *G1223 διά dia,PREP,lit., "on account of this, for this cause," signifying the ground or reason*
-> - know - *G1097 ginosko,Verb - Aorist Active Indicative - 3rd Person Singular,signifies "to be taking in knowledge, to come to know, recognize, understand," or "to understand completely,"
+> - know - *G1097 ginosko,V-AAI-3S,signifies "to be taking in knowledge, to come to know, recognize, understand," or "to understand completely,"*
+> - was made - See G1096
+> - did not - See 3756
+> - vs.11 He came - *G2064 ἔρχομαι erchomai, V-AAI-3P, the most frequent verb, denoting either "to come, or to go," signifies the act, i*
+> - His own - *G2398 ἴδιος idios, A-APN,of uncertain affinity; pertaining to self, i.e. one's own; by implication, private or separate*
+> - those - See G3588 - T-NPM
+> - receive - *G3880 παραλαμβάνω paralambano, V-AAI-3P,"to receive from another" (para, "from beside"), or "to take," signifies "to receive," e.g., in*
+> - vs.12 But as many - *G3745 hosos,Relative P-NPM, as (much, great, long, etc.) as:—all (that), as (long, many, much) (as), how great (many, much), (in-)asmuch as, so many as, that (ever), the more, those things, what (great, -soever), wheresoever, wherewithsoever, which, × while, who(-soever).*
+> - Him - See G846, P-ASM
+> - to them PHRASE - See G846, P-DPM Personal / Possessive Pronoun - Dative Plural Masculine
+> - He gave PHRASE- *G1325 δίδωμι didomi, V-AAI-3S,the act or effect of him who gives, in such a sense that what he is said διδόναι (either absolutely or with the dative of person) he is conceived of as effecting, or as becoming its author*
+> - the right PHRASE - *G1849 exousia, N-ASF,"authority, power," is translated "right" in the RV, for AV, "power,"*
+> - to become PHRASE - See G1096, V-AMI
+> - children - *G5043 τέκνον teknon, N-APM, it gives prominence to the fact of birth, whereas huios stresses the dignity and character of the relationship. Figuratively, teknon is used of "children" of God*
+> - of God - See G2316, N-GSM
+> - [even] to those who PHRASE - See G3588, Definite article - Dative Plural Masculine
+> - believe - G4100 πιστεύω pisteuo, Verb - Present Active Participle - Dative Plural Masculine, "to believe," also "to be persuaded of," and hence, "to place confidence in, to trust," signifies, in this sense of the word, reliance upon, not mere credence. It is most frequent in the writings of the Apostle John, especially the Gospel. He does not use the noun*
+> - name - *G3686 ὄνομα onoma, N-ASN, for all that a "name" implies, of authority, character, rank, majesty, power, excellence, etc., of everything that the "name" covers: of Christ*
+> - vs.13 who were born PHRASE - *G1080 γεννάω gennao, V-API-3P, the gracious act of God in conferring upon those who believe the nature and disposition of "children," imparting to them spiritual life,*
+> - blood - *G129 αἷμα haima, N-GPN, for human generation
+> - the will PHRASE - *G2307 θέλημα thelema, N-GSN, subjectively, the "will" being spoken of as the emotion of being desirous, rather than as the thing "willed;" of the "will" of God, of human will*
+> - of the flesh PHRASE - *G4561 σάρξ sarx, N-GSF, by synecdoche, of "mankind," in the totality of all that is essential to manhood, i.e., spirit, soul, and body,*
+> - of man PHRASE - *G435 ἀνήρ aner, N-GSM,*
+
 
 
 **The Word Made Flesh** *The Word Becomes Flesh (NKJV)*
 
-> *14And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth. 15John testified about Him and cried out, saying, “This was He of whom I said, ‘He who comes after me has a higher rank than I, for He existed before me.’” 16For of His fullness we have all received, and grace upon grace. 17For the Law was given through Moses; grace and truth were realized through Jesus Christ. 18No one has seen God at any time; the only begotten God who is in the bosom of the Father, He has explained Him.*
+*14And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth. 15John testified about Him and cried out, saying, “This was He of whom I said, ‘He who comes after me has a higher rank than I, for He existed before me.’” 16For of His fullness we have all received, and grace upon grace. 17For the Law was given through Moses; grace and truth were realized through Jesus Christ. 18No one has seen God at any time; the only begotten God who is in the bosom of the Father, He has explained Him.*
+
+> **Strong's**
+> - vs.14 Word - See G3506
+> - flesh - See G4561
+> - dwelt - *G4637 σκηνόω skenoo, V-AAI-3S, "to pitch a tent" (skene), "to tabernacle," is translated "dwelt," in*
+> - we saw - *G2300 θεάομαι theaomai, V-AMI-1P,"we beheld," of the glory of the Son of God;*
+> - glory - *G1391 δόξα doxa, N-ASF, of the nature and acts of God in self-manifestation, i.e., what He essentially is and does, as exhibited in whatever way he reveals Himself in these respects, and particularly in the person of Christ, in whom essentially His "glory" has ever shone forth and ever will do, it was exhibited in the character and acts of Christ in the days of His flesh,*
+> - of the begotten PHRASE - *G3439 μονογενής monogenes, A-GSM, With reference to Christ, the phrase "the only begotten from the Father," Jhn 1:14, RV (see also the marg.), indicates that as the Son of God He was the sole representative of the Being and character of the One who sent Him. In the original the definite article is omitted both before "only begotten" and before "Father," and its absence in each case serves to lay stress upon the characteristics referred to in the terms used. The Apostle's object is to demonstrate what sort of glory it was that he and his fellow Apostles had seen. That he is not merely making a comparison with earthly relationships is indicated by para, "from." The glory was that of a unique relationship and the word "begotten" does not imply a beginning of His Sonship. It suggests relationship indeed, but must be distinguished from generation as applied to man.*
+> - the Father - *G3962 πατήρ pater, N-GSM, of God in relation to those who have been born anew (Jhn 1:12, 13), and so are believers*
+> - grace - *G5485 χάρις charis, N-GSF, is used of "the merciful kindness by which God, exerting his holy influence upon souls, turns them to Christ, keeps, strengthens, increases them in Christian faith, knowledge, affection, and kindles them to the exercise of the Christian virtues"*
+> - truth - *G225 ἀλήθεια aletheia, N-GSF, In reference to religion, the word denotes what is true in things appertaining to God and the duties of man, ('moral and religious truth'); and that the truth, as taught in the Christian religion, respecting God and the execution of his purposes through Christ, and respecting the duties of man, opposed alike to the superstitions of the Gentiles and the inventions of the Jews, and to the corrupt opinions and precepts of false teachers even among Christians: in faith and truth, of which I became a partaker through faith)*
+> - vs.16 grace upon grace
+> - vs.17 Law - *G3551 νόμος nomos, N-NSM, of the Mosaic law, and referring, according to the context, either to the volume of the law or to its contents: with the article*
+> - Moses - *G3475 Μωϋσῆς moyses, N-GSM, "drawing out"*
+> - Jesus - *G2424 Ἰησοῦς iesous, N-GSM, is a transliteration of the Heb. "Joshua," meaning "Jehovah is salvation," i.e., "is the Savior," "a common name among the Jews,
+> - Christ - *G5547 Χριστός christos, N-GSM, anointed It is added, as an appellative (`Messiah', 'anointed'), to the proper name is a proper name (as respects the use of a large or a small initial letter the critical editions vary: Tdf. seems to use the capital initial in all cases; Treg. is inconsistent (using a small letter, for instance, in all the a capital in Mark 1:1 a small letter, etc.); WH have adopted the principle of using a capital when the article is absent and avoiding it when the article is present*
+> - vs.18 No one - *G3762 οὐδείς oudeis, N-ASM, absolutely and not one, no one, none, no*
+> - 
 
 
 
