@@ -1,7 +1,9 @@
-#S13 Assignment
+# S13 Assignment
+
 Perform a circumstantial study on 1 John to include Ephesians.
 This includes the writer's residence and Ephesians (the writer's home church) also secular
 events on the timeline.
+
 Answer the 12 internal questions.
 1. Who is speaking?
 2. Who is being spoken to?
@@ -15,6 +17,11 @@ Answer the 12 internal questions.
 10.Are there any significant numbers?
 11.Are there any repeated: Phrases, Words or Themes?
 12. How is the speaker speaking: plainly or figures of speech?
+
+## Resources for the EXTERNAL Questions:
+**Bible:** Ephesians, 1 & 2 Timothy, Acts 19 & 20:16-38
+**Bible Dictionaries:** Hard copy (Unger's) or digital/online
+**Internet Searches:** Setting of 1 John - bible.org
 
 Answer the 6 external questions
 1. What was the Geographical situation?
