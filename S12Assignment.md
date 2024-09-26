@@ -165,20 +165,36 @@ anything of note.
 *29The next day he saw Jesus coming to him and said, “Behold, the Lamb of God who takes away the sin of the world! 30“This is He on behalf of whom I said, ‘After me comes a Man who has a higher rank than I, for He existed before me.’ 31“I did not recognize Him, but so that He might be manifested to Israel, I came baptizing in water.” 32John testified saying, “I have seen the Spirit descending as a dove out of heaven, and He remained upon Him. 33“I did not recognize Him, but He who sent me to baptize in water said to me, ‘He upon whom you see the Spirit descending and remaining upon Him, this is the One who baptizes in the Holy Spirit.’ 34“I myself have seen, and have testified that this is the Son of God.”*
 
 > **Strong's**
-> 29 Lamb - *G286 ἀμνός amnos, N-NSM,Christ is likened to a sacrificial lamb on account of his death, innocently and patiently endured, to expiate sin.*
-> sin - *G266 ἁμαρτία hamartia, N-ASF,  a bad action, evil deed. collectively, the complex or aggregate of sins committed either by a single person or by many*
-> world - *See G2889 κόσμος kosmos, N-GSM, the ungodly multitude; the whole mass of men alienated from God, and therefore hostile to the cause of Christ*
-> vs.31 He might be manifested PHRASE - *G5319 φανερόω phaneroo, Verb - Aorist Passive Subjunctive - 3rd Person Singular, to make manifest or visible or known what has been hidden or unknown, to manifest, whether by words, or deeds, or in any other way; Passive, to become known, to be plainly recognized, thoroughly understood: who and what one is, τίνι, John 1:31; what sort of person one is,*
-> vs.32 I have seen - *See G2300 theaomai, Verb - Perfect Middle Indicative - 1st Person Singular*
+
+> - vs.29 Lamb - *G286 ἀμνός amnos, N-NSM,Christ is likened to a sacrificial lamb on account of his death, innocently and patiently endured, to expiate sin.*
+> - sin - *G266 ἁμαρτία hamartia, N-ASF,  a bad action, evil deed. collectively, the complex or aggregate of sins committed either by a single person or by many*
+> - world - *See G2889 κόσμος kosmos, N-GSM, the ungodly multitude; the whole mass of men alienated from God, and therefore hostile to the cause of Christ*
+> - vs.31 He might be manifested PHRASE - *G5319 φανερόω phaneroo, Verb - Aorist Passive Subjunctive - 3rd Person Singular, to make manifest or visible or known what has been hidden or unknown, to manifest, whether by words, or deeds, or in any other way; Passive, to become known, to be plainly recognized, thoroughly understood: who and what one is, τίνι, John 1:31; what sort of person one is,*
+> - vs.32 I have seen - *See G2300 theaomai, Verb - Perfect Middle Indicative - 1st Person Singular*
+> - Spirit - *G4151 πνεῦμα pneuma, N-ASM, the Holy Spirit in both passages is since the same Spirit in a peculiar manner dwelt in Jesus*
+> - a dove - *G4058 περιστερά peristera, N-ASF, of uncertain derivation; a pigeon:—dove, pigeon.*
+> - heaven - *G3772 οὐρανός ouranos, N-ASF, These heavens are opened by being cleft asunder, and from the upper heavens, or abode of heavenly beings, come down upon earth — now the Holy Spirit*
+> - the Holy - *G40 ἅγιος hagios, A-DSN, sacred (physically, pure, morally blameless or religious, ceremonially, consecrated):—(most) holy (one, thing), saint.*
 
 
 
 **Jesus’ Public Ministry, First Converts** *The First Disciples (NKJV)*
 
-> *35Again the next day John was standing with two of his disciples, 36and he looked at Jesus as He walked, and said, “Behold, the Lamb of God!” 37The two disciples heard him speak, and they followed Jesus. 38And Jesus turned and saw them following, and said to them, “What do you seek?” They said to Him, “Rabbi (which translated means Teacher), where are You staying?” 39He said to them, “Come, and you will see.” So they came and saw where He was staying; and they stayed with Him that day, for it was about the tenth hour. 40One of the two who heard John speak and followed Him, was Andrew, Simon Peter’s brother. 41He found first his own brother Simon and said to him, “We have found the Messiah” (which translated means Christ). 42He brought him to Jesus. Jesus looked at him and said, “You are Simon the son of John; you shall be called Cephas” (which is translated Peter).*
+*35Again the next day John was standing with two of his disciples, 36and he looked at Jesus as He walked, and said, “Behold, the Lamb of God!” 37The two disciples heard him speak, and they followed Jesus. 38And Jesus turned and saw them following, and said to them, “What do you seek?” They said to Him, “Rabbi (which translated means Teacher), where are You staying?” 39He said to them, “Come, and you will see.” So they came and saw where He was staying; and they stayed with Him that day, for it was about the tenth hour. 40One of the two who heard John speak and followed Him, was Andrew, Simon Peter’s brother. 41He found first his own brother Simon and said to him, “We have found the Messiah” (which translated means Christ). 42He brought him to Jesus. Jesus looked at him and said, “You are Simon the son of John; you shall be called Cephas” (which is translated Peter).*
+
+> **Strong's**
+> - vs.38 do you seek PHRASE - *G2212 ζητέω zeteo, Verb - Present Active Indicative - 2nd Person Plural, to seek in order to find;  universally and absolutelywhat dost thou seek? what dost thou wish?*
+> - vs.41 The Messiah PHRASE - G3323 Μεσσίας messias, N-ASM, anointed; usually a consecrated person (as a king, priest, or saint); specifically, the Messiah:—anointed, Messiah.*
 
 *Philip and Nathanael(NKJV)*
-> *43The next day He purposed to go into Galilee, and He found Philip. And Jesus said to him, “Follow Me.” 44Now Philip was from Bethsaida, of the city of Andrew and Peter. 45Philip found Nathanael and said to him, “We have found Him of whom Moses in the Law and also the Prophets wrote—Jesus of Nazareth, the son of Joseph.” 46Nathanael said to him, “Can any good thing come out of Nazareth?” Philip said to him, “Come and see.” 47Jesus saw Nathanael coming to Him, and said of him, “Behold, an Israelite indeed, in whom there is no deceit!” 48Nathanael said to Him, “How do You know me?” Jesus answered and said to him, “Before Philip called you, when you were under the fig tree, I saw you.” 49Nathanael answered Him, “Rabbi, You are the Son of God; You are the King of Israel.” 50Jesus answered and said to him, “Because I said to you that I saw you under the fig tree, do you believe? You will see greater things than these.” 51And He said to him, “Truly, truly, I say to you, you will see the heavens opened and the angels of God ascending and descending on the Son of Man.”*
+
+*43The next day He purposed to go into Galilee, and He found Philip. And Jesus said to him, “Follow Me.” 44Now Philip was from Bethsaida, of the city of Andrew and Peter. 45Philip found Nathanael and said to him, “We have found Him of whom Moses in the Law and also the Prophets wrote—Jesus of Nazareth, the son of Joseph.” 46Nathanael said to him, “Can any good thing come out of Nazareth?” Philip said to him, “Come and see.” 47Jesus saw Nathanael coming to Him, and said of him, “Behold, an Israelite indeed, in whom there is no deceit!” 48Nathanael said to Him, “How do You know me?” Jesus answered and said to him, “Before Philip called you, when you were under the fig tree, I saw you.” 49Nathanael answered Him, “Rabbi, You are the Son of God; You are the King of Israel.” 50Jesus answered and said to him, “Because I said to you that I saw you under the fig tree, do you believe? You will see greater things than these.” 51And He said to him, “Truly, truly, I say to you, you will see the heavens opened and the angels of God ascending and descending on the Son of Man.”*
+
+> **Strong's**
+> - vs.43 Follow - *G190 ἀκολουθέω akoloutheo,Verb - Present Active Imperative - 2nd Person Singular, to follow one who precedes, join him as his attendant, accompany him*
+> - vs.46 out of Nazereth - *G3478 Ναζαρά nazara, N-GSF As respects the Hebrew form of the name, it is disputed whether it was נֵצֶר 'a sprout', 'shoot' (so, besides others*
+> - an Israelite PHRASE - *G2475 Ἰσραηλίτης israelites, N-GSM, one of the race of Israel, a name held in honor*
+> - deceit - *G1388 dolos, N-NSM, a lure, snare; hence, craft, deceit, guile
 
 **Miracle at Cana** *Water Turned to Wine (NKJV)*
 
