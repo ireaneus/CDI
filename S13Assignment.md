@@ -32,3 +32,36 @@
 > - "joy" G5479 χαρά chara joy, gladness;
 > - "made complete" G4137 pleroo Verb - Perfect Passive Participle - Nominative Singular Feminine, *to make complete in every particular; to render perfect:*
 
+### God is Light
+**1 John 1:5-10**
+
+*5This is the message we have heard from Him and announce to you, that God is Light, and in Him there is no darkness at all. 6If we say that we have fellowship with Him and yet walk in the darkness, we lie and do not practice the truth; 7but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin. 8If we say that we have no sin, we are deceiving ourselves and the truth is not in us. 9If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness. 10If we say that we have not sinned, we make Him a liar and His word is not in us.*
+
+**Strong's**
+> **vs.5**
+> - "message" G31 angelia, N-NSF, *akin to angello, "to bring a message, proclaim," denotes a "message, proclamation, news," 1Jo 1:5 [some mss. have epangelia: see Note 1)]; 1Jo 3:11, where the word is more precisely defined (by being followed by the conjunction "that," expressing the purpose that we should love one another) as being virtually equivalent to an order.*
+> - "we have heard" G191 akouo, Verb - Perfect Active Indicative - 1st Person Plural, *to get by hearinq, learn (from the mouth of the teacher or narrator)*
+> - "announce" 📣 G312 anangello, Verb - Present Active Indicative - 1st Person Plural, *to report, bring back tidings, rehearse, used as in Greek writers*
+>
+> **vs.6**
+> - "[yet] walk" G4043 peripateo, Verb - Present Active Subjunctive - 1st Person Plural, *to tread all around, i.e. walk at large (especially as proof of ability); figuratively, to live, deport oneself, follow (as a companion or votary):—go, be occupied with, walk (about).*
+> - "we lie" G5574 pseudomai, Verb - Present Middle Indicative - 1st Person Plural, *to lie, to speak deliberate falsehoods, to utter an untruth or attempt to deceive by falsehood:—falsely, lie.*
+
+### Christ Is Our Advocate
+**1 John 2:1-2**
+
+*1My little children, I am writing these things to you so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous; 2and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world.*
+
+**Strong's**
+> **vs.1**
+> - "an Advocate" G3875 parakletos, N-ASM, *summoned, called to one's side, especially called to one's aid; hence, universally, one who pleads another's cause with one, an intercessor*
+> - "the righteous" G1342 dikaios, A-ASF, *1. in a wide sense, upright, righteous, virtuous, keeping the commands of God;*
+> *c. preeminently, of him whose way of thinking, feeling, and acting is wholly conformed to the will of God, and who therefore needs no rectification in heart or life; in this sense Christ alone can be called*
+>
+> **vs.2**
+> - "He Himself" G846 autos, *2. When it gives Prominence, it answers*
+> *a. to our emphatic he, she, it*
+>
+> - "the Propitiation" G2434 hilasmos, *usage the means of appeasing, a propitiation*
+> - "whole" G3650 holos, *a primary word; "whole" or "all", i.e. complete (in extent, amount, time or degree), especially (neuter) as noun or adverb:—all, altogether, every whit, + throughout, whole.*
+> - "world" G2889 kosmos, *5. the inhabitants of the world: θέατρον ἐγενήθημεν τῷ κόσμῳ καί ἀγγέλοις καί ἀνθρώποις, 1 Corinthians 4:9 (Winers Grammar, 127 (121)); particularly the inhabitants of the earth, men, the human race*
