@@ -147,13 +147,29 @@ anything of note.
 > - priests - *G2409 ἱερεύς hiereus, N-APM, Hebrew כֹּהֵן, a priest; one who offers sacrifices and in general is busied with sacred rites;of the priests of the Jews*
 > - Levites - *G3019 Λευίτης leuites, N-APM, in a norrower sense those were called Levites (Hebrew לֵוִי בְּנֵי, לְוִיִּים) who, not being of the race of Aaron for whom alone the priesthood was reserved, served as assistants of the priests. It was their duty to keep the sacred utensils and the temple clean, to provide the sacred loaves, to open and shut the gates of the temple, to sing sacred hymns in the temple, and do many other things*
 > - Jerusalem - *G2414 Ἱεροσόλυμα hierosolyma, N-GPM, the capital of Palestine, situated nearly in the center of the country, on the confines of the tribes of Benjamin and Judah, in a region so elevated that ἀναβαίνειν, עָלָה, to go up, fitly describes the approach to it from any quarter. The name is used in the N. T.*
-> - 
+> - vs.20 he confessed - *G3670 ὁμολογέω homologeo, V-AAI-3S, not to deny, i. e. to confess; declare: joined with οὐκ ἀρνεῖσθαι, followed by direct discourse with recitative ὅτι*
+> - the Christ - *G5547 Χριστός christos, N-NSM, Anointed, of the Messiah, viewed in his generic aspects (the word, that is to say, being used as an appellative rather than a proper name)
+> - vs.22 Elijah - *G2243 Ἠλίας elias, N-NSM, Elijah, a prophet born at Thisbe [but see B. D. under the word, also under the word Tishbite], the unflinching champion of the theocracy in the reigns of the idolatrous kings Ahab and Ahaziah. He was taken up to heaven without dying, whence the Jews expected he would return just before the advent of the Messiah, whom he would prepare the minds of the Israelites to receive*
+> - the Prophet - *G4396 προφήτης prophetes, N-NSM, That illustrious prophet whom the Jews (apparently on the ground of Deuteronomy 18:15) expected to arise just before the Messiah's advent*
 
 
 *24Now they had been sent from the Pharisees. 25They asked him, and said to him, “Why then are you baptizing, if you are not the Christ, nor Elijah, nor the Prophet?” 26John answered them saying, “I baptize in water, but among you stands One whom you do not know. 27“It is He who comes after me, the thong of whose sandal I am not worthy to untie.” 28These things took place in Bethany beyond the Jordan, where John was baptizing.*
 
-*The Lamb of God (NKJV)*
-> *29The next day he saw Jesus coming to him and said, “Behold, the Lamb of God who takes away the sin of the world! 30“This is He on behalf of whom I said, ‘After me comes a Man who has a higher rank than I, for He existed before me.’ 31“I did not recognize Him, but so that He might be manifested to Israel, I came baptizing in water.” 32John testified saying, “I have seen the Spirit descending as a dove out of heaven, and He remained upon Him. 33“I did not recognize Him, but He who sent me to baptize in water said to me, ‘He upon whom you see the Spirit descending and remaining upon Him, this is the One who baptizes in the Holy Spirit.’ 34“I myself have seen, and have testified that this is the Son of God.”*
+> **Strong's**
+> - vs.25 baptize - *G907 βαπτίζω baptizo, V-PAI-1S, The word is used absolutely, to administer the rite of ablution, to baptize*
+> - vs.26 water - *G5204 ὕδωρ hydor, N-DSN, in all these passages the water of baptism is intended*
+> - One - *See G3739 ὅς hos, Relative Pronoun - Accusative Singular Masculine, probably a primary word (or perhaps a form of the article G3588); the relatively (sometimes demonstrative) pronoun, who, which, what, that:—one, (an-, the)*
+
+
+**The Lamb of God (NKJV)**
+*29The next day he saw Jesus coming to him and said, “Behold, the Lamb of God who takes away the sin of the world! 30“This is He on behalf of whom I said, ‘After me comes a Man who has a higher rank than I, for He existed before me.’ 31“I did not recognize Him, but so that He might be manifested to Israel, I came baptizing in water.” 32John testified saying, “I have seen the Spirit descending as a dove out of heaven, and He remained upon Him. 33“I did not recognize Him, but He who sent me to baptize in water said to me, ‘He upon whom you see the Spirit descending and remaining upon Him, this is the One who baptizes in the Holy Spirit.’ 34“I myself have seen, and have testified that this is the Son of God.”*
+
+> **Strong's**
+> 29 Lamb - *G286 ἀμνός amnos, N-NSM,Christ is likened to a sacrificial lamb on account of his death, innocently and patiently endured, to expiate sin.*
+> sin - *G266 ἁμαρτία hamartia, N-ASF,  a bad action, evil deed. collectively, the complex or aggregate of sins committed either by a single person or by many*
+> world - *See G2889 κόσμος kosmos, N-GSM, the ungodly multitude; the whole mass of men alienated from God, and therefore hostile to the cause of Christ*
+> vs.31 He might be manifested PHRASE - *G5319 φανερόω phaneroo, Verb - Aorist Passive Subjunctive - 3rd Person Singular, to make manifest or visible or known what has been hidden or unknown, to manifest, whether by words, or deeds, or in any other way; Passive, to become known, to be plainly recognized, thoroughly understood: who and what one is, τίνι, John 1:31; what sort of person one is,*
+> vs.32 I have seen - *See G2300 theaomai, Verb - Perfect Middle Indicative - 1st Person Singular*
 
 
 
