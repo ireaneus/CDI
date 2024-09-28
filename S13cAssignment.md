@@ -5,8 +5,12 @@ This includes the writer's residence and Ephesians (the writer's home church) al
 events on the timeline.
 
 Answer the 12 internal questions.
-1. Who is speaking?
+1. Who is speaking? 
+Disciple of Jesus, Apostle John [Luke 6:13].  The introduction provides the evidence that John, beloved of Jesus, wrote this letter and the 2 epistles, based solely on the introduction to the gospel of John [In the beginning], other evidence in 1 John, last supper John was leaning into Jesus bosom [touched].
+
 2. Who is being spoken to?
+Since there was no direct audience addressed in the letter, it is considered a general epistle and should be regarded to the church universal. However since he was a resident of Ephesus until he was exiled to Patmos.  The letter could be addressed to that church and all churches of that time.
+
 3. What is the occasion?
 4. What is the intent of the speaker?
 5. What is the response of those spoken to?
