@@ -9,3 +9,9 @@
 
 ### Plenary Inspiration
 **The whole of scripture is inspired both in substance and structure**
+
+### Exegesis 
+**what does it say**
+
+### Hermeneutics 
+**what does it mean**
