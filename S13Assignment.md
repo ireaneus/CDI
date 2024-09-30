@@ -11,6 +11,8 @@
 > - "[the] beginning" G746 N-GSF - 1. beginning, origin;
 > *a. used absolutely, of the beginning of all things*
 >
+> - "Word" G3056 logos, Noun, In several passages in the writings of John ὁ λόγος denotes the essential Word of God, i. e. the personal (hypostatic) wisdom and power in union with God, his minister in the creation and government of the universe, the cause of all the world's life both physical and ethical, which for the procurement of man's salvation put on human nature in the person of Jesus the Messiah and shone forth conspicuously from his words and deeds:
+> 
 > - "life" G2222 zōēs N-GSF - 2. used emphatically,
 > *a. "of the absolute fullness of life, both essential and ethical, which belongs to God, and through him both to the hypostatic λόγος and to Christ" in whom the λόγος put on human nature: ὥσπερ ὁ πατήρ ἔχει ζωήν ἐν ἑαυτῷ, οὕτως ἔδωκεν καί τῷ υἱῷ ζωήν ἔχειν ἐν ἑαυτῷ, John 5:26; ἐν αὐτῷ (namely, τῷ λόγῳ) ζωή ἦν καί ἡ ζωή ἦν τό φῶς τῶν ἀνθρώπων, in him life was (comprehended), and the life (transfused from the Logos into created natures) was the light (i. e. the intelligence) of men (because the life of men is self-conscious, and thus a fountain of intelligence springs up), John 1:4; ὁ λόγος τῆς ζωῆς, the Logos having life in itself and communicating it to others, 1 John 1:1; ἡ ζωή ἐφανερώθη, was manifested in Christ, clothed in flesh, 1 John 1:2. From this divine fountain of life flows forth that life which is next to be defined: viz.*
 
@@ -65,3 +67,26 @@
 > - "the Propitiation" G2434 hilasmos, *usage the means of appeasing, a propitiation*
 > - "whole" G3650 holos, *a primary word; "whole" or "all", i.e. complete (in extent, amount, time or degree), especially (neuter) as noun or adverb:—all, altogether, every whit, + throughout, whole.*
 > - "world" G2889 kosmos, *5. the inhabitants of the world: θέατρον ἐγενήθημεν τῷ κόσμῳ καί ἀγγέλοις καί ἀνθρώποις, 1 Corinthians 4:9 (Winers Grammar, 127 (121)); particularly the inhabitants of the earth, men, the human race*
+
+## The Word of Life
+**1 John 1:1-4**
+
+vs.1 *What existed from the beginning, what we have heard with our own ears, seen with our eyes, what we have looked at and touched with our hands, concerning the Word of Life [before there was time, the One who is Christ]--* vs.2 *and the life [In Him is all life], was made known to us, we have seen and testify and proclaim to you the eternal life found only in Him, which was with the Father and was made known to us--*
+vs.3 *what we have seen and heard we proclaim to you also, so that you too may have fellowship with us; indeed our fellowship is with the Father, and with His Son Jesus Christ [implied, through the Spirit].*
+vs.4 *These things we write, so that our joy may be made complete*
+
+## God is Light
+**1 John 1:5-10**
+
+vs.5 *This is the message we have heard from Him and proclaim to you, that God is Light, and in Him there is no darkness at all.*
+vs.6 *If we say that we have fellowship with Him and continue to walk in the darkness, we lie and do not practice the truth;*
+vs.7 *but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.*
+vs.8 *IF we say that we have no sin, we are deceiving ourselves and the truth is not in us.*
+vs.9 *If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness.*
+vs.10 *If we say that we have not sinned, we make Him a liar and His word is not in us.*
+
+## Christ is Our Advocate
+**1 John 2:1-2**
+
+vs.1 *My little children, I am writing thes things to you so that you will not sin. But if anyone does sin, we have an advocate before the Father--Jesus Christ, the Righteous and Holy One.*
+vs.2 *He Himself is the atoning sacrifiec for our sins, and not only for ours but also for the sins of the whole world.*
