@@ -1,11 +1,9 @@
 ## Personal Statement of Faith
 
 ### **God the Father**
-I believe that **God the Father** is the sovereign Creator and Sustainer of all things. He gave authority to Jesus Christ, His Son, to create the universe, and He directs the course of history according to His providential will. He chose me before the foundation of the world to be His child, redeemed through His grace.
+I believe that **God the Father** is the sovereign Creator and Sustainer of all things. He gave authority to Jesus Christ, His Son, to create the universe, and He directs the course of history according to His providential will.
 - **Scripture References**:
   - *John 1:3* – "All things came into being through Him."
-  - *Ephesians 1:4-5* – "He chose us in Him before the foundation of the world."
-  - *Proverbs 16:9* – "The mind of man plans his way, but the Lord directs his steps."
 
 ---
 
