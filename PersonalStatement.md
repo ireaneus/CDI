@@ -2,9 +2,13 @@
 
 1. What do you believe about the Bible?
 2. What is the nature of God?
+
    a. What do you believe about the Trinity?
+
    b. What do you believe about God the Father?
+
    c. What do you believe about God the Son?
+
    d. What do you believe about God the Holy Spirit?
 3. What do you believe about the works of God?
 4. What do you believe about angels?
