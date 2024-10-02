@@ -1,5 +1,24 @@
 ## Personal Statement of Faith
 
+1. What do you believe about the Bible?
+2. What is the nature of God?
+   a. What do you believe about the Trinity?
+   b. What do you believe about God the Father?
+   c. What do you believe about God the Son?
+   d. What do you believe about God the Holy Spirit?
+3. What do you believe about the works of God?
+4. What do you believe about angels?
+5. What do you believe about Satan?
+6. What do you believe about the nature of man?
+7. What do you believe about sin?
+8. What do you believe about salvation?
+9. What do you believe about the Church?
+10. What do you believe about Heaven and Hell?
+11. What do you believe about resurrection?
+12. What do you believe about judgment?
+13. What do you believe about Jesus’ second coming?
+14. What do you believe about eternity?
+
 ### **God the Father**
 I believe that **God the Father** is the sovereign Creator and Sustainer of all things. He gave authority to Jesus Christ, His Son, to create the universe, and He directs the course of history according to His providential will.
 - **Scripture References**:
@@ -133,17 +152,6 @@ The Holy Spirit indwells believers, guiding, sanctifying, and empowering them fo
 ### **Salvation**
 Salvation is a gift of **God's grace** through faith in **Jesus Christ alone**. It is not based on human works but on the redemptive work of Christ. Believers are justified by faith and adopted as children of God.
 - **Key Scriptures**: Ephesians 2:8-9; Romans 3:23-24; John 3:16
-
----
-
-### **The Five Solas**
-We affirm the **Five Solas** of the Reformation:
-- **Sola Scriptura** (Scripture Alone): The Bible is the ultimate authority.
-- **Solus Christus** (Christ Alone): Salvation is through Christ alone.
-- **Sola Gratia** (Grace Alone): Salvation is a gift of grace.
-- **Sola Fide** (Faith Alone): We are justified by faith alone.
-- **Soli Deo Gloria** (To the Glory of God Alone): All things exist for God's glory.
-- **Key Scriptures**: Romans 5:1; 1 Corinthians 10:31; Ephesians 2:8-9
 
 ---
 
