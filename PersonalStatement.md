@@ -24,18 +24,19 @@ We believe in One God, who exists eternally in three persons—Father, Son, and 
    c. What do you believe about God the Son?
 
    d. What do you believe about God the Holy Spirit?
-4. What do you believe about the works of God?
-5. What do you believe about angels?
-6. What do you believe about Satan?
-7. What do you believe about the nature of man?
-8. What do you believe about sin?
-9. What do you believe about salvation?
-10. What do you believe about the Church?
-11. What do you believe about Heaven and Hell?
-12. What do you believe about resurrection?
-13. What do you believe about judgment?
-14. What do you believe about Jesus’ second coming?
-15. What do you believe about eternity?
+
+3. What do you believe about the works of God?
+4. What do you believe about angels?
+5. What do you believe about Satan?
+6. What do you believe about the nature of man?
+7. What do you believe about sin?
+8. What do you believe about salvation?
+9. What do you believe about the Church?
+10. What do you believe about Heaven and Hell?
+11. What do you believe about resurrection?
+12. What do you believe about judgment?
+13. What do you believe about Jesus’ second coming?
+14. What do you believe about eternity?
 
 ### **God the Father**
 I believe that **God the Father** is the sovereign Creator and Sustainer of all things. He gave authority to Jesus Christ, His Son, to create the universe, and He directs the course of history according to His providential will.
