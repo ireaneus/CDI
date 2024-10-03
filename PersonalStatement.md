@@ -1,27 +1,41 @@
 ## Personal Statement of Faith
 
 1. What do you believe about the Bible?
+
+ > I believe the Bible is God’s written revelation to mankind. The sixty-six books of the Old and New Testaments, inspired by the Holy Spirit, form the complete and authoritative Word of God *([1 Corinthians 2:7,14](#1-corinthians-27-15); [2 Peter 1:20-21](#2-peter-120-21))*.
+
+> I affirm the plenary (full) and verbal inspiration of the Bible, meaning that every word, in all parts, is equally inspired and without error in the original manuscripts, infallible, and God-breathed *([2 Timothy 3:16](#2-timothy-316))*. The Bible alone is the only infallible rule of faith and practice, eternally relevant and authoritative over all aspects of life *([Matthew 5:18](#matthew-518); [John 16:12-13, 17:17](#john-1612-13-1717))*.
+
+> The Holy Spirit superintended the human authors of Scripture, ensuring that their writings, while reflecting their individual personalities, recorded God's Word without error in any part *([2 Peter 1:20-21](#2-peter-120-21))*. This process guarantees the Bible's reliability and accuracy *([2 Timothy 3:16](#2-timothy-316))*.
+
+> While there may be multiple applications of any passage, there is only one true interpretation, determined through careful study using the literal, grammatical-historical method, under the guidance of the Holy Spirit *([John 7:17](#john-717); ([1 Corinthians 2:7-15](#1-corinthians-27-15))*. Every believer is responsible for applying Scripture’s truth in their lives. Scripture stands as the final judge of mankind; never does mankind stand in judgment of Scripture.
+
 2. What is the nature of God?
 
+We believe in One God, who exists eternally in three persons—Father, Son, and Holy Spirit—who are distinct but co-equal in essence, nature, and attributes. The three persons of the Godhead share the same divine nature and operate in perfect unity, without division or separation. Each person of the Trinity is fully God, yet there is only one God.
+- **Key Scriptures**: Deuteronomy 6:4; Matthew 28:19; 2 Corinthians 13:14
+
    a. What do you believe about the Trinity?
+   
+*We teach there is but one living and true God (Deuteronomy 6:4; Isaiah 45:5-7; I Corinthians 8:4), an infinite, all knowing Spirit (John 4:24), perfect in all His attributes, one in essence, eternally existing in three Persons – Father, Son, and Holy Spirit (Matthew 28:19; II Corinthians 13:14) – each equally deserving worship and obedience.*
 
    b. What do you believe about God the Father?
 
    c. What do you believe about God the Son?
 
    d. What do you believe about God the Holy Spirit?
-3. What do you believe about the works of God?
-4. What do you believe about angels?
-5. What do you believe about Satan?
-6. What do you believe about the nature of man?
-7. What do you believe about sin?
-8. What do you believe about salvation?
-9. What do you believe about the Church?
-10. What do you believe about Heaven and Hell?
-11. What do you believe about resurrection?
-12. What do you believe about judgment?
-13. What do you believe about Jesus’ second coming?
-14. What do you believe about eternity?
+4. What do you believe about the works of God?
+5. What do you believe about angels?
+6. What do you believe about Satan?
+7. What do you believe about the nature of man?
+8. What do you believe about sin?
+9. What do you believe about salvation?
+10. What do you believe about the Church?
+11. What do you believe about Heaven and Hell?
+12. What do you believe about resurrection?
+13. What do you believe about judgment?
+14. What do you believe about Jesus’ second coming?
+15. What do you believe about eternity?
 
 ### **God the Father**
 I believe that **God the Father** is the sovereign Creator and Sustainer of all things. He gave authority to Jesus Christ, His Son, to create the universe, and He directs the course of history according to His providential will.
@@ -44,17 +58,6 @@ I believe in the **Holy Spirit**, the third person of the Trinity, who regenerat
 - **Scripture References**:
   - *John 14:16-17* – "The Spirit of truth... abides with you and will be in you."
   - *Romans 8:9* – "You are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you."
-
----
-
-### Scripture
-"I believe in the 66 books that make up the complete canon of scripture known as the Bible. They are the divinely inspired, infallible, inerrant, and immutable Word of God. God preordained the writers, their timing in history, and their personal experiences to bring their unique perspective and style. God's sovereign hand ensured that their words convey His message with meticulous accuracy. The Bible is the living word, the authoritative source for faith and practice, it is sufficient for teaching, correcting, and equipping believers for righteous living."
-- **Key Scriptures**:
-  -  2 Timothy 3:16-17;
-  -  2 Peter 1:20-21;
-  -  Revelation 22:18-19;
-  -  Deuteronomy 4:2;
-  -  Matthew 5:18
 
 ---
 
@@ -130,8 +133,7 @@ I believe that my salvation is solely the work of Christ, who chose me before th
 ---
 
 ### The Nature of God
-We believe in One God, who exists eternally in three persons—Father, Son, and Holy Spirit—who are distinct but co-equal in essence, nature, and attributes. The three persons of the Godhead share the same divine nature and operate in perfect unity, without division or separation. Each person of the Trinity is fully God, yet there is only one God.
-- **Key Scriptures**: Deuteronomy 6:4; Matthew 28:19; 2 Corinthians 13:14
+
 
 ---
 
@@ -169,3 +171,21 @@ We believe that the **chief end of man** is to glorify God and enjoy Him forever
 ---
 
 #### Scripture references
+##### 1 Corinthians 2:7-15
+*but we speak God’s wisdom in a mystery, the hidden wisdom which God predestined before the ages to our glory; 8the wisdom which none of the rulers of this age has understood; for if they had understood it they would not have crucified the Lord of glory; 9but just as it is written,
+“Things which eye has not seen and ear has not heard,
+And which have not entered the heart of man,
+All that God has prepared for those who love Him.”
+10 For to us God revealed them through the Spirit; for the Spirit searches all things, even the depths of God. 11For who among men knows the thoughts of a man except the spirit of the man which is in him? Even so the thoughts of God no one knows except the Spirit of God. 12Now we have received, not the spirit of the world, but the Spirit who is from God, so that we may know the things freely given to us by God, 13which things we also speak, not in words taught by human wisdom, but in those taught by the Spirit, combining spiritual thoughts with spiritual words.
+14But a natural man does not accept the things of the Spirit of God, for they are foolishness to him; and he cannot understand them, because they are spiritually appraised. 15But he who is spiritual appraises all things, yet he himself is appraised by no one. 16For who has known the mind of the Lord, that he will instruct Him? But we have the mind of Christ.*
+##### 2 Peter 1:20-21
+*But know this first of all, that no prophecy of Scripture is a matter of one’s own interpretation, 21for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God.*
+##### 2 Timothy 3:16
+*All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; 17so that the man of God may be adequate, equipped for every good work.*
+##### Matthew 5:18
+*For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished.*
+##### John 16:12-13, 17:17
+*“I have many more things to say to you, but you cannot bear them now. 13But when He, the Spirit of truth, comes, He will guide you into all the truth; for He will not speak on His own initiative, but whatever He hears, He will speak; and He will disclose to you what is to come.*
+*Sanctify them in the truth; Your word is truth.*
+##### John 7:17
+*If anyone is willing to do His will, he will know of the teaching, whether it is of God or whether I speak from Myself.*
