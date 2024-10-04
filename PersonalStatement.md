@@ -1,7 +1,16 @@
 ## Personal Statement of Faith
 
+### My Purpose in Life
+
+I believe that my ultimate purpose in life is to worship, serve, and honor God in everything I do, finding my deepest joy and satisfaction in Him. As affirmed by the Westminster Confession, "Man’s chief end is to glorify God, and to enjoy Him forever," I hold this as my guiding principle and desire in all aspects of life.
+
+Scripture References:
+1 Corinthians 10:31 – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
+Psalm 73:25-26 – "Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever."
+Romans 11:36 – "For from Him and through Him and to Him are all things."
+
 ### What I believe
-I am a bond-servant of Christ, and I believe in the 5 Solas of the Reformation:
+and I believe in the 5 Solas of the Reformation:
 - **Sola Scriptura (Scripture Alone)**: The Bible is the ultimate authority in all matters of faith.
 - **Sola Fide (Faith Alone)**: Justification is by faith alone.
 - **Sola Gratia (Grace Alone)**: Salvation is by grace alone.
@@ -12,14 +21,9 @@ I am a bond-servant of Christ, and I believe in the 5 Solas of the Reformation:
   - *Romans 5:1* – "Having been justified by faith, we have peace with God."
   - *Ephesians 2:8-9* – "By grace you have been saved through faith."
   - *John 14:6* – "I am the way, the truth, and the life."
-  - *1 Corinthians 10:31* – "Do all to the glory of God."
+  - *1 Corinthians 10:31* – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
 
-### **Purpose of Man**
-I believe that the **chief end of man** is to glorify God and enjoy Him forever. My ultimate purpose in life is to worship, serve, and honor God in everything I do, finding my deepest joy in Him.
-- **Scripture References**:
-  - *1 Corinthians 10:31* – "Whatever you do, do all to the glory of God."
-  - *Psalm 73:25-26* – "Whom have I in heaven but You?"
-  - *Romans 11:36* – "For from Him and through Him and to Him are all things."
+
 
 ---
 
