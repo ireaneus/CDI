@@ -5,9 +5,9 @@
 I believe that my ultimate purpose in life is to worship, serve, and honor God in everything I do, finding my deepest joy and satisfaction in Him. As affirmed by the Westminster Confession, "Man’s chief end is to glorify God, and to enjoy Him forever," I hold this as my guiding principle and desire in all aspects of life.
 
 Scripture References:
-1 Corinthians 10:31 – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
-Psalm 73:25-26 – "Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever."
-Romans 11:36 – "For from Him and through Him and to Him are all things."
+- 1 Corinthians 10:31 – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
+- Psalm 73:25-26 – "Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever."
+- Romans 11:36 – "For from Him and through Him and to Him are all things."
 
 ### What I believe
 and I believe in the 5 Solas of the Reformation:
