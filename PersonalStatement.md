@@ -4,7 +4,7 @@
 
 I believe that my ultimate purpose in life is to worship, serve, and honor God in everything I do, finding my deepest joy and satisfaction in Him. As affirmed by the Westminster Confession, "Man’s chief end is to glorify God, and to enjoy Him forever," I hold this as my guiding principle and desire in all aspects of life.
 
-Scripture References:
+**Scripture References**:
 - 1 Corinthians 10:31 – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
 - Psalm 73:25-26 – "Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever."
 - Romans 11:36 – "For from Him and through Him and to Him are all things."
@@ -23,19 +23,28 @@ and I believe in the 5 Solas of the Reformation:
   - *John 14:6* – "I am the way, the truth, and the life."
   - *1 Corinthians 10:31* – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
 
+---
 
+1. ### Statement of Faith: The Bible
+- I believe the Bible is God’s written revelation to mankind, consisting of the sixty-six books of the Old and New Testaments, inspired by the Holy Spirit, and forming the complete and authoritative Word of God (1 Corinthians 2:7,14; 2 Peter 1:20-21).
+
+- I affirm the plenary (full) and verbal inspiration of Scripture, meaning that every word in all parts of the Bible is equally inspired. Through God's providence, He predetermined the authors, shaping their personalities, circumstances, and environments to ensure they wrote exactly what He intended, without error in the original manuscripts. These Scriptures are infallible, inerrant, and immutable in their original form, serving as God’s perfect revelation to mankind (2 Timothy 3:16).
+
+- The Bible is the sole infallible rule of faith and practice, eternally relevant and authoritative over all aspects of life (Matthew 5:18; John 17:17).
+
+**Key Scriptures (NASB1995):**
+- 1 Corinthians 2:7, 14 – *"But we speak God’s wisdom in a mystery, the hidden wisdom which God predestined before the ages to our glory... But a natural man does not accept the things of the Spirit of God, for they are foolishness to him; and he cannot understand them, because they are spiritually appraised."*
+
+- 2 Peter 1:20-21 – *"But know this first of all, that no prophecy of Scripture is a matter of one’s own interpretation, for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God."*
+
+- 2 Timothy 3:16 – *"All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness."*
+
+- Matthew 5:18 – *"For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished."*
+
+- John 17:17 – *"Sanctify them in the truth; Your word is truth."*
 
 ---
 
-1. What do you believe about the Bible?
-
- > I believe the Bible is God’s written revelation to mankind. The sixty-six books of the Old and New Testaments, inspired by the Holy Spirit, form the complete and authoritative Word of God *([1 Corinthians 2:7,14](#1-corinthians-27-15); [2 Peter 1:20-21](#2-peter-120-21))*.
-
-> I affirm the plenary (full) and verbal inspiration of the Bible, meaning that every word, in all parts, is equally inspired and without error in the original manuscripts, infallible, and God-breathed *([2 Timothy 3:16](#2-timothy-316))*. The Bible alone is the only infallible rule of faith and practice, eternally relevant and authoritative over all aspects of life *([Matthew 5:18](#matthew-518); [John 16:12-13, 17:17](#john-1612-13-1717))*.
-
-> The Holy Spirit superintended the human authors of Scripture, ensuring that their writings, while reflecting their individual personalities, recorded God's Word without error in any part *([2 Peter 1:20-21](#2-peter-120-21))*. This process guarantees the Bible's reliability and accuracy *([2 Timothy 3:16](#2-timothy-316))*.
-
-> While there may be multiple applications of any passage, there is only one true interpretation, determined through careful study using the literal, grammatical-historical method, under the guidance of the Holy Spirit *([John 7:17](#john-717); ([1 Corinthians 2:7-15](#1-corinthians-27-15))*. Every believer is responsible for applying Scripture’s truth in their lives. Scripture stands as the final judge of mankind; never does mankind stand in judgment of Scripture.
 
 2. What is the nature of God?
 
