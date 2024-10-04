@@ -1,5 +1,28 @@
 ## Personal Statement of Faith
 
+### What I believe
+I am a bond-servant of Christ, and I believe in the 5 Solas of the Reformation:
+- **Sola Scriptura (Scripture Alone)**: The Bible is the ultimate authority in all matters of faith.
+- **Sola Fide (Faith Alone)**: Justification is by faith alone.
+- **Sola Gratia (Grace Alone)**: Salvation is by grace alone.
+- **Solus Christus (Christ Alone)**: Christ is the only mediator and savior.
+- **Soli Deo Gloria (To the Glory of God Alone)**: All of life is for God’s glory.
+- **Scripture References**:
+  - *2 Timothy 3:16-17* – "All Scripture is inspired by God."
+  - *Romans 5:1* – "Having been justified by faith, we have peace with God."
+  - *Ephesians 2:8-9* – "By grace you have been saved through faith."
+  - *John 14:6* – "I am the way, the truth, and the life."
+  - *1 Corinthians 10:31* – "Do all to the glory of God."
+
+### **Purpose of Man**
+I believe that the **chief end of man** is to glorify God and enjoy Him forever. My ultimate purpose in life is to worship, serve, and honor God in everything I do, finding my deepest joy in Him.
+- **Scripture References**:
+  - *1 Corinthians 10:31* – "Whatever you do, do all to the glory of God."
+  - *Psalm 73:25-26* – "Whom have I in heaven but You?"
+  - *Romans 11:36* – "For from Him and through Him and to Him are all things."
+
+---
+
 1. What do you believe about the Bible?
 
  > I believe the Bible is God’s written revelation to mankind. The sixty-six books of the Old and New Testaments, inspired by the Holy Spirit, form the complete and authoritative Word of God *([1 Corinthians 2:7,14](#1-corinthians-27-15); [2 Peter 1:20-21](#2-peter-120-21))*.
@@ -106,35 +129,8 @@ I believe that the **chief end of man** is to glorify God and enjoy Him forever.
 
 ---
 
-### **The Five Solas**
-I affirm the **Five Solas** of the Reformation:
-- **Sola Scriptura (Scripture Alone)**: The Bible is the ultimate authority in all matters of faith.
-- **Sola Fide (Faith Alone)**: Justification is by faith alone.
-- **Sola Gratia (Grace Alone)**: Salvation is by grace alone.
-- **Solus Christus (Christ Alone)**: Christ is the only mediator and savior.
-- **Soli Deo Gloria (To the Glory of God Alone)**: All of life is for God’s glory.
-- **Scripture References**:
-  - *2 Timothy 3:16-17* – "All Scripture is inspired by God."
-  - *Romans 5:1* – "Having been justified by faith, we have peace with God."
-  - *Ephesians 2:8-9* – "By grace you have been saved through faith."
-  - *John 14:6* – "I am the way, the truth, and the life."
-  - *1 Corinthians 10:31* – "Do all to the glory of God."
-
----
-
 ### **Personal Testimony**
 I believe that my salvation is solely the work of Christ, who chose me before the foundation of the world and saved me by His grace. Though I once relied on my own efforts, I came to understand the sufficiency of Christ’s sacrifice and the sovereignty of God in all things. The doctrines of grace and the truth of the Five Solas have transformed my walk with the Lord, grounding me in His Word and deepening my faith. Now, I live with the hope of Christ’s return and the joy of glorifying God in all that I do.
-
----
-
-# Doctrinal statment (can be used to enhance above)
-
-
-
----
-
-### The Nature of God
-
 
 ---
 
@@ -159,14 +155,6 @@ The Holy Spirit indwells believers, guiding, sanctifying, and empowering them fo
 ### **Salvation**
 Salvation is a gift of **God's grace** through faith in **Jesus Christ alone**. It is not based on human works but on the redemptive work of Christ. Believers are justified by faith and adopted as children of God.
 - **Key Scriptures**: Ephesians 2:8-9; Romans 3:23-24; John 3:16
-
----
-
-### **The Chief End of Man**
-We believe that the **chief end of man** is to glorify God and enjoy Him forever. Our ultimate purpose is found in worshiping and serving God.
-- **Key Scriptures**: 1 Corinthians 10:31; Psalm 73:25-26; Isaiah 43:7
-
----
 
 
 ---
