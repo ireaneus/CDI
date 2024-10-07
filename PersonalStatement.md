@@ -48,6 +48,19 @@ I believe that God is eternal, infinite, and unchanging, existing as one essence
 
 I believe in one God who exists eternally in three distinct persons—Father, Son, and Holy Spirit—who are co-equal in essence, nature, and attributes. These three persons of the Godhead share the same divine nature and operate in perfect unity, without division or separation. Each person of the Trinity is fully God, yet there is only one God. God is Spirit, infinite, and transcendent, and though He is actively involved in creation, He is not confined by physical space or human limitations.
 
+**God is holy, as revealed in Scripture:**
+
+- The Father is described as holy in John 17:11 – “Holy Father, keep them in Your name, the name which You have given Me, that they may be one even as We are.”
+- The Son is described as holy in Mark 1:24 – “What business do we have with each other, Jesus of Nazareth? Have You come to destroy us? I know who You are—the Holy One of God!”
+- The Holy Spirit is also described as holy in John 14:26 – “But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all that I said to you.”
+- Revelation 15:4 affirms that "only God is holy."
+
+**Father, Son, and Holy Spirit were all involved in the creation, acting as equal co-Creators:**
+
+- Genesis 1:1 – “In the beginning God created the heavens and the earth.”
+- John 1:3 – “All things came into being through Him [the Son], and apart from Him nothing came into being that has come into being.”
+- Job 33:4 – “The Spirit of God has made me, and the breath of the Almighty gives me life.”
+
 God is not limited by human comprehension, yet He has chosen to reveal Himself as Father, Son, and Holy Spirit, distinct in person but unified in essence. The God we worship is not dependent on anything in creation, but He sustains all things by His will and power.
 
 **Key Scriptures**: 
@@ -60,7 +73,9 @@ God is not limited by human comprehension, yet He has chosen to reveal Himself a
 
 ### The Nature of God: God the Father
 
-I believe that God the Father is the first person of the Trinity. He is sovereign over all creation, sustaining and governing all things according to His will and purpose. The Father sent the Son into the world for the redemption of mankind, and together with the Son and the Spirit, works out His plan for salvation. The Father is both loving and just, extending grace while maintaining righteousness and holiness. He is the source of all things and worthy of all praise, glory, and worship.
+I believe that God the Father, the first Person of the Trinity, orders and disposes all things according to His own purpose and grace (Psalm 145:8-9; 1 Corinthians 8:6). He is the Creator of all things (Genesis 1:1-31; Ephesians 3:9) and the only absolute and omnipotent Ruler of the universe. He exercises sovereignty in creation, providence, and redemption (Psalm 103:19; Romans 11:36). His fatherhood involves both His eternal role within the Trinity and His relationship with humanity. As Creator, He is the Father of all men (Ephesians 4:6), but He is the spiritual Father only to believers (Romans 8:14; 2 Corinthians 6:18). He has decreed all things that come to pass for His own glory (Ephesians 1:11).
+
+God continually upholds, directs, and governs all creatures and events (1 Chronicles 29:11). In His sovereignty, He is neither the author nor the approver of sin (Habakkuk 1:13; John 8:38-47), and He does not diminish the moral accountability of His intelligent creatures (1 Peter 1:17). From eternity past, He graciously chose those whom He would adopt as His own, to the praise of His glory (Ephesians 1:4-6). He saves from sin all who come to Him through Jesus Christ and, upon adoption, becomes Father to His redeemed (John 1:12; Romans 8:15; Galatians 4:5; Hebrews 12:5-9).
 
 - **Key Scriptures**: 
    - John 6:38 – *"For I have come down from heaven, not to do My own will, but the will of Him who sent Me."*
