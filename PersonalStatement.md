@@ -1,27 +1,13 @@
 ## Personal Statement of Faith
 
-### My Purpose in Life
+### My chief end in Life
 
-I believe that my ultimate purpose in life is to worship, serve, and honor God in everything I do, finding my deepest joy and satisfaction in Him. As affirmed by the Westminster Confession, "Man’s chief end is to glorify God, and to enjoy Him forever," I hold this as my guiding principle and desire in all aspects of life.
+I believe that my chief end in life is to worship, serve, and honor God in everything I do, finding my deepest joy and satisfaction in Him. As stated in the Westminster Confession, "Man’s chief end is to glorify God, and to enjoy Him forever," I hold this as my guiding principle and desire in all aspects of my life.
 
 **Scripture References**:
 - 1 Corinthians 10:31 – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
 - Psalm 73:25-26 – "Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever."
 - Romans 11:36 – "For from Him and through Him and to Him are all things."
-
-### What I believe
-and I believe in the 5 Solas of the Reformation:
-- **Sola Scriptura (Scripture Alone)**: The Bible is the ultimate authority in all matters of faith.
-- **Sola Fide (Faith Alone)**: Justification is by faith alone.
-- **Sola Gratia (Grace Alone)**: Salvation is by grace alone.
-- **Solus Christus (Christ Alone)**: Christ is the only mediator and savior.
-- **Soli Deo Gloria (To the Glory of God Alone)**: All of life is for God’s glory.
-- **Scripture References**:
-  - *2 Timothy 3:16-17* – "All Scripture is inspired by God."
-  - *Romans 5:1* – "Having been justified by faith, we have peace with God."
-  - *Ephesians 2:8-9* – "By grace you have been saved through faith."
-  - *John 14:6* – "I am the way, the truth, and the life."
-  - *1 Corinthians 10:31* – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
 
 ---
 
@@ -48,7 +34,7 @@ and I believe in the 5 Solas of the Reformation:
 
 2. What is the nature of God?
 
-We believe in One God, who exists eternally in three persons—Father, Son, and Holy Spirit—who are distinct but co-equal in essence, nature, and attributes. The three persons of the Godhead share the same divine nature and operate in perfect unity, without division or separation. Each person of the Trinity is fully God, yet there is only one God.
+I believe in One God, who exists eternally in three persons—Father, Son, and Holy Spirit—who are distinct but co-equal in essence, nature, and attributes. The three persons of the Godhead share the same divine nature and operate in perfect unity, without division or separation. Each person of the Trinity is fully God, yet there is only one God.
 - **Key Scriptures**: Deuteronomy 6:4; Matthew 28:19; 2 Corinthians 13:14
 
    a. What do you believe about the Trinity?
@@ -116,7 +102,7 @@ I believe in the **providence of God**, whereby He governs all events, both big 
 ---
 
 ### **Salvation**
-I believe that salvation is by **grace alone**, through **faith alone**, in **Christ alone**. Before the foundation of the world, God chose me for salvation. Through the death and resurrection of Jesus Christ, I am redeemed, justified, and adopted as a child of God. This salvation is not by works but by the finished work of Christ.
+I believe that "Salvation is by grace alone, through faith alone, in Christ alone, according to Scripture alone, to the glory of God alone"
 - **Scripture References**:
   - *Ephesians 2:8-9* – "For by grace you have been saved through faith."
   - *Titus 3:5* – "He saved us... according to His mercy, by the washing of regeneration."
