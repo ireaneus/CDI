@@ -1,7 +1,5 @@
 ## Personal Statement of Faith
-
 ### My chief end in Life
-
 I believe that my chief end in life is to worship, serve, and honor God in everything I do, finding my deepest joy and satisfaction in Him. As stated in the Westminster Confession, "Man’s chief end is to glorify God, and to enjoy Him forever," I hold this as my guiding principle and desire in all aspects of my life.
 
 **Scripture References**:
@@ -12,20 +10,24 @@ I believe that my chief end in life is to worship, serve, and honor God in every
 ---
 
 1. ### Statement of Faith: The Bible
-- I believe the Bible is God’s written revelation to mankind, consisting of the sixty-six books of the Old and New Testaments, inspired by the Holy Spirit, and forming the complete and authoritative Word of God (1 Corinthians 2:7,14; 2 Peter 1:20-21).
+I believe the Bible is God’s written revelation to mankind, consisting of the sixty-six books of the Old and New Testaments, inspired by the Holy Spirit, and forming the complete and authoritative Word of God (2 Peter 1:20-21).
 
-- I affirm the plenary (full) and verbal inspiration of Scripture, meaning that every word in all parts of the Bible is equally inspired. Through God's providence, He predetermined the authors, shaping their personalities, circumstances, and environments to ensure they wrote exactly what He intended, without error in the original manuscripts. These Scriptures are infallible, inerrant, and immutable in their original form, serving as God’s perfect revelation to mankind (2 Timothy 3:16).
+I believe that God orchestrates every event in the bible so as it is perfectly in line with what is written, ie.. Judas leaving before the communion was taken, the literal 3 days and 3 nights reference to Jesus's in the grave, the timing of His crucifixion to coincide with the national lamb sacrifice, literal 3 hours of darkness across the planet.
 
-- The Bible is the sole infallible rule of faith and practice, eternally relevant and authoritative over all aspects of life (Matthew 5:18; John 17:17).
+I affirm the plenary (full) and verbal inspiration of Scripture, meaning that every word in all parts of the Bible is equally inspired. Through God's providence, He predetermined the authors, shaping their personalities, circumstances, and environments to ensure they wrote exactly what He intended, without error in the original manuscripts. These Scriptures are infallible, inerrant, and immutable in their original form, serving as God’s perfect revelation to mankind (2 Timothy 3:16).
 
-**Key Scriptures (NASB1995):**
-- 1 Corinthians 2:7, 14 – *"But we speak God’s wisdom in a mystery, the hidden wisdom which God predestined before the ages to our glory... But a natural man does not accept the things of the Spirit of God, for they are foolishness to him; and he cannot understand them, because they are spiritually appraised."*
+The Bible is the sole infallible rule of faith and practice, eternally relevant and authoritative over all aspects of life (Matthew 5:18; John 17:17).
+
+**Scripture References**:
+- Isaiah 40:8: "The grass withers, the flower fades, but the word of our God will stand forever."
+
+- Hebrews 1:1-2: "In the past, God spoke to our ancestors through the prophets at many times and in various ways, but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom also he made the universe."
 
 - 2 Peter 1:20-21 – *"But know this first of all, that no prophecy of Scripture is a matter of one’s own interpretation, for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God."*
 
 - 2 Timothy 3:16 – *"All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness."*
 
-- Matthew 5:18 – *"For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished."*
+- Matthew 5:17-18 – *"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly I tell you, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished."*
 
 - John 17:17 – *"Sanctify them in the truth; Your word is truth."*
 
