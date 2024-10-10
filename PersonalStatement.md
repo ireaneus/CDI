@@ -103,7 +103,7 @@ I believe that the Holy Spirit is the third person of the Trinity, fully divine 
    - 1 Corinthians 6:19-20 – *"Or do you not know that your body is a temple of the Holy Spirit who is in you, whom you have from God, and that you are not your own? For you have been bought with a price: therefore glorify God in your body."*
 
 
-3. What do you believe about the works of God?
+3. What do you believe about the works of God? - Decrees
 4. What do you believe about angels?
 5. What do you believe about Satan?
 6. What do you believe about the nature of man?
