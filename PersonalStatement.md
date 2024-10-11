@@ -1,88 +1,108 @@
-## Personal Statement of Faith
-### My Chief End in Life
-I believe that my chief end in life is to worship, serve, and honor God in everything I do, finding my deepest joy and satisfaction in Him. As stated in the Westminster Confession, "Man’s chief end is to glorify God, and to enjoy Him forever," I hold this as my guiding principle and desire in all aspects of my life.
+# Personal Statement of Faith
 
-**Scripture References**:
-- 1 Corinthians 10:31 – "Whether, then, you eat or drink or whatever you do, do all to the glory of God."
-- Psalm 73:25-26 – "Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever."
-- Romans 11:36 – "For from Him and through Him and to Him are all things."
+## The Chief End of Man
+- *"For He has satisfied the thirsty soul, and the hungry soul He has filled with what is good." (Psalm 107:9)*
+- *"You will make known to me the path of life; in Your presence is fullness of joy; in Your right hand there are pleasures forever." (Psalm 16:11)*
+- *"Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever." (Psalm 73:25-26)*
+- *"Whether, then, you eat or drink or whatever you do, do all to the glory of God." (1 Corinthians 10:31)*
+- *"The conclusion, when all has been heard, is: fear God and keep His commandments, because this applies to every person." (Ecclesiastes 12:13)*
 
----
-
-### Statement of Faith: The Bible
-
-I believe that the Bible is God's written revelation to mankind, consisting of the sixty-six books of the Old and New Testaments, inspired by the Holy Spirit, and forming the plenary (inspired equally in all parts) and verbally inspired Word of God (2 Peter 1:20-21). These Scriptures are absolutely inerrant, infallible, and immutable in their original form, serving as God’s perfect revelation to humanity (2 Timothy 3:16). 
-
-I affirm the literal, grammatical-historical method of interpretation, which upholds the belief that the opening chapters of Genesis present creation in six literal days (Genesis 1:31; Exodus 31:17), and that all Scripture is to be understood in its proper context as guided by the Holy Spirit (John 16:12-15). Along with the six literal days, the Bible can be interpreted literally, for example, Judas leaving before the institution of communion (John 13:26-30), the three days and three nights that Jesus spent in the grave (Matthew 12:40), the timing of His crucifixion to coincide with the national Passover lamb sacrifice (John 19:14), and the three hours of literal darkness across the earth during His death (Matthew 27:45).
-
-I believe that the Bible constitutes the only infallible rule of faith and practice, eternally relevant and authoritative over all aspects of life (Matthew 5:18; John 17:17). I believe that God spoke through human authors by a process of dual authorship, ensuring His message was perfectly conveyed without error in the whole or in part (2 Peter 1:20-21). While there may be many applications of any given passage, there is but one true interpretation. It is the responsibility of believers to ascertain carefully the true intent and meaning of Scripture.
-
-**Scripture References**:
-- **2 Timothy 3:16-17** – "All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; so that the man of God may be adequate, equipped for every good work."
-- **2 Peter 1:20-21** – "But know this first of all, that no prophecy of Scripture is a matter of one’s own interpretation, for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God."
-- **Matthew 5:18** – "For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished."
-- **John 17:17** – "Sanctify them in the truth; Your word is truth."
-- **Genesis 1:31** – "God saw all that He had made, and behold, it was very good. And there was evening and there was morning, the sixth day."
-- **John 19:14** – "Now it was the day of preparation for the Passover; it was about the sixth hour. And he said to the Jews, 'Behold, your King!'"
+The chief end of man is to glorify God and to enjoy Him forever. All satisfaction, joy, and fulfillment are found in God alone. Humanity exists to honor Him in every aspect of life, as commanded by Scripture.
 
 ---
 
-### The Nature of God
+## The Bible
+- *"All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; so that the man of God may be adequate, equipped for every good work." (2 Timothy 3:16-17)*
+- *"But know this first of all, that no prophecy of Scripture is a matter of one’s own interpretation, for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God." (2 Peter 1:20-21)*
+- *"For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished." (Matthew 5:18)*
+- *"Sanctify them in the truth; Your word is truth." (John 17:17)*
+- *"God saw all that He had made, and behold, it was very good. And there was evening and there was morning, the sixth day." (Genesis 1:31)*
 
-I believe that God is eternal, infinite, and unchanging, existing as one essence in three distinct persons: Father, Son, and Holy Spirit. He is omnipotent, omnipresent, and omniscient, possessing all knowledge, power, and authority. God is perfectly holy, just, and righteous, without sin or imperfection. He is good and merciful, the source of all truth, and sovereign over all creation. God is self-existent, having no cause, and He is the ultimate standard of all that is right and just. His nature is fully revealed in His Word, through His actions in history, and supremely in the person of Jesus Christ.
+The Bible, consisting of the sixty-six books of the Old and New Testaments, is God’s written revelation to mankind. It is inspired by the Holy Spirit, fully inerrant, infallible, and immutable in its original form, providing the ultimate and authoritative rule of faith and practice.
 
-### Key Attributes of God:
-- **Eternal**: God has no beginning or end (Psalm 90:2).
-- **Infinite**: God is without limits or boundaries (Jeremiah 23:24).
-- **Immutable**: God never changes (Malachi 3:6).
-- **Omnipotent**: God is all-powerful (Job 42:2).
-- **Omnipresent**: God is present everywhere (Psalm 139:7-10).
-- **Omniscient**: God knows all things (Isaiah 46:9-10).
-- **Holy**: God is perfectly set apart from all sin (Isaiah 6:3).
-- **Just**: God is perfectly righteous in all His judgments (Deuteronomy 32:4).
-- **Good**: God is the source of all goodness (Psalm 34:8).
-- **Sovereign**: God rules over all creation with supreme authority (Psalm 103:19).
-- **Self-existent**: God exists independently of anything else (Exodus 3:14).
+The Scriptures are to be interpreted literally and contextually, guided by the Holy Spirit. The opening chapters of Genesis present creation in six literal days, and all Scripture is to be understood in light of its historical and grammatical context. There may be many applications of a passage, but its true interpretation is singular, given by God and discerned through careful study.
 
-### The Nature of God: The Trinity
+---
 
-I believe in one God who exists eternally in three distinct persons—Father, Son, and Holy Spirit—who are co-equal in essence, nature, and attributes. These three persons of the Godhead share the same divine nature and operate in perfect unity, without division or separation. Each person of the Trinity is fully God, yet there is only one God. God is Spirit, infinite, and transcendent, and though He is actively involved in creation, He is not confined by physical space or human limitations.
+## **The Nature of God**
+- *"Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God." (Psalm 90:2)*  
+- *"I am the Lord, and I do not change." (Malachi 3:6)*  
+- *"The Lord has established His throne in the heavens, and His sovereignty rules over all." (Psalm 103:19)*  
+- *"Holy, holy, holy, is the Lord of hosts, the whole earth is full of His glory." (Isaiah 6:3)*
 
-**God is holy, as revealed in Scripture:**
+God is eternal, infinite, and unchanging. He exists as one essence in three persons: Father, Son, and Holy Spirit. He is omnipotent, omnipresent, and omniscient, possessing all power, knowledge, and authority. God is perfectly holy, just, and righteous, sovereign over all creation, and the source of all truth and goodness. He is self-existent and reveals Himself through His Word, His works in history, and ultimately in Jesus Christ.
 
-- The Father is described as holy in John 17:11 – “Holy Father, keep them in Your name, the name which You have given Me, that they may be one even as We are.”
-- The Son is described as holy in Mark 1:24 – “What business do we have with each other, Jesus of Nazareth? Have You come to destroy us? I know who You are—the Holy One of God!”
-- The Holy Spirit is also described as holy in John 14:26 – “But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all that I said to you.”
-- Revelation 15:4 affirms that "only God is holy."
+---
 
-**Father, Son, and Holy Spirit were all involved in the creation, acting as equal co-Creators:**
+### **Key Attributes of God**:
+- **Eternal**: *"Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God." (Psalm 90:2)*  
+- **Infinite**: *"Can a man hide himself in hiding places so I do not see him? declares the Lord. Do I not fill the heavens and the earth?" (Jeremiah 23:24)*  
+- **Immutable**: *"For I, the Lord, do not change." (Malachi 3:6)*  
+- **Omnipotent**: *"I know that You can do all things, and that no purpose of Yours can be thwarted." (Job 42:2)*  
+- **Omnipresent**: *"Where can I go from Your Spirit? Or where can I flee from Your presence?" (Psalm 139:7-10)*  
+- **Omniscient**: *"I am God, and there is no one like Me, declaring the end from the beginning." (Isaiah 46:9-10)*  
+- **Holy**: *"Holy, holy, holy is the Lord of hosts, the whole earth is full of His glory." (Isaiah 6:3)*  
+- **Just**: *"The Rock, His work is perfect, for all His ways are just." (Deuteronomy 32:4)*  
+- **Good**: *"Taste and see that the Lord is good; How blessed is the man who takes refuge in Him!" (Psalm 34:8)*  
+- **Sovereign**: *"The Lord has established His throne in the heavens, and His sovereignty rules over all." (Psalm 103:19)*  
+- **Self-existent**: *"I AM WHO I AM." (Exodus 3:14)*
 
-- Genesis 1:1 – “In the beginning God created the heavens and the earth.”
-- John 1:3 – “All things came into being through Him [the Son], and apart from Him nothing came into being that has come into being.”
-- Job 33:4 – “The Spirit of God has made me, and the breath of the Almighty gives me life.”
 
-God is not limited by human comprehension, yet He has chosen to reveal Himself as Father, Son, and Holy Spirit, distinct in person but unified in essence. The God we worship is not dependent on anything in creation, but He sustains all things by His will and power.
+## The Nature of God: The Trinity
+- *"Hear, O Israel! The Lord is our God, the Lord is one!" (Deuteronomy 6:4)*  
+- *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit." (Matthew 28:19)*  
+- *"For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one." (1 John 5:7)*  
+- *"The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all." (2 Corinthians 13:14)*
 
-**Key Scriptures**: 
-- Deuteronomy 6:4 – *"Hear, O Israel! The Lord is our God, the Lord is one!"*
-- Matthew 28:19 – *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."*
-- 2 Corinthians 13:14 – *"The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all."* 
-- **John 4:24** – *“God is Spirit, and those who worship Him must worship in spirit and truth.”*
-- **1 Kings 8:27** – *"But will God indeed dwell on the earth? Behold, heaven and the heaven of heavens cannot contain You. How much less this temple which I have built!"*
-- **Acts 17:24-25** – *“God, who made the world and everything in it, since He is Lord of heaven and earth, does not dwell in temples made with hands. Nor is He worshiped with men’s hands, as though He needed anything, since He gives to all life, breath, and all things.”*
+There is only one God who exists eternally in three distinct persons—Father, Son, and Holy Spirit. Each is perfectly holy, deserving of worship, and worthy of all glory and honor. In the heavenly vision of Revelation, God is praised as "Holy, Holy, Holy," a threefold proclamation that reflects the holiness of the Father, Son, and Holy Spirit.
 
-### The Nature of God: God the Father
+Though distinct in person, the Father, Son, and Holy Spirit are united in their divine essence and nature. They are co-equal in their attributes of holiness, justice, and mercy, revealing the fullness of God's perfect character.
 
-I believe that God the Father, the first Person of the Trinity, orders and disposes all things according to His own purpose and grace (Psalm 145:8-9; 1 Corinthians 8:6). He is the Creator of all things (Genesis 1:1-31; Ephesians 3:9) and the only absolute and omnipotent Ruler of the universe. He exercises sovereignty in creation, providence, and redemption (Psalm 103:19; Romans 11:36). His fatherhood involves both His eternal role within the Trinity and His relationship with humanity. As Creator, He is the Father of all men (Ephesians 4:6), but He is the spiritual Father only to believers (Romans 8:14; 2 Corinthians 6:18). He has decreed all things that come to pass for His own glory (Ephesians 1:11).
+---
 
-God continually upholds, directs, and governs all creatures and events (1 Chronicles 29:11). In His sovereignty, He is neither the author nor the approver of sin (Habakkuk 1:13; John 8:38-47), and He does not diminish the moral accountability of His intelligent creatures (1 Peter 1:17). From eternity past, He graciously chose those whom He would adopt as His own, to the praise of His glory (Ephesians 1:4-6). He saves from sin all who come to Him through Jesus Christ and, upon adoption, becomes Father to His redeemed (John 1:12; Romans 8:15; Galatians 4:5; Hebrews 12:5-9).
+### **Scriptural Basis for the Trinity**:
+- **One God**: *"Hear, O Israel! The Lord is our God, the Lord is one!" (Deuteronomy 6:4)*  
+- **Three Persons**: *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit." (Matthew 28:19)*  
+- **Unity in Essence**: *"For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one." (1 John 5:7)*  
+- **Distinct Persons in Relationship**: *"The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all." (2 Corinthians 13:14)*
 
-- **Key Scriptures**: 
-   - John 6:38 – *"For I have come down from heaven, not to do My own will, but the will of Him who sent Me."*
-   - Ephesians 1:3-6 – *"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ, just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him."*
-   - 1 Corinthians 8:6 – *"Yet for us there is but one God, the Father, from whom are all things and we exist for Him."*
+---
 
-### The Nature of God: God the Son
+### **The Holiness of the Trinity**
+- *"Holy, holy, holy is the Lord God, the Almighty, who was and who is and who is to come." (Revelation 4:8)*  
+- *"And one called out to another and said, 'Holy, Holy, Holy, is the Lord of hosts, the whole earth is full of His glory.'" (Isaiah 6:3)*
+
+Each person of the Trinity—Father, Son, and Holy Spirit—is perfectly holy, set apart from all creation in absolute purity and moral perfection. The triune God is praised in heaven as "Holy, Holy, Holy," emphasizing the infinite holiness of the Father, the Son, and the Holy Spirit. Together, they are co-equal in their divine holiness, and their nature is the source and standard of all that is holy.
+
+### Scriptural Support for the Holiness of Each Person:
+- **The Holiness of the Father**:  
+  *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor." (Habakkuk 1:13)*  
+- **The Holiness of the Son**:  
+  *"But with the precious blood of Christ, as of a lamb without blemish and without spot." (1 Peter 1:19)*  
+- **The Holiness of the Holy Spirit**:  
+  *"Do you not know that you are a temple of God and that the Spirit of God dwells in you? ... For the temple of God is holy, and that is what you are." (1 Corinthians 3:16-17)*
+
+---
+
+## **The Nature of God: God the Father**
+- *"For us there is but one God, the Father, from whom are all things and we exist for Him." (1 Corinthians 8:6)*  
+- *"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ, just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him." (Ephesians 1:3-4)*  
+- *"The Lord has established His throne in the heavens, and His sovereignty rules over all." (Psalm 103:19)*
+
+God the Father, the first person of the Trinity, is the sovereign Creator of all things, ordaining all things according to His will and purpose. He exercises authority over all creation, providence, and redemption. His fatherhood is twofold: He is the Creator and Father of all men (Ephesians 4:6), but He is the spiritual Father only to those who are in Christ, adopted into His family through faith (Romans 8:14-15).
+
+God the Father has decreed all things for His glory and continually upholds and governs all creatures and events (1 Chronicles 29:11). In His holiness, He neither authors nor approves sin, and He preserves the moral accountability of His creation (Habakkuk 1:13). From eternity, He graciously chose those whom He would adopt as His children to the praise of His glorious grace (Ephesians 1:4-6).
+
+---
+
+### **Key Attributes and Works of the Father**:
+- **God the Father generates the Son for all eternity** *"My Father is working until now, and I Myself am working.”; "For just as the Father has life in Himself, so He gave to the Son also to have life in Himself;"(John 5:17;26)*
+- **God the Father who is the author of the decree that brings to pass all that He wills** *"I will announce the decree of the Lord: He said to Me, ‘You are My Son, Today I have fathered You.(Psalm 2:7-9)*
+- **God the Father works in the election of the saints** *Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ, 4just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love 5He predestined us to adoption as sons and daughters through Jesus Christ to Himself, according to the good pleasure of His will, 6to the praise of the glory of His grace, with which He favored us in the Beloved (Ephesians 1:3-6)*
+- **God the Father sent His Son to do the work of redemption** *But the testimony I have is greater than the testimony of John; for the works which the Father has given Me to accomplish—the very works that I do—testify about Me, that the Father has sent Me (John 5:36)*
+- **God the Father disciplines His children** *Furthermore, we had earthly fathers to discipline us, and we respected them; shall we not much more be subject to the Father of spirits, and live? (Hebrews 12:9)*
+
+## The Nature of God: God the Son
 
 I believe that God the Son, Jesus Christ, is the second person of the Trinity. He is fully God and fully man, having been born of a virgin through the power of the Holy Spirit. He lived a sinless life, performed miracles, and taught with divine authority. Jesus willingly gave His life on the cross as a substitutionary sacrifice for the sins of the world, was buried, and rose bodily from the dead on the third day, securing eternal life for all who believe in Him. Jesus ascended to heaven and now sits at the right hand of the Father, interceding on our behalf, and will return in power and glory to judge the living and the dead.
 
