@@ -1,3 +1,26 @@
+# Doctrine Test questions
+## Holy spirit section
+
+a. Convict the world of sin
+b. Convict the world of righteousness
+c. Convict the world of the judgement to come
+
+Guide us into all truth
+
+Glorify Christ
+
+Although Christ is fully God, equal in power, knowledge and eternality, He submits to the will of the Father. Furthermore the Holy Spirit is fully God, also equal in power, knowledge and eternality, He willingly submits to the Father and Son.
+
+a. Spiritual gifts are distributed as the Spirit wills, not to all, but to some, for the edification of the Church and the glory of God.
+
+b. The fruit of the Spirit is the result of the Holy Spirit's presence and working in the lives of maturing believers. Spiritual fruit will manifest itself in all believers, more so as they mature.
+
+---
+
+
+---
+
+
 # Test Notes from Bibliography Sessions
 ## Memorize
 **2 Timothy 3:16-17**
