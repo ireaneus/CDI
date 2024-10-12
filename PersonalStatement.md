@@ -1,13 +1,13 @@
 # Personal Statement of Faith
 
-## The Chief End of Man
-- *"For He has satisfied the thirsty soul, and the hungry soul He has filled with what is good." (Psalm 107:9)*
-- *"You will make known to me the path of life; in Your presence is fullness of joy; in Your right hand there are pleasures forever." (Psalm 16:11)*
-- *"Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever." (Psalm 73:25-26)*
-- *"Whether, then, you eat or drink or whatever you do, do all to the glory of God." (1 Corinthians 10:31)*
-- *"The conclusion, when all has been heard, is: fear God and keep His commandments, because this applies to every person." (Ecclesiastes 12:13)*
 
-The chief end of man is to glorify God and to enjoy Him forever. All satisfaction, joy, and fulfillment are found in God alone. Humanity exists to honor Him in every aspect of life, as commanded by Scripture.
+## **The Chief End of Man**
+
+I believe that the chief end of man is to glorify God and to enjoy Him forever. As Scripture declares, *"Whether, then, you eat or drink or whatever you do, do all to the glory of God"* (1 Corinthians 10:31). God has designed humanity to find true satisfaction in Him alone, for *"He has satisfied the thirsty soul, and the hungry soul He has filled with what is good"* (Psalm 107:9). In God’s presence, we find *"fullness of joy; in His right hand there are pleasures forever"* (Psalm 16:11).
+
+God's Word teaches that life’s ultimate purpose is to fear Him and obey His commandments: *"The conclusion, when all has been heard, is: fear God and keep His commandments, because this applies to every person"* (Ecclesiastes 12:13). Our hearts are meant to desire God above all else, as the psalmist proclaims: *"Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, but God is the strength of my heart and my portion forever"* (Psalm 73:25-26).
+
+Man’s chief purpose is not only to glorify God but to enjoy Him forever, finding eternal joy and satisfaction in His presence and walking in obedience to His commands
 
 ---
 
