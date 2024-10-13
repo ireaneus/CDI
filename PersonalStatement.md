@@ -7,8 +7,6 @@ I believe that the chief end of man is to glorify God and to enjoy Him forever. 
 
 God's Word teaches that life’s ultimate purpose is to fear Him and obey His commandments: *"The conclusion, when all has been heard, is: fear God and keep His commandments, because this applies to every person"* (Ecclesiastes 12:13). Our hearts are meant to desire God above all else, as the psalmist proclaims: *"Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, but God is the strength of my heart and my portion forever"* (Psalm 73:25-26).
 
-Man’s chief purpose is not only to glorify God but to enjoy Him forever, finding eternal joy and satisfaction in His presence and walking in obedience to His commands
-
 ---
 
 ## The Bible
