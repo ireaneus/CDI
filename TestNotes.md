@@ -35,22 +35,29 @@
 
 ## Soteriology
 **Election**  
-The biblical doctrine that God in His sovereignty chooses certain
-individuals to be saved.
+*Eph 1:3-6 - just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will, to the praise of the glory of His grace, which He freely bestowed on us in the Beloved.*
 
 **Regeneration**  
+*Eph 2:5 - But God, being rich in mercy, because of His great love with which He loved us, 5even when we were dead in our transgressions, made us alive together with Christ (by grace you have been saved)*
 
+**Atonement**
+*Rom. 5:6; 8,9 - For while we were still helpless, at the right time Christ died for the ungodly. But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us. Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him.*
 
+**Redemption**
+*Rom. 6:17;22 - But thanks be to God that though you were slaves of sin, you became obedient from the heart to that form of teaching to which you were committed, But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life.*
+
+**Propitiation**
+*1 John 2:2-3; 4:10 - we have an Advocate with the Father, Jesus Christ the righteous; 2and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world. In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.*
 
 
 
 --- 
 
-## Holy spirit section
+## Holy spirit section  
 
-a. Convict the world of sin
-b. Convict the world of righteousness
-c. Convict the world of the judgement to come
+a. Convict the world of sin  
+b. Convict the world of righteousness  
+c. Convict the world of the judgement to come  
 
 Guide us into all truth
 
