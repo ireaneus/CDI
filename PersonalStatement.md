@@ -132,23 +132,23 @@ Jesus was born of a virgin (Matthew 1:23), lived a sinless life, and fulfilled t
 Christ will return to judge the living and the dead, establishing His eternal kingdom, "for He must reign until He has put all His enemies under His feet" (1 Corinthians 15:25).
 
 #### Key Roles and Attributes of God the Son:
-Eternal Sonship: Jesus is eternally God, distinct in person, but equal in essence with the Father.
-"In the beginning was the Word, and the Word was with God, and the Word was God." (John 1:1)
+- **Eternal Sonship: Jesus is eternally God, distinct in person, but equal in essence with the Father.**  
+*"In the beginning was the Word, and the Word was with God, and the Word was God." (John 1:1)*
 
-Creator and Sustainer: All things were created through Him and for Him.
-"For by Him all things were created, both in the heavens and on earth, visible and invisible." (Colossians 1:16)
+- **Creator and Sustainer: All things were created through Him and for Him.**  
+*"For by Him all things were created, both in the heavens and on earth, visible and invisible." (Colossians 1:16)*
 
-Incarnate Savior: Jesus took on human nature, being born of a virgin, and lived a sinless life.
-"And the Word became flesh, and dwelt among us, and we saw His glory." (John 1:14)
+- **Incarnate Savior: Jesus took on human nature, being born of a virgin, and lived a sinless life.**  
+*"And the Word became flesh, and dwelt among us, and we saw His glory." (John 1:14)*
 
-Atoning Sacrifice: He died for our sins, taking the penalty we deserved.
-"But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us." (Romans 5:8)
+- **Atoning Sacrifice: He died for our sins, taking the penalty we deserved.**
+*"But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us." (Romans 5:8)*
 
-Resurrected Lord: Jesus rose from the dead, proving His victory over sin and death.
-"He is not here, for He has risen, just as He said." (Matthew 28:6)
+- **Resurrected Lord: Jesus rose from the dead, proving His victory over sin and death.**  
+*"He is not here, for He has risen, just as He said." (Matthew 28:6)*
 
-Exalted King: He ascended into heaven and is seated at the right hand of the Father.
-"He sat down at the right hand of the Majesty on high." (Hebrews 1:3)
+- **Exalted King: He ascended into heaven and is seated at the right hand of the Father.**  
+*"He sat down at the right hand of the Majesty on high." (Hebrews 1:3)*
 
 ### The Nature of God: God the Holy Spirit
 I believe that the Holy Spirit, the third person of the Trinity, is fully God, co-equal with the Father and the Son. The Holy Spirit was active in creation, "moving over the surface of the waters" (Genesis 1:2), and is now the divine agent in regeneration and sanctification. He convicts the world of sin, righteousness, and judgment (John 16:8) and indwells every believer, sealing them for the day of redemption (Ephesians 1:13-14).
@@ -174,8 +174,43 @@ Guide to Truth: He leads believers into understanding and applying God's Word.
 Giver of Spiritual Gifts: The Spirit distributes spiritual gifts for the edification of the Church.
 "But one and the same Spirit works all these things, distributing to each one individually just as He wills." (1 Corinthians 12:11)
 
+---
 
-3. What do you believe about the works of God? - Decrees
+### **What I Believe About the Works of God**
+
+I believe that God the Father is actively involved in His creation through His sovereign works. These works include creation, providence, redemption, and judgment, all of which display His power, wisdom, and goodness. 
+
+- **Creation**: God spoke the universe into existence, *"In the beginning God created the heavens and the earth"* (Genesis 1:1), and made all things visible and invisible by His Word (Colossians 1:16). He continues to uphold and sustain all creation, *"upholding all things by the word of His power"* (Hebrews 1:3).
+
+- **Providence**: God governs all things, directing and sustaining the course of history according to His sovereign will, *"The Lord has established His throne in the heavens, and His sovereignty rules over all"* (Psalm 103:19). He provides for His creation and ensures that His purposes are fulfilled in all events.
+
+- **Redemption**: In His love, the Father sent His Son to accomplish the work of salvation for humanity, *"For God so loved the world, that He gave His only begotten Son"* (John 3:16). This redemptive work unfolds in history as God calls people to Himself, forgives sins, and adopts believers as His children.
+
+- **Judgment**: God has appointed a day on which He will judge the world in righteousness through Jesus Christ, *"He has fixed a day in which He will judge the world in righteousness through a Man whom He has appointed"* (Acts 17:31). His works of judgment reveal His holiness and justice.
+
+- **Adoption and Answering Prayers**: God graciously adopts believers into His family, *"You have received a spirit of adoption as sons by which we cry out, 'Abba! Father!'"* (Romans 8:15), and listens to the prayers of His people, answering according to His will (1 John 5:14).
+
+---
+
+### **What I Believe About the Decrees of God**
+
+I believe that the decrees of God are His eternal, unchangeable plans made before the foundation of the world, by which He has sovereignly ordained everything that comes to pass. These decrees are rooted in His perfect wisdom and knowledge, *"The counsel of the Lord stands forever, the plans of His heart from generation to generation"* (Psalm 33:11). They encompass all aspects of creation, providence, redemption, and judgment.
+
+- **Eternal Purpose**: God's decrees reflect His eternal purpose and will. *"He made known to us the mystery of His will, according to His kind intention which He purposed in Him"* (Ephesians 1:9). His plans are carried out in perfect harmony and will never fail.
+
+- **Predestination and Election**: God chose those whom He would adopt as His children, *"He chose us in Him before the foundation of the world, that we would be holy and blameless before Him"* (Ephesians 1:4). His decree of election is based on His foreknowledge and sovereign choice.
+
+- **Decree of Creation**: God ordained the creation of the universe to reveal His glory, *"For by Him all things were created, both in the heavens and on earth"* (Colossians 1:16). Creation itself is the outworking of His eternal decree.
+
+- **Decree of Providence**: All events are governed according to God's sovereign will. *"And we know that God causes all things to work together for good to those who love God, to those who are called according to His purpose"* (Romans 8:28). His decrees encompass even the smallest details of life.
+
+- **Decree of Redemption**: The plan of salvation was foreordained by God. *"He was foreknown before the foundation of the world, but has appeared in these last times for the sake of you"* (1 Peter 1:20). The redemption accomplished by Christ was part of God's eternal decree.
+
+- **Decree of Judgment**: God has decreed a final day of judgment. *"The Lord has made everything for its own purpose, even the wicked for the day of evil"* (Proverbs 16:4). His decrees ensure that justice will be served.
+
+- **Salvation by Grace through Faith**: The decree of salvation is based on God's grace, not human works. *"For by grace you have been saved through faith; and that not of yourselves, it is the gift of God"* (Ephesians 2:8).
+
+---
 4. What do you believe about angels?
 5. What do you believe about Satan?
 6. What do you believe about the nature of man?
@@ -238,25 +273,3 @@ I believe that the **chief end of man** is to glorify God and enjoy Him forever.
 Salvation is a gift of **God's grace** through faith in **Jesus Christ alone**. It is not based on human works but on the redemptive work of Christ. Believers are justified by faith and adopted as children of God.
 - **Key Scriptures**: Ephesians 2:8-9; Romans 3:23-24; John 3:16
 
-
----
-
-#### Scripture references
-##### 1 Corinthians 2:7-15
-*but we speak God’s wisdom in a mystery, the hidden wisdom which God predestined before the ages to our glory; 8the wisdom which none of the rulers of this age has understood; for if they had understood it they would not have crucified the Lord of glory; 9but just as it is written,
-“Things which eye has not seen and ear has not heard,
-And which have not entered the heart of man,
-All that God has prepared for those who love Him.”
-10 For to us God revealed them through the Spirit; for the Spirit searches all things, even the depths of God. 11For who among men knows the thoughts of a man except the spirit of the man which is in him? Even so the thoughts of God no one knows except the Spirit of God. 12Now we have received, not the spirit of the world, but the Spirit who is from God, so that we may know the things freely given to us by God, 13which things we also speak, not in words taught by human wisdom, but in those taught by the Spirit, combining spiritual thoughts with spiritual words.
-14But a natural man does not accept the things of the Spirit of God, for they are foolishness to him; and he cannot understand them, because they are spiritually appraised. 15But he who is spiritual appraises all things, yet he himself is appraised by no one. 16For who has known the mind of the Lord, that he will instruct Him? But we have the mind of Christ.*
-##### 2 Peter 1:20-21
-*But know this first of all, that no prophecy of Scripture is a matter of one’s own interpretation, 21for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God.*
-##### 2 Timothy 3:16
-*All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; 17so that the man of God may be adequate, equipped for every good work.*
-##### Matthew 5:18
-*For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished.*
-##### John 16:12-13, 17:17
-*“I have many more things to say to you, but you cannot bear them now. 13But when He, the Spirit of truth, comes, He will guide you into all the truth; for He will not speak on His own initiative, but whatever He hears, He will speak; and He will disclose to you what is to come.*
-*Sanctify them in the truth; Your word is truth.*
-##### John 7:17
-*If anyone is willing to do His will, he will know of the teaching, whether it is of God or whether I speak from Myself.*
