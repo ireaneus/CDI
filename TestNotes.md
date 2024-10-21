@@ -49,7 +49,8 @@
 **Propitiation**
 *1 John 2:2-3; 4:10 - we have an Advocate with the Father, Jesus Christ the righteous; 2and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world. In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.*
 
-
+**Justification**
+*Acts 13:38-39 - Therefore let it be known to you, brethren, that through Him forgiveness of sins is proclaimed to you, 39and through Him everyone who believes is freed from all things, from which you could not be freed through the Law of Moses.*
 
 --- 
 
