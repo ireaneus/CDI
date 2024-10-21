@@ -55,6 +55,8 @@
 **Reconciliation**
 *Colossians 1:19-20 - For it was the Father’s good pleasure for all the fullness to dwell in Him, and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven.*
 
+**Sanctification**
+*Romans 6:19, 22 - so now present your members as slaves to righteousness, resulting in sanctification. But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life.*
 
 --- 
 
