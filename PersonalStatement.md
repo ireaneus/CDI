@@ -117,13 +117,6 @@ God the Father has decreed all things for His glory and continually upholds and 
 
 ---
 
-### **Key Attributes and Works of the Father**:
-- **God the Father generates the Son for all eternity** *"My Father is working until now, and I Myself am working.”; "For just as the Father has life in Himself, so He gave to the Son also to have life in Himself;"(John 5:17;26)*
-- **God the Father who is the author of the decree that brings to pass all that He wills** *"I will announce the decree of the Lord: He said to Me, ‘You are My Son, Today I have fathered You.(Psalm 2:7-9)*
-- **God the Father works in the election of the saints** *Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ, 4just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love 5He predestined us to adoption as sons and daughters through Jesus Christ to Himself, according to the good pleasure of His will, 6to the praise of the glory of His grace, with which He favored us in the Beloved (Ephesians 1:3-6)*
-- **God the Father sent His Son to do the work of redemption** *But the testimony I have is greater than the testimony of John; for the works which the Father has given Me to accomplish—the very works that I do—testify about Me, that the Father has sent Me (John 5:36)*
-- **God the Father disciplines His children** *Furthermore, we had earthly fathers to discipline us, and we respected them; shall we not much more be subject to the Father of spirits, and live? (Hebrews 12:9)*
-
 ### The Nature of God: God the Son
 I believe that Jesus Christ, the second person of the Trinity, is fully God and fully man, possessing two distinct natures in one person. He is the eternal Son of God, "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1). Through Him, all things were created, and He is the radiance of God’s glory, "upholding all things by the word of His power" (Hebrews 1:3).
 
@@ -156,23 +149,23 @@ I believe that the Holy Spirit, the third person of the Trinity, is fully God, c
 The Holy Spirit empowers believers for service, imparts spiritual gifts, and produces the fruit of the Spirit in their lives. He leads and guides believers into all truth, "for He will guide you into all the truth" (John 16:13), and illuminates the Word of God, enabling its application.
 
 #### Key Roles and Attributes of God the Holy Spirit:
-Divine Person: The Holy Spirit is fully God and co-equal with the Father and Son.
-"Now the Lord is the Spirit, and where the Spirit of the Lord is, there is liberty." (2 Corinthians 3:17)
+- **Divine Person: The Holy Spirit is fully God and co-equal with the Father and Son.**  
+*"Now the Lord is the Spirit, and where the Spirit of the Lord is, there is liberty." (2 Corinthians 3:17)*
 
-Agent of Creation: He was involved in the creation of the world.
-"The Spirit of God was moving over the surface of the waters." (Genesis 1:2)
+- **Agent of Creation: He was involved in the creation of the world.**  
+*"The Spirit of God was moving over the surface of the waters." (Genesis 1:2)*
 
-Convictor of Sin: The Holy Spirit brings conviction of sin, righteousness, and judgment.
-"And He, when He comes, will convict the world concerning sin and righteousness and judgment." (John 16:8)
+- **Convictor of Sin: The Holy Spirit brings conviction of sin, righteousness, and judgment.**  
+*"And He, when He comes, will convict the world concerning sin and righteousness and judgment." (John 16:8)*
 
-Indwelling Presence: He resides in all believers, empowering them to live godly lives.
-"Do you not know that you are a temple of God and that the Spirit of God dwells in you?" (1 Corinthians 3:16)
+- **Indwelling Presence: He resides in all believers, empowering them to live godly lives.**  
+*"Do you not know that you are a temple of God and that the Spirit of God dwells in you?" (1 Corinthians 3:16)*
 
-Guide to Truth: He leads believers into understanding and applying God's Word.
-"But when He, the Spirit of truth, comes, He will guide you into all the truth." (John 16:13)
+- **Guide to Truth: He leads believers into understanding and applying God's Word.**  
+*"But when He, the Spirit of truth, comes, He will guide you into all the truth." (John 16:13)*
 
-Giver of Spiritual Gifts: The Spirit distributes spiritual gifts for the edification of the Church.
-"But one and the same Spirit works all these things, distributing to each one individually just as He wills." (1 Corinthians 12:11)
+- **Giver of Spiritual Gifts: The Spirit distributes spiritual gifts for the edification of the Church.**  
+*"But one and the same Spirit works all these things, distributing to each one individually just as He wills." (1 Corinthians 12:11)*
 
 ---
 
@@ -192,25 +185,35 @@ I believe that God the Father is actively involved in His creation through His s
 
 ---
 
-### **What I Believe About the Decrees of God**
+### **The Decrees of God**
 
-I believe that the decrees of God are His eternal, unchangeable plans made before the foundation of the world, by which He has sovereignly ordained everything that comes to pass. These decrees are rooted in His perfect wisdom and knowledge, *"The counsel of the Lord stands forever, the plans of His heart from generation to generation"* (Psalm 33:11). They encompass all aspects of creation, providence, redemption, and judgment.
+I believe that the **Decrees of God** are His eternal ordinances, established in His perfect wisdom and will, by which He determined to accomplish His purposes. These decrees are absolute, sovereign, and unchangeable, encompassing all that will ever happen.
 
-- **Eternal Purpose**: God's decrees reflect His eternal purpose and will. *"He made known to us the mystery of His will, according to His kind intention which He purposed in Him"* (Ephesians 1:9). His plans are carried out in perfect harmony and will never fail.
+- **Eternal and Unchangeable Plan**: From eternity, God has had a plan that does not change, set forth before the foundation of the world.  
+  *"He chose us in Him before the foundation of the world."* (Ephesians 1:4)  
+  *"God, who has saved us and called us with a holy calling... according to His own purpose and grace which was granted us in Christ Jesus from all eternity."* (2 Timothy 1:9)  
 
-- **Predestination and Election**: God chose those whom He would adopt as His children, *"He chose us in Him before the foundation of the world, that we would be holy and blameless before Him"* (Ephesians 1:4). His decree of election is based on His foreknowledge and sovereign choice.
+- **Comprehensive Determination of All Things**: God comprehends and determines all events that come to pass, working all things according to His sovereign will.  
+  *"He works all things after the counsel of His will."* (Ephesians 1:11)  
+  *"The king's heart is like channels of water in the hand of the Lord; He turns it wherever He wishes."* (Proverbs 21:1)  
 
-- **Decree of Creation**: God ordained the creation of the universe to reveal His glory, *"For by Him all things were created, both in the heavens and on earth"* (Colossians 1:16). Creation itself is the outworking of His eternal decree.
+- **God’s Relationship to Sin**: Although God decrees all things, He is not the author of sin and does not commit evil. God permits sin but always superintends it for His purposes, bringing about His perfect plan.  
+  *"This Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men."* (Acts 2:23)  
+  *"The Lord said to Satan, 'Behold, all that he has is in your power, only do not put forth your hand on him.'"* (Job 1:12)  
 
-- **Decree of Providence**: All events are governed according to God's sovereign will. *"And we know that God causes all things to work together for good to those who love God, to those who are called according to His purpose"* (Romans 8:28). His decrees encompass even the smallest details of life.
+- **Sovereignty and Unconditional Nature**: God's decrees are unconditional, independent of human action, and established by His sovereign will.  
+  *"He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will."* (Ephesians 1:5)  
+  *"All the inhabitants of the earth are accounted as nothing, but He does according to His will in the host of heaven."* (Daniel 4:35)  
 
-- **Decree of Redemption**: The plan of salvation was foreordained by God. *"He was foreknown before the foundation of the world, but has appeared in these last times for the sake of you"* (1 Peter 1:20). The redemption accomplished by Christ was part of God's eternal decree.
+- **Inevitability and Efficacy of God's Will**: What God has decreed will inevitably come to pass, and nothing can thwart His purposes. His decrees are always effective and will be fulfilled.  
+  *"For who can resist His will?"* (Romans 9:19)  
+  *"My counsel shall stand, and I will accomplish all my purpose."* (Isaiah 46:10, ESV)  
 
-- **Decree of Judgment**: God has decreed a final day of judgment. *"The Lord has made everything for its own purpose, even the wicked for the day of evil"* (Proverbs 16:4). His decrees ensure that justice will be served.
-
-- **Salvation by Grace through Faith**: The decree of salvation is based on God's grace, not human works. *"For by grace you have been saved through faith; and that not of yourselves, it is the gift of God"* (Ephesians 2:8).
+- **Consistency with God's Holy Nature**: God's decrees are always perfectly consistent with His holy character. He remains pure and righteous in all His plans.  
+  *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor."* (Habakkuk 1:13)  
 
 ---
+
 4. What do you believe about angels?
 5. What do you believe about Satan?
 6. What do you believe about the nature of man?
