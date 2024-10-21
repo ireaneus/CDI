@@ -40,16 +40,16 @@
 **Regeneration**  
 *Eph 2:5 - But God, being rich in mercy, because of His great love with which He loved us, 5even when we were dead in our transgressions, made us alive together with Christ (by grace you have been saved)*
 
-**Atonement**
+**Atonement**  
 *Rom. 5:6; 8,9 - For while we were still helpless, at the right time Christ died for the ungodly. But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us. Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him.*
 
-**Redemption**
+**Redemption**  
 *Rom. 6:17;22 - But thanks be to God that though you were slaves of sin, you became obedient from the heart to that form of teaching to which you were committed, But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life.*
 
-**Propitiation**
+**Propitiation**  
 *1 John 2:2-3; 4:10 - we have an Advocate with the Father, Jesus Christ the righteous; 2and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world. In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.*
 
-**Justification**
+**Justification**  
 *Acts 13:38-39 - Therefore let it be known to you, brethren, that through Him forgiveness of sins is proclaimed to you, 39and through Him everyone who believes is freed from all things, from which you could not be freed through the Law of Moses.*
 
 --- 
