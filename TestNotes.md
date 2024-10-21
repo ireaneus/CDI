@@ -52,6 +52,10 @@
 **Justification**  
 *Acts 13:38-39 - Therefore let it be known to you, brethren, that through Him forgiveness of sins is proclaimed to you, 39and through Him everyone who believes is freed from all things, from which you could not be freed through the Law of Moses.*
 
+**Reconciliation**
+*Colossians 1:19-20 - For it was the Father’s good pleasure for all the fullness to dwell in Him, and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven.*
+
+
 --- 
 
 ## Holy spirit section  
