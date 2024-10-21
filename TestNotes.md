@@ -30,8 +30,15 @@
 - **Why was it important that Jesus Christ live a perfect, sinless life? Support your answer from Scripture.**: He became our mediator, He was made a little lower than the angels, He emptied Himself to become like us to represent us Hebrews. "He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him."
 - **Briefly state the doctrine of the Trinity.*: There is only one God. That God is eternally existent in three persons, Father, Son and Holy Spirit. Each person of the Trinity is fully God and fully distinct. The triune nature of God is not in conflict with His unity, despite the difficulty we humans have of comprehending it.
 - **Is it possible for us, while in our flesh, to understand the Trinity? Why or why not?**: our minds are not capable of comprehending this
-- 
-- 
+
+---
+
+## Soteriology
+**Election**  
+The biblical doctrine that God in His sovereignty chooses certain
+individuals to be saved.
+
+**Regeneration**  
 
 
 
