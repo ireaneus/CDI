@@ -58,6 +58,18 @@
 **Sanctification**
 *Romans 6:19, 22 - so now present your members as slaves to righteousness, resulting in sanctification. But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life.*
 
+9. Describe the role of each member of the Trinity with regard to salvation. 
+- God the Father is responsible for election. God the Son is responsible forthe atonement and the sanctification of the saints. God the Holy Spirit is responsible for regeneration and testifying of Jesus.
+
+10. Compare and contrast Pelagianism, Arminianism and Calvinism with respect to salvation.
+- Pelagianism asserts that human beings are completely capable of choosing to come to Christ on their own without aid of the Holy Spirit.
+- Arminianism asserts that while the Holy Spirit makes it possible for somebody to come to faith, the individual must cooperate with the Holy Spirit and has the ability to refuse the offer of salvation.
+- Calvinism asserts that salvation is completely of God and that the call of the Holy Spirit is irresistible. All God has elected for salvation will inevitably come to saving faith.
+
+11.Compare and contrast the Arminian view of perseverance with the Calvinistic view.
+- Arminianism asserts that perseverance is the responsibility of the believer and consequently, one can lose his or her salvation.
+- Calvinism asserts that perseverance is the responsibility of God, and all who have accepted Christ will inevitably persevere to the end.
+
 --- 
 
 ## Holy spirit section  
