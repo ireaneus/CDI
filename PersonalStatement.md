@@ -18,76 +18,76 @@ While there is but one true interpretation of each passage, there are many appli
 ---
 
 ## The Nature of God
-I believe that God is eternal, infinite, and unchanging, existing as one essence in three distinct persons: Father, Son, and Holy Spirit. *"Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God" (Psalm 90:2)*. He is omnipotent, omnipresent, and omniscient, possessing all power and knowledge, and *"His sovereignty rules over all" (Psalm 103:19)*. God is perfectly holy and just, *"Holy, holy, holy, is the Lord of hosts, the whole earth is full of His glory" (Isaiah 6:3)*, and His judgments are always righteous.
+I believe that God is eternal, infinite, and unchanging, existing as one essence in three distinct persons: Father, Son, and Holy Spirit. *"Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God"* **(Psalm 90:2)**. He is omnipotent, omnipresent, and omniscient, possessing all power and knowledge, and *"His sovereignty rules over all"* **(Psalm 103:19)**. God is perfectly holy and just, *"Holy, holy, holy, is the Lord of hosts, the whole earth is full of His glory"* **(Isaiah 6:3)**, and His judgments are always righteous.
 
-God is also good, the source of all that is good, as it is written, "Taste and see that the Lord is good; How blessed is the man who takes refuge in Him!" (Psalm 34:8). He is self-existent, declaring, "I AM WHO I AM" (Exodus 3:14), having no beginning or end, and "His throne is established in the heavens" (Psalm 103:19).
+God is also good, the source of all that is good, as it is written, *"Taste and see that the Lord is good; How blessed is the man who takes refuge in Him!"* **(Psalm 34:8)**. He is self-existent, declaring, *"I AM WHO I AM"* **(Exodus 3:14)**, having no beginning or end, and *"His throne is established in the heavens"* **(Psalm 103:19)**.
 
 ---
 
 ### The Nature of God: Attributes of God
 **Eternal**: God exists outside of time, without beginning or end.  
-*"Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God."* (Psalm 90:2)
+*"Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God."* **(Psalm 90:2)**
 
 **Infinite**: God is limitless in His presence, knowledge, and power, filling all things.  
-*"Can a man hide himself in hiding places so I do not see him? declares the Lord. Do I not fill the heavens and the earth?"* (Jeremiah 23:24)
+*"Can a man hide himself in hiding places so I do not see him? declares the Lord. Do I not fill the heavens and the earth?"* **(Jeremiah 23:24)**
 
 **Immutable**: God is unchanging in His nature, character, and promises.  
-*"For I, the Lord, do not change."* (Malachi 3:6)
+*"For I, the Lord, do not change."* **(Malachi 3:6)**
 
 **Omnipotent**: I believe that God is sovereign over all creation, doing whatever He pleases in heaven, earth, and the seas. *'For I know that the Lord is great and that our Lord is above all gods. Whatever the Lord pleases, He does, in heaven and in earth, in the seas and in all deeps.'* **(Psalm 135:5-6)**
 
 **Omnipresent**: God is present everywhere, and there is no place where He is not.  
-*"Where can I go from Your Spirit? Or where can I flee from Your presence?"* (Psalm 139:7-10)
+*"Where can I go from Your Spirit? Or where can I flee from Your presence?"* **(Psalm 139:7-10)**
 
 **Omniscient**: God knows all things, past, present, and future.  
-*"I am God, and there is no one like Me, declaring the end from the beginning."* (Isaiah 46:9-10)
+*"I am God, and there is no one like Me, declaring the end from the beginning."* **(Isaiah 46:9-10)**
 
 **Holy**: God is absolutely pure, set apart from sin, and perfectly righteous.  
 *"Holy, holy, holy is the Lord of hosts, the whole earth is full of His glory."* (Isaiah 6:3)
 
 **Just**: God's ways are always right and fair; He is the standard of justice.  
-*"The Rock, His work is perfect, for all His ways are just."* (Deuteronomy 32:4)
+*"The Rock, His work is perfect, for all His ways are just."* **(Deuteronomy 32:4)**
 
 **Good**: God is the source of all goodness, and He acts with kindness and mercy.  
-*"Taste and see that the Lord is good; How blessed is the man who takes refuge in Him!"* (Psalm 34:8)
+*"Taste and see that the Lord is good; How blessed is the man who takes refuge in Him!"* **(Psalm 34:8)**
 
 **Sovereign**: God exercises supreme authority over all creation.  
-*"The Lord has established His throne in the heavens, and His sovereignty rules over all."* (Psalm 103:19)
+*"The Lord has established His throne in the heavens, and His sovereignty rules over all."* **(Psalm 103:19)**
 
 **Self-existent**: God exists by His own power and is dependent on nothing else.  
-*"I AM WHO I AM."* (Exodus 3:14)
+*"I AM WHO I AM."* **(Exodus 3:14)**
 
 ---
 
 ### **The Nature of God: The Trinity**
 
-I believe in one God who exists eternally in three distinct persons—Father, Son, and Holy Spirit. *"Hear, O Israel! The Lord is our God, the Lord is one!"* (Deuteronomy 6:4). Each person of the Trinity is fully God, sharing the same divine essence and nature, yet they are distinct in person and role. The Father, the Son, and the Holy Spirit are co-equal in all their attributes, including holiness, justice, and mercy, and together they reveal the fullness of God's perfect character.
+I believe in one God who exists eternally in three distinct persons—Father, Son, and Holy Spirit. *"Hear, O Israel! The Lord is our God, the Lord is one!"* **(Deuteronomy 6:4)**. Each person of the Trinity is fully God, sharing the same divine essence and nature, yet they are distinct in person and role. The Father, the Son, and the Holy Spirit are co-equal in all their attributes, including holiness, justice, and mercy, and together they reveal the fullness of God's perfect character.
 
-The Scriptures present the unity and distinctiveness of the three persons. Jesus commanded His followers to *"baptize in the name of the Father and the Son and the Holy Spirit,"* (Matthew 28:19), affirming the threefold nature of God. The heavenly vision in Revelation proclaims, *"Holy, Holy, Holy,"* reflecting the holiness of the Father, Son, and Holy Spirit, and *"the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit,"* is a benediction highlighting their relational unity (2 Corinthians 13:14).
+The Scriptures present the unity and distinctiveness of the three persons. Jesus commanded His followers to *"baptize in the name of the Father and the Son and the Holy Spirit,"* **(Matthew 28:19)**, affirming the threefold nature of God. The heavenly vision in Revelation proclaims, *"Holy, Holy, Holy,"* reflecting the holiness of the Father, Son, and Holy Spirit, and *"the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit,"* is a benediction highlighting their relational unity **(2 Corinthians 13:14)**.
 
-Though they are distinct in person, the Father, Son, and Holy Spirit are united in will and purpose. *"There are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one."* (1 John 5:7). Together, they operate in perfect harmony, fulfilling the divine plan in creation, redemption, and sanctification.
+Though they are distinct in person, the Father, Son, and Holy Spirit are united in will and purpose. *"There are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one."* **(1 John 5:7)**. Together, they operate in perfect harmony, fulfilling the divine plan in creation, redemption, and sanctification.
 
 ---
 
 ### **Scriptural Basis for the Trinity**:
 
 - **One God**: The oneness of God is foundational, affirming that there is only one divine being.  
-  *"Hear, O Israel! The Lord is our God, the Lord is one!" (Deuteronomy 6:4)*
+  *"Hear, O Israel! The Lord is our God, the Lord is one!"* **(Deuteronomy 6:4)**
 
 - **Three Persons**: The distinct persons of the Godhead are revealed in Jesus' command to baptize in the name of the Father, Son, and Holy Spirit.  
-  *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit." (Matthew 28:19)*
+  *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."* **(Matthew 28:19)**
 
 - **Unity in Essence**: Though distinct in person, the Father, Son, and Holy Spirit share the same divine nature.  
-  *"For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one." (1 John 5:7)*
+  *"For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one."* **(1 John 5:7)***
 
 - **Distinct Persons in Relationship**: Each person of the Trinity is involved in a relationship with believers and with one another, as expressed in the apostolic benediction.  
-  *"The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all." (2 Corinthians 13:14)*
+  *"The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all."* **(2 Corinthians 13:14)**
 
 ---
 
 ### **The Holiness of the Trinity**
 
-The holiness of God is central to His nature, and each person of the Trinity—Father, Son, and Holy Spirit—is perfectly holy, set apart in absolute purity and moral perfection. In the heavenly visions of Scripture, God is worshiped with the thrice-repeated acclamation, *"Holy, Holy, Holy is the Lord God, the Almighty, who was and who is and who is to come."* (Revelation 4:8). This threefold declaration emphasizes the infinite holiness of the Father, the Son, and the Holy Spirit, affirming their co-equality in divine holiness. The triune God is the source and standard of all that is holy, entirely distinct from creation and without any imperfection.
+The holiness of God is central to His nature, and each person of the Trinity—Father, Son, and Holy Spirit—is perfectly holy, set apart in absolute purity and moral perfection. In the heavenly visions of Scripture, God is worshiped with the thrice-repeated acclamation, *"Holy, Holy, Holy is the Lord God, the Almighty, who was and who is and who is to come."* **(Revelation 4:8)**. This threefold declaration emphasizes the infinite holiness of the Father, the Son, and the Holy Spirit, affirming their co-equality in divine holiness. The triune God is the source and standard of all that is holy, entirely distinct from creation and without any imperfection.
 
 God’s holiness is reflected individually in each person of the Trinity, revealing the fullness of His pure and righteous character. The Father’s holiness is seen in His utter separation from evil, the Son's holiness is demonstrated through His sinless life and sacrificial atonement, and the Holy Spirit’s holiness is evident in His sanctifying work in believers.
 
@@ -97,15 +97,15 @@ God’s holiness is reflected individually in each person of the Trinity, reveal
 
 - **The Holiness of the Father**:  
   God's holiness is manifested in His perfect separation from sin and inability to approve evil.  
-  *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor." (Habakkuk 1:13)*  
+  *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor."* **(Habakkuk 1:13)**  
 
 - **The Holiness of the Son**:  
   Jesus Christ, the Lamb of God, was without blemish or spot, living a sinless life to redeem humanity.  
-  *"But with the precious blood of Christ, as of a lamb without blemish and without spot." (1 Peter 1:19)*  
+  *"But with the precious blood of Christ, as of a lamb without blemish and without spot."* **(1 Peter 1:19)**  
 
 - **The Holiness of the Holy Spirit**:  
   The Holy Spirit dwells within believers, sanctifying them and making them holy, as the temple of God.  
-  *"Do you not know that you are a temple of God and that the Spirit of God dwells in you? ... For the temple of God is holy, and that is what you are." (1 Corinthians 3:16-17)*  
+  *"Do you not know that you are a temple of God and that the Spirit of God dwells in you? ... For the temple of God is holy, and that is what you are."* **(1 Corinthians 3:16-17)**  
 
 ---
 
