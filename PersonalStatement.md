@@ -214,7 +214,59 @@ I believe that the **Decrees of God** are His eternal ordinances, established in
 
 ---
 
-4. What do you believe about angels?
+### **What I Believe About Angels**
+
+I believe that angels are spiritual beings created by God to serve as His messengers and to accomplish His will. The term "angel" means "messenger" (Hebrews 1:14), though it can also refer to other roles such as delivering God's messages or worshiping Him. Angels are not eternal; they were created at a specific time by God, *"for by Him all things were created, both in the heavens and on earth, visible and invisible"* (Colossians 1:16), and they existed before humanity was formed, *"when the morning stars sang together and all the sons of God shouted for joy"* (Job 38:7).
+
+### **Description and Nature of Angels**
+
+- **Spiritual Beings**: Angels are spiritual and do not possess physical bodies, though they can appear in human form (Genesis 19:1-2). They were created by God and are not eternal like God Himself.
+  - *"Are they not all ministering spirits, sent out to render service for the sake of those who will inherit salvation?"* (Hebrews 1:14)
+
+- **Created Before Humanity**: Angels were created before the earth, and they rejoiced at God's creation.
+  - *"When the morning stars sang together and all the sons of God shouted for joy."* (Job 38:7)
+
+- **Created in Great Numbers**: The number of angels is vast and beyond human comprehension.
+  - *"And I heard the voice of many angels around the throne, and the number of them was myriads of myriads, and thousands of thousands."* (Revelation 5:11)
+
+- **Higher Order Than Humans**: Angels were created with a higher status than humans, possessing greater strength and knowledge.
+  - *"What is man that You take thought of him, and the son of man that You care for him? Yet You have made him a little lower than the angels."* (Psalm 8:4-5)
+
+- **Immortality**: Angels do not die; they are immortal beings who will continue to exist for eternity.
+  - *"For they cannot even die anymore, because they are like angels, and are sons of God, being sons of the resurrection."* (Luke 20:36)
+
+### **Roles and Classes of Angels**
+
+- **The Host of Heaven**: Angels are often referred to as the "Host of Heaven," indicating their role in God's heavenly army.
+  - *"I saw the Lord sitting on His throne, and all the host of heaven standing on His right and on His left."* (2 Chronicles 18:18)
+
+- **Named Angels**:
+  - **Michael the Archangel**: Michael is described as a warrior angel, defending God's people.
+    - *"But Michael the archangel, when he disputed with the devil..."* (Jude 1:9)
+  - **Gabriel**: Gabriel is often associated with delivering important messages from God.
+    - *"And the angel answered and said to him, 'I am Gabriel, who stands in the presence of God, and I have been sent to speak to you and to bring you this good news.'"* (Luke 1:19)
+
+- **Seraphim**: Seraphim are angels that worship God and guard the divine throne.
+  - *"Seraphim stood above Him, each having six wings... and one called out to another and said, 'Holy, Holy, Holy, is the Lord of hosts, the whole earth is full of His glory.'"* (Isaiah 6:2-3)
+
+- **Cherubim**: Cherubim are often associated with guarding sacred places, such as the Garden of Eden.
+  - *"So He drove the man out; and at the east of the garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life."* (Genesis 3:24)
+
+### **Destiny of Angels**
+
+- **Eternal Existence**: Angels will live forever, either in the presence of God or in the Lake of Fire for those who rebelled.
+  - *"Depart from Me, accursed ones, into the eternal fire which has been prepared for the devil and his angels."* (Matthew 25:41)
+
+### **The Origin and Purpose of Angels**
+
+- **Created by God for His Glory**: Angels were created to serve God and bring Him glory.
+  - *"You alone are the Lord. You have made the heavens, the heaven of heavens with all their host, the earth and all that is on it."* (Nehemiah 9:6)
+
+- **Messengers and Servants**: They serve as messengers of God’s will and assist in carrying out His commands.
+  - *"The angel of the Lord encamps around those who fear Him, and rescues them."* (Psalm 34:7)
+
+---
+
 5. What do you believe about Satan?
 6. What do you believe about the nature of man?
 7. What do you believe about sin?
