@@ -34,8 +34,7 @@ God is also good, the source of all that is good, as it is written, "Taste and s
 **Immutable**: God is unchanging in His nature, character, and promises.  
 *"For I, the Lord, do not change."* (Malachi 3:6)
 
-**Omnipotent**: God is all-powerful, able to do all that He wills.  
-*"I know that You can do all things, and that no purpose of Yours can be thwarted."* (Job 42:2)
+**Omnipotent**: I believe that God is sovereign over all creation, doing whatever He pleases in heaven, earth, and the seas. *'For I know that the Lord is great and that our Lord is above all gods. Whatever the Lord pleases, He does, in heaven and in earth, in the seas and in all deeps.'* **(Psalm 135:5-6)**
 
 **Omnipresent**: God is present everywhere, and there is no place where He is not.  
 *"Where can I go from Your Spirit? Or where can I flee from Your presence?"* (Psalm 139:7-10)
@@ -205,9 +204,10 @@ I believe that the **Decrees of God** are His eternal ordinances, established in
   *"He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will."* (Ephesians 1:5)  
   *"All the inhabitants of the earth are accounted as nothing, but He does according to His will in the host of heaven."* (Daniel 4:35)  
 
-- **Inevitability and Efficacy of God's Will**: What God has decreed will inevitably come to pass, and nothing can thwart His purposes. His decrees are always effective and will be fulfilled.  
+- **Inevitability and Efficacy of God's Will**:  The decrees of God are by His sovereign will, and nothing can hinder them. *'Whatever the Lord pleases, He does, in heaven and in earth, in the seas and in all deeps.'* **(Psalm 135:6)**  
   *"For who can resist His will?"* (Romans 9:19)  
-  *"My counsel shall stand, and I will accomplish all my purpose."* (Isaiah 46:10, ESV)  
+  *"My counsel shall stand, and I will accomplish all my purpose."* (Isaiah 46:10, ESV)
+ 
 
 - **Consistency with God's Holy Nature**: God's decrees are always perfectly consistent with His holy character. He remains pure and righteous in all His plans.  
   *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor."* (Habakkuk 1:13)  
@@ -271,7 +271,82 @@ However, through the Fall, humanity's moral and spiritual likeness to God has be
 
 ---
 
-7. What do you believe about sin?
+### **What I Believe About Sin**
+
+I believe that **sin** is any failure to conform to the moral law of God, in action, attitude, or nature. Sin originated with Satan's rebellion against God and entered the human race through Adam's disobedience in the Garden of Eden. *"Through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned."* **(Romans 5:12). Sin separates humanity from God, corrupting the **image of God** in us, and results in both physical and spiritual death. *"For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."* (Romans 6:23).
+
+### **The Origin and Nature of Sin**
+
+- **The Origin of Sin**:  
+  Sin began with Satan's rebellion against God and subsequently entered the human race through Adam and Eve's disobedience.  
+  *"You were blameless in your ways from the day you were created until unrighteousness was found in you."* (Ezekiel 28:15)  
+  *"When the woman saw that the tree was good for food, and that it was a delight to the eyes... she took from its fruit and ate; and she gave also to her husband with her, and he ate."* (Genesis 3:6)
+
+- **Inherited Sin**:  
+  As descendants of Adam, all people inherit a sinful nature, which inclines them toward sin from birth.  
+  *"Behold, I was brought forth in iniquity, and in sin my mother conceived me."* (Psalm 51:5)  
+  *"There is none righteous, not even one."* (Romans 3:10)
+
+- **Total Depravity**:  
+  Human nature is corrupted by sin in every aspect—mind, will, and emotions—rendering humanity incapable of pleasing God without His grace.  
+  *"The heart is more deceitful than all else and is desperately sick; who can understand it?"* (Jeremiah 17:9)  
+  *"Those who are in the flesh cannot please God."* (Romans 8:8)
+
+### **The Consequences of Sin**
+
+- **Separation from God**:  
+  Sin results in spiritual separation from God, disrupting the relationship that humanity was created to enjoy with Him.  
+  *"But your iniquities have made a separation between you and your God, and your sins have hidden His face from you."* (Isaiah 59:2)
+
+- **Physical and Spiritual Death**:  
+  Sin brings both physical death and eternal spiritual death, which is separation from God's presence in hell.  
+  *"For the wages of sin is death."* (Romans 6:23)  
+  *"These will pay the penalty of eternal destruction, away from the presence of the Lord."* (2 Thessalonians 1:9)
+
+- **Corruption of Creation**:  
+  The effects of sin extend beyond humanity, impacting all of creation, which now suffers under a curse.  
+  *"For the creation was subjected to futility, not willingly, but because of Him who subjected it, in hope."* (Romans 8:20)
+
+### **The Different Types of Sin**
+
+- **Original Sin**:  
+  This refers to the sinful nature inherited from Adam, which corrupts every person at birth.  
+  *"Through one man sin entered into the world, and death through sin, and so death spread to all men."* (Romans 5:12)
+
+- **Personal Sin**:  
+  Individual acts of transgression committed by each person, for which they are accountable.  
+  *"If we say that we have no sin, we are deceiving ourselves and the truth is not in us."* (1 John 1:8)
+
+- **Sins of Commission and Omission**:  
+  Sins of commission are deliberate acts of disobedience, while sins of omission occur when one fails to do what is right.  
+  *"Therefore, to one who knows the right thing to do and does not do it, to him it is sin."* (James 4:17)
+
+### **God’s Provision for Sin**
+
+- **Atonement Through Christ**:  
+  God provided the remedy for sin through the sacrificial death and resurrection of Jesus Christ. His blood covers the sins of all who believe in Him.  
+  *"He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness."* (1 Peter 2:24)
+
+- **Confession and Forgiveness**:  
+  Believers are called to confess their sins and seek God's forgiveness, which is freely given in Christ.  
+  *"If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness."* (1 John 1:9)
+
+- **Restoration of the Image of God**:  
+  Through salvation in Christ, the image of God, which was marred by sin, is progressively restored in believers.  
+  *"We all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory."* (2 Corinthians 3:18)
+
+### **Victory Over Sin**
+
+- **Freedom from Sin’s Dominion**:  
+  Believers are no longer slaves to sin but are empowered to live in righteousness through the Holy Spirit.  
+  *"For sin shall not be master over you, for you are not under law but under grace."* (Romans 6:14)
+
+- **Ongoing Sanctification**:  
+  Though the believer is declared righteous in Christ, the process of sanctification continues throughout life as God conforms us to the image of His Son.  
+  *"For this is the will of God, your sanctification."* (1 Thessalonians 4:3)
+
+---
+
 8. What do you believe about salvation?
 9. What do you believe about the Church?
 10. What do you believe about Heaven and Hell?
