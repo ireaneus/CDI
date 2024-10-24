@@ -143,9 +143,9 @@ Christ will return to judge the living and the dead, establishing His eternal ki
 *"He sat down at the right hand of the Majesty on high." (Hebrews 1:3)*
 
 ### The Nature of God: God the Holy Spirit
-I believe that the Holy Spirit, the third person of the Trinity, is fully God, co-equal with the Father and the Son. The Holy Spirit was active in creation, "moving over the surface of the waters" (Genesis 1:2), and is now the divine agent in regeneration and sanctification. He convicts the world of sin, righteousness, and judgment (John 16:8) and indwells every believer, sealing them for the day of redemption (Ephesians 1:13-14).
+I believe that the Holy Spirit, the third person of the Trinity, is fully God, co-equal with the Father and the Son. The Holy Spirit was active in creation, *"moving over the surface of the waters"* **(Genesis 1:2)**, and is now the divine agent in regeneration and sanctification. *He convicts the world of sin, righteousness, and judgment* **(John 16:8)** and indwells every believer, *sealing them for the day of redemption* **(Ephesians 1:13-14)**.
 
-The Holy Spirit empowers believers for service, imparts spiritual gifts, and produces the fruit of the Spirit in their lives. He leads and guides believers into all truth, "for He will guide you into all the truth" (John 16:13), and illuminates the Word of God, enabling its application.
+The Holy Spirit empowers believers for service, imparts spiritual gifts, and produces the fruit of the Spirit in their lives. He leads and guides believers into all truth, *"for He will guide you into all the truth"* **(John 16:13)**, and illuminates the Word of God, enabling its application.
 
 #### Key Roles and Attributes of God the Holy Spirit:
 - **Divine Person: The Holy Spirit is fully God and co-equal with the Father and Son.**  
