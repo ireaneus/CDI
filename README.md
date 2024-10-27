@@ -12,3 +12,16 @@ Contenders Discipleship Initiative
 6. Hermeneutics
 7. Typology
 8. Five-Step Bible Study Method
+
+## Doctrine and Systematic Theology
+### Book: Charts of Christian Theology & Doctrine
+**H. Wayne House**
+
+### Lectures in Systematic Theology
+**Henry Theissen**
+
+## Great Doctrines of the Bible
+**D. Martin Lloyd Jones**
+
+## Kingdom of the Cults
+**Dr. Walter Martin**
