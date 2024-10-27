@@ -1,10 +1,12 @@
 # Personal Statement of Faith
 
 ## The Chief End of Man
-##### add Isaiah 43:6-7
-I believe that the chief end of man is to glorify God and to enjoy Him forever. As Scripture declares, *"Whether, then, you eat or drink or whatever you do, do all to the glory of God"* **(1 Corinthians 10:31)**. God has designed humanity to find true satisfaction in Him alone, for *"He has satisfied the thirsty soul, and the hungry soul He has filled with what is good"* **(Psalm 107:9)**. In God’s presence, we find *"fullness of joy; in His right hand there are pleasures forever"* **(Psalm 16:11)**.
 
-God's Word teaches that life’s ultimate purpose is to fear Him and obey His commandments: *"The conclusion, when all has been heard, is: fear God and keep His commandments, because this applies to every person"* **(Ecclesiastes 12:13)**. Our hearts are meant to desire God above all else, as the psalmist proclaims: *"Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, but God is the strength of my heart and my portion forever"* **(Psalm 73:25-26)**.
+I believe that the chief end of man is to glorify God and to enjoy Him forever, created for our ultimate satisfaction in Him, *"For He has satisfied the thirsty soul, and the hungry soul He has filled with what is good."* **(Psalm 107:9)**. True joy and fulfillment are found in the Lord, *"Delight yourself in the Lord; and He will give you the desires of your heart."* **(Psalm 37:4)**. The deepest longings of the human heart are met in God's presence, *"In Your presence is fullness of joy; in Your right hand there are pleasures forever."* **(Psalm 16:11)**.
+
+God is the source of all that is truly good and satisfying, *"O taste and see that the Lord is good; how blessed is the man who takes refuge in Him!"* **(Psalm 34:8)**. Our hearts remain restless until they find peace in God, *"My soul thirsts for God, for the living God; when shall I come and appear before God?"* **(Psalm 42:2)**. Life's true meaning is found in knowing and loving Him, *"Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, but God is the strength of my heart and my portion forever."* **(Psalm 73:25-26)**.
+
+The call to glorify God extends to every part of life, *"Whether, then, you eat or drink or whatever you do, do all to the glory of God."* **(1 Corinthians 10:31)**. In seeking our fulfillment in Him, we accomplish our highest purpose, bringing honor to God and experiencing the abundant life He offers.
 
 ---
 
