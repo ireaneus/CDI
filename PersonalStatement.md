@@ -446,9 +446,96 @@ After the final judgment, the unrighteous will be cast into the **Lake of Fire**
 ---
 
 
-11. What do you believe about resurrection?
-12. What do you believe about judgment?
-13. What do you believe about Jesus’ second coming?
+### **The Resurrection**
+
+I believe that the **Resurrection** is a multi-stage event in God's redemptive plan, ultimately bringing believers into eternal life with glorified bodies. It is central to the hope of the Christian faith and is described as taking place during what is often referred to as the **Rapture**. According to **1 Thessalonians 4:13-17**, this event encompasses the resurrection of the dead in Christ and the transformation of living believers. *"For the Lord Himself will descend from heaven with a shout, with the voice of the archangel and with the trumpet of God, and the dead in Christ will rise first. Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we shall always be with the Lord."* **(1 Thessalonians 4:16-17)**.
+
+### **The Phases of the Resurrection**
+
+1. **The Resurrection of the Dead in Christ**:  
+   At the Lord's return, those who have died in Christ will be raised with new, glorified bodies, *"The dead will be raised imperishable, and we will be changed."* **(1 Corinthians 15:52)**. This resurrection marks the beginning of the fulfillment of immortality for the redeemed.
+
+2. **The Transformation of Living Believers**:  
+   Those who are alive at the time of Christ’s return will be transformed instantly, *"In a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised imperishable, and we will be changed."* **(1 Corinthians 15:52)**. This reference to the **last trumpet** is often associated with **Rosh Hashanah** (the Jewish New Year), known as the **Feast of Trumpets**, during which multiple trumpet blasts (shofar blasts) are sounded. The final, long blast called the **Tekiah Gedolah** is significant because it symbolizes awakening, repentance, and the anticipation of God's coming redemption. This connection enriches the understanding of the resurrection as a time of transformation and renewal, heralding Christ's return and the fulfillment of God's redemptive plan.
+
+3. **The Bema Seat of Christ**:  
+   Following the resurrection and transformation, believers will appear before the **Bema Seat of Christ**, where their works will be evaluated, and rewards will be given. This judgment is for the purpose of reward, not condemnation, *"For we must all appear before the judgment seat of Christ, so that each one may be recompensed for his deeds in the body."* **(2 Corinthians 5:10)**.
+
+### **The Significance of the Resurrection**
+
+The resurrection fulfills the promise of eternal life and victory over death. *"For this perishable must put on the imperishable, and this mortal must put on immortality."* **(1 Corinthians 15:53)**. It is a demonstration of Christ's power over death and a guarantee of the believer's future glorification. Through this event, the saints will experience the fullness of their salvation as they are conformed to the image of Christ.
+
+---
+
+### **The Judgment**
+
+I believe that **Judgment** is an essential aspect of God's character and His ultimate plan of justice. Scripture reveals that every person will face judgment before God, who judges with perfect righteousness. *"For we will all stand before the judgment seat of God…So then each one of us will give an account of himself to God."* **(Romans 14:10,12)**. This includes both believers and unbelievers, with distinct judgments that reveal God's justice, holiness, and sovereignty.
+
+### **Judgment for Believers: The Bema Seat of Christ**
+
+Believers will appear before the **Bema Seat of Christ** (the Judgment Seat of Christ) to receive rewards for their faithful service.
+
+- **Purpose**: The Bema Seat is to evaluate believers' lives and reward them according to their works, *"For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we would walk in them."* **(Ephesians 2:10)**.
+- **Rewards**: The rewards given at the Bema Seat reflect God’s recognition of the believer’s faithfulness, *"Each man's work will become evident; for the day will show it because it is to be revealed with fire, and the fire itself will test the quality of each man's work."* **(1 Corinthians 3:13)**. Believers are rewarded with crowns and other blessings, *"And when the Chief Shepherd appears, you will receive the unfading crown of glory."* **(1 Peter 5:4)**.
+
+### **Judgment for Unbelievers: The Great White Throne**
+
+Unbelievers will face final judgment at the **Great White Throne**, where they will be judged for their rejection of Christ and their deeds. This judgment is one of condemnation, resulting in eternal separation from God.
+
+- **The Great White Throne**: At the end of the age, those who have rejected God will stand before Him for judgment. *"Then I saw a great white throne and Him who sat upon it, from whose presence earth and heaven fled away."* **(Revelation 20:11)**.
+- **The Book of Life**: Those not found in the Book of Life will face eternal punishment, *"And if anyone's name was not found written in the book of life, he was thrown into the lake of fire."* **(Revelation 20:15)**.
+- **Final Destination**: Unbelievers will be cast into the **Lake of Fire**, which is the second death, *"These will go away into eternal punishment, but the righteous into eternal life."* **(Matthew 25:46)**.
+
+### **The Judgment of Angels**
+
+God will also judge angels who rebelled with Satan. *"And angels who did not keep their own domain, but abandoned their proper abode, He has kept in eternal bonds under darkness for the judgment of the great day."* **(Jude 1:6)**. These fallen angels, along with Satan, will face eternal punishment, *"And the devil who deceived them was thrown into the lake of fire and brimstone."* **(Revelation 20:10)**.
+
+### **The Nature of God’s Judgment**
+God’s judgment flows from His perfect holiness and righteousness. He is a holy and just Judge who cannot tolerate sin in His presence, as His nature is pure and blameless. *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor."* **(Habakkuk 1:13)**. As a just God, He judges all people according to His perfect standards.
+
+**God’s Righteousness:** God’s judgment is based on His unchanging righteousness; His standards are flawless, and His judgments are just. *"The Lord is righteous, He loves righteousness; the upright will behold His face."* **(Psalm 11:7)**.
+
+**God’s Holiness:** Because God is holy, He cannot be in the presence of sin or overlook unrighteousness. His holiness demands that He judge sin, upholding His blameless character. *"The Rock! His work is perfect, for all His ways are just; a God of faithfulness and without injustice, righteous and upright is He."* **(Deuteronomy 32:4)**.
+
+**God’s Justice:** God's justice ensures that each person is held accountable for their actions. His judgments are fair and unchangeable, offering mercy to those covered by Christ’s atonement, while condemning sin and rebellion in those who reject Him. *"For the Lord is a God of justice; blessed are all those who wait for Him."* **(Isaiah 30:18)**.
+
+### **The Final Judgment and Eternal Destinies**
+
+The final judgment is the culmination of God’s redemptive plan, where all creation is held accountable before Him. Believers will experience eternal life in the presence of God, while unbelievers face eternal separation from Him.
+
+- **Eternal Life**: Believers are promised eternal life with God in the New Heaven and New Earth, *"He will wipe away every tear from their eyes; and there will no longer be any death; there will no longer be any mourning, or crying, or pain."* **(Revelation 21:4)**.
+- **Eternal Separation**: For those who reject God, eternal separation is their end, *"These will pay the penalty of eternal destruction, away from the presence of the Lord."* **(2 Thessalonians 1:9)**.
+
+---
+
+### **The Second Coming of the Messiah**
+
+I believe that **Jesus Christ, the Messiah**, will return to earth in power and glory, fulfilling the promises of His Second Coming as foretold in Scripture. His return will be visible, physical, and triumphant, bringing final judgment, establishing His kingdom, and fulfilling God’s redemptive plan. *"This Jesus, who has been taken up from you into heaven, will come in just the same way as you have watched Him go into heaven."* **(Acts 1:11)**.
+
+### **The Nature of the Second Coming**
+
+- **Visible and Glorious**: The return of Christ will be seen by all and accompanied by power and glory, *"For just as the lightning comes from the east and flashes even to the west, so will the coming of the Son of Man be."* **(Matthew 24:27)**.
+  
+- **Sudden and Unexpected**: Christ’s return will come at a time when it is not anticipated, urging believers to remain watchful and faithful, *"For you yourselves know full well that the day of the Lord will come just like a thief in the night."* **(1 Thessalonians 5:2)**.
+
+- **Physical and Bodily**: Jesus will return in bodily form, just as He ascended, *"They will see the Son of Man coming on the clouds of the sky with power and great glory."* **(Matthew 24:30)**.
+
+### **Events Surrounding the Second Coming**
+
+1. **The Resurrection of the Dead**: At His return, the dead in Christ will rise first, and living believers will be caught up with them, transformed in the twinkling of an eye, *"For the Lord Himself will descend from heaven with a shout... and the dead in Christ will rise first. Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air."* **(1 Thessalonians 4:16-17)**.
+
+2. **Final Judgment**: Christ’s return will usher in the final judgment, where all people will be judged for their deeds. Believers will enter eternal life, while unbelievers face eternal separation from God, *"When the Son of Man comes in His glory... He will sit on His glorious throne. All the nations will be gathered before Him; and He will separate them one from another."* **(Matthew 25:31-32)**.
+
+3. **Establishment of His Kingdom**: The Messiah will establish His reign, fulfilling the promises of a kingdom that brings peace, righteousness, and justice. *"The kingdom of the world has become the kingdom of our Lord and of His Christ; and He will reign forever and ever."* **(Revelation 11:15)**.
+
+4. **The Defeat of Evil**: At His coming, Jesus will decisively defeat Satan, sin, and death, casting them into the Lake of Fire and removing all evil from His kingdom, *"And the devil who deceived them was thrown into the lake of fire and brimstone."* **(Revelation 20:10)**.
+
+### **The Promise of Hope**
+
+The Second Coming of Christ is the hope of every believer, a promise of eternal life in His presence and freedom from sin, sorrow, and death. *"Looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus."* **(Titus 2:13)**. We are called to live in anticipation, persevering in faith, and sharing the gospel as we await His return.
+
+---
+
 14. What do you believe about eternity?
 
 ---
@@ -463,7 +550,7 @@ I believe that God created the universe out of nothing by His word in **six lite
 ---
 
 ### **Providence**
-I believe in the **providence of God**, whereby He governs all events, both big and small, according to His eternal plan. Even though I am responsible for my actions, God's providential care directs my path. Even the dust particles in the sunlight move according to His sovereign will.
+I believe in the **providence of God**, whereby He governs all events, both big and small, according to His eternal plan. Even though I am responsible for my actions, God's providential care directs my path.  He is a personal God, intimately involved with His creation, nothing passes by outside His Will.
 - **Scripture References**:
   - *Psalm 139:7-10* – "Where can I go from Your Spirit? Or where can I flee from Your presence?"
   - *Proverbs 16:9* – "The mind of man plans his way, but the Lord directs his steps."
