@@ -392,8 +392,60 @@ Salvation brings about reconciliation with God, adoption as His children, and et
 
 ---
 
-9. What do you believe about the Church?
-10. What do you believe about Heaven and Hell?
+### **The Church**
+
+I believe that the Church is the body of Christ, a spiritual organism made up of all believers from the day of Pentecost to the Rapture. It is composed of those who have been called out by God from all nations to form one unified body, *"For by one Spirit we were all baptized into one body, whether Jews or Greeks, whether slaves or free, and we were all made to drink of one Spirit."* **(1 Corinthians 12:13)**. The Church is distinct from Israel and was established as a new entity at Pentecost.
+
+### **The Universal and Local Church**
+- The **universal Church** consists of all true believers in Christ, forming a spiritual body where Christ is the head, *"And He put all things in subjection under His feet, and gave Him as head over all things to the church, which is His body, the fullness of Him who fills all in all."* **(Ephesians 1:22-23)**.
+- The **local church** refers to the visible gathering of believers in a specific location, committed to the teaching of God's Word, worship, fellowship, and observing the ordinances of baptism and the Lord's Supper, *"They were continually devoting themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer."* **(Acts 2:42)**.
+
+### **The Purpose of the Church**
+The Church exists to glorify God by making His wisdom known, *"so that the manifold wisdom of God might now be made known through the church to the rulers and the authorities in the heavenly places."* **(Ephesians 3:10)**, and to be a dwelling place for God by the Spirit, *"being built upon the foundation of the apostles and prophets, Christ Jesus Himself being the corner stone, in whom the whole building, being fitted together, is growing into a holy temple in the Lord."* **(Ephesians 2:20-21)**.
+
+### **The Functions of the Church**
+- **Worship**: The Church gathers to praise and honor God, *"God is spirit, and those who worship Him must worship in spirit and truth."* **(John 4:24)**.
+- **Evangelism**: The Church is commanded to spread the gospel to all nations, *"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."* **(Matthew 28:19)**.
+- **Discipleship**: The Church is tasked with teaching believers to grow in maturity, *"Teaching them to observe all that I commanded you."* **(Matthew 28:20)**.
+- **Fellowship and Care**: The Church is to care for its members, *"Bear one another's burdens, and thereby fulfill the law of Christ."* **(Galatians 6:2)**.
+
+### **The Future of the Church**
+The Church's future includes being raptured, rewarded, and reigning with Christ, *"For the Lord Himself will descend from heaven with a shout...and the dead in Christ will rise first."* **(1 Thessalonians 4:16-17)**. Eventually, the Church will dwell with Christ in the New Jerusalem, *"Behold, the tabernacle of God is among men, and He will dwell among them, and they shall be His people, and God Himself will be among them."* **(Revelation 21:3)**.
+
+---
+
+### **Heaven and Hell**
+
+I believe that **Heaven** and **Hell** are real and eternal destinations for all human beings after death. The existence of these places is clearly revealed in Scripture, and they reflect the ultimate outcomes of God's justice and grace.
+
+### **Heaven**
+
+Heaven is the eternal dwelling place of God, the elect angels, and all believers who have been redeemed through faith in Jesus Christ. It is a place of perfect peace, joy, and fellowship with God, where there is no more pain, suffering, or death. The Bible describes Heaven as the **"Third Heaven"**, the abode of God, *"where God dwells and receives worship"* **(2 Corinthians 12:2-4)**. 
+
+- **The Dwelling Place of God**: *"The Lord has established His throne in the heavens, and His sovereignty rules over all."* **(Psalm 103:19)**
+- **The Hope for Believers**: When believers die, they are immediately in the presence of the Lord, *"To be absent from the body is to be present with the Lord."* **(2 Corinthians 5:8)**
+- **The New Jerusalem**: In the eternal state, Heaven will come down to the new earth as the New Jerusalem, *"And I saw the holy city, new Jerusalem, coming down out of heaven from God."* **(Revelation 21:2)**
+
+Heaven is also referred to as **Paradise**, a place of blessedness for the righteous. After Christ’s ascension, the location of Paradise changed from Abraham's Bosom to the Third Heaven, and now, when believers die, they are taken to Heaven.
+
+### **Hell**
+
+Hell is the current place of torment for the souls of the unrighteous. It is a temporary state until the final judgment, where the wicked await their ultimate fate. Hell is often referred to as **Hades**, the Greek equivalent of **Sheol**, which denotes the realm of the dead. It is a place of suffering, described as a **place of torment**, *"In Hades he lifted up his eyes, being in torment."* **(Luke 16:23)**
+
+- **The Place of Unbelievers**: *"The wicked will return to Sheol, even all the nations who forget God."* **(Psalm 9:17)**
+- **Conscious Suffering**: The souls in Hell experience conscious torment, *"There will be weeping and gnashing of teeth."* **(Matthew 13:42)**
+
+### **The Lake of Fire (Gehenna)**
+
+After the final judgment, the unrighteous will be cast into the **Lake of Fire**, also known as **Gehenna**, which is the final and eternal place of punishment for both fallen angels and humans who have rejected Christ. It is described as a place of **eternal fire** and **darkness**, where the torment never ends.
+
+- **Eternal Separation from God**: *"These will pay the penalty of eternal destruction, away from the presence of the Lord."* **(2 Thessalonians 1:9)**
+- **The Final Judgment**: *"And if anyone's name was not found written in the book of life, he was thrown into the lake of fire."* **(Revelation 20:15)**
+- **Unquenchable Fire**: *"It is better for you to enter life crippled, than, having your two hands, to go into hell, into the unquenchable fire."* **(Mark 9:43)**
+
+---
+
+
 11. What do you believe about resurrection?
 12. What do you believe about judgment?
 13. What do you believe about Jesus’ second coming?
@@ -415,15 +467,6 @@ I believe in the **providence of God**, whereby He governs all events, both big 
 - **Scripture References**:
   - *Psalm 139:7-10* – "Where can I go from Your Spirit? Or where can I flee from Your presence?"
   - *Proverbs 16:9* – "The mind of man plans his way, but the Lord directs his steps."
-
----
-
-### **Eschatology (End Times)**
-I believe in a **pre-tribulation rapture**, a **literal seven-year tribulation**, followed by Christ’s **1,000-year reign** on earth. These events will culminate in the final judgment and the new heaven and new earth, where believers will dwell with God forever.
-- **Scripture References**:
-  - *1 Thessalonians 4:16-17* – "The dead in Christ will rise first... we who are alive will be caught up."
-  - *Revelation 20:1-3* – "And He laid hold of the dragon... and bound him for a thousand years."
-  - *Revelation 6-19* – Describes the seven-year tribulation.
 
 ---
 
