@@ -91,8 +91,6 @@ Though they are distinct in person, the Father, Son, and Holy Spirit are united 
 
 The holiness of God is central to His nature, and each person of the Trinity—Father, Son, and Holy Spirit—is perfectly holy, set apart in absolute purity and moral perfection. In the heavenly visions of Scripture, God is worshiped with the thrice-repeated acclamation, *"Holy, Holy, Holy is the Lord God, the Almighty, who was and who is and who is to come."* **(Revelation 4:8)**. This threefold declaration emphasizes the infinite holiness of the Father, the Son, and the Holy Spirit, affirming their co-equality in divine holiness. The triune God is the source and standard of all that is holy, entirely distinct from creation and without any imperfection.
 
-God’s holiness is reflected individually in each person of the Trinity, revealing the fullness of His pure and righteous character. The Father’s holiness is seen in His utter separation from evil, the Son's holiness is demonstrated through His sinless life and sacrificial atonement, and the Holy Spirit’s holiness is evident in His sanctifying work in believers.
-
 ---
 
 ### **Scriptural Support for the Holiness of Each Person**:
@@ -119,7 +117,7 @@ God the Father has decreed all things for His glory and continually upholds and 
 ---
 
 ### The Nature of God: God the Son
-I believe that Jesus Christ, the second person of the Trinity, is fully God and fully man, possessing two distinct natures in one person. He is the eternal Son of God, *"In the beginning was the Word, and the Word was with God, and the Word was God"* **(John 1:1)**. *Through Him, all things were created, and He is the radiance of God’s glory, "upholding all things by the word of His power"* **(Hebrews 1:3)*.
+I believe that Jesus Christ, the second person of the Trinity, is fully God and fully man, possessing two distinct natures in one person. He is the eternal Son of God, *"In the beginning was the Word, and the Word was with God, and the Word was God"* **(John 1:1)**. *Through Him, all things were created, and He is the radiance of God’s glory, "upholding all things by the word of His power"* **(Hebrews 1:3)**.
 
 Jesus was born of a virgin (Matthew 1:23), lived a sinless life, and fulfilled the Law perfectly. He willingly went to the cross, *"bearing our sins in His body on the tree"* **(1 Peter 2:24)**, and died as a substitutionary atonement for humanity’s sins. He rose bodily from the dead on the third day, *"according to the Scriptures"* **(1 Corinthians 15:3-4)**, *conquering sin and death, and ascended into heaven, where He is seated at the right hand of the Father* **(Hebrews 1:3)**.
 
@@ -142,7 +140,7 @@ Christ will return to judge the living and the dead, establishing His eternal ki
 *"He is not here, for He has risen, just as He said." (Matthew 28:6)*
 
 - **Exalted King: He ascended into heaven and is seated at the right hand of the Father.**  
-*"He sat down at the right hand of the Majesty on high." (Hebrews 1:3)*
+*"He sat down at the right hand of the Majesty on high."* **(Hebrews 1:3)**
 
 ### The Nature of God: God the Holy Spirit
 I believe that the Holy Spirit, the third person of the Trinity, is fully God, co-equal with the Father and the Son. The Holy Spirit was active in creation, *"moving over the surface of the waters"* **(Genesis 1:2)**, and is now the divine agent in regeneration and sanctification. *He convicts the world of sin, righteousness, and judgment* **(John 16:8)** and indwells every believer, *sealing them for the day of redemption* **(Ephesians 1:13-14)**.
@@ -151,22 +149,22 @@ The Holy Spirit empowers believers for service, imparts spiritual gifts, and pro
 
 #### Key Roles and Attributes of God the Holy Spirit:
 - **Divine Person: The Holy Spirit is fully God and co-equal with the Father and Son.**  
-*"Now the Lord is the Spirit, and where the Spirit of the Lord is, there is liberty." (2 Corinthians 3:17)*
+*"Now the Lord is the Spirit, and where the Spirit of the Lord is, there is liberty."* **(2 Corinthians 3:17)**
 
 - **Agent of Creation: He was involved in the creation of the world.**  
-*"The Spirit of God was moving over the surface of the waters." (Genesis 1:2)*
+*"The Spirit of God was moving over the surface of the waters."* **(Genesis 1:2)**
 
 - **Convictor of Sin: The Holy Spirit brings conviction of sin, righteousness, and judgment.**  
-*"And He, when He comes, will convict the world concerning sin and righteousness and judgment." (John 16:8)*
+*"And He, when He comes, will convict the world concerning sin and righteousness and judgment."* **(John 16:8)**
 
 - **Indwelling Presence: He resides in all believers, empowering them to live godly lives.**  
-*"Do you not know that you are a temple of God and that the Spirit of God dwells in you?" (1 Corinthians 3:16)*
+*"Do you not know that you are a temple of God and that the Spirit of God dwells in you?"* **(1 Corinthians 3:16)**
 
 - **Guide to Truth: He leads believers into understanding and applying God's Word.**  
-*"But when He, the Spirit of truth, comes, He will guide you into all the truth." (John 16:13)*
+*"But when He, the Spirit of truth, comes, He will guide you into all the truth."* **(John 16:13)**
 
 - **Giver of Spiritual Gifts: The Spirit distributes spiritual gifts for the edification of the Church.**  
-*"But one and the same Spirit works all these things, distributing to each one individually just as He wills." (1 Corinthians 12:11)*
+*"But one and the same Spirit works all these things, distributing to each one individually just as He wills."* **(1 Corinthians 12:11)**
 
 ---
 
@@ -174,15 +172,15 @@ The Holy Spirit empowers believers for service, imparts spiritual gifts, and pro
 
 I believe that God the Father is actively involved in His creation through His sovereign works. These works include creation, providence, redemption, and judgment, all of which display His power, wisdom, and goodness. 
 
-- **Creation**: God spoke the universe into existence, *"In the beginning God created the heavens and the earth"* (Genesis 1:1), and made all things visible and invisible by His Word (Colossians 1:16). He continues to uphold and sustain all creation, *"upholding all things by the word of His power"* (Hebrews 1:3).
+- **Creation**: God spoke the universe into existence, *"In the beginning God created the heavens and the earth"* (Genesis 1:1), and made all things visible and invisible by His Word (Colossians 1:16). He continues to uphold and sustain all creation, *"upholding all things by the word of His power"* **(Hebrews 1:3)**.
 
 - **Providence**: I believe that God not only created all things but continues to sustain and govern the universe by His sovereign will. *'He causes the vapors to ascend from the ends of the earth; Who makes lightnings for the rain, Who brings forth the wind from His treasuries.'* **(Psalm 135:7)**
 
-- **Redemption**: In His love, the Father sent His Son to accomplish the work of salvation for humanity, *"For God so loved the world, that He gave His only begotten Son"* (John 3:16). This redemptive work unfolds in history as God calls people to Himself, forgives sins, and adopts believers as His children.
+- **Redemption**: In His love, the Father sent His Son to accomplish the work of salvation for humanity, *"For God so loved the world, that He gave His only begotten Son"* **(John 3:16)**. This redemptive work unfolds in history as God calls people to Himself, forgives sins, and adopts believers as His children.
 
-- **Judgment**: God has appointed a day on which He will judge the world in righteousness through Jesus Christ, *"He has fixed a day in which He will judge the world in righteousness through a Man whom He has appointed"* (Acts 17:31). His works of judgment reveal His holiness and justice.
+- **Judgment**: God has appointed a day on which He will judge the world in righteousness through Jesus Christ, *"He has fixed a day in which He will judge the world in righteousness through a Man whom He has appointed"* **(Acts 17:31)**. His works of judgment reveal His holiness and justice.
 
-- **Adoption and Answering Prayers**: God graciously adopts believers into His family, *"You have received a spirit of adoption as sons by which we cry out, 'Abba! Father!'"* (Romans 8:15), and listens to the prayers of His people, answering according to His will (1 John 5:14).
+- **Adoption and Answering Prayers**: God graciously adopts believers into His family, *"You have received a spirit of adoption as sons by which we cry out, 'Abba! Father!'"* **(Romans 8:15)**, and *listens to the prayers of His people, answering according to His will* **(1 John 5:14)**.
 
 ---
 
@@ -191,28 +189,28 @@ I believe that God the Father is actively involved in His creation through His s
 I believe that the **Decrees of God** are His eternal ordinances, established in His perfect wisdom and will, by which He determined to accomplish His purposes. These decrees are absolute, sovereign, and unchangeable, encompassing all that will ever happen.
 
 - **Eternal and Unchangeable Plan**: From eternity, God has had a plan that does not change, set forth before the foundation of the world.  
-  *"He chose us in Him before the foundation of the world."* (Ephesians 1:4)  
+  *"He chose us in Him before the foundation of the world."* **(Ephesians 1:4)**  
   *"God, who has saved us and called us with a holy calling... according to His own purpose and grace which was granted us in Christ Jesus from all eternity."* (2 Timothy 1:9)  
 
 - **Comprehensive Determination of All Things**: God comprehends and determines all events that come to pass, working all things according to His sovereign will.  
-  *"He works all things after the counsel of His will."* (Ephesians 1:11)  
-  *"The king's heart is like channels of water in the hand of the Lord; He turns it wherever He wishes."* (Proverbs 21:1)  
+  *"He works all things after the counsel of His will."* **(Ephesians 1:11)**.    
+  *"The king's heart is like channels of water in the hand of the Lord; He turns it wherever He wishes."* **(Proverbs 21:1)**.    
 
 - **God’s Relationship to Sin**: Although God decrees all things, He is not the author of sin and does not commit evil. God permits sin but always superintends it for His purposes, bringing about His perfect plan.  
-  *"This Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men."* (Acts 2:23)  
-  *"The Lord said to Satan, 'Behold, all that he has is in your power, only do not put forth your hand on him.'"* (Job 1:12)  
+  *"This Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men."* **(Acts 2:23)**  
+  *"The Lord said to Satan, 'Behold, all that he has is in your power, only do not put forth your hand on him.'"* **(Job 1:12)**  
 
 - **Sovereignty and Unconditional Nature**: God's decrees are unconditional, independent of human action, and established by His sovereign will.  
-  *"He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will."* (Ephesians 1:5)  
-  *"All the inhabitants of the earth are accounted as nothing, but He does according to His will in the host of heaven."* (Daniel 4:35)  
+  *"He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will."* **(Ephesians 1:5)**  
+  *"All the inhabitants of the earth are accounted as nothing, but He does according to His will in the host of heaven."* **(Daniel 4:35)**  
 
 - **Inevitability and Efficacy of God's Will**:  The decrees of God are by His sovereign will, and nothing can hinder them. *'Whatever the Lord pleases, He does, in heaven and in earth, in the seas and in all deeps.'* **(Psalm 135:6)**  
-  *"For who can resist His will?"* (Romans 9:19)  
-  *"My counsel shall stand, and I will accomplish all my purpose."* (Isaiah 46:10, ESV)
+  *"For who can resist His will?"* **(Romans 9:19)**  
+  *"My counsel shall stand, and I will accomplish all my purpose."* **(Isaiah 46:10, ESV)**
  
 
 - **Consistency with God's Holy Nature**: God's decrees are always perfectly consistent with His holy character. He remains pure and righteous in all His plans.  
-  *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor."* (Habakkuk 1:13)  
+  *"Your eyes are too pure to approve evil, and You cannot look on wickedness with favor."* **(Habakkuk 1:13)**  
 
 ---
 
@@ -556,5 +554,3 @@ I believe in the **providence of God**, whereby He governs all events, both big 
   - *Proverbs 16:9* – "The mind of man plans his way, but the Lord directs his steps."
 
 ---
-
-
