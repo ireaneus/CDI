@@ -349,7 +349,49 @@ I believe that **sin** is any failure to conform to the moral law of God, in act
 
 ---
 
-8. What do you believe about salvation?
+### **Salvation (Soteriology)**
+
+I believe that **Salvation** is a gracious gift from God, given by His mercy and not earned by human effort. It is received through faith in **Jesus Christ alone**, who accomplished our redemption through His life, death, and resurrection. Salvation is entirely of grace, based on the work of Christ, and applied by the Holy Spirit. As Scripture declares, *"For by grace you have been saved through faith; and that not of yourselves, it is the gift of God, not as a result of works, so that no one may boast."* (Ephesians 2:8-9).
+
+### **The Basis of Salvation**
+
+- **By Grace Alone**: Salvation is entirely an act of God's grace, undeserved and unearned.  
+  *"He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit."* (Titus 3:5)
+
+- **Through Faith Alone**: It is accessed solely through faith, trusting in Christ's finished work on the cross.  
+  *"Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ."* (Romans 5:1)  
+  *"For we maintain that a man is justified by faith apart from works of the Law."* (Romans 3:28)
+
+- **In Christ Alone**: Jesus Christ is the only mediator between God and humanity. His sacrificial death and victorious resurrection secured our salvation.  
+  *"There is salvation in no one else; for there is no other name under heaven that has been given among men by which we must be saved."* (Acts 4:12)  
+  *"For Christ also died for sins once for all, the just for the unjust, so that He might bring us to God."* (1 Peter 3:18)
+
+### **The Process of Salvation**
+
+1. **Election**: God's choice of certain individuals for salvation was made before the foundation of the world.  
+   *"He chose us in Him before the foundation of the world, that we would be holy and blameless before Him."* (Ephesians 1:4)
+
+2. **Regeneration**: The work of the Holy Spirit in giving new spiritual life to the believer.  
+   *"Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."* (John 3:3)  
+   *"He saved us... by the washing of regeneration and renewing by the Holy Spirit."* (Titus 3:5)
+
+3. **Justification**: The act of God declaring a sinner righteous on the basis of Christ's righteousness.  
+   *"Being justified as a gift by His grace through the redemption which is in Christ Jesus."* (Romans 3:24)  
+   *"He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him."* (2 Corinthians 5:21)
+
+4. **Sanctification**: The ongoing process of being made holy, conformed to the image of Christ.  
+   *"For this is the will of God, your sanctification."* (1 Thessalonians 4:3)  
+   *"We all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory."* (2 Corinthians 3:18)
+
+5. **Glorification**: The final step of salvation, where believers are fully conformed to the likeness of Christ and free from the presence of sin.  
+   *"Whom He predestined, He also called; and whom He called, He also justified; and whom He justified, He also glorified."* (Romans 8:30)
+
+### **The Result of Salvation**
+
+Salvation brings about reconciliation with God, adoption as His children, and eternal life. Believers are united with Christ, indwelt by the Holy Spirit, and assured of eternal security. *"For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life."* (John 3:16). We are saved to the glory of God alone, for His purpose and praise. *"To Him who is able to keep you from stumbling... to the only God our Savior, through Jesus Christ our Lord, be glory."* (Jude 1:24-25).
+
+---
+
 9. What do you believe about the Church?
 10. What do you believe about Heaven and Hell?
 11. What do you believe about resurrection?
@@ -373,19 +415,6 @@ I believe in the **providence of God**, whereby He governs all events, both big 
 - **Scripture References**:
   - *Psalm 139:7-10* – "Where can I go from Your Spirit? Or where can I flee from Your presence?"
   - *Proverbs 16:9* – "The mind of man plans his way, but the Lord directs his steps."
-
----
-
-### **Salvation**
-I believe that "Salvation is by grace alone, through faith alone, in Christ alone, according to Scripture alone, to the glory of God alone"
-- **Scripture References**:
-  - *Ephesians 2:8-9* – "For by grace you have been saved through faith."
-  - *Titus 3:5* – "He saved us... according to His mercy, by the washing of regeneration."
-  - *Romans 5:1* – "Therefore, having been justified by faith, we have peace with God."
-
-### **Salvation**
-Salvation is a gift of **God's grace** through faith in **Jesus Christ alone**. It is not based on human works but on the redemptive work of Christ. Believers are justified by faith and adopted as children of God.
-- **Key Scriptures**: Ephesians 2:8-9; Romans 3:23-24; John 3:16
 
 ---
 
