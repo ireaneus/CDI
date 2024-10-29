@@ -1,5 +1,8 @@
 # Personal Statement of Faith
 
+## The Message of the Bible
+**God's Kingdom, redeeming His people all for His Glory**
+
 ### **The Chief End of Man and the Purpose and Providence of God (Chiastic Structure)**
 
 **A. The Glory of God and the Ultimate Purpose of Man**  
@@ -144,11 +147,15 @@ The Holy Spirit empowers believers for service, imparts spiritual gifts, and pro
 I believe that the **Decrees of God** are His eternal ordinances, established in His perfect wisdom and will, by which He determined to accomplish His purposes. These decrees are absolute, sovereign, and unchangeable, encompassing all that will ever happen.
 
 - **Eternal and Unchangeable Plan**: From eternity, God has had a plan that does not change, set forth before the foundation of the world.  
-  *"He chose us in Him before the foundation of the world."* **(Ephesians 1:4)**  
-  *"God, who has saved us and called us with a holy calling... according to His own purpose and grace which was granted us in Christ Jesus from all eternity."* (2 Timothy 1:9)  
+  *Says the Lord, who makes these things known from long ago* **(Acts 15:18)**  
+  *just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him.* **(Ephesians 1:4)**  
+  *But we should always give thanks to God for you, brethren beloved by the Lord, because God has chosen you from the beginning for salvation through sanctification by the Spirit and faith in the truth.* **(2Thes 2:13)**.  
+  *he counsel of the Lord stands forever, The plans of His heart from generation to generation.* **(Psalms 33:11)**  
+  *Remember the former things long past, For I am God, and there is no other; I am God, and there is no one like Me,* **(Isaiah 46:9)**
 
 - **Comprehensive Determination of All Things**: God comprehends and determines all events that come to pass, working all things according to His sovereign will.  
-  *"He works all things after the counsel of His will."* **(Ephesians 1:11)**.    
+  *"He works all things after the counsel of His will."* **(Ephesians 1:11)**.  
+  *Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care. And even the very hairs of your head are all numbered* **(Matt. 10:29-30)**  
   *"The king's heart is like channels of water in the hand of the Lord; He turns it wherever He wishes."* **(Proverbs 21:1)**.    
 
 - **God’s Relationship to Sin**: Although God decrees all things, He is not the author of sin and does not commit evil. God permits sin but always superintends it for His purposes, bringing about His perfect plan.  
@@ -157,9 +164,12 @@ I believe that the **Decrees of God** are His eternal ordinances, established in
 
 - **Sovereignty and Unconditional Nature**: God's decrees are unconditional, independent of human action, and established by His sovereign will.  
   *"He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will."* **(Ephesians 1:5)**  
+  *For truly * in this city there were gathered together against Your holy servant Jesus, whom You anointed, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel, to do whatever Your hand and Your purpose predestined to occur.* **(Acts 4:27-28)**
   *"All the inhabitants of the earth are accounted as nothing, but He does according to His will in the host of heaven."* **(Daniel 4:35)**  
 
-- **Inevitability and Efficacy of God's Will**:  The decrees of God are by His sovereign will, and nothing can hinder them. *'Whatever the Lord pleases, He does, in heaven and in earth, in the seas and in all deeps.'* **(Psalm 135:6)**  
+- **Inevitability and Efficacy of God's Will**:  The decrees of God are by His sovereign will, and nothing can hinder them.  
+  *'Whatever the Lord pleases, He does, in heaven and in earth, in the seas and in all deeps.'* **(Psalm 135:6)**  
+  *For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.* **(Eph. 2:10)**
   *"For who can resist His will?"* **(Romans 9:19)**  
   *"My counsel shall stand, and I will accomplish all my purpose."* **(Isaiah 46:10, ESV)**
  
@@ -183,8 +193,11 @@ Angels were created in great numbers and existed before the foundation of the wo
   *"I am Gabriel, who stands in the presence of God, and I have been sent to speak to you and to bring you this good news."* **(Luke 1:19)**.
 - **Seraphim** worship God and guard His throne.  
   *"Seraphim stood above Him, each having six wings... and one called out to another and said, 'Holy, Holy, Holy, is the Lord of hosts.'"* **(Isaiah 6:2-3)**.
-- **Cherubim** guard sacred places, such as the Garden of Eden.  
+- **Cherubim** guard sacred places, such as the Garden of Eden, the Shekinah Glory of God, and the mercy seat of God.  
   *"So He drove the man out; and at the east of the garden of Eden He stationed the cherubim."* **(Genesis 3:24)**.
+  *Then the cherubim lifted up their wings with the wheels beside them, and the glory of the God of Israel hovered over them.* **(Eze 11:22)**
+  *and above it were the cherubim of glory overshadowing the mercy seat; but of these things we cannot now speak in detail.* **(Heb 9:5)**
+
 
 ### **Destiny of Angels**
 
@@ -196,7 +209,7 @@ Angels will live eternally, either in God's presence or, for the fallen angels, 
 
 I believe that Satan is a real and personal being, a fallen angel who actively opposes God and His purposes. He is referred to as *"a murderer from the beginning... and the father of lies,"* **(John 8:44)**. His name, "Satan," meaning "adversary," reflects his opposition to God's work, while other titles such as "the devil" (slanderer) and "Beelzebub" (lord of the flies) emphasize his malicious nature and intent to deceive and destroy.
 
-Originally, Satan was created as a beautiful and powerful angel, endowed with wisdom and splendor. *"You were the seal of perfection, full of wisdom and perfect in beauty,"* **(Ezekiel 28:12-13)**. However, pride led to his downfall as he sought to elevate himself above God. *"Your heart was lifted up because of your beauty; you corrupted your wisdom by reason of your splendor."* **(Ezekiel 28:17)**. In his rebellion, Satan deceived a third of the angels to follow him, who are now his demons. *"His tail swept away a third of the stars of heaven and threw them to the earth."* **(Revelation 12:4)**.
+Originally, Satan was created as a beautiful and powerful cherumbin, endowed with wisdom and splendor. *"You were the seal of perfection, full of wisdom and perfect in beauty, You were the anointed cherub who covers, And I placed you there. You were on the holy mountain of God; You walked in the midst of the stones of fire."* **(Ezekiel 28:12-14)**. However, pride led to his downfall as he sought to elevate himself above God. *"Your heart was lifted up because of your beauty; you corrupted your wisdom by reason of your splendor."* **(Ezekiel 28:17)**. In his rebellion, Satan deceived a third of the angels to follow him, who are now his demons. *"His tail swept away a third of the stars of heaven and threw them to the earth."* **(Revelation 12:4)**.
 
 Though Satan wields significant power, he is neither omnipotent nor omnipresent and remains subject to God’s sovereign control. *"The Lord said to Satan, 'Behold, all that he has is in your power, only do not put forth your hand on him.'"* **(Job 1:12)**. Believers are called to resist Satan’s influence by submitting to God. *"Submit therefore to God. Resist the devil and he will flee from you."* **(James 4:7)**. Demons, the fallen angels who followed Satan in his rebellion, also work to deceive, influence, and harm humanity, blinding the minds of unbelievers, *"The god of this world has blinded the minds of the unbelieving."* **(2 Corinthians 4:4)**.
 
@@ -206,11 +219,9 @@ Satan’s defeat was accomplished through the death and resurrection of Christ, 
 
 ### **What I Believe About the Nature of Man**
 
-I believe that humanity was created uniquely by God in His image, known as the **Imago Dei**. *"Then God said, 'Let Us make man in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky.'"* **(Genesis 1:26-27)**. This image is not a literal or exact representation but reflects God's attributes in a finite and limited way. Humans were created with the capacity for knowledge, righteousness, and holiness, and given the responsibility to exercise dominion over creation. *"What is man that You take thought of him, and the son of man that You care for him? Yet You have made him a little lower than the angels, and You crown him with glory and majesty!"* **(Psalm 8:4-5)**.
+I believe that humanity was created uniquely by God in His image. *"Then God said, 'Let Us make man in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky.'"* **(Genesis 1:26-27)**. This image is not a literal or exact representation but reflects God's attributes in a finite and limited way.
 
-Though created in God's likeness, this image has been marred by sin but not destroyed. The **Imago Dei** encompasses intellectual, spiritual, moral, and social aspects of our nature. *"Put on the new self, which in the likeness of God has been created in righteousness and holiness of the truth."* **(Ephesians 4:24)**. *"Do not lie to one another, since you laid aside the old self with its evil practices, and have put on the new self who is being renewed to a true knowledge according to the image of the One who created him."* **(Colossians 3:9-10)**.
-
-In our original state, Adam and Eve were without sin and enjoyed a perfect relationship with God. *"Then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being."* **(Genesis 2:7)**. *"So the Lord God caused a deep sleep to fall upon the man, and he slept; then He took one of his ribs and closed up the flesh at that place."* **(Genesis 2:21-22)**. Man's nature consisted of both a physical body and an immaterial soul or spirit, with some theologians suggesting a trichotomous nature. *"Now may the God of peace Himself sanctify you entirely; and may your spirit and soul and body be preserved complete, without blame at the coming of our Lord Jesus Christ."* **(1 Thessalonians 5:23)**.
+In our original state, Adam and Eve were without sin and enjoyed a perfect relationship with God. *"Then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being."* **(Genesis 2:7)**. *"So the Lord God caused a deep sleep to fall upon the man, and he slept; then He took one of his ribs and closed up the flesh at that place."* **(Genesis 2:21-22)**. Man's nature consisted of both a physical body and an immaterial soul or spirit. *"Now may the God of peace Himself sanctify you entirely; and may your spirit and soul and body be preserved complete, without blame at the coming of our Lord Jesus Christ."* **(1 Thessalonians 5:23)**.
 
 However, through the Fall, humanity's moral and spiritual likeness to God has been corrupted, resulting in the universal sinfulness of all people. *"For all have sinned and fall short of the glory of God."* **(Romans 3:23)**. Yet, through Christ, the image of God is being restored in believers, and it will be perfected at His return. *"But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as from the Lord, the Spirit."* **(2 Corinthians 3:18)**. *"Just as we have borne the image of the earthy, we will also bear the image of the heavenly."* **(1 Corinthians 15:49)**.
 
