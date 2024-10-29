@@ -506,31 +506,17 @@ The final judgment is the culmination of God’s redemptive plan, where all crea
 
 ---
 
+Here's a refined version of your **Second Coming of the Messiah** statement, with enhanced readability and structure:
+
+---
+
 ### **The Second Coming of the Messiah**
 
-I believe that **Jesus Christ, the Messiah**, will return to earth in power and glory, fulfilling the promises of His Second Coming as foretold in Scripture. His return will be visible, physical, and triumphant, bringing final judgment, establishing His kingdom, and fulfilling God’s redemptive plan. *"This Jesus, who has been taken up from you into heaven, will come in just the same way as you have watched Him go into heaven."* **(Acts 1:11)**.
+I believe that the Second Coming of **Jesus Christ, the Messiah**, will occur at a time when it is not anticipated, as Scripture says, *"For you yourselves know full well that the day of the Lord will come just like a thief in the night."* **(1 Thessalonians 5:2)**. His return will be visible, physical, and triumphant, just as He ascended. *"They will see the Son of Man coming on the clouds of the sky with power and great glory."* **(Matthew 24:30)**. *"For just as the lightning comes from the east and flashes even to the west, so will the coming of the Son of Man be."* **(Matthew 24:27)**.
 
-### **The Nature of the Second Coming**
+Upon His return, Christ will bring **final judgment** to all nations, gathering them before Him as He sits on His glorious throne. *"When the Son of Man comes in His glory... He will sit on His glorious throne. All the nations will be gathered before Him; and He will separate them one from another."* **(Matthew 25:31-32)**. He will establish His eternal kingdom, fulfilling God’s plan of redemption. *"The kingdom of the world has become the kingdom of our Lord and of His Christ; and He will reign forever and ever."* **(Revelation 11:15)**.
 
-- **Visible and Glorious**: The return of Christ will be seen by all and accompanied by power and glory, *"For just as the lightning comes from the east and flashes even to the west, so will the coming of the Son of Man be."* **(Matthew 24:27)**.
-  
-- **Sudden and Unexpected**: Christ’s return will come at a time when it is not anticipated, urging believers to remain watchful and faithful, *"For you yourselves know full well that the day of the Lord will come just like a thief in the night."* **(1 Thessalonians 5:2)**.
-
-- **Physical and Bodily**: Jesus will return in bodily form, just as He ascended, *"They will see the Son of Man coming on the clouds of the sky with power and great glory."* **(Matthew 24:30)**.
-
-### **Events Surrounding the Second Coming**
-
-1. **The Resurrection of the Dead**: At His return, the dead in Christ will rise first, and living believers will be caught up with them, transformed in the twinkling of an eye, *"For the Lord Himself will descend from heaven with a shout... and the dead in Christ will rise first. Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air."* **(1 Thessalonians 4:16-17)**.
-
-2. **Final Judgment**: Christ’s return will usher in the final judgment, where all people will be judged for their deeds. Believers will enter eternal life, while unbelievers face eternal separation from God, *"When the Son of Man comes in His glory... He will sit on His glorious throne. All the nations will be gathered before Him; and He will separate them one from another."* **(Matthew 25:31-32)**.
-
-3. **Establishment of His Kingdom**: The Messiah will establish His reign, fulfilling the promises of a kingdom that brings peace, righteousness, and justice. *"The kingdom of the world has become the kingdom of our Lord and of His Christ; and He will reign forever and ever."* **(Revelation 11:15)**.
-
-4. **The Defeat of Evil**: At His coming, Jesus will decisively defeat Satan, sin, and death, casting them into the Lake of Fire and removing all evil from His kingdom, *"And the devil who deceived them was thrown into the lake of fire and brimstone."* **(Revelation 20:10)**.
-
-### **The Promise of Hope**
-
-The Second Coming of Christ is the hope of every believer, a promise of eternal life in His presence and freedom from sin, sorrow, and death. *"Looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus."* **(Titus 2:13)**. We are called to live in anticipation, persevering in faith, and sharing the gospel as we await His return.
+At the culmination of this redemptive plan, Christ will defeat all evil, casting Satan and his forces into the Lake of Fire. *"And the devil who deceived them was thrown into the lake of fire and brimstone."* **(Revelation 20:10)**. The Second Coming of Christ is the blessed hope of all believers, as we eagerly await *"the appearing of the glory of our great God and Savior, Christ Jesus."* **(Titus 2:13)**.
 
 ---
 
