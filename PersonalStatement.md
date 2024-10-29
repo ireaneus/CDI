@@ -1,12 +1,21 @@
 # Personal Statement of Faith
 
-## The Chief End of Man
+### **The Chief End of Man and the Purpose and Providence of God (Chiastic Structure)**
 
-I believe that the chief end of man is to glorify God and to enjoy Him forever, created for our ultimate satisfaction in Him, *"For He has satisfied the thirsty soul, and the hungry soul He has filled with what is good."* **(Psalm 107:9)**. True joy and fulfillment are found in the Lord, *"Delight yourself in the Lord; and He will give you the desires of your heart."* **(Psalm 37:4)**. The deepest longings of the human heart are met in God's presence, *"In Your presence is fullness of joy; in Your right hand there are pleasures forever."* **(Psalm 16:11)**.
+**A. The Glory of God and the Ultimate Purpose of Man**  
+I believe that the chief end of man is to glorify God and to enjoy Him forever, finding our ultimate satisfaction in Him. *"Bring My sons from afar and My daughters from the ends of the earth, everyone who is called by My name, and whom I have created for My glory."* **(Isaiah 43:6-7)**
 
-God is the source of all that is truly good and satisfying, *"O taste and see that the Lord is good; how blessed is the man who takes refuge in Him!"* **(Psalm 34:8)**. Our hearts remain restless until they find peace in God, *"My soul thirsts for God, for the living God; when shall I come and appear before God?"* **(Psalm 42:2)**. Life's true meaning is found in knowing and loving Him, *"Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, but God is the strength of my heart and my portion forever."* **(Psalm 73:25-26)**.
+**B. The Goodness and Satisfaction Found in God**  
+God is the source of all that is truly good and satisfying. *"O taste and see that the Lord is good; how blessed is the man who takes refuge in Him!"* **(Psalm 34:8)**. Our hearts find rest in God alone, *"My soul thirsts for God, for the living God; when shall I come and appear before God?"* **(Psalm 42:2)**. *"For He has satisfied the thirsty soul, and the hungry soul He has filled with what is good."* **(Psalm 107:9)**
 
-The call to glorify God extends to every part of life, *"Whether, then, you eat or drink or whatever you do, do all to the glory of God."* **(1 Corinthians 10:31)**. In seeking our fulfillment in Him, we accomplish our highest purpose, bringing honor to God and experiencing the abundant life He offers.
+**C. The Center: God's Sovereign Providence and Our Daily Life**  
+I believe in the providence of God, whereby He governs all events according to His eternal plan, upholding all things in heaven and on earth. *"In Him we live and move and have our being."* **(Acts 17:28)**. While I am responsible for my actions, His providential care directs my path. Nothing is beyond His control, as He works all things according to the counsel of His will. *"The mind of man plans his way, but the Lord directs his steps."* **(Proverbs 16:9)**.
+
+**B’. The Rest and Fulfillment Found in God's Presence**  
+God provides true joy and fulfillment in His presence, where our deepest longings are met. *"In Your presence is fullness of joy; in Your right hand there are pleasures forever."* **(Psalm 16:11)**. Even through every joy and trial, He is near, working all things together for the good of those who love Him. *"And we know that God causes all things to work together for good to those who love God, to those who are called according to His purpose."* **(Romans 8:28)**.
+
+**A’. Living to the Glory of God in All We Do**  
+In all aspects of life, we are called to glorify God, giving thanks for His goodness and sovereignty. Our highest calling is to live in worship and obedience to Him, finding our greatest joy in His presence. *"Whether, then, you eat or drink or whatever you do, do all to the glory of God."* **(1 Corinthians 10:31)**.
 
 ---
 
@@ -506,10 +515,6 @@ The final judgment is the culmination of God’s redemptive plan, where all crea
 
 ---
 
-Here's a refined version of your **Second Coming of the Messiah** statement, with enhanced readability and structure:
-
----
-
 ### **The Second Coming of the Messiah**
 
 I believe that the Second Coming of **Jesus Christ, the Messiah**, will occur at a time when it is not anticipated, as Scripture says, *"For you yourselves know full well that the day of the Lord will come just like a thief in the night."* **(1 Thessalonians 5:2)**. His return will be visible, physical, and triumphant, just as He ascended. *"They will see the Son of Man coming on the clouds of the sky with power and great glory."* **(Matthew 24:30)**. *"For just as the lightning comes from the east and flashes even to the west, so will the coming of the Son of Man be."* **(Matthew 24:27)**.
@@ -520,23 +525,22 @@ At the culmination of this redemptive plan, Christ will defeat all evil, casting
 
 ---
 
-14. What do you believe about eternity?
+### **Eternity**
 
----
+I believe that **eternity** is the final state of existence for all souls, where time, as we know it, ceases, and each person experiences a permanent, unchanging destiny. The Scriptures reveal two eternal destinations: eternal life in the presence of God for believers and eternal separation from God for those who reject Him. *"And these will go away into eternal punishment, but the righteous into eternal life."* **(Matthew 25:46)**.
 
-### **Creation**
-I believe that God created the universe out of nothing by His word in **six literal days**, as described in Genesis. Jesus Christ, the Creator, brought all things into existence, and everything reflects His sovereign design. Creation glorifies God and reveals His power.
-- **Scripture References**:
-  - *Genesis 1:1* – "In the beginning, God created the heavens and the earth."
-  - *John 1:3* – "All things came into being through Him."
-  - *Colossians 1:16-17* – "For by Him all things were created, both in the heavens and on earth."
+### **Eternal Life with God**
 
----
+For believers, eternity means **everlasting life in the presence of God**. This life is one of unbroken fellowship, worship, and joy, free from sin, suffering, and death. *"And I heard a loud voice from the throne, saying, 'Behold, the tabernacle of God is among men, and He will dwell among them, and they shall be His people, and God Himself will be among them.'"* **(Revelation 21:3)**, and is the fulfillment of God’s promises and the ultimate hope of the Christian faith. *"And thus we shall always be with the Lord. Therefore comfort one another with these words."* **(1 Thessalonians 4:17-18)**. 
 
-### **Providence**
-I believe in the **providence of God**, whereby He governs all events, both big and small, according to His eternal plan. Even though I am responsible for my actions, God's providential care directs my path.  He is a personal God, intimately involved with His creation, nothing passes by outside His Will.
-- **Scripture References**:
-  - *Psalm 139:7-10* – "Where can I go from Your Spirit? Or where can I flee from Your presence?"
-  - *Proverbs 16:9* – "The mind of man plans his way, but the Lord directs his steps."
+- **The New Heaven and New Earth**: God will create a new heaven and a new earth, where righteousness dwells and all things are made new. *"Then I saw a new heaven and a new earth; for the first heaven and the first earth passed away."* **(Revelation 21:1)**.
+- **The Absence of Suffering**: In eternity with God, there will be no more pain, sorrow, or death. *"He will wipe away every tear from their eyes; and there will no longer be any death; there will no longer be any mourning, or crying, or pain."* **(Revelation 21:4)**.
+
+### **Eternal Separation from God**
+
+For those who reject God, eternity means eternal separation from Him in a place of suffering. This separation is final and irreversible, marking a state of conscious existence apart from God’s goodness and grace. *"These will pay the penalty of eternal destruction, away from the presence of the Lord and from the glory of His power."* **(2 Thessalonians 1:9)**.
+
+- **The Lake of Fire**: Unbelievers face eternity in the Lake of Fire, a place of punishment originally prepared for the devil and his angels. *"And if anyone's name was not found written in the book of life, he was thrown into the lake of fire."* **(Revelation 20:15)**.
+- **Eternal Conscious Punishment**: The suffering of eternal separation is continuous, and the consequences of sin remain without end. *"Where their worm does not die, and the fire is not quenched."* **(Mark 9:48)**.
 
 ---
