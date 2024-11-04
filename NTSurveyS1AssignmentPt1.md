@@ -50,5 +50,3 @@
    - **400 Years of Captivity**: Referenced in *Exodus 12:40*.
    - **70 Years of Babylonian Exile**: Confirmed in *2 Chronicles 36:21* and *Jeremiah 25:11-12*.
    - **490 Years Before the Exile**: Symbolic of missed Sabbaths, as outlined in *Leviticus 26:34-35* and connected through *2 Chronicles 36:20-21*.
-
-This structured outline provides both the NASB2020 references for deeper study and contextual explanations for the 70 years of captivity, highlighting the theological implications of the Sabbath rest and Israel’s rebellion.
