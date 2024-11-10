@@ -27,10 +27,10 @@
 *Chapters 1:1 - 4:11*  
 
 **Chapter 1**  
-Matthew opens with Jesus’ genealogy, connecting Him to David and Abraham, establishing His legal right to the throne of Israel. The chapter describes the miraculous conception of Jesus, highlighting His divine nature and fulfillment of prophecy. The narrative concludes with Jesus’ birth, underscoring God’s sovereign plan in bringing forth the promised Messiah.  
+Matthew begins the New Testament with the genealogy of Jesus, tracing His lineage from Abraham to David, from David to the Babylonian exile, and from the exile to Christ. The genealogy is carefully structured into three sets of 14 generations each, a detail significant to Hebrew readers, as the number 14 holds symbolic value, corresponding to David’s name in Hebrew numerology (gematria). Christ was presented as the Son of David and the fulfillment of Messianic prophecies. All believers should recognize the providential plan of God from the beginning of time, being worked out over history.
 
 **Chapter 2**  
-The visit of the Magi, Herod's subsequent massacre, and the holy family’s flight to Egypt emphasize God's providence in protecting Jesus. Each event is tied to Old Testament prophecies, affirming that Jesus is the fulfillment of God’s redemptive promises. Herod’s murderous actions contrast with the hope Jesus brings, illustrating the spiritual battle surrounding His birth.  
+Matthew continues to record Jesus' childhood, highlighting God’s sovereign providence in protecting His Son through historical events. The visit of the Magi, Herod’s attempt to kill Jesus, and the holy family’s escape to Egypt fulfill multiple Old Testament prophecies and demonstrate God’s active hand in guiding and safeguarding His plan. Christ was presented as the King of the Jews, and believers should trust that God has a purpose for everything in their lives, remembering that “His ways are higher than our ways” (Isaiah 55:8-9) “In their hearts humans plan their course, but the Lord establishes their steps.” (Proverbs 16:9) 
 
 **Chapter 3**  
 John the Baptist preaches repentance in the wilderness, preparing the people for the coming of Jesus, the promised Messiah. Jesus arrives to be baptized, and God confirms His Sonship as the Spirit descends like a dove. This event signifies the beginning of Jesus’ public ministry, marked by divine affirmation and a call to righteousness.  
