@@ -27,30 +27,30 @@
 *Chapters 1:1 - 4:11*  
 
 **Chapter 1**  
-Matthew begins the New Testament with the genealogy of Jesus, tracing His lineage from Abraham to David, from David to the Babylonian exile, and from the exile to Christ. The genealogy is carefully structured into three sets of 14 generations each, a detail significant to Hebrew readers, as the number 14 holds symbolic value, corresponding to David’s name in Hebrew numerology (gematria). Christ was presented as the Son of David and the fulfillment of Messianic prophecies. All believers should recognize the providential plan of God from the beginning of time, being worked out over history.
+*In Chapter 1, Matthew* begins with the genealogy of Jesus, tracing His lineage from Abraham to David, from David to the Babylonian exile, and finally to Christ. *Christ was presented as* the Son of David and the fulfillment of Messianic prophecies, emphasizing His human ancestry. *Believers should* recognize Jesus’ human heritage and see Him as the divinely chosen one who came into history to fulfill God’s promises.
 
 **Chapter 2**  
-Matthew continues to record Jesus' childhood, highlighting God’s sovereign providence in protecting His Son through historical events. The visit of the Magi, Herod’s attempt to kill Jesus, and the holy family’s escape to Egypt fulfill multiple Old Testament prophecies and demonstrate God’s active hand in guiding and safeguarding His plan. Christ was presented as the King of the Jews, and believers should trust that God has a purpose for everything in their lives, remembering that “His ways are higher than our ways” (Isaiah 55:8-9) “In their hearts humans plan their course, but the Lord establishes their steps.” (Proverbs 16:9) 
+*In Chapter 2, Matthew* records the visit of the Magi, Herod’s attempt to kill Jesus, and the holy family’s flight to Egypt, showing God’s providential protection of His Son. *Christ was presented as* the King of the Jews, born into a world of danger and hostility, yet firmly rooted in humanity. *Believers should* understand that Jesus’ early life was marked by real human threats and experiences, affirming His genuine humanity.
 
 **Chapter 3**  
-John the Baptist preaches repentance in the wilderness, preparing the people for the coming of Jesus, the promised Messiah. Jesus arrives to be baptized, and God confirms His Sonship as the Spirit descends like a dove. This event signifies the beginning of Jesus’ public ministry, marked by divine affirmation and a call to righteousness.  
+*In Chapter 3, Matthew* introduces John the Baptist, *The voice of one crying in the wilderness, ‘Make ready the way of the Lord, Make His paths straight!*, who baptizes Jesus. *Christ was presented as* the beloved Son, with all three members of the Godhead present. *Believers should* look to Jesus' example in baptism as a public demonstration of their commitment to serving Him.
 
 **Chapter 4**  
-Jesus is led into the wilderness and triumphs over Satan’s temptations, proving His moral perfection and readiness for ministry. He then begins preaching the message of the Kingdom of Heaven and calls His first disciples, urging them to follow Him. The chapter emphasizes the dawning of God’s Kingdom through Jesus’ preaching and miraculous healings.  
+*In Chapter 4, Jesus* is faced with temptations in the wilderness, with Satan twice calling Him the Son of God to intensify His trials. Jesus also begins His public ministry, calling His first disciples. *Christ was presented as* fully human, experiencing temptation yet remaining sinless. *Believers should* carefully examine themselves and pray, *“Lead me not into temptation, but deliver me from the evil one.”*
 
 ---
 
 ### **Section II: Principles Announced**  
 *Chapters 4:12 - 7:29*  
 
-**Chapter 5**  
-Jesus delivers the Sermon on the Mount, beginning with the Beatitudes, which highlight the virtues of those in God’s Kingdom. He reinterprets the Law, calling for a deeper, heart-based righteousness that surpasses mere external observance. Jesus challenges His followers to be salt and light in a world desperate for God’s truth and grace.  
+**Chapter 5**
+*In Chapter 5, Jesus* teaches the Sermon on the Mount, emphasizing principles that call for a higher standard of living and moral character. *Christ was presented as* a human teacher who understands the human condition and calls people to live righteously. *Believers should* recognize Jesus’ authority as the Son of Man, who relates to human challenges and instructs with compassion.
 
-**Chapter 6**  
-Jesus teaches about the dangers of hypocrisy and emphasizes sincere devotion in prayer, fasting, and giving. He introduces the Lord’s Prayer, providing a model for approaching God with reverence and dependency. Jesus instructs His followers to trust in God’s provision, seeking His Kingdom above all earthly concerns.  
+**Chapter 6**
+*In Chapter 6, Jesus* addresses issues like charitable giving, prayer, fasting, and trust in God’s provision, teaching that outward practices should come from a sincere heart. *Christ was presented as* someone who deeply understands human anxieties, offering wise and practical guidance for daily living. *Believers should* see Jesus as the Son of Man who sympathizes with their human struggles and points them to a life of genuine devotion.
 
-**Chapter 7**  
-The sermon concludes with warnings against judging others hypocritically and being deceived by false prophets. Jesus emphasizes the necessity of acting on His teachings, likening a wise person to one who builds on a solid foundation. Those who obey His words will withstand life’s trials, while those who ignore them face destruction.  
+**Chapter 7**
+In Chapter 7, Jesus teaches about judgment, the narrow way, and the importance of acting on His words, concluding His sermon with a call to build a solid foundation. Christ was presented as a compassionate yet authoritative figure who knows human frailty and guides them with wisdom. Believers should appreciate Jesus' human experience as He offers teachings that are relevant and grounded in real-life situations.
 
 ---
 
