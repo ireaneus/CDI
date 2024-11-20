@@ -47,8 +47,21 @@
 | The Trial Before Caiaphas | | *14:53-65* |
 | The Denial by Peter | | *14:66-72* |
 | The Hearing Before Pilate | | *15:1-20* |
-| The Crucifixion | | *15:21-41* |
+| The Crucifixion | | *15:21-41* 
 | The Burial | | *15:42-47* |
 | VII. The Resurrection: Commencement | | *16:1-8* |
 | Postscript| | *16:9-20* |
 
+## Part One: The Presentation of the Servant (1:1 - 2:12)
+
+---
+
+**Chapter 1**  
+*In the first chapter,* Jesus is introduced as the Son of God and begins His public ministry, calling His disciples and performing miracles, such as casting out demons and healing the sick. *Jesus is presented as* the Messiah, confirmed by the Father's declaration and demonstrated through His authority over spiritual and physical realms. *Believers should* follow Him, recognizing His divine identity and trusting in His power.
+
+**Chapter 2**  
+*In the second chapter,* Jesus continues to reveal His authority by forgiving sins, dining with sinners, and teaching about the Sabbath, which provokes the religious leaders. *Jesus is presented as* the Lord of the Sabbath, who has the power to forgive sins and prioritizes mercy over ritual. *Believers should* look to Jesus as their Sabbath rest, trusting in His authority to forgive and bring spiritual renewal.
+
+
+**Chapter 3**  
+*In the third chapter,* Jesus enters the synagogue and heals a man with a withered hand on the Sabbath, and the Pharisees immediately begin conspiring with the Herodians against Him. Large crowds follow Jesus, and He appoints the twelve apostles, "so that they would be with Him and that He could send them out to preach" (*Mark 3:14*). *Christ is presented as* one who declares, *“Whoever does the will of God, he is My brother and sister and mother”* (*Mark 3:35*). *Believers should* do the will of God and follow Jesus’ teachings, understanding that *“a house divided against itself cannot stand”* (*Mark 3:25*).
