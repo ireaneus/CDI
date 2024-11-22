@@ -35,45 +35,47 @@
 ### **Section I: Prophesies Realized**  
 *Chapters 1:1 - 4:11*  
 
-**Chapter 1**  
-*In Chapter 1, Matthew* begins with the genealogy of Jesus, tracing His lineage from Abraham to David, from David to the Babylonian exile, and finally to Christ. *Christ was presented as* the Son of David and the fulfillment of Messianic prophecies, emphasizing His human ancestry. *Believers should* recognize Jesus’ human heritage and see Him as the divinely chosen one who came into history to fulfill God’s promises.
+### **Matthew: Chapters 1-4**
 
-**Chapter 2**  
-*In Chapter 2, Matthew* records the visit of the Magi, Herod’s attempt to kill Jesus, and the holy family’s flight to Egypt, showing God’s providential protection of His Son. *Christ was presented as* the King of the Jews, born into a world of danger and hostility, yet firmly rooted in humanity. *Believers should* understand that Jesus’ early life was marked by real human threats and experiences, affirming His genuine humanity.
+### **Matthew Chapter 1**  
+**_In Chapter 1, Matthew_** traces Jesus’ genealogy from Abraham to David, through the Babylonian exile, and finally to Christ. **_Christ is presented as_** the King of David, the Root of Jesse (*Isaiah 11:1*), and the Lion of Judah (*Genesis 49:9-10*). **_Believers should_** be convicted to examine the Scriptures daily (*Acts 17:11*) and be enlightened by the fulfillment of Old Testament prophecies in Jesus’ genealogy (vs. 1-17). They should worship Him as Emmanuel, *“God with us”* (vs. 23), acknowledging Him as the Savior who will *“save His people from their sins”* (vs. 21).
 
-**Chapter 3**  
-*In Chapter 3, Matthew* introduces John the Baptist, *The voice of one crying in the wilderness, ‘Make ready the way of the Lord, Make His paths straight!*, who baptizes Jesus. *Christ was presented as* the beloved Son, with all three members of the Godhead present. *Believers should* look to Jesus' example in baptism as a public demonstration of their commitment to serving Him.
+### **Matthew Chapter 2**  
+**_In Chapter 2, Matthew_** recounts the visit of the Magi, Herod’s plot to kill Jesus, and the holy family’s flight to Egypt, fulfilling multiple Old Testament prophecies (*Micah 5:2, Hosea 11:1, Jeremiah 31:15*). **_Christ is presented as_** the King of the Jews, whose birth was divinely guided and protected despite worldly opposition. **_Believers should_** see how God fulfills His promises (*Numbers 23:19*) and trust in His providence through trials (*Psalm 34:19*). They should seek Christ and honor Him as the King (vs. 11).
 
-**Chapter 4**  
-*In Chapter 4, Jesus* is faced with temptations in the wilderness, with Satan twice calling Him the Son of God to intensify His trials. Jesus also begins His public ministry, calling His first disciples. *Christ was presented as* fully human, experiencing temptation yet remaining sinless. *Believers should* carefully examine themselves and pray, *“Lead me not into temptation, but deliver me from the evil one.”*
+### **Matthew Chapter 3**  
+**_In Chapter 3, Matthew_** introduces John the Baptist, who prepares the way of the Lord by calling people to repentance and baptizing them in the Jordan River. Jesus is baptized, and the heavens open, with the Spirit descending like a dove and the Father declaring, *“This is My beloved Son, in whom I am well-pleased”* (vs. 17). **_Christ is presented as_** the beloved Son, who identifies with humanity through His baptism and begins His public ministry. **_Believers should_** repent of their sins, as John proclaimed (vs. 2), and follow Jesus’ example by publicly committing their lives to God through baptism (vs. 13-15).
+
+### **Matthew Chapter 4**  
+**_In Chapter 4, Jesus_** is tempted by Satan in the wilderness, calls His first disciples, and begins His public ministry, preaching, *“Repent, for the kingdom of heaven is at hand”* (vs. 17). He demonstrates His power by healing the sick and proclaiming the good news of the kingdom to the people of Galilee. **_Christ is presented as_** the victorious Redeemer, who overcame temptation and brought light to a people in darkness (*Isaiah 9:1-2*). **_Believers should_** resist temptation by standing on God’s Word (vs. 4, 7, 10), repent as Jesus preached (vs. 17), and follow Him wholeheartedly, leaving behind anything that hinders their calling (vs. 19-22).
 
 ---
 
 ### **Section II: Principles Announced**  
 *Chapters 4:12 - 7:29*  
 
-**Chapter 5**  
-*In Chapter 5, Jesus* delivers His first public sermon, the Sermon on the Mount, teaching the Beatitudes and calling His followers to a deeper, inward righteousness. *Christ was presented as* the fulfillment of the Law. *Believers should* recognize that Christ came to fulfill the Law and to walk in the Spirit, not by the flesh.
+### **Matthew Chapter 5**  
+**_In Chapter 5, Jesus_** delivers the Sermon on the Mount, beginning with the Beatitudes and teaching about the law, anger, adultery, divorce, oaths, and loving one’s enemies. **_Christ is presented as_** the Teacher of Kingdom righteousness, calling His followers to live as salt and light in the world (vs. 13-16). **_Believers should_** strive for a heart aligned with God’s will, embracing humility, mercy, and purity (vs. 3-10), and demonstrate love even to their enemies as Jesus commanded (vs. 44).
 
-**Chapter 6**  
-*In Chapter 6, Jesus* addresses hypocrisy, the importance of doing acts of righteousness in secret, and the problem of anxiety. *Christ was presented as* the Son of Man who speaks with authority. *Believers should* “seek first His Kingdom and His righteousness” in all things.
+### **Matthew Chapter 6**  
+**_In Chapter 6, Jesus_** continues the Sermon on the Mount, teaching about giving, prayer, fasting, and trusting God for provision. He introduces the Lord’s Prayer as a model for communion with God (vs. 9-13) and warns against materialism, saying, *“Seek first His kingdom and His righteousness”* (vs. 33). **_Christ is presented as_** the one who reveals how to live a life pleasing to God through faith and devotion. **_Believers should_** give in secret (vs. 4), pray with sincerity (vs. 6), fast with humility (vs. 18), and trust God for their needs (vs. 25-34).
 
-**Chapter 7**  
-*In Chapter 7, Jesus* concludes the Sermon on the Mount, addressing judgment, the importance of producing good fruit, and building one’s life on the solid rock of His teachings. *Christ was presented as* the Rock on which we stand, while all other ground is sinking sand. *Believers should* avoid hypocritical judgment, stand firm on the Rock, and nurture their spiritual growth through obedience and a life rooted in God’s Word to produce good fruit.
+### **Matthew Chapter 7**  
+**_In Chapter 7, Jesus_** concludes the Sermon on the Mount by teaching about judging others, prayer, and the way to life, and ends with the parable of the wise and foolish builders. He warns about false prophets and emphasizes the necessity of doing the will of the Father to enter the kingdom of heaven (vs. 21). **_Christ is presented as_** the Judge and Guide to the narrow way, calling people to build their lives on His teachings. **_Believers should_** live with discernment (vs. 15-20), persist in prayer (vs. 7-8), and obey His words to build a firm foundation (vs. 24-27).
 
 ---
 
 ### **Section III: The Power Revealed**  
 *Chapters 8:1 - 11:1*  
 
-**Chapter 8**  
-*In Chapter 8, Jesus* performs several significant Messianic miracles, including healing a leper, which was seen as a sign of the Messiah's coming. He calms a storm and casts out demons, demonstrating His authority over both the natural and spiritual realms, and tests the faith of His disciples as they learn to trust in His power. *Christ was presented as* the long-awaited Messiah to the Jews, fulfilling Old Testament prophecies. *Believers should* recognize Jesus as the fulfillment of these prophecies and see that His miracles were evidence of His divine mission, affirming His identity as the promised Savior of Israel.
+### **Matthew Chapter 8**  
+**_In Chapter 8, Jesus_** performs several miracles, including healing a leper (vs. 2-3), calming a storm (vs. 26), and casting out demons (vs. 32). He also emphasizes the cost of following Him (vs. 22). **_Christ is presented as_** the compassionate Healer and the one with power over nature, sickness, and the spiritual realm. **_Believers should_** have faith in Jesus’ power to save (vs. 10, 26) and follow Him wholeheartedly, regardless of personal cost (vs. 19-22).
 
-**Chapter 9**  
-*In Chapter 9, Jesus* forgives the sins of a paralytic, heals the sick, and raises a girl from the dead, underscoring His divine authority. He also calls Matthew, a tax collector, to be His disciple, emphasizing the inclusivity of His mission and the power of spiritual and physical restoration. *Christ was presented as* the divine Messiah, performing works that revealed His identity and power. *Believers should* acknowledge Jesus' divine power and trust that He is sovereign over all, recognizing that His authority to perform these works validated His claims as the Son of God.
+### **Matthew Chapter 9**  
+**_In Chapter 9, Jesus_** forgives and heals a paralytic (vs. 2-7), calls Matthew to follow Him (vs. 9), and raises a dead girl while healing others. He also teaches about fasting (vs. 37). **_Christ is presented as_** the one who has the authority to forgive sins and calls sinners to repentance. **_Believers should_** trust Jesus for physical and spiritual healing (vs. 2), respond to His call to follow Him (vs. 9), and actively join the workers in bringing in the harvest, praying for more laborers (vs. 37-38).
 
-**Chapter 10**  
-*In Chapter 10, Jesus* sends out the Twelve Apostles, giving them authority to heal and cast out demons. He prepares them for the persecution they will face, teaching them to depend fully on God and boldly proclaim the Kingdom message despite opposition. *Christ was presented as* the authoritative and divisive Messiah, who came to divide people's allegiance between Him and the world. *Believers should* understand the cost of discipleship, being prepared to face opposition for the sake of the Kingdom, and proclaim the gospel boldly, even in the face of resistance.
+### **Matthew Chapter 10**  
+**_In Chapter 10, Jesus_** sends out the twelve apostles with authority to heal and cast out demons, instructing them to proclaim, *“The kingdom of heaven is at hand”* (vs. 7). He warns them of persecution (vs. 22), but also encourages them, (vs. 28). **_Christ is presented as_** the sender of workers into the harvest and the one who strengthens His followers in the face of persecution. **_Believers should_** proclaim the good news fearlessly (vs. 7, 28), endure opposition (vs. 22), and prioritize their loyalty to Jesus above all else (vs. 37-39).
 
 ---
 
