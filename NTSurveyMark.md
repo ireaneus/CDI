@@ -54,14 +54,14 @@
 
 ## Part One: The Presentation of the Servant (1:1 - 2:12)
 
-
 ### **Mark 1**  
 **_In Chapter 1, Mark_** declares Jesus as the Son of God, affirmed by the Father at His baptism and through His proclamation of the gospel. Jesus begins His ministry, calls His first disciples, and performs miracles such as casting out demons, healing the sick, and cleansing a leper. **_Christ is presented as_** the Messiah, fulfilling Old Testament prophecies by demonstrating His power to restore and heal. **_Believers should_** "repent and believe in the gospel" (vs. 15) and "Follow Me, and become fishers of men" (vs. 17), proclaiming the good news that the Kingdom of God is at hand.
+
+## II. The Opening Ministry: Credentials
 
 ### **Mark 2**  
 **_In Chapter 2, Mark_** shows Jesus forgiving the sins of a paralytic, calling Levi (Matthew), and healing on the Sabbath, which leads to accusations from the Pharisees. Jesus also describes Himself as the Bridegroom, whose presence brings joy and renewal. **_Christ is presented as_** the Lord of the Sabbath, bringing rest from sin and restoring life to those who follow Him. **_Believers should_** rejoice in the new covenant relationship with the Bridegroom and rest in Jesus’ forgiveness, trusting in His ability to provide eternal spiritual rest.
 
----
 
 ### **Mark 3**  
 **_In Chapter 3, Mark_** describes Jesus healing on the Sabbath, appointing twelve apostles, and teaching in parables after being rejected by the Pharisees and scribes. This generation of Israel commits the unforgivable sin of rejecting Jesus as the Messiah and attributing His works to Satan. **_Christ is presented as_** the Son of God, the one who redefines true family as those who do the will of God, saying, *“Whoever does the will of God, he is My brother and sister and mother”* (vs. 35). **_Believers should_** live their lives as if Christ is on the throne, because He is.
