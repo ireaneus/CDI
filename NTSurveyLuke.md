@@ -9,3 +9,8 @@
 - Christ was presented as...
 - Believers should...
 
+| **LUKE: THE GOSPEL OF THE SAVIOUR OF MEN |
+|:-------:|:-------:|
+| I: The Preface | vs. 1:1-4 |
+
+
