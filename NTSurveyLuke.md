@@ -52,6 +52,11 @@
 | The Commission | 24:44-49 | 
 | The Ascension | 24:50-53 |
 
+## I. The Preface 1:1-4
+## II. The Preparation of the Savior 1:5-2:52
+
+### **Luke Chapter 1**  
+**_In Chapter 1, Luke_** recounts the angel Gabriel’s announcements to Zechariah and Mary about the births of John the Baptist and Jesus, respectively. Mary visits Elizabeth, and John is born, with Zechariah prophesying about God’s salvation plan (*vs. 67-80*). **_Christ is presented as_** the promised Savior whose arrival fulfills God’s covenant to David and Abraham (*vs. 32-33, 54-55*). **_Believers should_** trust God’s promises, as Zechariah learned through his temporary muteness (*vs. 20*), and respond in faith like Mary, who said, *“May it be done to me according to your word”* (*vs. 38*).
 
 
 
