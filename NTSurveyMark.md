@@ -66,3 +66,53 @@ Here’s the completed **Mark 3** summary, continuing in the style you provided:
 
 ### **Mark 3**  
 **_In Chapter 3, Mark_** describes Jesus healing on the Sabbath, appointing twelve apostles, and teaching in parables after being rejected by the Pharisees and scribes. This generation of Israel commits the unforgivable sin of rejecting Jesus as the Messiah and attributing His works to Satan. **_Christ is presented as_** the Son of God, the one who redefines true family as those who do the will of God *(vs. 35)*. **_Believers should_** reflect Jesus’ teachings by doing the will of God *(vs. 35)*, spreading the message of the gospel as the apostles were sent to do *(vs. 14)*, and guarding against spiritual blindness by acknowledging His works as the work of God.
+
+---
+
+### **Mark Chapter 4**  
+**_In Chapter 4, Jesus_** teaches the crowds in parables, including the parable of the sower, the mustard seed, and others about the kingdom of God (vs. 1-34). He calms a storm, showing His power over nature (vs. 35-41). **_Christ is presented as_** the teacher of kingdom truths, revealing the mysteries of God to those who seek understanding. **_Believers should_** receive His word as good soil that bears fruit (vs. 20), trust in Him during life’s storms (vs. 39-40), and share the truths of His kingdom with others.
+
+### **Mark Chapter 5**  
+**_In Chapter 5, Jesus_** casts out demons from a man in the Gerasenes (vs. 1-20), heals a woman who touches His garment (vs. 25-34), and raises Jairus’ daughter from the dead (vs. 35-43). **_Christ is presented as_** the one who brings deliverance, healing, and life to those in need. **_Believers should_** have faith in Jesus’ power to transform their lives (vs. 34), share their testimony of His work (vs. 19-20), and trust Him even when the situation seems hopeless (vs. 36).
+
+### **Mark Chapter 6**  
+**_In Chapter 6, Jesus_** is rejected in His hometown (vs. 1-6), sends out the twelve apostles to preach and heal (vs. 7-13), and feeds 5,000 with five loaves and two fish (vs. 35-44). He also walks on water, calming the disciples’ fears (vs. 45-52). **_Christ is presented as_** the compassionate Shepherd who provides for His people and strengthens His followers for ministry. **_Believers should_** boldly proclaim the gospel as Jesus instructed (vs. 12), rely on Him to meet their needs (vs. 42-43), and trust Him in times of doubt and fear (vs. 50).
+Here’s the summary for **Mark Chapters 7-9** in the established format:
+
+---
+
+### **Mark Chapter 7**  
+**_In Chapter 7, Jesus_** rebukes the Pharisees for prioritizing traditions over God’s commandments (vs. 1-13), teaches about what truly defiles a person (vs. 14-23), and heals the daughter of a Gentile woman because of her persistent faith (vs. 24-30). He also heals a deaf man with a speech impediment (vs. 31-37). **_Christ is presented as_** the one who honors genuine faith and reveals God’s desire for inward purity over external rituals. **_Believers should_** seek purity of heart (vs. 20-23), approach Jesus with persistent faith (vs. 28-29), and proclaim His works to others (vs. 36-37).
+
+### **Mark Chapter 8**  
+**_In Chapter 8, Jesus_** feeds 4,000 people with seven loaves and a few fish (vs. 1-9), warns the disciples against the leaven of the Pharisees (vs. 14-21), and heals a blind man in Bethsaida (vs. 22-26). Peter confesses Jesus as the Christ (vs. 29), and Jesus predicts His suffering, death, and resurrection (vs. 31-33). **_Christ is presented as_** the Christ who provides for physical and spiritual needs and prepares His followers for the cost of discipleship. **_Believers should_** confess Jesus as the Christ (vs. 29), follow Him by denying themselves and taking up their cross (vs. 34), and trust Him for provision (vs. 6-9).
+
+### **Mark Chapter 9**  
+**_In Chapter 9, Jesus_** is transfigured before Peter, James, and John (vs. 2-8), casts out a demon from a boy after the disciples failed to do so (vs. 14-29), and predicts His death and resurrection again (vs. 30-32). He teaches about servanthood, saying, *“If anyone wants to be first, he shall be last of all and servant of all”* (vs. 35). **_Christ is presented as_** the glorified Son who calls His followers to humility and servanthood. **_Believers should_** live by faith (vs. 23), seek to serve others with humility (vs. 35), and follow Jesus wholeheartedly, avoiding sin at all costs (vs. 43-48).
+
+---
+
+### **Mark Chapter 10**  
+**_In Chapter 10, Jesus_** teaches about divorce (vs. 2-12), blesses children brought to Him (vs. 13-16), and challenges a rich young ruler to give up his possessions to follow Him (vs. 17-22). He predicts His death and resurrection a third time (vs. 32-34) and teaches His disciples about true greatness, saying, *“Whoever wishes to be great among you shall be your servant”* (vs. 43). **_Christ is presented as_** the servant King who calls His followers to humility and sacrificial love. **_Believers should_** follow Jesus by surrendering earthly attachments (vs. 21), serve others selflessly (vs. 43-45), and trust in His promise of eternal rewards (vs. 29-30).
+
+### **Mark Chapter 11**  
+**_In Chapter 11, Jesus_** enters Jerusalem riding on a colt as crowds praise Him with shouts of *“Hosanna!”* (vs. 9-10). He clears the temple of merchants and money changers (vs. 15-17), curses a fig tree that withers (vs. 12-14, 20-21), and teaches about faith in prayer (vs. 22-25). **_Christ is presented as_** the triumphant King who cleanses His house and calls for faith. **_Believers should_** honor Jesus as King (vs. 9-10), approach God in prayer with faith (vs. 22-24), and bear fruit in their lives to avoid spiritual barrenness (vs. 20-21).
+
+### **Mark Chapter 12**  
+**_In Chapter 12, Jesus_** tells the parable of the wicked tenants (vs. 1-12), answers questions about paying taxes to Caesar (vs. 13-17), and identifies the greatest commandments: *“Love the Lord your God”* and *“Love your neighbor as yourself”* (vs. 30-31). He warns about the hypocrisy of the scribes (vs. 38-40) and commends a widow who gives all she has (vs. 41-44). **_Christ is presented as_** the cornerstone rejected by the builders and the teacher of true devotion to God and others. **_Believers should_** love God with all their heart (vs. 30), love their neighbors selflessly (vs. 31), and give sacrificially as an act of faith (vs. 41-44).
+
+---
+
+### **Mark Chapter 13**  
+**_In Chapter 13, Jesus_** teaches His disciples about the destruction of the temple, future persecutions, and His second coming. He warns them to stay alert and prepared, saying, *“Be on the alert, for you do not know when the master of the house is coming”* (vs. 35). **_Christ is presented as_** the Son of Man who will return in glory to gather His elect and establish His kingdom. **_Believers should_** remain watchful and faithful, enduring trials while trusting in God’s promises (vs. 13, 35-37).
+
+### **Mark Chapter 14**  
+**_In Chapter 14, Jesus_** is anointed by a woman with expensive perfume (vs. 3-9), celebrates the Last Supper with His disciples (vs. 22-25), and prays in Gethsemane before being betrayed and arrested (vs. 32-50). Peter denies Him three times as Jesus is put on trial before the Sanhedrin (vs. 66-72). **_Christ is presented as_** the suffering servant who submits to the will of the Father, knowing the cross awaits Him. **_Believers should_** remember Jesus’ sacrifice through the Lord’s Supper (vs. 22-25), pray with vigilance during times of testing (vs. 38), and remain steadfast in their loyalty to Him (vs. 27-31).
+
+### **Mark Chapter 15**  
+**_In Chapter 15, Jesus_** is brought before Pilate, mocked by the soldiers, and crucified at Golgotha (vs. 1-41). He breathes His last, and the centurion declares, *“Truly this man was the Son of God!”* (vs. 39). Joseph of Arimathea buries Him in a tomb (vs. 42-47). **_Christ is presented as_** the crucified King who willingly bore the sins of the world to bring salvation. **_Believers should_** reflect on the depth of Jesus’ sacrifice (vs. 33-39) and live in gratitude and humility, proclaiming Him as the Savior to others (vs. 39).
+
+---
+
+### **Mark Chapter 16**  
+**_In Chapter 16, Jesus_** rises from the dead, appears to Mary Magdalene and His disciples, and commissions them to proclaim the gospel to all creation (vs. 15). He ascends into heaven, confirming the message with accompanying signs (vs. 19-20). **_Christ is presented as_** the risen Savior who empowers His followers to carry on His mission. **_Believers should_** obey Jesus’ command to preach the gospel to all creation (vs. 15), trust in His ongoing presence, and boldly proclaim His resurrection and salvation to the world.
