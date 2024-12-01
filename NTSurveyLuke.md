@@ -90,3 +90,14 @@
 ### **Luke Chapter 9**  
 **_In Chapter 9, Luke_** describes Jesus sending out the twelve, feeding the five thousand, revealing His glory during the transfiguration, and teaching about the cost of discipleship. Jesus predicts His suffering, death, and resurrection. **_Christ is presented as_** *“The Christ of God”* (*vs. 20*), the anointed King foretold in *Psalm 2:2-7*, and the ruler born in Bethlehem, *“whose times of coming forth are from long ago, from the days of eternity”* (*Micah 5:2*). **_Believers should_** trust in Him to provide for all their needs (*vs. 16*), observing how this miracle was distributed: each disciple returned to Jesus to refill their baskets, a reminder that provision comes continually from Him.
 
+## V. The Mission of the Savior vs. 9:51-18:30  
+
+### **Luke Chapter 10**  
+**_In Chapter 10, Jesus_** sends out seventy disciples to proclaim the kingdom of God, teaching about loving one’s neighbor through the parable of the Good Samaritan, and commending Mary for choosing to sit and listen at His feet, reminding His followers that true joy should come from their names being written in heaven (*vs. 20*). **_Christ is presented as_** *“the Lord of the harvest”* (*vs. 2*), who sends workers to bring in the spiritual harvest. **_Believers should_** obey His call to *“Go!”* (*vs. 3*), because *“The harvest is plentiful, but the laborers are few”* (*vs. 2*), serve others with sacrificial love (*vs. 33-37*), and prioritize time being in His presence (*vs. 41-42*).
+
+### **Luke Chapter 11**  
+**_In Chapter 11, Jesus_** teaches His disciples to pray, using what is known as the Lord’s Prayer, and emphasizes persistence in prayer. He rebukes the Pharisees and lawyers for their hypocrisy and warns against seeking signs instead of responding to His teaching. **_Christ is presented as_** *“one greater than Jonah and Solomon”* (*vs. 31-32*), calling people to repentance and wisdom. **_Believers should_** persist in prayer, as Jesus said, *“Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you”* (*vs. 9*), and live authentically, avoiding hypocrisy (*vs. 39-52*).
+
+### **Luke Chapter 12**  
+**_In Chapter 12, Jesus_** warns His disciples against hypocrisy, greed, and anxiety, urging them to seek God’s kingdom first. He tells the parable of the rich fool, teaches about trusting God’s provision, and calls for readiness for His return. **_Christ is presented as_** *“the Son of Man who is coming at an hour you do not expect”* (*vs. 40*), emphasizing His role as the returning judge and King. **_Believers should_** live faithfully and expectantly, as Jesus said, *“Be dressed in readiness and keep your lamps lit”* (*vs. 35*), trusting in God’s provision and preparing for His return.
+
