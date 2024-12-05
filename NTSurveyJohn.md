@@ -43,6 +43,16 @@
 | A. The Revelation of Himself | vs. 20:1-31 |
 | B. The Revelation of His Power | vs. 21:1-25 |
 
+---
+
+## I. The introduction vs. 1:1-51
+
+John Chapter 1
+
+In Chapter 1, John introduces Jesus as the eternal Word, who was with God and is God, through whom all things were made. John the Baptist testifies that Jesus is “the Lamb of God who takes away the sin of the world” (vs. 29), and Jesus calls His first disciples, who recognize Him as the Messiah. Christ is presented as “The Word of God” (vs. 1), “the Lamb of God” (vs. 29), “The Son of God” (vs. 34), and “the King of Israel” (vs. 49). *But as many as received Him* (vs. 12), follow Him as His disciples, and declare, “We have found the Messiah” (vs. 41).
 
 
-1-888-221-4165
+---
+
+## II. The Ministry of Presentation to the Nation 
+
