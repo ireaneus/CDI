@@ -51,8 +51,12 @@ John Chapter 1
 
 In Chapter 1, John introduces Jesus as the eternal Word, who was with God and is God, through whom all things were made. John the Baptist testifies that Jesus is “the Lamb of God who takes away the sin of the world” (vs. 29), and Jesus calls His first disciples, who recognize Him as the Messiah. Christ is presented as “The Word of God” (vs. 1), “the Lamb of God” (vs. 29), “The Son of God” (vs. 34), and “the King of Israel” (vs. 49). *But as many as received Him* (vs. 12), follow Him as His disciples, and declare, “We have found the Messiah” (vs. 41).
 
-
 ---
 
 ## II. The Ministry of Presentation to the Nation 
+
+John Chapter 2
+
+In Chapter 2, Jesus performed His first miracle at the wedding in Cana, where He turns water into wine, and His cleansing of the temple in Jerusalem. At Cana, He reveals His glory, and His disciples believe in Him (vs. 11), while in the temple, He declares, “Stop making My Father’s house a place of business” (vs. 16). Christ is presented as the one who has authority over creation and life, revealing Himself as The Temple of God (vs. 19). Believers should trust in His power to transform (vs. 11), honor God’s holiness in worship, and remember His words, “Destroy this temple, and in three days I will raise it up” (vs. 19), which foretold His resurrection.
+
 
