@@ -1,4 +1,4 @@
-# Session 3 Part 3 - John diary notes
+# Session 6 part 3 - John diary notes
 
 #### Diary requirements
 - Four chapters or less do one paragraph for entire letter
