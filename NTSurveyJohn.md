@@ -45,18 +45,21 @@
 
 ---
 
-## I. The introduction vs. 1:1-51
+## I. The Introduction (vs. 1:1-51)  
 
-John Chapter 1
-
-In Chapter 1, John introduces Jesus as the eternal Word, who was with God and is God, through whom all things were made. John the Baptist testifies that Jesus is “the Lamb of God who takes away the sin of the world” (vs. 29), and Jesus calls His first disciples, who recognize Him as the Messiah. Christ is presented as “The Word of God” (vs. 1), “the Lamb of God” (vs. 29), “The Son of God” (vs. 34), and “the King of Israel” (vs. 49). *But as many as received Him* (vs. 12), follow Him as His disciples, and declare, “We have found the Messiah” (vs. 41).
+### **John Chapter 1**  
+**_In Chapter 1, John_** introduces Jesus as the eternal Word, who was with God and is God, through whom all things were made. John the Baptist testifies that Jesus is *“the Lamb of God who takes away the sin of the world”* (*vs. 29*), and Jesus calls His first disciples, who recognize Him as the Messiah. **_Christ is presented as_** *“The Word of God”* (*vs. 1*), *“the Lamb of God”* (*vs. 29*), *“The Son of God”* (*vs. 34*), and *“the King of Israel”* (*vs. 49*). **_But as many as_** *“received Him”* (*vs. 12*), follow Him as His disciples, and declare, *“We have found the Messiah”* (*vs. 41*).  
 
 ---
 
-## II. The Ministry of Presentation to the Nation 
+## II. The Ministry of Presentation to the Nation  
 
-John Chapter 2
+### **John Chapter 2**  
+**_In Chapter 2, Jesus_** performs His first miracle at the wedding in Cana, turning water into wine, and cleanses the temple in Jerusalem. At Cana, He reveals His glory, leading His disciples to believe in Him (*vs. 11*), while in the temple, He declares, *“Stop making My Father’s house a place of business”* (*vs. 16*). **_Christ is presented as_** the one who has authority over creation and life, revealing Himself as *The Temple of God* (*vs. 19*). **_Believers should_** trust in His power to transform (*vs. 11*), honor God’s holiness in worship, and remember His words, *“Destroy this temple, and in three days I will raise it up”* (*vs. 19*), which foretold His resurrection.  
 
-In Chapter 2, Jesus performed His first miracle at the wedding in Cana, where He turns water into wine, and His cleansing of the temple in Jerusalem. At Cana, He reveals His glory, and His disciples believe in Him (vs. 11), while in the temple, He declares, “Stop making My Father’s house a place of business” (vs. 16). Christ is presented as the one who has authority over creation and life, revealing Himself as The Temple of God (vs. 19). Believers should trust in His power to transform (vs. 11), honor God’s holiness in worship, and remember His words, “Destroy this temple, and in three days I will raise it up” (vs. 19), which foretold His resurrection.
+### **John Chapter 3**  
+**_In Chapter 3, Jesus_** teaches Nicodemus about the necessity of being born again to see the kingdom of God and declares God’s love for the world, (*vs. 16*). John the Baptist also exalts Jesus, (*vs. 30*). **_Christ is presented as_** the Son of God who gives eternal life to those who believe in Him (*vs. 15-16*), and the one who came not to judge the world but to save it (*vs. 17*). **_Believers are_** born again by the Spirit (*vs. 5-6*), live in the light of truth (*vs. 21*), and exalt Christ in their lives, letting Him increase while they decrease (*vs. 30*).
 
+### **John Chapter 4**  
+**_In Chapter 4, Jesus_** speaks with the Samaritan woman at the well, revealing Himself as the Messiah and teaching about true worship, (*vs. 24*). He teaches His disciples about the urgency of spiritual harvest, (*vs. 35*), and many Samaritans believe in Him after hearing the woman’s testimony and meeting Him. **_Christ is presented as_** the living water that satisfies the soul (*vs. 14*), the Messiah (*vs. 26*), and the Savior of the world (*vs. 42*). **_Believers should_** worship God in spirit and truth (*vs. 24*), share their testimony boldly, like the Samaritan woman (*vs. 39*), and work in His harvest, rejoicing when others come to know Him (*vs. 36*).
 
