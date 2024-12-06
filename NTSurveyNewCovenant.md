@@ -1,4 +1,4 @@
-# Session 6 Part 3 - The Gospel of John
+# Session 6 Part 3 - Assignment Paper
 
 ## Compare the Old Covenant
 - Made, Genesis 12:1-3 includes:
