@@ -18,27 +18,29 @@ image: "/images/welcome.jpg"
 
 **Read Benware, Survey of the New Testament p. 99 and review the outline.**  
 
-- Look at the birth narrative events in Luke. **Read Thomas and Gundry, A Harmony of the Gospels** *pp. 27-32*.
+#### Look at the birth narrative events in Luke.
+**Read Thomas and Gundry, A Harmony of the Gospels** *pp. 27-32*.
 
-Write the sequence of events of Jesus’ birth and childhood years below.  
+#### Write the sequence of events of Jesus’ birth and childhood years below.  
 *Note* that there are apparent discrepancies such as Luke 2:39 returning them to Nazareth and Matthew 2:1ff Magi visiting Bethlehem.  
 
-#### Sequence of events of Jesus’ birth and childhood:
+**Sequence of events of Jesus’ birth and childhood:**
 
 Understand that after completing law, but before returning to Nazareth, all the events of Matthew took place and that they are supplemental to one another in regard to Jesus’ youth story. The introduction of Jesus through the temptation story is different from Matthew.
 
-- What are the differences and how do they relate to their respective audiences?
+#### What are the differences and how do they relate to their respective audiences?
 
 The Sermon on the Plain *Luke 6:20-49* is similar to the Sermon on the Mount. State the differences. 
 *Note:* Jesus used similar figures to teach different points in different settings.  
 
 **Read Luke 9:51**
-What does the phrase ‘set His face resolutely’ mean for the rest of the story of Jesus?
-Note: This is the key turn toward the passion story of Jesus. **Read Benware, Survey of the New Testament** *pp. 99, 107.*
+#### What does the phrase ‘set His face resolutely’ mean for the rest of the story of Jesus?
+*Note:* This is the key turn toward the passion story of Jesus. **Read Benware, Survey of the New Testament** *pp. 99, 107.*
 
 
 Look at the Passion Week in **Thomas and Gundry, A Harmony of the Gospels**
-beginning on *p. 223.* What are the parallels between the synoptic, especially Luke, and John?  
+beginning on *p. 223.*  
+#### What are the parallels between the synoptic, especially Luke, and John?  
 
 **Read Luke 24:36-53**, then compare that with *Acts 1:1-14*.
-- How is the author of both of these accounts telling the same story?
+#### How is the author of both of these accounts telling the same story?
