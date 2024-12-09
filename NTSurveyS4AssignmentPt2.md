@@ -18,9 +18,10 @@ image: "/images/welcome.jpg"
 
 **Read Benware, Survey of the New Testament p. 99 and review the outline.**  
 
-- Look at the birth narrative events in Luke. Read Thomas and Gundry, A Harmony of the Gospels pp. 27-32.
+- Look at the birth narrative events in Luke. **Read Thomas and Gundry, A Harmony of the Gospels** *pp. 27-32*.
 
-Write the sequence of events of Jesus’ birth and childhood years below. Note that there are apparent discrepancies such as Luke 2:39 returning them to Nazareth and Matthew 2:1ff Magi visiting Bethlehem.  
+Write the sequence of events of Jesus’ birth and childhood years below.  
+*Note* that there are apparent discrepancies such as Luke 2:39 returning them to Nazareth and Matthew 2:1ff Magi visiting Bethlehem.  
 
 #### Sequence of events of Jesus’ birth and childhood:
 
@@ -28,7 +29,8 @@ Understand that after completing law, but before returning to Nazareth, all the 
 
 - What are the differences and how do they relate to their respective audiences?
 
-The Sermon on the Plain *Luke 6:20-49* is similar to the Sermon on the Mount. State the differences. *Note: Jesus used similar figures to teach different points in different settings.*  
+The Sermon on the Plain *Luke 6:20-49* is similar to the Sermon on the Mount. State the differences. 
+*Note:* Jesus used similar figures to teach different points in different settings.  
 
 **Read Luke 9:51**
 What does the phrase ‘set His face resolutely’ mean for the rest of the story of Jesus?
