@@ -6,6 +6,8 @@ excerpt: "Assignment: Essay Paper - Old and New Covenant"
 image: "/images/livingwatersrv.jpg"
 ---
 
+*Remind students to decide on a topic for their paper and review upcoming assignments.*
+
 ## Compare the Old Covenant
 - Made, Genesis 12:1-3 includes:
 -- Separation to a unique relationship with God
