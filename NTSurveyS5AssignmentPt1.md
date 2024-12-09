@@ -35,3 +35,31 @@ alone or in a group, choose an essay: “Source criticism”, “Form Criticism�
 - How does it fail to explain the material in the gospels?
 
 - What is the answer to this type of criticism?
+
+| | Definition | Weaknesses | Answer |
+|:-----:|:----:|:-----:|:----:|
+| Source Criticism | | | |
+| Form Criticism | | | |
+| Redaction Criticism | | | |
+
+Read Benware, Survey of the New Testament pp. 40-43 beginning with *“A
+Comparison of the Four Gospels.”*  
+
+- What is the synoptic problem, the proposed solutions and the historic view of the
+church?
+
+- Write an “I believe” statement that begins, “I believe that the gospels of Matthew, Mark
+and Luke, though very similar in content and structure, are _____________________.”  
+
+Matthew 8:2-4, Mark 1:40-45 and Luke 5:12-16 are considered to be an example of the
+same event in each of the synoptic gospels. Read Thomas and Gundry, *A Harmony of
+the Gospels p. 53.*  
+
+- Note the similarities between them. What differences can you find?
+
+- Read the context before and after and discuss the circumstances.
+- What does the way Jesus deals with lepers tell us about Jesus’ concerns of those of the
+culture in which He lived?
+
+- Why would touching be significant to each of the authors given what you know about
+them? Why do you think that Mark gives more detail?
