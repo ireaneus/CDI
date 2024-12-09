@@ -97,9 +97,34 @@ Matthew 8:2-4, Mark 1:40-45 and Luke 5:12-16 are considered to be an example of 
 
 - Note the similarities between them. What differences can you find?
 
-- Read the context before and after and discuss the circumstances.
-- What does the way Jesus deals with lepers tell us about Jesus’ concerns of those of the
-culture in which He lived?
+### Similarities:
+- **Core Event**: All three accounts describe the same event—a leper approaches Jesus, requests healing, and Jesus heals him by touching him and declaring him clean.  
+- **Messianic Miracle**: Each gospel highlights this as a miraculous act, fulfilling messianic expectations. Jesus directs the healed leper to show himself to the priests as a testimony, referencing the Mosaic Law.  
+- **Audience-Specific Relevance**: The event is particularly meaningful for Jewish audiences (as Matthew emphasizes) because the act of showing oneself to the priests symbolized the validation of Jesus as the Messiah, something Romans and Greeks might not grasp.
 
-- Why would touching be significant to each of the authors given what you know about
-them? Why do you think that Mark gives more detail?
+### Differences:
+- **Details in Luke**: The Gospel of Luke provides additional context about Jesus’ actions afterward, such as His withdrawal to pray in solitude after the miracle.  
+- **Narrative Focus**:  
+   - Matthew focuses on the messianic significance for Jewish readers.  
+   - Mark emphasizes the growing publicity of Jesus’ ministry as the healed man spreads the news widely, even though Jesus instructs him not to.  
+   - Luke highlights Jesus' personal habits, such as His tendency to withdraw for prayer after impactful events.
+  
+- What does the way Jesus deals with lepers tell us about Jesus’ concerns of those of the culture in which He lived?
+The way Jesus deals with lepers demonstrates His disregard for cultural stigmas and Pharisaic oral laws regarding ritual uncleanliness, highlighting His divine authority and compassion. By touching the leper, Jesus showed that He was not affected by the leper's impurity but instead conveyed purity and healing, prioritizing the restoration of individuals over societal or religious taboos.
+
+- Why would touching be significant to each of the authors given what you know about them? Why do you think that Mark gives more detail?
+
+### Significance of Touching in Each Gospel
+1. **Matthew**:  
+   Touching the leper emphasizes Jesus’ authority as the Messiah, fulfilling Jewish expectations and demonstrating His power to restore both physical and spiritual purity. This resonates with Matthew’s Jewish audience, showing Jesus as the one who transcends ceremonial law.
+
+2. **Mark**:  
+   Mark’s emphasis on Jesus’ touch highlights His compassion and direct engagement with human suffering. Mark often portrays Jesus as a man of action, and the detailed description serves to show the immediacy and intensity of Jesus’ miracles, appealing to his likely Gentile audience who valued tangible demonstrations of power.
+
+3. **Luke**:  
+   Luke, a physician, underscores the humanity of Jesus and His willingness to physically engage with the marginalized. The act of touching reflects Luke’s broader theme of Jesus’ concern for outcasts and His role as the compassionate Savior for all people.
+
+---
+
+### Why Does Mark Give More Detail?
+Mark’s gospel is action-oriented, often emphasizing vivid details to engage his audience. The additional detail in Mark could also reflect Peter’s firsthand account, as Mark is believed to have drawn from Peter’s testimony. The detail enhances the narrative’s immediacy and emotional impact, helping the reader feel the gravity of the miracle and Jesus’ defiance of cultural norms.
