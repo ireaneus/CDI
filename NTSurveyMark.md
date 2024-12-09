@@ -1,4 +1,10 @@
-# Mark Diary Notes
+---
+title: NTSurvey - Gospel of Mark
+date: 2024-11-16
+author: "Dave Haines"
+excerpt: "Assignment: Chapter Diary of New Testament"
+image: "/images/welcome.jpg"
+---
 
 #### Diary requirements
 - Four chapters or less do one paragraph for entire letter
