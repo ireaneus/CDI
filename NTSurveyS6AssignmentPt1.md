@@ -2,7 +2,7 @@
 title: NTSurvey - Session 6 Part 1
 date: 2024-11-16
 author: "Dave Haines"
-excerpt: "Session 4 Exercise: John"
+excerpt: "Session 6 Exercise: John"
 image: "/images/welcome.jpg"
 ---
 
