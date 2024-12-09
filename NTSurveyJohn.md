@@ -1,4 +1,10 @@
-# Session 6 part 3 - John diary notes
+---
+title: NTSurvey - Gospel of John
+date: 2024-11-16
+author: "Dave Haines"
+excerpt: "Assignment: Chapter Diary of New Testament"
+image: "/images/welcome.jpg"
+---
 
 #### Diary requirements
 - Four chapters or less do one paragraph for entire letter
