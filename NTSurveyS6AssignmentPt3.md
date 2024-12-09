@@ -1,4 +1,10 @@
-# Session 6 Part 3 - Assignment Paper
+---
+title: NTSurvey - Session 6 Part 3
+date: 2024-11-16
+author: "Dave Haines"
+excerpt: "Assignment: Essay Paper - Old and New Covenant"
+image: "/images/livingwatersrv.jpg"
+---
 
 ## Compare the Old Covenant
 - Made, Genesis 12:1-3 includes:
