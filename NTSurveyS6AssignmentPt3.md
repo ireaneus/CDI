@@ -5,7 +5,7 @@ author: "Dave Haines"
 excerpt: "Assignment: Essay Paper - Old and New Covenant"
 image: "/images/livingwatersrv.jpg"
 ---
-
+**pg. 161 NT Survey Instructors Guide**
 *Remind students to decide on a topic for their paper and review upcoming assignments.*
 
 ## Compare the Old Covenant
