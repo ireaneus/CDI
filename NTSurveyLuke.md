@@ -1,4 +1,10 @@
-# Session 3 Part 3 - Luke diary notes
+---
+title: NTSurvey - Gospel of Luke
+date: 2024-11-16
+author: "Dave Haines"
+excerpt: "Assignment: Chapter Diary of New Testament"
+image: "/images/welcome.jpg"
+---
 
 #### Diary requirements
 - Four chapters or less do one paragraph for entire letter
