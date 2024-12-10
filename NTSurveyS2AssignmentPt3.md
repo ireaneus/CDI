@@ -1,4 +1,12 @@
-# Session 2 Part 3 - Gospel of Matthew & Intro to Mark
+---
+title: NTSurvey - Session 2 Part 3
+date: 2024-11-16
+author: "Dave Haines"
+excerpt: "Session 3 Exercise:Gospel of Matthew & Intro to Mark"
+image: "/images/welcome.jpg"
+---
+*pg. 67 NT Survey Instructors Guide*  
+
 ## Matthew
 
 *Read Acts 6:1, 8:1; 12:2, Romans 1:16, Matt 24:14*
