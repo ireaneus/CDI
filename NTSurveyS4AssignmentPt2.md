@@ -10,8 +10,7 @@ image: "/images/welcome.jpg"
 
 **Read and compare Matthew 22:9 and Luke 14:23.**
 1. In what ways do Luke and Matthew share a missionary interest?
-
-*Luke and Matthew share a missionary interest by emphasizing the kingdom of God as inclusive and urgent, extending beyond Israel to those marginalized by society. Both highlight Jesus’ mission to break cultural barriers and invite all peoples into God’s kingdom.*
+*"Luke and Matthew share a missionary interest by emphasizing the kingdom of God as inclusive and urgent, extending beyond Israel to those marginalized by society. Both highlight Jesus’ mission to break cultural barriers and invite all peoples into God’s kingdom."*
 
 **Read the following verses and tell what they say about each category.**  
 1. Women: Luke 7:12, 23:49, 55ff  
