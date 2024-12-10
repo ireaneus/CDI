@@ -42,61 +42,102 @@ excerpt: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD
 | E. The Journey to Rome | (vs. 21:17-28:31) |
 
 ---
-## II. Introduction vs.1:1-2:4
+
+## II. Introduction vs. 1:1-2:4
 
 **Chapter 1**  
-In Chapter 1, Luke writes about Jesus’ ascension and the apostles’ preparation for the coming of the Holy Spirit (*vs. 1:6-14*). Christ is presented as the ascended Lord who promises spiritual empowerment (*vs. 1:8-9*). Believers should wait for the Spirit and remain in unity and prayer (*vs. 1:14*).
-
----
-## The Witness in Jerusalem vs. 2:5-8:3
+**_In Chapter 1, Jesus_** gives the great commission and ascends to heaven, preparing the apostles for the coming of the Holy Spirit (*vs. 1:6-14*). **_Christ is presented as_** the ascended Lord who promises spiritual empowerment (*vs. 1:8-9*). **_Believers should_** wait for the Spirit and remain in unity and prayer (*vs. 1:14*).
 
 **Chapter 2**  
-In Chapter 2, Luke describes the outpouring of the Holy Spirit at Pentecost and Peter’s powerful sermon (*vs. 2:1-41*). Christ is presented as the risen and exalted Savior (*vs. 2:32-36*). Believers should repent, be baptized, and live in community (*vs. 2:38-47*).
+**_In Chapter 2, Luke_** describes the outpouring of the Holy Spirit at Pentecost and Peter’s powerful sermon (*vs. 2:1-41*). **_Christ is presented as_** the risen and exalted Savior (*vs. 2:32-36*). **_Believers should_** repent, be baptized, and live in community (*vs. 2:38-47*).
+
+---
+
+## The Witness in Jerusalem vs. 2:5-8:3
 
 **Chapter 3**  
-In Chapter 3, Luke records the healing of the lame man and Peter’s call to repentance (*vs. 3:1-26*). Christ is presented as the Holy and Righteous One who brings restoration (*vs. 3:14-21*). Believers should turn to God for forgiveness and refreshing (*vs. 3:19*).
+**_In Chapter 3, Luke_** records the healing of the lame man and Peter’s call to repentance, emphasizing Jesus’ power (*vs. 3:1-26*). **_Christ is presented as_** the Holy and Righteous One who brings restoration (*vs. 3:14-21*). **_Believers should_** turn to God for forgiveness and refreshing (*vs. 3:19*).
 
 **Chapter 4**  
-In Chapter 4, Luke recounts the apostles’ bold defense of the gospel before the Sanhedrin (*vs. 4:1-31*). Christ is presented as the cornerstone rejected by men but exalted by God (*vs. 4:11*). Believers should pray for boldness and speak God’s word fearlessly (*vs. 4:29-31*).
+**_In Chapter 4, Luke_** recounts the apostles’ bold defense of the gospel before the Sanhedrin and the early church’s prayer for boldness (*vs. 4:1-31*). **_Christ is presented as_** the cornerstone rejected by men but exalted by God (*vs. 4:11*). **_Believers should_** pray for boldness and speak God’s word fearlessly (*vs. 4:29-31*).
 
 **Chapter 5**  
-In Chapter 5, Luke describes Ananias and Sapphira’s deceit and the apostles’ miraculous deliverance from prison (*vs. 5:1-42*). Christ is presented as the source of purity and power in His church (*vs. 5:11-16*). Believers should obey God rather than men and proclaim the gospel (*vs. 5:29*).
+**_In Chapter 5, Luke_** describes Ananias and Sapphira’s deceit and the apostles’ miraculous deliverance from prison (*vs. 5:1-42*). **_Christ is presented as_** the source of purity and power in His church (*vs. 5:11-16*). **_Believers should_** obey God rather than men and proclaim the gospel (*vs. 5:29*).
 
 **Chapter 6**  
-In Chapter 6, Luke details the appointment of deacons and the rise of Stephen as a Spirit-filled leader (*vs. 6:1-15*). Christ is presented as the sustainer of His church through Spirit-empowered servants (*vs. 6:3-5*). Believers should embrace service and trust in God’s wisdom (*vs. 6:8*).
+**_In Chapter 6, Luke_** details the appointment of deacons to manage church needs and introduces Stephen’s Spirit-filled ministry (*vs. 6:1-15*). **_Christ is presented as_** the sustainer of His church through Spirit-empowered servants (*vs. 6:3-5*). **_Believers should_** embrace service and trust in God’s wisdom (*vs. 6:8*).
 
 **Chapter 7**  
-In Chapter 7, Luke records Stephen’s speech before the Sanhedrin and his martyrdom (*vs. 7:1-60*). Christ is presented as the Righteous One whom Israel rejected (*vs. 7:52*). Believers should follow Christ’s example of forgiveness and faithfulness (*vs. 7:59-60*).
+**_In Chapter 7, Luke_** records Stephen’s speech before the Sanhedrin and his martyrdom as a witness to Christ (*vs. 7:1-60*). **_Christ is presented as_** the Righteous One whom Israel rejected (*vs. 7:52*). **_Believers should_** follow Christ’s example of forgiveness and faithfulness (*vs. 7:59-60*).
 
 **Chapter 8**  
-In Chapter 8, Luke recounts Philip’s ministry in Samaria and to the Ethiopian eunuch (*vs. 8:4-40*). Christ is presented as the Savior for all people (*vs. 8:35*). Believers should share the gospel wherever the Spirit leads (*vs. 8:29*).
+**_In Chapter 8, Luke_** recounts Philip’s ministry in Samaria and to the Ethiopian eunuch, extending the gospel beyond Jerusalem (*vs. 8:4-40*). **_Christ is presented as_** the Savior for all people (*vs. 8:35*). **_Believers should_** share the gospel wherever the Spirit leads (*vs. 8:29*).
+
+---
+
+## The Witness in Judea and Samaria vs. 8:4-12:25
 
 **Chapter 9**  
-In Chapter 9, Luke tells of Saul’s conversion and Peter’s miracles in Lydda and Joppa (*vs. 9:1-43*). Christ is presented as the risen Lord who transforms lives (*vs. 9:4-6*). Believers should trust in God’s power to change even the most unlikely individuals (*vs. 9:20-22*).
+**_In Chapter 9, Luke_** tells of Saul’s dramatic conversion and Peter’s miracles in Lydda and Joppa (*vs. 9:1-43*). **_Christ is presented as_** the risen Lord who transforms lives (*vs. 9:4-6*). **_Believers should_** trust in God’s power to change even the most unlikely individuals (*vs. 9:20-22*).
 
 **Chapter 10**  
-In Chapter 10, Luke records Peter’s vision and Cornelius’ conversion, marking the inclusion of Gentiles (*vs. 10:1-48*). Christ is presented as the Lord of all, breaking down barriers (*vs. 10:34-36*). Believers should welcome all people into God’s family (*vs. 10:47-48*).
+**_In Chapter 10, Luke_** records Peter’s vision and Cornelius’ conversion, highlighting the inclusion of Gentiles (*vs. 10:1-48*). **_Christ is presented as_** the Lord of all, breaking down barriers (*vs. 10:34-36*). **_Believers should_** welcome all people into God’s family (*vs. 10:47-48*).
 
 **Chapter 11**  
-In Chapter 11, Luke explains Peter’s defense of Gentile inclusion and the growth of the Antioch church (*vs. 11:1-30*). Christ is presented as the unifier of Jews and Gentiles (*vs. 11:18*). Believers should rejoice in the grace of God extended to all (*vs. 11:23*).
+**_In Chapter 11, Luke_** explains Peter’s defense of Gentile inclusion and the growth of the church in Antioch (*vs. 11:1-30*). **_Christ is presented as_** the unifier of Jews and Gentiles (*vs. 11:18*). **_Believers should_** rejoice in the grace of God extended to all (*vs. 11:23*).
 
 **Chapter 12**  
-In Chapter 12, Luke recounts Peter’s miraculous escape from prison and Herod’s judgment (*vs. 12:1-25*). Christ is presented as the sovereign protector of His church (*vs. 12:7-11*). Believers should pray fervently in times of persecution (*vs. 12:5*).
+**_In Chapter 12, Luke_** recounts Peter’s miraculous escape from prison and Herod’s divine judgment (*vs. 12:1-25*). **_Christ is presented as_** the sovereign protector of His church (*vs. 12:7-11*). **_Believers should_** pray fervently in times of persecution (*vs. 12:5*).
+
+---
+
+## The Witness to the Uttermost Part of the Earth vs. 13:1-28:31
 
 **Chapter 13**  
-In Chapter 13, Luke describes the first missionary journey of Paul and Barnabas (*vs. 13:1-52*). Christ is presented as the light for the Gentiles and fulfillment of God’s promises (*vs. 13:46-47*). Believers should share the gospel boldly, even amidst rejection (*vs. 13:50-52*).
+**_In Chapter 13, Luke_** describes the first missionary journey of Paul and Barnabas, proclaiming Jesus as the Messiah (*vs. 13:1-52*). **_Christ is presented as_** the light for the Gentiles and fulfillment of God’s promises (*vs. 13:46-47*). **_Believers should_** share the gospel boldly, even amidst rejection (*vs. 13:50-52*).
 
 **Chapter 14**  
-In Chapter 14, Luke details Paul and Barnabas’ ministry, including miracles and opposition (*vs. 14:1-28*). Christ is presented as the living God who empowers His servants (*vs. 14:15*). Believers should persevere in faith and strengthen one another (*vs. 14:22*).
+**_In Chapter 14, Luke_** details Paul and Barnabas’ ministry, including miracles and opposition (*vs. 14:1-28*). **_Christ is presented as_** the living God who empowers His servants (*vs. 14:15*). **_Believers should_** persevere in faith and strengthen one another (*vs. 14:22*).
 
 **Chapter 15**  
-In Chapter 15, Luke records the Jerusalem Council’s decision on Gentile inclusion (*vs. 15:1-35*). Christ is presented as the unifier through grace (*vs. 15:11*). Believers should uphold the truth of the gospel and promote unity (*vs. 15:28-29*).
+**_In Chapter 15, Luke_** records the Jerusalem Council’s decision regarding Gentile believers and salvation by grace (*vs. 15:1-35*). **_Christ is presented as_** the unifier through grace (*vs. 15:11*). **_Believers should_** uphold the truth of the gospel and promote unity (*vs. 15:28-29*).
 
 **Chapter 16**  
-In Chapter 16, Luke recounts the conversion of Lydia and the Philippian jailer (*vs. 16:1-40*). Christ is presented as the liberator from bondage (*vs. 16:25-34*). Believers should trust God to work through trials (*vs. 16:25*).
+**_In Chapter 16, Luke_** recounts the conversion of Lydia and the Philippian jailer during Paul’s travels (*vs. 16:1-40*). **_Christ is presented as_** the liberator from bondage (*vs. 16:25-34*). **_Believers should_** trust God to work through trials (*vs. 16:25*).
 
 **Chapter 17**  
-In Chapter 17, Luke describes Paul’s preaching in Thessalonica, Berea, and Athens (*vs. 17:1-34*). Christ is presented as the one true God (*vs. 17:24-31*). Believers should proclaim Christ boldly and intelligently (*vs. 17:22-23*).
+**_In Chapter 17, Luke_** describes Paul’s preaching in Thessalonica, Berea, and Athens, addressing varied audiences (*vs. 17:1-34*). **_Christ is presented as_** the one true God (*vs. 17:24-31*). **_Believers should_** proclaim Christ boldly and intelligently (*vs. 17:22-23*).
 
 **Chapter 18**  
-In Chapter 18, Luke details Paul’s ministry in Corinth and strengthening of churches (*vs. 18:1-28*). Christ is presented as the foundation of the church (*vs. 18:9-10*). Believers should prioritize discipleship and rely on God’s guidance (*vs. 18:24-28*).  
+**_In Chapter 18, Luke_** details Paul’s ministry in Corinth and his strengthening of churches (*vs. 18:1-28*). **_Christ is presented as_** the foundation of the church (*vs. 18:9-10*). **_Believers should_** prioritize discipleship and rely on God’s guidance (*vs. 18:24-28*).
+
+**Chapter 19**  
+**_In Chapter 19, Luke_** describes Paul’s ministry in Ephesus, where he confronts idol worship and spreads the gospel with extraordinary power (*vs. 19:1-41*). **_Christ is presented as_** the unrivaled Lord who overcomes false gods (*vs. 19:11-20*). **_Believers should_** resist cultural idols and trust in Christ’s supremacy (*vs. 19:26*).
+
+**Chapter 20**  
+**_In Chapter 20, Luke_** recounts Paul’s farewell to the Ephesian elders, emphasizing his faithfulness and warnings about false teachers (*vs. 20:1-38*). **_Christ is presented as_** the shepherd who cares for His church (*vs. 20:28*). **_Believers should_** guard their faith and lead with humility and vigilance (*vs. 20:31*).
+
+**Chapter 21**  
+**_In Chapter 21, Luke_** describes Paul’s journey to Jerusalem, where he is warned about impending danger and ultimately arrested (*vs. 21:1-40*). **_Christ is presented as_** the Lord who strengthens His servants for trials (*vs. 21:13-14*). **_Believers should_** trust God’s will and remain steadfast in the face of challenges (*vs. 21:24-26*).
+
+**Chapter 22**  
+**_In Chapter 22, Luke_** records Paul’s defense before the crowd, recounting his conversion and calling to preach to the Gentiles (*vs. 22:1-30*). **_Christ is presented as_** the risen Savior who commissions His servants (*vs. 22:14-15*). **_Believers should_** boldly share their testimony of Christ (*vs. 22:21*).
+
+**Chapter 23**  
+**_In Chapter 23, Luke_** describes Paul’s trial before the Sanhedrin and the plot to kill him, which is thwarted by divine intervention (*vs. 23:1-35*). **_Christ is presented as_** the protector and encourager of His witnesses (*vs. 23:11*). **_Believers should_** take courage in God’s providence during opposition (*vs. 23:23-24*).
+
+**Chapter 24**  
+**_In Chapter 24, Luke_** recounts Paul’s defense before Governor Felix, emphasizing his integrity and the truth of the gospel (*vs. 24:1-27*). **_Christ is presented as_** the judge of all and the source of righteousness (*vs. 24:24-25*). **_Believers should_** remain faithful to the truth, even in prolonged trials (*vs. 24:25-27*).
+
+**Chapter 25**  
+**_In Chapter 25, Luke_** narrates Paul’s trial before Festus and his appeal to Caesar, ensuring the continuation of his mission (*vs. 25:1-27*). **_Christ is presented as_** the sovereign Lord who orchestrates His purposes (*vs. 25:10-12*). **_Believers should_** trust God’s sovereignty in advancing His kingdom (*vs. 25:25-27*).
+
+**Chapter 26**  
+**_In Chapter 26, Luke_** details Paul’s defense before King Agrippa, where he passionately shares his testimony and the message of Christ (*vs. 26:1-32*). **_Christ is presented as_** the risen Lord who calls all to repentance and faith (*vs. 26:22-23*). **_Believers should_** boldly proclaim the gospel to all, regardless of their status (*vs. 26:28-29*).
+
+**Chapter 27**  
+**_In Chapter 27, Luke_** describes Paul’s perilous journey to Rome, including a shipwreck where Paul’s faith strengthens those on board (*vs. 27:1-44*). **_Christ is presented as_** the sustainer and hope in life’s storms (*vs. 27:22-25*). **_Believers should_** trust God’s promises and provide encouragement to others during difficulties (*vs. 27:33-36*).
+
+**Chapter 28**  
+**_In Chapter 28, Luke_** concludes with Paul’s arrival in Rome, where he continues to preach the gospel boldly despite his imprisonment (*vs. 28:1-31*). **_Christ is presented as_** the hope of all nations, unstoppable even in chains (*vs. 28:30-31*). **_Believers should_** persevere in proclaiming Christ, regardless of circumstances (*vs. 28:31*).
+
