@@ -27,8 +27,8 @@ image: "/images/welcome.jpg"
 
 ---
 
-# Session 3 Part 1 - The Gospel of Mark
-*See Thomas and Gundry, A Harmony of the Gospels pp. 36-7, 50-1, 95-6*
+## Session 3 Part 1 - The Gospel of Mark
+*See Thomas and Gundry, A Harmony of the Gospels pp. 36-7, 50-1, 95-6*  
 - Who was the source?
 
 **Read Mark 14:51, Acts 12:12ff, Col. 4:10 & Philemon 24, Acts 13:5 & 15:37-39, 2 Tim. 4:11, 1 Pet. 5:13, Acts 13:13.**
