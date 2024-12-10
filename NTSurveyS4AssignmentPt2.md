@@ -6,7 +6,7 @@ excerpt: "Session 4 Exercise: Luke"
 image: "/images/welcome.jpg"
 ---
 
-**pg. 110 New Testament Survey Instructors Guide.**
+*pg. 110 New Testament Survey Instructors Guide.*  
 
 **Read and compare Matthew 22:9 and Luke 14:23.**
 1. In what ways do Luke and Matthew share a missionary interest?
