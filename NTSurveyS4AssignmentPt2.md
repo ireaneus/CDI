@@ -5,13 +5,24 @@ author: "Dave Haines"
 excerpt: "Session 4 Exercise: Luke"
 image: "/images/welcome.jpg"
 ---
-**Read and compare Matthew 22:9 and Luke 14:23.**  
 
-- In what ways do Luke and Matthew share a missionary interest?
+**pg. 110 New Testament Survey Instructors Guide.**
+
+*Read and compare Matthew 22:9 and Luke 14:23.*
+1. In what ways do Luke and Matthew share a missionary interest?
+
+Luke and Matthew share a missionary interest by emphasizing the kingdom of God as inclusive and urgent, extending beyond Israel to those marginalized by society. Both highlight Jesus’ mission to break cultural barriers and invite all peoples into God’s kingdom.
 
 **Read the following verses and tell what they say about each category.**  
 - Women: Luke 7:12, 23:49, 55ff
-- Children: Luke 7:12, 8:42, 9:38, 18:15
+*"The prominence of women in the gospel accounts, especially as witnesses to the resurrection, would have been counterproductive for anyone attempting to fabricate a believable story in the ancient world. The inclusion of women points to the authenticity of the accounts, as the gospel writers faithfully recorded events as they occurred, regardless of cultural biases."*  
+
+- Children: Luke 7:12, 8:42, 9:38, 18:15  
+
+**Luke 18:17 (NASB 2020)**:  
+*“Truly I say to you, whoever does not receive the kingdom of God like a child will not enter it at all.”* 
+*"Jesus teaches that we should have faith like a child—trusting, humble, and dependent—because such faith reflects the openness needed to embrace God’s kingdom."*
+
 - Social relations: Luke 7:36-50, 11:37-44, 14:1-4, 10:38-42, 19:1-10, 10:38-42, 11:5-8, 15:8-10, 22ff
 - Poverty & wealth: Luke 6:20, 24, 30, 14:11ff
 - Prayer: Luke 5:16, 6:12, 11:1-4 & 18:1-8
