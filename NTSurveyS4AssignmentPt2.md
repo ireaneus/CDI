@@ -14,10 +14,10 @@ image: "/images/welcome.jpg"
 Luke and Matthew share a missionary interest by emphasizing the kingdom of God as inclusive and urgent, extending beyond Israel to those marginalized by society. Both highlight Jesus’ mission to break cultural barriers and invite all peoples into God’s kingdom.
 
 **Read the following verses and tell what they say about each category.**  
-- Women: Luke 7:12, 23:49, 55ff
+1. Women: Luke 7:12, 23:49, 55ff
 *"The prominence of women in the gospel accounts, especially as witnesses to the resurrection, would have been counterproductive for anyone attempting to fabricate a believable story in the ancient world. The inclusion of women points to the authenticity of the accounts, as the gospel writers faithfully recorded events as they occurred, regardless of cultural biases."*  
 
-- Children: Luke 7:12, 8:42, 9:38, 18:15  
+2. Children: Luke 7:12, 8:42, 9:38, 18:15  
 
 **Luke 18:17 (NASB 2020)**:  
 *“Truly I say to you, whoever does not receive the kingdom of God like a child will not enter it at all.”* 
