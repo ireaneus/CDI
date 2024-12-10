@@ -1,4 +1,12 @@
-# O.T. Outline
+---
+title: NTSurvey - Session 1 Assignment
+date: 2024-11-16
+author: "Dave Haines"
+excerpt: "Session 1 Assignment: Create Old Testament Outline"
+---
+
+*pg. 29 NT Survey Instructors Guide*  
+
 ### 1. **Creation to Early Patriarchs (Approx. 4000–2000 B.C.)**
    - **Creation**: *Genesis 1:1-31* – The account of God creating the world.
    - **The Fall**: *Genesis 3:1-24* – The introduction of sin through Adam and Eve.
