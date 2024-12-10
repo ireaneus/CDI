@@ -11,8 +11,8 @@ image: "/images/livingwatersrv.jpg"
 
 ## Compare the Old Covenant
 - Made, Genesis 12:1-3 includes:
--- Separation to a unique relationship with God
--- Promises a land
+  - Separation to a unique relationship with God
+  - Promises a land
 - Promises a nation of descendants
 - Predicts a place of power and influence among nations
 
