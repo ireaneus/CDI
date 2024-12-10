@@ -8,10 +8,10 @@ image: "/images/welcome.jpg"
 
 **pg. 110 New Testament Survey Instructors Guide.**
 
-*Read and compare Matthew 22:9 and Luke 14:23.*
+**Read and compare Matthew 22:9 and Luke 14:23.**
 1. In what ways do Luke and Matthew share a missionary interest?
 
-Luke and Matthew share a missionary interest by emphasizing the kingdom of God as inclusive and urgent, extending beyond Israel to those marginalized by society. Both highlight Jesus’ mission to break cultural barriers and invite all peoples into God’s kingdom.
+*Luke and Matthew share a missionary interest by emphasizing the kingdom of God as inclusive and urgent, extending beyond Israel to those marginalized by society. Both highlight Jesus’ mission to break cultural barriers and invite all peoples into God’s kingdom.*
 
 **Read the following verses and tell what they say about each category.**  
 1. Women: Luke 7:12, 23:49, 55ff  
@@ -23,11 +23,13 @@ Luke and Matthew share a missionary interest by emphasizing the kingdom of God a
 *"Jesus teaches that we should have faith like a child—trusting, humble, and dependent—because such faith reflects the openness needed to embrace God’s kingdom."*
 
 3. Social relations: Luke 7:36-50, 11:37-44, 14:1-4, 10:38-42, 19:1-10, 10:38-42, 11:5-8, 15:8-10, 22ff
-*"Jesus values faith in Him above all, regardless of one’s cultural or societal status, affirming that those who trust in Him will find their place in His kingdom, where the last shall be first and the first last."*
+*"Jesus values faith in Him above all, regardless of one’s cultural or societal status, affirming that those who trust in Him will find their place in His kingdom, where the last shall be first and the first last."*  
 
 4. Poverty & wealth: Luke 6:20, 24, 30, 14:11ff
 *"Jesus teaches that true blessing comes to those who are poor in spirit and rely on God, warning the wealthy of misplaced comfort in riches."*
+
 5. Prayer: Luke 5:16, 6:12, 11:1-4 & 18:1-8
+*"The Persistent Widow Parable underscores that God is far more willing to answer prayers than an unjust judge, but it calls believers to exhibit perseverance, faith, and trust in His perfect timing and justice."*
 
 **Read Benware, Survey of the New Testament p. 99 and review the outline.**  
 
