@@ -1,8 +1,11 @@
 ---
 title: NTSurvey - Chapters of Acts
-date: 2024-11-16
+date: 11-16-2024
 author: "Dave Haines"
-excerpt: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD"
+category: "Sermon Notes"
+description: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD"
+image: "/images/welcome.jpg"
+bibleReference: "[Acts]"
 ---
 
 
@@ -43,7 +46,7 @@ excerpt: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD
 
 ---
 
-## II. Introduction vs. 1:1-2:4
+## I. Introduction vs. 1:1-2:4
 
 **Chapter 1**  
 **_In Chapter 1, Jesus_** gives the great commission and ascends to heaven, preparing the apostles for the coming of the Holy Spirit (*vs. 1:6-14*). **_Christ is presented as_** the ascended Lord who promises spiritual empowerment (*vs. 1:8-9*). **_Believers should_** wait for the Spirit and remain in unity and prayer (*vs. 1:14*).
@@ -53,7 +56,7 @@ excerpt: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD
 
 ---
 
-## The Witness in Jerusalem vs. 2:5-8:3
+## II. The Witness in Jerusalem vs. 2:5-8:3
 
 **Chapter 3**  
 **_In Chapter 3, Luke_** records the healing of the lame man and Peter’s call to repentance, emphasizing Jesus’ power (*vs. 3:1-26*). **_Christ is presented as_** the Holy and Righteous One who brings restoration (*vs. 3:14-21*). **_Believers should_** turn to God for forgiveness and *"refreshing may come from the presence of the Lord"* (*vs. 3:19*).
@@ -75,7 +78,7 @@ excerpt: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD
 
 ---
 
-## The Witness in Judea and Samaria vs. 8:4-12:25
+## III. The Witness in Judea and Samaria vs. 8:4-12:25
 
 **Chapter 9**  
 **_In Chapter 9, Luke_** tells of Saul’s dramatic conversion and Peter’s miracles in Lydda and Joppa (*vs. 9:1-43*). **_Christ is presented as_** the risen Lord who transforms lives (*vs. 9:4-6*). **_Believers should_** trust in God’s power to change even the most unlikely individuals (*vs. 9:20-22*).
@@ -91,7 +94,7 @@ excerpt: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD
 
 ---
 
-## The Witness to the Uttermost Part of the Earth vs. 13:1-28:31
+## IV. The Witness to the Uttermost Part of the Earth vs. 13:1-28:31
 
 **Chapter 13**  
 **_In Chapter 13, Luke_** describes the first missionary journey of Paul and Barnabas, proclaiming Jesus as the Messiah (*vs. 13:1-52*). **_Christ is presented as_** the light for the Gentiles and fulfillment of God’s promises (*vs. 13:46-47*). **_Believers should_** share the gospel boldly, even amidst rejection (*vs. 13:50-52*).
