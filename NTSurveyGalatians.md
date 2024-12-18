@@ -32,7 +32,14 @@ bibleReference: "[Galatians]"
 | III. Doctrinal: the Exposition of Justification by Faith | (vs. 3:1-4:31) |
 | A. The Explanation of Justification by Faith | (vs. 3:1-4:7) |
 | B. The Exhortation to Forsake Legalism | (vs. 4:8-31) |
-
+| | |
+| IV. Practical: The Life of Christian Liberty| (vs. 5:1-6:10) |
+| A. The Call to Christian Liberty | (vs. 5:1) |
+| B. The Peril to Christian Liberty | (vs. 5:2-12) |
+| C. The Holy Spirit and Christian Liberty | (vs. 5:13-26 |
+| D. Service and Christian Liberty | (vs. 6:1-10) |
+| | |
+| V. Conclusion | (vs. 6:11-18) |
 
 ## Galatians
 
