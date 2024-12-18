@@ -1,3 +1,39 @@
+---
+title: NTSurvey - Chapters of Galatians
+date: 12-10-2024
+author: "Dave Haines"
+category: "Sermon Notes"
+description: "In this study, Galatians is viewed as the earliest of Paul's writings, being penned shortly after Paul's first missionary journey.  This would give the book a date of late A.D. 48 or early A.D. 49.  The place of writing would be Antioch of Syria"
+image: "/images/welcome.jpg"
+bibleReference: "[Galatians]"
+---
+
+#### Diary requirements
+- Four chapters or less do one paragraph for entire letter
+- Simplicity is key - one paragraph per chapter
+
+#### Format for diary:
+- In Chapter __ Jesus (or the author) said, or did...
+- Christ was presented as...
+- Believers should...
+
+| **Galatians** | | 
+|:-------:|:-------:|
+| I. Introduction | (vs. 1:1-9) |
+| A. Salutation | (vs. 1:1-5) |
+| B. Occasion | (vs. 1:6-9) |
+| | |
+| II. Personal: Paul's Defense of His Apostolic Authority | (vs. 1:10-2:21) |
+| A. Paul's Reception of Direct Divine Revelation | (vs. 1:10-17) |
+| B. Paul's Apostleship Acknowledged| (vs. 1:18-24) |
+| C. Paul's Teaching Recognized as True | (vs. 2:1-10) |
+| D. Paul's Authority Displayed | (vs. 2:11-21) |
+| | |
+| III. Doctrinal: the Exposition of Justification by Faith | (vs. 3:1-4:31) |
+| A. The Explanation of Justification by Faith | (vs. 3:1-4:7) |
+| B. The Exhortation to Forsake Legalism | (vs. 4:8-31) |
+
+
 ## Galatians
 
 ### The True Gospel vs. 1:1-2:21
