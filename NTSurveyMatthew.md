@@ -17,24 +17,16 @@ image: "/images/welcome.jpg"
 
 ---
 
-| Section                | Discourse            |
-| :--------------------: | :------------------: |
-| I. Prophesies Realized | I. Preaching of John |
-| 1:1 - 4:11 | 3:1 - 12 |
-| II. Principles Announced | The Sermon on the Mount |
-| 4:12 - 7:29 | 5:1 - 7:29 |
-| III. The Power Revealed | The Commission |
-| 8:1 - 11:1 | 10:1 - 42 |
-| IV. The Program Explained | The Parables |
-| 11:2 - 13:53 | 13:1 - 52 |
-| V. The Purpose Declared | The Meaning of Forgiveness |
-| 13:54 - 19:2 | 18:1 - 35 | 
-| VI. The Problems Presented | Denunciation and Prediction |
-| 19:3 - 26:2 | 23:1 - 25:46 |
-| VII. The Passion Accomplished | (No discourse: action) |
-| 26:3 - 28:10 | |
-| Epilogue | The Great Commission |
-| 28:11 - 20 | 28:18 - 20 |
+| Section      | Discourse      |
+| :----------- | -------------: |
+| Presentation | (vs. 1:1-4:11) |
+| Teaching | (vs. 4:12-7:29) |
+| Power | (vs. 8:1-11:1) |
+| Opposition | (vs. 11:2-16:12 |
+| Preparation | (vs. 16:13-20:34) |
+| Rejection | (vs. 21:1-26:66) |
+| Proof | (vs. 27:1-28:20) |
+
 
 ---
 
