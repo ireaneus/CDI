@@ -22,7 +22,7 @@ image: "/images/welcome.jpg"
 |:------------------- |:---------:|
 | **Topical Outline** | **Verse** |
 | I. Present the Servant | (*vs. 1:1-13*) |
-| II. Manifest the Servant | (*vs. 1:14-3:6 |
+| II. Manifest the Servant | (*vs. 1:14-3:6*) |
 | III. Oppose the Servant | (*vs. 3:7-8:13*) |
 | IV. Instructions to Disciples | (*vs. 8:14-10:52*) |
 | V. Rejection of the Servant | (*vs. 11:1-15:47*) |
