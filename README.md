@@ -1,7 +1,3 @@
-# CDI
-Contenders Discipleship Initiative
-
-## Template for NT and OT Survey chapters
 ---
 title: NTSurvey - Chapters of Acts
 date: 11-16-2024
@@ -11,6 +7,12 @@ description: "Assignment: Chapter Diary of New Testament Writer is Luke around 6
 image: "/images/welcome.jpg"
 bibleReference: "[Acts]"
 ---
+
+# CDI
+Contenders Discipleship Initiative
+
+## Template for NT and OT Survey chapters
+
 
 
 #### Diary requirements
