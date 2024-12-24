@@ -1,6 +1,6 @@
 ---
 title: OTSurvey - Chapters of Hosea
-date: 11-16-2024
+date: 12-24-2024
 author: "Dave Haines"
 category: "Sermon Notes"
 description: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD"
