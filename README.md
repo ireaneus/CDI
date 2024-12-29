@@ -1,9 +1,9 @@
 ---
-title: NTSurvey - Chapters of Acts
+title: Template for mdx files
 date: 11-16-2024
 author: "Dave Haines"
 category: "Sermon Notes"
-description: "Assignment: Chapter Diary of New Testament Writer is Luke around 64 AD"
+description: "Used in conjunction with website to print it in pdf"
 image: "/images/welcome.jpg"
 bibleReference: "[Acts]"
 ---
