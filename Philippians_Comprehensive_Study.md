@@ -1,5 +1,6 @@
-
-# Comprehensive Study on Philippians
+---
+title: Comprehensive Study on Philippians
+---
 
 ## CDI Notes: Content of Philippians Overview
 
@@ -33,8 +34,6 @@
 
 _The theme of joy (Philippians 1:18) is central throughout the letter and includes profound Christology in Chapter 2._
 
-
-
 ## Philippians NASB1995 Section Headings
 
 **Chapter 1**  
@@ -53,3 +52,42 @@ _The theme of joy (Philippians 1:18) is central throughout the letter and includ
 - Think of Excellence  
 - God’s Provisions  
 - Final Greetings
+
+#### Diary requirements
+- Four chapters or less do one paragraph for entire letter
+- Simplicity is key - one paragraph per chapter
+
+#### Format for diary:
+- In Chapter __ Jesus (or the author) said, or did...
+- Christ was presented as...
+- Believers should...
+
+## Basic Outline of Philippians
+| Philippians | Verses |
+| ----------- | ----------|
+| **I. Introduction** | (1:1-11) |
+| A. Greetings and Thanksgiving | (1:1-8) |
+| B. Petitions for Philippian Believers | (1:9-11) |
+| | |
+| **II. Paul's Personal Circumstances at Rome** | (1:12-26) |
+| A. His Ministry | (1:12-14) |
+| B. His Joy | (1:15-18) |
+| C. His Commitment | (1:19-26) |
+| **III. Paul's Practical Exhortation to the Philippians** | (1:27-2:18) |
+| A. Admonitions for Unity and Humility | (1:27-2:11) |
+| B. Call to Correct Conduct | (2:12-18) |
+| C. Co-workers of Paul | (2:19-30) |
+| | |
+| **IV. Paul's Past and the Present Need** | (3:1-21) |
+| **V. Paul's Principles for Joyful Living** | (4:1-9) |
+| **VI. Paul's Praise for the Meeting of His Needs | (4:10-23) |
+
+## Notes from *"Survey of the New Testament"*
+-
+
+
+
+
+
+
+
