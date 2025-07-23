@@ -37,7 +37,9 @@ bibleReference: "[Ephesians]"
 _Ephesians is a good letter for all churches because it deals with ecclesiology—  
 the theology of the church in its establishment, purpose, and survival._
 
+## Notes from *"Survey of New Testament"*
 
+- Both Ephesians and Colossians letters were carried by *"Tychicus"* going to the church in Colossae, however this letter was designed to be a circular letter.  Intended for a number of churches in Asia Minor.
 
 ## Ephesians NASB1995 Section Headings
 
