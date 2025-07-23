@@ -1,4 +1,12 @@
-# Comprehensive Study on Ephesians
+---
+title: NTSurvey - Chapters of Ephesians
+date: 02-25-2025
+author: "Dave Haines"
+category: "Sermon Notes"
+description: "Unlike many of Paul's other letters, Ephesians was not written to address any particular problem or controversy. Paul wrote the letter to instruct the Christians of Asia Minor concerning the privileges and responsibilities of those who were part of the church, the Body of Christ."
+image: "/images/welcome.jpg"
+bibleReference: "[Ephesians]"
+---
 
 
 ## CDI Notes: Content of Ephesians
@@ -59,17 +67,6 @@ the theology of the church in its establishment, purpose, and survival._
 - Family Relationships  
 - The Armor of God  
 - Conclusion
-
-
----
-title: NTSurvey - Chapters of Ephesians
-date: 02-25-2025
-author: "Dave Haines"
-category: "Sermon Notes"
-description: "Unlike many of Paul's other letters, Ephesians was not written to address any particular problem or controversy. Paul wrote the letter to instruct the Christians of Asia Minor concerning the privileges and responsibilities of those who were part of the church, the Body of Christ."
-image: "/images/welcome.jpg"
-bibleReference: "[Ephesians]"
----
 
 #### Diary requirements
 - Four chapters or less do one paragraph for entire letter
