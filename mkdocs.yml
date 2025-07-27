@@ -1,0 +1,5 @@
+site_name: CDI Village Missions Contenders class
+extra_css:
+  - styles.css
+extra_javascript:
+  - theme-toggle.js
