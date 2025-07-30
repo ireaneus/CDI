@@ -1,21 +1,30 @@
 ---
 title: NTSurvey - Chapters of Ephesians
-date: 61 A.D
+date: 61 A.D.
 writer: Paul the Apostle
 category: Prison Epistle
 description: Unlike many of Paul's other letters, Ephesians was not written to address any particular problem or controversy. Paul wrote the letter to instruct the Christians of Asia Minor concerning the privileges and responsibilities of those who were part of the church, the Body of Christ."
 bibleReference: [Ephesians]
 ---
 
+# {{ title }}
+
+**Date:** {{ date }}  
+**Writer:** {{ writer }}  
+**Category:** {{ category }}  
+**Description:** {{ description }}
+**BibleReference:** {{ bibleReference }}
+
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [CDI Notes: Content of Ephesians](#cdi-notes-content-of-ephesians)
-- [Notes from _"Survey of New Testament"_](#notes-from-survey-of-new-testament)
-- [Ephesians NASB1995 Section Headings](#ephesians-nasb1995-section-headings)
-- [The Points of the letter to the Ephesians](#the-points-of-the-letter-to-the-ephesians)
-- [The Calling of the Church](#the-calling-of-the-church)
-- [The Conduct of the Church](#the-conduct-of-the-church)
+- [{{ title }}](#-title-)
+  - [Table of Contents](#table-of-contents)
+  - [CDI Notes: Content of Ephesians](#cdi-notes-content-of-ephesians)
+  - [Notes from _"Survey of New Testament"_](#notes-from-survey-of-new-testament)
+  - [Ephesians NASB1995 Section Headings](#ephesians-nasb1995-section-headings)
+  - [The Points of the letter to the Ephesians](#the-points-of-the-letter-to-the-ephesians)
+  - [The Calling of the Church](#the-calling-of-the-church)
+  - [The Conduct of the Church](#the-conduct-of-the-church)
 
 ## CDI Notes: Content of Ephesians
 

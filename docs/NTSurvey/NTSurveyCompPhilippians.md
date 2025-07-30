@@ -1,10 +1,10 @@
 ---
 title: Comprehensive Study on Philippians
 date: 61 A.D
-writer: "Paul the Apostle"
-category: "Prison Epistle"
-description: "This is a very personal letter from Paul to a church that has cared for him."
-bibleReference: "[Philippians]"
+writer: Paul the Apostle
+category: Prison Epistle
+description: This is a very personal letter from Paul to a church that has cared for him.
+bibleReference: [Philippians]
 ---
 
 ## CDI Notes: Content of Philippians Overview
