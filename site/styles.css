@@ -13,7 +13,6 @@
   --code-text: #2a4d69;
   --hr: #e1e1e1;
   --img-shadow: 0 2px 8px rgba(0,0,0,0.07);
-  --nav-bg: #0a2540;
 }
 
 /* Removed dark theme variables to force light theme only */
@@ -32,7 +31,7 @@ body, .md-content {
 nav.navbar.bg-primary, nav.navbar-dark.bg-primary, .md-header nav.navbar.bg-primary, .navbar.bg-primary, .navbar-dark.bg-primary {
   background-color: #0a2540 !important;
 }
-}
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
@@ -153,4 +152,7 @@ img {
 .md-content {
   padding-bottom: 3em;
 }
+
+nav.navbar.bg-primary, nav.navbar-dark.bg-primary, .md-header nav.navbar.bg-primary {
+  background-color: #0a2540 !important;
 }
