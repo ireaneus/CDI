@@ -1,8 +1,9 @@
 :root {
   --bg: #f9f9f9;
   --text: #222;
-  --heading: #2a4d69;
-  --accent: #2176ae;
+  --heading: #133a5c;
+  --accent: #4974a0;
+  --heading-bg: #0a2540;
   --table-header: #eaf6fb;
   --table-border: #d1d5da;
   --table-row: #f6f8fa;
@@ -16,9 +17,10 @@
 
 html[data-theme="dark"] {
   --bg: #181c1f;
-  --text: #e0e6ed;
-  --heading: #7ecfff;
-  --accent: #4db3fa;
+  --text: #eef1f5;
+  --heading: #3a7bd5;
+  --accent: #133a5c96;
+  --heading-bg: #133a5c;
   --table-header: #22303a;
   --table-border: #2a3b4d;
   --table-row: #1e2327;
@@ -61,6 +63,9 @@ body, .md-content {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
   color: var(--heading);
+  background: var(--heading-bg);
+  padding: 0.2em 0.5em;
+  border-radius: 6px;
   margin-top: 2em;
   margin-bottom: 0.5em;
   font-weight: 700;
