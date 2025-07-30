@@ -25,14 +25,6 @@ body, .md-content {
   transition: background 0.3s, color 0.3s;
 }
 
-
-/* Fix for navbar background color */
-/* Maximally specific navbar background override */
-nav.navbar.bg-primary, nav.navbar-dark.bg-primary, .md-header nav.navbar.bg-primary, .navbar.bg-primary, .navbar-dark.bg-primary {
-  background-color: #0a2540 !important;
-}
-
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
   color: var(--heading);
@@ -153,6 +145,12 @@ img {
   padding-bottom: 3em;
 }
 
-nav.navbar.bg-primary, nav.navbar-dark.bg-primary, .md-header nav.navbar.bg-primary {
+/* nav.navbar.bg-primary, nav.navbar-dark.bg-primary, .md-header nav.navbar.bg-primary, .navbar.bg-primary, .navbar-dark.bg-primary {
   background-color: #0a2540 !important;
+} */
+
+.navbar.bg-primary, .bg-primary {
+  background-color: #3f6281 !important;
+  background-image: none !important;
+  --bs-bg-opacity: 1 !important;
 }
