@@ -1,10 +1,10 @@
 ---
 title: NTSurvey - Chapters of Ephesians
 date: 61 A.D
-writer: "Paul the Apostle"
-category: "Prison Epistle"
-description: "Unlike many of Paul's other letters, Ephesians was not written to address any particular problem or controversy. Paul wrote the letter to instruct the Christians of Asia Minor concerning the privileges and responsibilities of those who were part of the church, the Body of Christ."
-bibleReference: "[Ephesians]"
+writer: Paul the Apostle
+category: Prison Epistle
+description: Unlike many of Paul's other letters, Ephesians was not written to address any particular problem or controversy. Paul wrote the letter to instruct the Christians of Asia Minor concerning the privileges and responsibilities of those who were part of the church, the Body of Christ."
+bibleReference: [Ephesians]
 ---
 
 ## CDI Notes: Content of Ephesians
