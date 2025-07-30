@@ -32,8 +32,6 @@ html[data-theme="dark"] {
   --img-shadow: 0 2px 8px rgba(0,0,0,0.25);
 }
 
-/* ...rest of your CSS remains unchanged... */
-
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #181c1f;
@@ -63,9 +61,6 @@ body, .md-content {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
   color: var(--heading);
-  background: var(--heading-bg);
-  padding: 0.2em 0.5em;
-  border-radius: 6px;
   margin-top: 2em;
   margin-bottom: 0.5em;
   font-weight: 700;
@@ -181,4 +176,9 @@ img {
 /* Misc */
 .md-content {
   padding-bottom: 3em;
+}
+
+html[data-theme="dark"] a {
+  color: #4db3fa !important;
+  border-bottom: 1px dotted #4db3fa !important;
 }

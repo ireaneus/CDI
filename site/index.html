@@ -23,30 +23,7 @@
     </head>
 
     <body class="homepage">
-        <button id="theme-toggle" style="position:fixed;top:1em;right:1em;z-index:1000;background:#0a2540;color:#fff;border:1px solid #4db3fa;border-radius:5px;padding:0.5em 1em;cursor:pointer;font-size:1em;box-shadow:0 2px 8px rgba(0,0,0,0.15);">🌙 Dark</button>
-        <script>
-        (function() {
-          var btn = document.getElementById('theme-toggle');
-          function setTheme(theme) {
-            document.documentElement.setAttribute('data-theme', theme);
-            localStorage.setItem('theme', theme);
-            btn.innerText = theme === 'dark' ? '☀️ Light' : '🌙 Dark';
-          }
-          btn.onclick = function() {
-            var current = document.documentElement.getAttribute('data-theme') || 'light';
-            setTheme(current === 'dark' ? 'light' : 'dark');
-          };
-          var saved = localStorage.getItem('theme');
-          if (saved) {
-            setTheme(saved);
-          } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            setTheme('dark');
-          } else {
-            setTheme('light');
-          }
-        })();
-        </script>
-        <div class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #0a2540;">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
                 <a class="navbar-brand" href=".">CDI Course - Student David Haines</a>
                 <!-- Expander button -->
@@ -506,5 +483,5 @@
 
 <!--
 MkDocs version : 1.6.1
-Build Date UTC : 2025-07-30 17:35:53.859196+00:00
+Build Date UTC : 2025-07-30 18:10:32.050305+00:00
 -->
