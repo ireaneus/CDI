@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Doctrine Test questions - CDI Village Missions Contenders class</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../css/brands.min.css" rel="stylesheet">
+        <link href="../../css/solid.min.css" rel="stylesheet">
+        <link href="../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../styles.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">CDI Village Missions Contenders class</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../.." class="nav-link">David Haines CDI class webpage</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Bibliography</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../Bibliography/1Corinth/" class="dropdown-item">Book of 1 Corinthians with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/1John/" class="dropdown-item">Book of 1 John with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/1Peter/" class="dropdown-item">Book of 1 Peter with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/1Thess/" class="dropdown-item">Book of 1 Thessalonians with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/1Timothy/" class="dropdown-item">Book of 1 Timothy with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/2Corinth/" class="dropdown-item">Book of 2 Corinthians with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/2John/" class="dropdown-item">Book of 2 John with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/2Peter/" class="dropdown-item">Book of 2 Peter with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/2Thess/" class="dropdown-item">Book of 2 Thessalonians with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/2Timothy/" class="dropdown-item">Book of 2 Timothy with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/3John/" class="dropdown-item">Book of 3 John with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Acts/" class="dropdown-item">Book of Acts with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/BibleTranslations/" class="dropdown-item">BibleTranslations</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Colossians/" class="dropdown-item">Book of Colossians with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Galatians/" class="dropdown-item">Book of Galatians with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Hebrews/" class="dropdown-item">Book of Hebrews with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/IntroBibliography-1/" class="dropdown-item">Introduction to Bibliography Session 1</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/IntroBibliography-2/" class="dropdown-item">Introduction to Bibliography Session 1</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/IntroBibliography/" class="dropdown-item">Introduction to Bibliography Session 1</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/James/" class="dropdown-item">Book of James with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Plenary/" class="dropdown-item">Plenary Inspiration</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Revelation/" class="dropdown-item">Book of Revelation with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Romans/" class="dropdown-item">Book of Romans with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/S13Assignment/" class="dropdown-item">Exegesis of 1 John 1:1 - 2:2</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/S13cAssignment/" class="dropdown-item">S13 Assignment</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/S14Assignment/" class="dropdown-item">S14Assignment</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/S15Assignment/" class="dropdown-item">S15Assignment</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/S16Assignment/" class="dropdown-item">S16Assignment</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/S1Assignments/" class="dropdown-item">Session 1 Assignments</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/S1BiblicalEvents/" class="dropdown-item">CLASS ACTIVITY: CREATING A BIBLE TIMELINE REFERENCE</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/S5Assignment1/" class="dropdown-item">Christ Fulfilled Prophecies</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Titus/" class="dropdown-item">Book of Titus with Chapter Headings and Section Titles (NASB2020)</a>
+</li>
+                                    
+<li>
+    <a href="../../Bibliography/Verbal/" class="dropdown-item">Verbal</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle active" aria-current="page" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Doctrine</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../BibleRevelation/" class="dropdown-item">The Bible and Divine Revelation</a>
+</li>
+                                    
+<li>
+    <a href="../DoctrineS10Assignment/" class="dropdown-item">Session 10 Part 1 - Soterialogy: Regeneration &amp; Justification</a>
+</li>
+                                    
+<li>
+    <a href="../DoctrineS2Assignment/" class="dropdown-item">Session 2 Part 1 - The essence and Attributes of God</a>
+</li>
+                                    
+<li>
+    <a href="../DoctrineS2AssignmentP2/" class="dropdown-item">Session 2 Part 2: The Nature of God</a>
+</li>
+                                    
+<li>
+    <a href="../DoctrineS2AssignmentP3/" class="dropdown-item">Session 2 Part 3 - The Trinity</a>
+</li>
+                                    
+<li>
+    <a href="../DoctrineS5AssignmentP1/" class="dropdown-item">Session 5 Part 1 - The Enternal Decrees of God</a>
+</li>
+                                    
+<li>
+    <a href="../DoctrineS5AssignmentP2/" class="dropdown-item">Session 5 Part 2 - Creation</a>
+</li>
+                                    
+<li>
+    <a href="../John1_1-2Exegesis/" class="dropdown-item">Exegesis John 1:1 - 2:2</a>
+</li>
+                                    
+<li>
+    <a href="../John1_1-2Summary/" class="dropdown-item">John 1:1-2:2</a>
+</li>
+                                    
+<li>
+    <a href="../MannersCustoms/" class="dropdown-item">MannersCustoms</a>
+</li>
+                                    
+<li>
+    <a href="../NumbMean/" class="dropdown-item">NumbMean</a>
+</li>
+                                    
+<li>
+    <a href="../PersonalStatement/" class="dropdown-item">Personal Statement of Faith</a>
+</li>
+                                    
+<li>
+    <a href="../ProphecyViews/" class="dropdown-item">ProphecyViews</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active" aria-current="page">Doctrine Test questions</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">NTSurvey</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurvey1Corinth/" class="dropdown-item">Chapter summary of 1 Corinthians</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurvey1Thess/" class="dropdown-item">NTSurvey - Chapters of 1 Thessalonians</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurvey2Corinth/" class="dropdown-item">Chapter Summaries for 2 Corinthians</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurvey2Thess/" class="dropdown-item">NTSurvey - Chapters of 2 Thessalonians</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyActs/" class="dropdown-item">NTSurvey - Chapters of Acts</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyCompEphesians/" class="dropdown-item">NTSurvey - Chapters of Ephesians</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyCompPhilippians/" class="dropdown-item">Comprehensive Study on Philippians</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyGalatians/" class="dropdown-item">NTSurvey - Chapters of Galatians</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyJohn/" class="dropdown-item">NTSurvey - Gospel of John</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyLuke/" class="dropdown-item">NTSurvey - Gospel of Luke</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyMark/" class="dropdown-item">NTSurvey - Gospel of Mark</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyMatthew/" class="dropdown-item">NTSurvey - Gospel of Matthew</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyRomans/" class="dropdown-item">Chapter Summaries for Romans</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyS1AssignmentPt1/" class="dropdown-item">NTSurvey - Session 1 Assignment</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyS2AssignmentPt3/" class="dropdown-item">NTSurvey - Session 2 Part 3</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyS4AssignmentPt2/" class="dropdown-item">NTSurvey - Session 4 Part 2</a>
+</li>
+                                    
+<li>
+    <a href="../../NTSurvey/NTSurveyS5AssignmentPt1/" class="dropdown-item">NTSurvey - Session 5 Part 1</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">OTSurvey</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../OTSurvey/OTSurveyHosea/" class="dropdown-item">OTSurvey - Chapters of Hosea</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../ProphecyViews/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../../NTSurvey/NTSurvey1Corinth/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#doctrine-test-questions" class="nav-link">Doctrine Test questions</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#midterm" class="nav-link">Midterm</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#soteriology" class="nav-link">Soteriology</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#holy-spirit-section" class="nav-link">Holy spirit section</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#test-notes-from-bibliography-sessions" class="nav-link">Test Notes from Bibliography Sessions</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#memorize" class="nav-link">Memorize</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="doctrine-test-questions">Doctrine Test questions</h1>
+<h2 id="midterm">Midterm</h2>
+<ul>
+<li>Pantheism: The belief that all things are God</li>
+<li>Polytheism: Belief in many Gods.</li>
+<li>Deism: Belief in an impersonal unknowable God, who created the universe and is not intimately involved with it, afterwards</li>
+<li>Atheism: The belief that there is no God.  However most atheist will say that they HATE God.  Hmm, isn't that counterintuitive?</li>
+<li>Agnosticism: That existence of God is a possibility, but doubts that it is so</li>
+<li>Theism: Belief in a transcendent, personal God who is intimately involved with His creation (Universe). He watches over the lilies of the valley, sparrows and controls the waves.  How much more so is He with His beloved in Christ</li>
+<li>Infinite: Without limits, there is no limit with God.  He cannot sin, lie, or speak falsely</li>
+<li>Eternal: Without beginning or end</li>
+<li>Holy: Being separate, Exalted or Worthy of complete devotion as one perfect in goodness and righteousness</li>
+<li>Omnipotent: All-powerful, no limits to what can be done.</li>
+<li>Immutable: Unchangeable</li>
+<li>Omnipresent: Existing everywhere at once, He is everywhere intimate with His creation but not in all things. ie.. He is not in a tree, but cares, prunes and determines the limits of its actions with the wind and its growth</li>
+<li>Theology: The study of God.</li>
+<li>Doctrine: Teaching or instruction, specifically about God.</li>
+<li>Pneumatology: The study of the Holy Spirit. Pneumatic drill, Air drill, wind</li>
+<li>Christology: The study of God the Son, basically the bible is all about the Son</li>
+<li>Anthropology:The study of human beings</li>
+<li><strong>Atheistic Evolution</strong>: A theory which attempts to explain the origin of the species through a series of beneficial mutations with the fittest organisms winning a battle for survival. No God is involved in the process.</li>
+<li><strong>Theist evolution</strong>: A theory that God used the mechanism of evolution to create the species.</li>
+<li><strong>The Gap theory of Genesis</strong>: A theory that attempts to explain the apparent age of the universe by stating that a long temporal gap exists between Genesis 1:1 and Genesis 1:2.</li>
+<li><strong>When we say 'the pre-incarnate state of Christ', what are we talking about?</strong>: God the Son has always existed, and before He was made a little lower than the angels, He manifested Himself as the pre-incarnate Christ, in the form of "The Angel of the Lord", anytime in O.T.</li>
+<li><strong>What do we mean when we talk of God's 'personality'?</strong>: God exhibits characteristics of personhood such as intellect, emotion, and will. He is not an impersonal force.</li>
+<li><strong>If you could use only two words to describe God's nature, what would they be? Cite scripture to support your answer.</strong>: Love, John 3:16-17. Holy, Isaiah 6:3</li>
+<li><strong>In class, we have said 'God is knowable, but He is not comprehensible.' Explain what that means, and cite scripture to support your answer.</strong>: What are mans ways are not God's ways.  We have the canon of scripture which provides a complete understanding of what God has revealed to man about himself, He is so much more beyond our capabilities</li>
+<li><strong>In reference to the Trinity, what is significant about the word used for God in Genesis 1:1?</strong>: The word for God there is 'Elohim' which is plural, and in the 1st 3 verses the entire trinity is seen there.</li>
+<li><strong>What is our source of authority for developing doctrine? Support your answer from Scripture.</strong>: Our source for all doctrine is the Scriptures 2 Tim 3:16</li>
+<li><strong>Why was it important that Jesus Christ live a perfect, sinless life? Support your answer from Scripture.</strong>: He became our mediator, He was made a little lower than the angels, He emptied Himself to become like us to represent us Hebrews. "He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him."</li>
+<li>*<em>Briefly state the doctrine of the Trinity.</em>: There is only one God. That God is eternally existent in three persons, Father, Son and Holy Spirit. Each person of the Trinity is fully God and fully distinct. The triune nature of God is not in conflict with His unity, despite the difficulty we humans have of comprehending it.</li>
+<li><strong>Is it possible for us, while in our flesh, to understand the Trinity? Why or why not?</strong>: our minds are not capable of comprehending this</li>
+</ul>
+<hr />
+<h2 id="soteriology">Soteriology</h2>
+<p><strong>Election</strong><br />
+<em>Eph 1:3-6 - just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will, to the praise of the glory of His grace, which He freely bestowed on us in the Beloved.</em></p>
+<p><strong>Regeneration</strong><br />
+<em>Eph 2:5 - But God, being rich in mercy, because of His great love with which He loved us, 5even when we were dead in our transgressions, made us alive together with Christ (by grace you have been saved)</em></p>
+<p><strong>Atonement</strong><br />
+<em>Rom. 5:6; 8,9 - For while we were still helpless, at the right time Christ died for the ungodly. But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us. Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him.</em></p>
+<p><strong>Redemption</strong><br />
+<em>Rom. 6:17;22 - But thanks be to God that though you were slaves of sin, you became obedient from the heart to that form of teaching to which you were committed, But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life.</em></p>
+<p><strong>Propitiation</strong><br />
+<em>1 John 2:2-3; 4:10 - we have an Advocate with the Father, Jesus Christ the righteous; 2and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world. In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.</em></p>
+<p><strong>Justification</strong><br />
+<em>Acts 13:38-39 - Therefore let it be known to you, brethren, that through Him forgiveness of sins is proclaimed to you, 39and through Him everyone who believes is freed from all things, from which you could not be freed through the Law of Moses.</em></p>
+<p><strong>Reconciliation</strong>
+<em>Colossians 1:19-20 - For it was the Father’s good pleasure for all the fullness to dwell in Him, and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven.</em></p>
+<p><strong>Sanctification</strong>
+<em>Romans 6:19, 22 - so now present your members as slaves to righteousness, resulting in sanctification. But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life.</em></p>
+<ol>
+<li>Describe the role of each member of the Trinity with regard to salvation. </li>
+<li>
+<p>God the Father is responsible for election. God the Son is responsible forthe atonement and the sanctification of the saints. God the Holy Spirit is responsible for regeneration and testifying of Jesus.</p>
+</li>
+<li>
+<p>Compare and contrast Pelagianism, Arminianism and Calvinism with respect to salvation.</p>
+</li>
+<li>Pelagianism asserts that human beings are completely capable of choosing to come to Christ on their own without aid of the Holy Spirit.</li>
+<li>Arminianism asserts that while the Holy Spirit makes it possible for somebody to come to faith, the individual must cooperate with the Holy Spirit and has the ability to refuse the offer of salvation.</li>
+<li>Calvinism asserts that salvation is completely of God and that the call of the Holy Spirit is irresistible. All God has elected for salvation will inevitably come to saving faith.</li>
+</ol>
+<p>11.Compare and contrast the Arminian view of perseverance with the Calvinistic view.
+- Arminianism asserts that perseverance is the responsibility of the believer and consequently, one can lose his or her salvation.
+- Calvinism asserts that perseverance is the responsibility of God, and all who have accepted Christ will inevitably persevere to the end.</p>
+<hr />
+<h2 id="holy-spirit-section">Holy spirit section</h2>
+<p>a. Convict the world of sin<br />
+b. Convict the world of righteousness<br />
+c. Convict the world of the judgement to come  </p>
+<p>Guide us into all truth</p>
+<p>Glorify Christ</p>
+<p>Although Christ is fully God, equal in power, knowledge and eternality, He submits to the will of the Father. Furthermore the Holy Spirit is fully God, also equal in power, knowledge and eternality, He willingly submits to the Father and Son.</p>
+<p>a. Spiritual gifts are distributed as the Spirit wills, not to all, but to some, for the edification of the Church and the glory of God.</p>
+<p>b. The fruit of the Spirit is the result of the Holy Spirit's presence and working in the lives of maturing believers. Spiritual fruit will manifest itself in all believers, more so as they mature.</p>
+<hr />
+<hr />
+<h1 id="test-notes-from-bibliography-sessions">Test Notes from Bibliography Sessions</h1>
+<h2 id="memorize">Memorize</h2>
+<p><strong>2 Timothy 3:16-17</strong></p>
+<blockquote>
+<p><em>All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness;</em>
+<em>so that the man of God may be adequate, equipped for every good work.</em></p>
+</blockquote>
+<h3 id="general-revelation">General Revelation</h3>
+<ul>
+<li>Nature's witness</li>
+<li>History's witness</li>
+<li>Conscience's witness</li>
+</ul>
+<h3 id="special-revelation">Special Revelation</h3>
+<ul>
+<li>Spoken Word</li>
+<li>Written Word</li>
+<li>Walking Word</li>
+</ul>
+<p><strong>Christcentric</strong> - 
+<em>John 5:39 - You search the Scriptures because you think that in them you have eternal life; it is these that testify about Me;</em></p>
+<p>The NEW is in the OLD contained - the OLD is in the NEW explained<br />
+The NEW is in the OLD concealed - the OLD is in the NEW revealed  </p>
+<h3 id="verbal-inspiration">Verbal Inspiration</h3>
+<p><strong>Each word of the original text is inspired, down to the smallest letter</strong></p>
+<h3 id="plenary-inspiration">Plenary Inspiration</h3>
+<p><strong>The whole of scripture is inspired both in substance and structure</strong></p>
+<h3 id="exegesis">Exegesis</h3>
+<p><strong>what does it say</strong></p>
+<h3 id="hermeneutics">Hermeneutics</h3>
+<h4 id="the-science-of-interpretation">The Science of Interpretation</h4>
+<p><strong>what does it mean</strong>
+- Literal
+- Figures of Speech
+- Idioms</p>
+<h3 id="five-step-bible-study-method">Five-Step Bible Study Method</h3>
+<ol>
+<li>Word Study - Exegesis</li>
+<li>Circumstatial Study</li>
+<li>Biographical Study</li>
+<li>Topical Study</li>
+<li>Paraphrase</li>
+</ol></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js"></script>
+        <script src="../../theme-toggle.js"></script>
+        <script src="../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
