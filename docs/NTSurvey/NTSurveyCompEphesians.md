@@ -7,6 +7,16 @@ description: Unlike many of Paul's other letters, Ephesians was not written to a
 bibleReference: [Ephesians]
 ---
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [CDI Notes: Content of Ephesians](#cdi-notes-content-of-ephesians)
+- [Notes from _"Survey of New Testament"_](#notes-from-survey-of-new-testament)
+- [Ephesians NASB1995 Section Headings](#ephesians-nasb1995-section-headings)
+- [The Points of the letter to the Ephesians](#the-points-of-the-letter-to-the-ephesians)
+- [The Calling of the Church](#the-calling-of-the-church)
+- [The Conduct of the Church](#the-conduct-of-the-church)
+
 ## CDI Notes: Content of Ephesians
 
 **Constituting the Church**  
@@ -118,7 +128,9 @@ the theology of the church in its establishment, purpose, and survival._
 4. Conflict and the church - 6:20
 5. Conclusions - 6:21
 
-## The Calling of the Church vs. 1:1-3:21
+## The Calling of the Church
+
+**(vs. 1:1-3:21)**
 
 ### **Ephesians Chapter 1**  
 
@@ -134,7 +146,9 @@ the theology of the church in its establishment, purpose, and survival._
 
 ---
 
-## The Conduct of the Church (vs. 4:1-6:20)
+## The Conduct of the Church
+
+**(vs. 4:1-6:20)**
 
 ### **Ephesians Chapter 4**  
 
