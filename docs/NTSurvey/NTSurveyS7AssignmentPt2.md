@@ -8,9 +8,9 @@ image: "/images/welcome.jpg"
 bibleReference: "[Acts]"
 ---
 
-**pg. 171 NT Survey Instructors Guide**
+## **pg. 171 NT Survey Instructors Guide**
 
-#### Review these verses to connect the material and sites presented in the video with corresponding scripture passages to build confidence that the New Testament is a historically reliable document.
+### Review these verses to connect the material and sites presented in the video with corresponding scripture passages to build confidence that the New Testament is a historically reliable document
 
 - Acts 13:6ff
 - Acts 13:50, 28:7
@@ -19,12 +19,14 @@ bibleReference: "[Acts]"
 - 2 Tim. 4:7 - 8
 - 2 Pet. 1:12ff
 
-#### Review Palestinian geography. Use the maps available in your textbooks.
+#### Review Palestinian geography. Use the maps available in your textbooks
+
 - Find the following provinces: Perea, Judea, Galilee, Trachonitis (or Iturea), Samaria, Decapolis.
 - Find the following bodies of water: Mediterranean Sea, Dead Sea, Sea of Galilee (or Gennesaret), Jordan river.
 - Find the following cities: Sychar, Bethlehem, Nazareth, Cana, Jerusalem, Caesarea, Tiberius, Capernaum.
 
-#### Review the following distances:
+#### Review the following distances
+
 - Galilee is 696 feet below sea level
 - Dead Sea is 1296 feet below sea level
 - Sea of Galilee is 7x14 miles
@@ -35,11 +37,13 @@ bibleReference: "[Acts]"
 - Mediterranean Sea to Sea of Galilee is 36 miles
 
 ### LIST OF FATHERS
+
 **Review the list of Fathers writings that give witness to the New Testament.**  
+
 | FATHERS |  HOME |  WRITTEN |  DATE AD |
 |:-------:|:-----:|:--------:|:--------:|
 | Augustine | Algeria | Hippo | 410 |
-| Clement of Alexandria | Alexandria | 200 |
+| Clement of Alexandria | Alexandria | |  200 |
 | Clement of Rome | Philippians 4:3 | Rome | 95 |
 | Eusebius | Palestine | Caesarea | 260 - 40 |
 | Ignatius | Antioch | | 110 |
@@ -60,5 +64,3 @@ bibleReference: "[Acts]"
 | Marcionite Canon | Rome | Luke & 10 letters of Paul | 144 |
 | Muratorian Canon | Rome | Hebrews missing | 200 |
 | Shepherd of Hermas | Rome | allegory of sin | 140 |
-
-

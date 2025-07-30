@@ -8,12 +8,12 @@ image: "/images/welcome.jpg"
 bibleReference: "[Gospels and Acts]"
 ---
 
-**pg. 202 New Testament Survey Instructor Guide**
+## **pg. 202 New Testament Survey Instructor Guide**
 
 | | Matthew | Mark | Luke | John | Acts |
 |:---------:|:-----:|:------:|:------:|:-----:|:-----:|
 | Author | | | | | |
-| Date | | | | | | |
+| Date | | | | | |
 | Readers | | | | | |
 | Occasion | | | | | |
 | Subject | | | | | |
