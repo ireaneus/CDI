@@ -1,3 +1,5 @@
 site_name: CDI Course - Student David Haines
 extra_css:
   - styles.css
+plugins:
+  - macros

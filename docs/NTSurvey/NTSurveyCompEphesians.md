@@ -7,17 +7,17 @@ description: Unlike many of Paul's other letters, Ephesians was not written to a
 bibleReference: [Ephesians]
 ---
 
-# {{ title }}
+# {{ page.meta.title }}
 
-**Date:** {{ date }}  
-**Writer:** {{ writer }}  
-**Category:** {{ category }}  
-**Description:** {{ description }}
-**BibleReference:** {{ bibleReference }}
+**Date:** {{ page.meta.date }}  
+**Writer:** {{ page.meta.writer }}  
+**Category:** {{ page.meta.category }}  
+**Description:** {{ page.meta.description }}  
+**BibleReference:** {{ page.meta.bibleReference }}
 
 ## Table of Contents
 
-- [{{ title }}](#-title-)
+- [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
   - [CDI Notes: Content of Ephesians](#cdi-notes-content-of-ephesians)
   - [Notes from _"Survey of New Testament"_](#notes-from-survey-of-new-testament)
