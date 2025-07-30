@@ -13,42 +13,10 @@
   --code-text: #2a4d69;
   --hr: #e1e1e1;
   --img-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  --nav-bg: #0a2540;
 }
 
-html[data-theme="dark"] {
-  --bg: #181c1f;
-  --text: #eef1f5;
-  --heading: #3a7bd5;
-  --accent: #133a5c96;
-  --heading-bg: #133a5c;
-  --table-header: #22303a;
-  --table-border: #2a3b4d;
-  --table-row: #1e2327;
-  --blockquote-bg: #232b32;
-  --blockquote-border: #4db3fa;
-  --code-bg: #232b32;
-  --code-text: #7ecfff;
-  --hr: #2a3b4d;
-  --img-shadow: 0 2px 8px rgba(0,0,0,0.25);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #181c1f;
-    --text: #e0e6ed;
-    --heading: #7ecfff;
-    --accent: #4db3fa;
-    --table-header: #22303a;
-    --table-border: #2a3b4d;
-    --table-row: #1e2327;
-    --blockquote-bg: #232b32;
-    --blockquote-border: #4db3fa;
-    --code-bg: #232b32;
-    --code-text: #7ecfff;
-    --hr: #2a3b4d;
-    --img-shadow: 0 2px 8px rgba(0,0,0,0.25);
-  }
-}
+/* Removed dark theme variables to force light theme only */
 
 body, .md-content {
   font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
@@ -56,6 +24,14 @@ body, .md-content {
   background: var(--bg);
   line-height: 1.7;
   transition: background 0.3s, color 0.3s;
+}
+
+
+/* Fix for navbar background color */
+/* Maximally specific navbar background override */
+nav.navbar.bg-primary, nav.navbar-dark.bg-primary, .md-header nav.navbar.bg-primary, .navbar.bg-primary, .navbar-dark.bg-primary {
+  background-color: #0a2540 !important;
+}
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -177,8 +153,4 @@ img {
 .md-content {
   padding-bottom: 3em;
 }
-
-html[data-theme="dark"] a {
-  color: #4db3fa !important;
-  border-bottom: 1px dotted #4db3fa !important;
 }
