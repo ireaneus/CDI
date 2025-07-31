@@ -1,5 +1,5 @@
 ---
-title: NTSurvey - Chapters of Ephesians
+title: NTSurvey - Comprehensive assignment of Ephesians
 date: 61 A.D.
 writer: Paul the Apostle
 category: Prison Epistle

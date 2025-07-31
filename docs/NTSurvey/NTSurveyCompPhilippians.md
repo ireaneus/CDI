@@ -1,5 +1,5 @@
 ---
-title: Comprehensive Study on Philippians
+title: NTSurvey - Comprehensive assignment of Philippians
 date: 61 A.D
 writer: Paul the Apostle
 category: Prison Epistle
