@@ -4,8 +4,25 @@ date: 61 A.D
 writer: Paul the Apostle
 category: Prison Epistle
 description: This is a very personal letter from Paul to a church that has cared for him.
-bibleReference: [Philippians]
+bibleReference: Philippians
 ---
+
+# {{ page.meta.title }}
+
+**Date:** {{ page.meta.date }}  
+**Writer:** {{ page.meta.writer }}  
+**Category:** {{ page.meta.category }}  
+**Description:** {{ page.meta.description }}  
+**BibleReference:** {{ page.meta.bibleReference }}
+
+## Table of Contents
+
+- [{{ page.meta.title }}](#-pagemetatitle-)
+  - [Table of Contents](#table-of-contents)
+  - [CDI Notes: Content of Philippians Overview](#cdi-notes-content-of-philippians-overview)
+  - [Philippians NASB1995 Section Headings](#philippians-nasb1995-section-headings)
+  - [Notes from *"Survey of the New Testament"*](#notes-from-survey-of-the-new-testament)
+  - [Basic Outline of Philippians](#basic-outline-of-philippians)
 
 ## CDI Notes: Content of Philippians Overview
 
@@ -66,16 +83,9 @@ bibleReference: [Philippians]
 - God’s Provisions  
 - Final Greetings
 
-### Diary requirements
+---
 
-- Four chapters or less do one paragraph for entire letter
-- Simplicity is key - one paragraph per chapter
-
-#### Format for diary
-
-- In Chapter __ Jesus (or the author) said, or did...
-- Christ was presented as...
-- Believers should...
+## Notes from *"Survey of the New Testament"*
 
 ## Basic Outline of Philippians
 
@@ -97,7 +107,3 @@ bibleReference: [Philippians]
 | **IV. Paul's Past and the Present Need** | (3:1-21) |
 | **V. Paul's Principles for Joyful Living** | (4:1-9) |
 | **VI. Paul's Praise for the Meeting of His Needs | (4:10-23) |
-
-## Notes from *"Survey of the New Testament"*
-
--

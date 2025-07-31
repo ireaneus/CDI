@@ -20,9 +20,8 @@ bibleReference: Ephesians
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
   - [CDI Notes: Content of Ephesians](#cdi-notes-content-of-ephesians)
-  - [Notes from _"Survey of New Testament"_](#notes-from-survey-of-new-testament)
   - [Ephesians NASB1995 Section Headings](#ephesians-nasb1995-section-headings)
-  - [The Points of the letter to the Ephesians](#the-points-of-the-letter-to-the-ephesians)
+  - [Notes from _"Survey of New Testament"_](#notes-from-survey-of-new-testament)
   - [The Calling of the Church](#the-calling-of-the-church)
   - [The Conduct of the Church](#the-conduct-of-the-church)
 
@@ -61,10 +60,6 @@ bibleReference: Ephesians
 _Ephesians is a good letter for all churches because it deals with ecclesiology—  
 the theology of the church in its establishment, purpose, and survival._
 
-## Notes from _"Survey of New Testament"_
-
-- Both Ephesians and Colossians letters were carried by _"Tychicus"_ going to the church in Colossae, however this letter was designed to be a circular letter.  Intended for a number of churches in Asia Minor.
-
 ## Ephesians NASB1995 Section Headings
 
 **Chapter 1**  
@@ -98,16 +93,11 @@ the theology of the church in its establishment, purpose, and survival._
 - The Armor of God  
 - Conclusion
 
-### Diary requirements
+---
 
-- Four chapters or less do one paragraph for entire letter
-- Simplicity is key - one paragraph per chapter
+## Notes from _"Survey of New Testament"_
 
-#### Format for diary
-
-- In Chapter __ Jesus (or the author) said, or did...
-- Christ was presented as...
-- Believers should...
+- Both Ephesians and Colossians letters were carried by _"Tychicus"_ going to the church in Colossae, however this letter was designed to be a circular letter.  Intended for a number of churches in Asia Minor.
 
 | **Ephesians** | |
 |:-------:|:-------:|
@@ -128,14 +118,6 @@ the theology of the church in its establishment, purpose, and survival._
 | F. In Spiritual Warfare | (vs. 6:10-20) |
 | | |
 | III. Conclusion | (vs. 6:21-24) |
-
-## The Points of the letter to the Ephesians
-
-1. The Constituting of the Church
-2. Gathering the church
-3. Conducting the church
-4. Conflict and the church - 6:20
-5. Conclusions - 6:21
 
 ## The Calling of the Church
 
