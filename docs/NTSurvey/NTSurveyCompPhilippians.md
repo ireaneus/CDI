@@ -1,5 +1,5 @@
 ---
-title: NTSurvey - Comprehensive assignment of Philippians
+title: NTSurvey - Session 12 Parts 1-3 Philippians
 date: 61 A.D
 writer: Paul the Apostle
 category: Prison Epistle
