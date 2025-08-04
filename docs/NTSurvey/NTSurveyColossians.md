@@ -22,8 +22,8 @@ bibleReference: Colossians
   - [CDI Notes: Content of Colossians](#cdi-notes-content-of-colossians)
   - [Colossians Section Headings (NASB2020)](#colossians-section-headings-nasb2020)
   - [Basic Outline of Colossians](#basic-outline-of-colossians)
-  - [Theme of Colossians \*Survey of the New Testament](#theme-of-colossians-survey-of-the-new-testament)
-  - [**Colossians Summary - Christ's Sufficiency and Supremacy**](#colossians-summary---christs-sufficiency-and-supremacy)
+  - [Theme of Colossians *Survey of the New Testament*](#theme-of-colossians-survey-of-the-new-testament)
+  - [Colossians Summary - Christ's Sufficiency and Supremacy](#colossians-summary---christs-sufficiency-and-supremacy)
 
 ## CDI Notes: Content of Colossians
 
@@ -86,7 +86,7 @@ High Christology in Colossians works out as high ethics in Colossians.
 | | |
 | V. The Life of Practical Christians | (3:5-4:6) |
 
-## Theme of Colossians *Survey of the New Testament
+## Theme of Colossians *Survey of the New Testament*
 
 The theme of Colssians is the deity and the all-sufficiency of Jesus Christ. In this letter, the apostle is showing the Colossian Christians that they were complete in Jesus Christ. They did not need anything else, in spite of the claims of the false teacher who was telling them that faith in Christ was not enough.
 
@@ -100,7 +100,7 @@ The Greek word implied two things, *priority* to all creation and *sovereignty* 
 
 ---
 
-## **Colossians Summary - Christ's Sufficiency and Supremacy**
+## Colossians Summary - Christ's Sufficiency and Supremacy
 
 ***In Colossians, Paul*** writes to affirm the sufficiency and supremacy of Jesus Christ in the face of false teachings that threatened the church.
 ***Christ is presented as*** *the image of the invisible God, the Creator and Sustainer of all things, the head of the church, and the fullness of deity in bodily form* (*1:15–20; 2:9–10*).
