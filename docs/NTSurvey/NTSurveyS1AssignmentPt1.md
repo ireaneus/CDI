@@ -2,6 +2,7 @@
 title: NTSurvey - Session 1 Assignment
 date: 11-16-2024
 writer: Dave Haines
+category: Early Patriarchs
 description: Session 1 Assignment Create Old Testament Outline
 bibleReference: Old Testament
 ---
