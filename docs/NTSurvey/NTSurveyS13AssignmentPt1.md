@@ -2,7 +2,7 @@
 title: NTSurvey - Session 13 Part 1 Assignment
 date: 11-16-2024
 writer: Dave Haines
-description: Session 1 Assignment: Create Old Testament Outline
+description: Session 13 Part 1 you will be able to explain The author, date, and purpose of 1 Timothy The characteristics and content of 1 Timothy.
 bibleReference: [Old Testament]
 ---
 

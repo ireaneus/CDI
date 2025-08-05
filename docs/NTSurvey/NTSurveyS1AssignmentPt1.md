@@ -2,7 +2,7 @@
 title: NTSurvey - Session 1 Assignment
 date: 11-16-2024
 writer: Dave Haines
-description: Session 1 Assignment: Create Old Testament Outline
+description: Session 1 Assignment Create Old Testament Outline
 bibleReference: Old Testament
 ---
 
@@ -18,6 +18,16 @@ bibleReference: Old Testament
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
+  - [1. Creation to Early Patriarchs (Approx. 4000–2000 B.C.)](#1-creation-to-early-patriarchs-approx-40002000-bc)
+  - [2. The Patriarchs (Approx. 2000–1700 B.C.)](#2-the-patriarchs-approx-20001700-bc)
+  - [3. Captivity in Egypt (Approx. 1700–1300 B.C.)](#3-captivity-in-egypt-approx-17001300-bc)
+  - [4. Exodus and the Leadership of Moses (Approx. 1300–1200 B.C.)](#4-exodus-and-the-leadership-of-moses-approx-13001200-bc)
+  - [5. Conquest and Settlement (Approx. 1200–1050 B.C.)](#5-conquest-and-settlement-approx-12001050-bc)
+  - [6. United Monarchy (Approx. 1050–930 B.C.)](#6-united-monarchy-approx-1050930-bc)
+  - [7. Divided Kingdom and Prophetic Voices (Approx. 930–586 B.C.)](#7-divided-kingdom-and-prophetic-voices-approx-930586-bc)
+  - [8. Babylonian Exile (Approx. 586–538 B.C.)](#8-babylonian-exile-approx-586538-bc)
+  - [9. Return from Exile and Rebuilding (Approx. 538 B.C. Onward)](#9-return-from-exile-and-rebuilding-approx-538-bc-onward)
+  - [Summary of Significant Timeframes and Scriptural References](#summary-of-significant-timeframes-and-scriptural-references)
 
 **pg. 29 NT Survey Instructors Guide**
 
