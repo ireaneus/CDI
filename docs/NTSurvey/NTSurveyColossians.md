@@ -3,7 +3,7 @@ title: NTSurvey - Session 12 Parts 1-3 Colossians
 date: 61 A.D
 writer: Paul the Apostle
 category: Prison Epistle
-description: This is a very personal letter from Paul to a church that has cared for him.
+description: The theme of Colssians is the deity and the all-sufficiency of Jesus Christ.
 bibleReference: Colossians
 ---
 
