@@ -1,9 +1,9 @@
 ---
-title: Chapter Summaries for Romans
+title: NTSurvey - Session 11 Parts 1-3 Romans
 date: 56 A.D
 writer: Paul, a bond-servant of Christ Jesus
-category: Third Missionary Journey
-description: The theme of Romans is righteousness. This letter discusses in detail the righteousness that God provides for sinful mankind. This is the only kind of righteousness that God approves.
+category: Prison Epistle
+description: Edmond Heibert says of Romans, “The epistle to the Romans is acknowledged to be one of the most profound books in existence. Its impressive grandeur and impenetrable depths make it one of the most highly prized parts of the Holy Scripture. It has very appropriately been termed the Cathedral of the Christian faith. It was not without adequate reason that this epistle was assigned first position among the Pauline writings…”
 bibleReference: Romans
 ---
 
@@ -19,11 +19,36 @@ bibleReference: Romans
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
+  - [CDI Session 11 Part 1](#cdi-session-11-part-1)
+  - [CDI Session 11 Part 2](#cdi-session-11-part-2)
   - [Book of Romans with Chapter Headings and Section Titles (NASB1995)](#book-of-romans-with-chapter-headings-and-section-titles-nasb1995)
   - [Theme of Romans *"Survey of the New Testament"*](#theme-of-romans-survey-of-the-new-testament)
   - [I. Introduction](#i-introduction)
   - [II. The Sinfulness and Condemnation of All Men](#ii-the-sinfulness-and-condemnation-of-all-men)
   - [III. The Justification of Believeing Sinners](#iii-the-justification-of-believeing-sinners)
+
+## CDI Session 11 Part 1
+
+Paul did not know the church personally, because he had not founded the church
+through his missionary effort nor had he visited it.
+
+1. How does the fact that Paul had never had personal contact with the church at Rome
+impact the purpose of the letter?
+
+Read this quote from Guthrie, **New Testament Introduction p. 393**
+*“At an early stage in his missionary labors Paul recognized the importance of strategic centers for the propagation of the gospel, and Rome, the metropolis of the world, was an obvious choice. Although he did not himself found the church he cherished it as part of his field as an apostle to the Gentiles.”*
+
+1. Was the church population at Rome mostly Jewish or mostly Gentile? Why do you think
+so?
+
+1. Is the purpose of Romans to evangelize the lost with the gospel or to edify the saints
+and why?
+
+## CDI Session 11 Part 2
+
+1. Why do you think that Romans has been so influential over the centuries?
+2. Why do you think the doctrine of righteousness is so important in the Judeo-Christian religion?
+3. Righteousness, salvation, and faith are three important concepts. Use these three words to summarize the message of Romans.
 
 ## Book of Romans with Chapter Headings and Section Titles (NASB1995)
 
