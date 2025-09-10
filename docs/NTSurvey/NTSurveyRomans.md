@@ -8,16 +8,115 @@ image: "/images/welcome.jpg"
 bibleReference: "[Romans]"
 ---
 
-## Diary requirements
 
-- Four chapters or less do one paragraph for entire letter
-- Simplicity is key - one paragraph per chapter
+# {{ page.meta.title }}
 
-## Format for diary
+**Date:** {{ page.meta.date }}  
+**Writer:** {{ page.meta.writer }}  
+**Category:** {{ page.meta.category }}  
+**Description:** {{ page.meta.description }}  
+**BibleReference:** {{ page.meta.bibleReference }}
 
-- In Chapter __ Jesus (or the author) said, or did...
-- Christ was presented as...
-- Believers should...
+## Table of Contents
+
+- [{{ page.meta.title }}](#-pagemetatitle-)
+  - [Table of Contents](#table-of-contents)
+  - [Book of Romans with Chapter Headings and Section Titles (NASB1995)](#book-of-romans-with-chapter-headings-and-section-titles-nasb1995)
+  - [Theme of Romans *"Survey of the New Testament"*](#theme-of-romans-survey-of-the-new-testament)
+  - [I. Introduction](#i-introduction)
+  - [II. The Sinfulness and Condemnation of All Men](#ii-the-sinfulness-and-condemnation-of-all-men)
+  - [III. The Justification of Believeing Sinners](#iii-the-justification-of-believeing-sinners)
+
+## Book of Romans with Chapter Headings and Section Titles (NASB1995)
+
+### Chapter 1
+
+**The Gospel Exalted**  
+
+> *1Paul, a bond-servant of Christ Jesus, called as an apostle, set apart for the gospel of God, 2which He promised beforehand through His prophets in the holy Scriptures, 3concerning His Son, who was born of a descendant of David according to the flesh, 4who was declared the Son of God with power by the resurrection from the dead, according to the Spirit of holiness, Jesus Christ our Lord, 5through whom we have received grace and apostleship to bring about the obedience of faith among all the Gentiles for His name’s sake, 6among whom you also are the called of Jesus Christ; 7to all who are beloved of God in Rome, called as saints: Grace to you and peace from God our Father and the Lord Jesus Christ. 8First, I thank my God through Jesus Christ for you all, because your faith is being proclaimed throughout the whole world. 9For God, whom I serve in my spirit in the preaching of the gospel of His Son, is my witness as to how unceasingly I make mention of you, 10always in my prayers making request, if perhaps now at last by the will of God I may succeed in coming to you. 11For I long to see you so that I may impart some spiritual gift to you, that you may be established; 12that is, that I may be encouraged together with you while among you, each of us by the other’s faith, both yours and mine. 13I do not want you to be unaware, brethren, that often I have planned to come to you (and have been prevented so far) so that I may obtain some fruit among you also, even as among the rest of the Gentiles. 14I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish. 15So, for my part, I am eager to preach the gospel to you also who are in Rome. 16For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. 17For in it the righteousness of God is revealed from faith to faith; as it is written, “But the righteous man shall live by faith.”*  
+> --Romans1:1-17
+
+- Unbelief and Its Consequences
+
+### Chapter 2
+
+- The Impartiality of God
+- The Jews under the Law
+
+### Chapter 3
+
+- All the World Guilty
+- Justification by Faith Apart from Works
+
+### Chapter 4
+
+- Justification Illustrated by Abraham
+- Faith Credited as Righteousness
+
+### Chapter 5
+
+- Results of Justification
+- Death in Adam, Life in Christ
+
+### Chapter 6
+
+- Believers Are Dead to Sin, Alive to God
+- Slaves of Righteousness
+
+### Chapter 7
+
+- Released from the Law
+- The Conflict of Two Natures
+
+### Chapter 8
+
+- Deliverance from Bondage
+- The Spirit Assures Victory
+- God’s Everlasting Love
+
+### Chapter 9
+
+- Paul's Concern for Israel
+- God's Sovereign Choice
+
+### Chapter 10
+
+- Salvation Is for All
+- The Word of Faith
+
+### Chapter 11
+
+- A Remnant of Israel
+- The Ingrafted Branches
+- The Mystery of Israel’s Restoration
+
+### Chapter 12
+
+- A Living Sacrifice
+- Marks of the True Christian
+
+### Chapter 13
+
+- Be Subject to Government
+- Love Fulfills the Law
+
+### Chapter 14
+
+- Principles of Conscience
+- Do Not Judge One Another
+
+### Chapter 15
+
+- Pleasing Others, Not Ourselves
+- Christ the Hope of Jews and Gentiles
+- Paul’s Ministry and Travel Plans
+
+### Chapter 16
+
+- Personal Greetings
+- Final Instructions and Benediction
+
+---
 
 | **Paul's Letter to Romans** | |
 |:-------:|:-------:|
@@ -67,28 +166,38 @@ bibleReference: "[Romans]"
 
 ---
 
-## I. Introduction vs.1:1-17
+## Theme of Romans *"Survey of the New Testament"*
 
-### **Romans Chapter 1**
+The theme of Romans is righteousness. This letter discusses in detail the righteousness that God provides for sinful mankind. This is the only kind of righteousness that God approves. The epistle also discusses the kind of righteousness living that ought to characterize those who are believers in Christ.
 
-**_In Chapter 1, Paul_** introduces himself as an apostle set apart for the gospel of God and emphasizes the gospel’s power to bring salvation to everyone who believes, both Jew and Gentile (_vv. 1–17_). He explains that God’s wrath is revealed against all ungodliness and unrighteousness because people suppress the truth and worship created things rather than the Creator (_vv. 18–23_). Paul describes how God gave them over to their sinful desires, resulting in moral corruption and various forms of wickedness (_vv. 24–32_). **_Christ is presented as_** _the Son of God, declared with power by His resurrection, through whom grace and apostleship are received_ (_vv. 3–5_), **_Believers should_** _live by faith and not be ashamed of the gospel, which is the power of God for salvation_ (_vv. 16–17_).
+## I. Introduction
 
----
+**vs.1:1-17**  
 
-## II. The Sinfulness and Condemnation of All Men vs.1:18-3:20
+### Romans Chapter 1
 
-**Romans Chapter 2**
-
-**_In Chapter 2, Paul_** warns against judging others, reminding that God’s judgment is based on truth and applies to all, both Jews and Gentiles. He emphasizes that outward signs like circumcision are meaningless without obedience to God’s law and that true righteousness comes from a transformed heart (_vv. 1–29_). **_Christ is presented as_** _the righteous judge who judges impartially_ (_vv. 5–6_), **_Believers should_** _repent, seek God’s righteousness, and live with a transformed heart_ (_vv. 4, 13, 29_).
-
-**Romans Chapter 3**
-
-**_In Chapter 3, Paul_** explains that both Jews and Gentiles are under sin, emphasizing that no one is righteous by their own works (_vv. 9–20_). He declares that righteousness comes through faith in Jesus Christ for all who believe, apart from the law, as all have sinned and fall short of God’s glory (_vv. 21–26_). Paul concludes that boasting is excluded because justification is by faith, not by works of the law (_vv. 27–31_). **_Christ is presented as_** _the one through whom God’s righteousness is revealed and believers are justified by faith_ (_vv. 22–26_), **_Believers should_** _trust in Christ for righteousness and understand that justification is by faith, not works_ (_vv. 22, 28_).
+***In Chapter 1, Paul*** introduces himself as a slave of Christ Jesus, called as an apostle set apart for the gospel of God and emphasizes the gospel’s power to bring salvation to everyone who believes, both Jew and Gentile (*vv. 1–17*). He explains that God’s wrath is revealed against all ungodliness and unrighteousness because people suppress the truth and worship created things rather than the Creator (*vv. 18–23*). Paul describes how God gave them over to their sinful desires, resulting in moral corruption and various forms of wickedness (*vv. 24–32*). ***Christ is presented as*** *the Son of God, declared with power by His resurrection, through whom grace and apostleship are received* (*vv. 3–5*), ***Believers should*** *live by faith and not be ashamed of the gospel, which is the power of God for salvation* (*vv. 16–17*).
 
 ---
 
-## III. The Justification of Believeing Sinners vs.3:21-5:21
+## II. The Sinfulness and Condemnation of All Men
 
-**Romans Chapter 4**
+**vs.1:18-3:20**
 
-**_In Chapter 4, Paul_** explains that Abraham was justified by faith before circumcision, making him the father of all who believe. He emphasizes that righteousness comes through faith, not the law, so the promise is based on grace (_vv. 1–22_). **_Christ is presented as_** _the one through whom justification and righteousness are given by faith_ (_vv. 24–25_), **_Believers should_** _have faith in God’s promises and trust in Christ, who was raised for their justification_ (_vv. 20–25_).
+### Romans Chapter 2
+
+***In Chapter 2, Paul*** warns against judging others, reminding that God’s judgment is based on truth and applies to all, both Jews and Gentiles. He emphasizes that outward signs like circumcision are meaningless without obedience to God’s law and that true righteousness comes from a transformed heart (*vv. 1–29*). ***Christ is presented as*** *the righteous judge who judges impartially* (*vv. 5–6*), ***Believers should*** *repent, seek God’s righteousness, and live with a transformed heart* (*vv. 4, 13, 29*).
+
+Romans Chapter 3
+
+***In Chapter 3, Paul*** explains that both Jews and Gentiles are under sin, emphasizing that no one is righteous by their own works (*vv. 9–20*). He declares that righteousness comes through faith in Jesus Christ for all who believe, apart from the law, as all have sinned and fall short of God’s glory (*vv. 21–26*). Paul concludes that boasting is excluded because justification is by faith, not by works of the law (*vv. 27–31*). ***Christ is presented as*** *the one through whom God’s righteousness is revealed and believers are justified by faith* (*vv. 22–26*), ***Believers should*** *trust in Christ for righteousness and understand that justification is by faith, not works* (*vv. 22, 28*).
+
+---
+
+## III. The Justification of Believeing Sinners
+
+**vs.3:21-5:21**
+
+### Romans Chapter 4
+
+***In Chapter 4, Paul*** explains that Abraham was justified by faith before circumcision, making him the father of all who believe. He emphasizes that righteousness comes through faith, not the law, so the promise is based on grace (*vv. 1–22*). ***Christ is presented as*** *the one through whom justification and righteousness are given by faith* (*vv. 24–25*), ***Believers should*** *have faith in God’s promises and trust in Christ, who was raised for their justification* (*vv. 20–25*).
