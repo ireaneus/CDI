@@ -1,26 +1,36 @@
 ---
-title: Chapter summary of 1 Corinthians
-date: 12-29-2024
-author: "Dave Haines"
-category: "Sermon Notes"
-description: "Paul wrote this in 57AD, Origin in Ephesus Acts 19:10 school of Tyrannus"
-image: "/images/welcome.jpg"
-bibleReference: "[1 Corinthians]"
+title: NTSurvey - Session 10 Parts 1-3 1 Corinthians
+date: A.D. 54
+author: Paul the Apostle
+category: Prison Epistle
+description: Origin in Ephesus Acts 19:10 school of Tyrannus
+bibleReference: 1 Corinthians
 ---
 
+# {{ page.meta.title }}
+
+**Date:** {{ page.meta.date }}  
+**Writer:** {{ page.meta.writer }}  
+**Category:** {{ page.meta.category }}  
+**Description:** {{ page.meta.description }}  
+**BibleReference:** {{ page.meta.bibleReference }}
+
+## Table of Contents
+
+- [{{ page.meta.title }}](#-pagemetatitle-)
+  - [Table of Contents](#table-of-contents)
+  - [1 Corinthians](#1-corinthians)
+  - [I. Introduction](#i-introduction)
+  - [II. Divisions in the Church](#ii-divisions-in-the-church)
+  - [III. Sins of the Church](#iii-sins-of-the-church)
+  - [IV. Problems of the Church](#iv-problems-of-the-church)
+  - [VI. Conclusion](#vi-conclusion)
+
 ### Homework
+
 **pg. 213, 215 Instructors Guide**
 
-#### Diary requirements
-- Four chapters or less do one paragraph for entire letter
-- Simplicity is key - one paragraph per chapter
-
-#### Format for diary:
-- In Chapter __ Jesus (or the author) said, or did...
-- Christ was presented as...
-- Believers should...
-
-| **1 Corinthians ** | | 
+| **1 Corinthians** | |
 |:-------:|:-------:|
 | I. Introduction | (*vs. 1:1-9*) |
 | | |
@@ -43,40 +53,56 @@ bibleReference: "[1 Corinthians]"
 
 ---
 
-## **1 Corinthians**  
-### I. Introduction vs. 1:1-9
-### II. Divisions in the Church vs. 1:10-4:21
-**_In Chapter 1, Paul_** greets the Corinthian church, expressing gratitude for the grace of God given to them in Christ Jesus and addressing divisions among them (*vs. 1-13*). He emphasizes that the message of the cross is foolishness to those who are perishing but the power of God to those being saved (*vs. 18*), and highlights God’s wisdom in choosing the foolish and weak to shame the wise and strong (*vs. 27-29*). **_Christ is presented as_** the power and wisdom of God, who unites believers and sanctifies them (*vs. 24, 30*). **_Believers should_** strive for unity in the church (*vs. 10*), boast only in the Lord (*vs. 31*), and live as those called to fellowship with Christ (*vs. 9*).
+## 1 Corinthians
 
-**_In Chapter 2, Paul_** explains that he came to the Corinthians not with eloquence or worldly wisdom, but proclaiming Jesus Christ and Him crucified (*vs. 1-5*). He contrasts the wisdom of this age with the wisdom of God, revealed through the Spirit, and declares that *“the natural person does not accept the things of the Spirit of God, for they are foolishness to him”* (*vs. 14*). **_Christ is presented as_** the crucified Savior, through whom God’s wisdom and mystery are revealed to believers (*vs. 7-8*). **_Believers should_** rely on the Spirit for understanding (*vs. 10*), avoid boasting in human wisdom, and embrace the mind of Christ (*vs. 16*).
+## I. Introduction
 
-**_In Chapter 3, Paul_** addresses the Corinthians' divisions and reminds them that believers are God’s field and building, with Christ as the only foundation (*vs. 6-11*). He warns that each one’s works will be tested by fire: *“gold, silver, and precious stones”* will endure, but *“wood, hay, and straw”* will be burned up, revealing the quality of their labor (*vs. 12-15*). **_Christ is presented as_** the foundation upon which all spiritual work must be built to have lasting, eternal value (*vs. 11*). **_Believers should_** build wisely, recognizing that they are the temple of God where the Holy Spirit dwells (*vs. 16-17*), and live in a way that reflects God’s holiness.
+**vs. 1:1-9**  
 
-**_In Chapter 4, Paul_** emphasizes that apostles and ministers of Christ are stewards of the mysteries of God, and their primary responsibility is to be faithful (*vs. 1-2*). He warns against judging prematurely, reminding the Corinthians that *“each one’s praise will come to him from God”* when the Lord returns (*vs. 5*). **_Christ is presented as_** the Lord who will bring to light what is hidden and judge the hearts of all (*vs. 5*). **_Believers should_** refrain from pride and boasting in human leaders (*vs. 6*), imitate the humility of Christ’s servants (*vs. 16*), and live as faithful stewards accountable to God.
+## II. Divisions in the Church
 
-### III. Sins of the Church vs. 5:1-6:20
-**_In Chapter 5, Paul_** confronts the church for tolerating sexual immorality, specifically a case of incest, and calls for the removal of the offender from the community (*vs. 1-2*). He emphasizes that a little leaven leavens the whole lump, urging the Corinthians to remove sin from their midst to be a new, unleavened batch, as Christ, our Passover Lamb, has been sacrificed (*vs. 6-8*). **_Christ is presented as_** the Passover Lamb whose sacrifice calls believers to holiness and purity (*vs. 7*). **_Believers should_** mourn over sin, purge evil from among them (*vs. 2, 13*), and live as a sanctified community in sincerity and truth (*vs. 8*).
+**vs. 1:10-4:21**  
 
-**_In Chapter 6, Paul_** rebukes the Corinthians for settling disputes in secular courts and reminds them that believers, sanctified and justified in Christ, are called to judge with godly wisdom (*vv. 1–6, 11*). He warns against sins like sexual immorality and idolatry, emphasizing that their bodies, as temples of the Holy Spirit, must glorify God, for they were bought with a price (*vv. 9–20*). **_Christ is presented as_** *the one who justifies and sanctifies believers through His name* (*v. 11*), **_Believers should_** *flee from sexual immorality* and *glorify God in their bodies* (*vv. 18–20*).
+***In Chapter 1, Paul*** greets the Corinthian church, expressing gratitude for the grace of God given to them in Christ Jesus and addressing divisions among them (*vs. 1-13*). He emphasizes that the message of the cross is foolishness to those who are perishing but the power of God to those being saved (*vs. 18*), and highlights God’s wisdom in choosing the foolish and weak to shame the wise and strong (*vs. 27-29*). ***Christ is presented as*** the power and wisdom of God, who unites believers and sanctifies them (*vs. 24, 30*). ***Believers should*** strive for unity in the church (*vs. 10*), boast only in the Lord (*vs. 31*), and live as those called to fellowship with Christ (*vs. 9*).
 
-### IV. Problems of the Church vs. 7:1-15:58
-**_In Chapter 7, Paul_** addresses questions about marriage, singleness, and divorce, emphasizing that each person should live according to the calling they have received from God (*vv. 1, 17*). He teaches that marriage is a safeguard against immorality, but those who are single can devote themselves more fully to the Lord (*vv. 2, 32–35*). Paul allows for divorce only in specific cases and encourages believers to remain in their current circumstances, whether married, single, or enslaved, as they serve the Lord (*vv. 10–24*). **_Christ is presented as_** *the Lord who calls each believer to live faithfully in their assigned circumstances* (*vv. 17, 24*), **_Believers should_** *honor God in their marital and personal relationships* and *remain faithful to the Lord’s calling in their lives* (*vv. 17, 35*).
+***In Chapter 2, Paul*** explains that he came to the Corinthians not with eloquence or worldly wisdom, but proclaiming Jesus Christ and Him crucified (*vs. 1-5*). He contrasts the wisdom of this age with the wisdom of God, revealed through the Spirit, and declares that *“the natural person does not accept the things of the Spirit of God, for they are foolishness to him”* (*vs. 14*). ***Christ is presented as*** the crucified Savior, through whom God’s wisdom and mystery are revealed to believers (*vs. 7-8*). ***Believers should*** rely on the Spirit for understanding (*vs. 10*), avoid boasting in human wisdom, and embrace the mind of Christ (*vs. 16*).
 
-**_In Chapter 8, Paul_** discusses the issue of eating food sacrificed to idols, emphasizing that while knowledge can lead to freedom, love should guide believers' actions to avoid causing others to stumble (*vv. 1–3, 9*). He explains that idols have no real existence and that there is only one God, yet some believers with weaker consciences may still view such practices as sinful (*vv. 4–7*). Paul urges the Corinthians to prioritize the spiritual well-being of others over their own rights, avoiding behavior that might lead a weaker brother or sister into sin (*vv. 9–13*). **_Christ is presented as_** *the one through whom all things exist and who strengthens believers to live in love* (*v. 6*), **_Believers should_** *act in love, building up others and avoiding actions that harm their faith* (*vv. 1, 9, 13*).
+***In Chapter 3, Paul*** addresses the Corinthians' divisions and reminds them that believers are God’s field and building, with Christ as the only foundation (*vs. 6-11*). He warns that each one’s works will be tested by fire: *“gold, silver, and precious stones”* will endure, but *“wood, hay, and straw”* will be burned up, revealing the quality of their labor (*vs. 12-15*). ***Christ is presented as*** the foundation upon which all spiritual work must be built to have lasting, eternal value (*vs. 11*). ***Believers should*** build wisely, recognizing that they are the temple of God where the Holy Spirit dwells (*vs. 16-17*), and live in a way that reflects God’s holiness.
 
-**_In Chapter 9, Paul_** defends his rights as an apostle, explaining that while he has the right to financial support, he willingly forgoes it to avoid hindering the gospel (*vv. 1–15*). He emphasizes his commitment to preaching the gospel free of charge and becoming all things to all people to save some (*vv. 16–23*). Paul likens the Christian life to a race, urging believers to exercise self-discipline and strive for an imperishable crown (*vv. 24–27*). **_Christ is presented as_** *the source of the gospel and the ultimate goal of faithful service* (*vv. 16–23*), **_Believers should_** *exercise self-control, endure for the sake of the gospel, and run their race to obtain the eternal prize* (*vv. 24–27*).
+***In Chapter 4, Paul*** emphasizes that apostles and ministers of Christ are stewards of the mysteries of God, and their primary responsibility is to be faithful (*vs. 1-2*). He warns against judging prematurely, reminding the Corinthians that *“each one’s praise will come to him from God”* when the Lord returns (*vs. 5*). ***Christ is presented as*** the Lord who will bring to light what is hidden and judge the hearts of all (*vs. 5*). ***Believers should*** refrain from pride and boasting in human leaders (*vs. 6*), imitate the humility of Christ’s servants (*vs. 16*), and live as faithful stewards accountable to God.
 
-**_In Chapter 10, Paul_** warns the Corinthians against idolatry and overconfidence, using Israel's wilderness experiences as examples of disobedience and God's judgment (*vv. 1–11*). He urges them to flee from idolatry and reminds them that they cannot partake of both the Lord’s table and the table of demons (*vv. 14–22*). Paul emphasizes that all actions should be done for God’s glory and for the benefit of others, avoiding behavior that might cause others to stumble (*vv. 23–33*). **_Christ is presented as_** *the spiritual Rock who sustains His people* (*v. 4*), **_Believers should_** *flee idolatry, seek God’s glory in all things, and act with consideration for the conscience of others* (*vv. 14, 31–32*).
+## III. Sins of the Church
 
-**_In Chapter 11, Paul_** addresses issues of proper conduct in worship, emphasizing the importance of headship and orderly appearance during prayer and prophecy (*vv. 2–16*). He also rebukes the Corinthians for their improper **observance of the Lord’s Supper**, urging them to partake in a worthy manner, recognizing the body of Christ, and examining themselves to avoid judgment (*vv. 17–34*). **_Christ is presented as_** *the head of every believer and the one who instituted the Lord’s Supper to proclaim His death until He comes* (*vv. 3, 23–26*), **_Believers should_** *honor Christ’s authority, participate in the Lord’s Supper reverently, and examine themselves before partaking* (*vv. 28–31*).
+**vs. 5:1-6:20**
 
-**_In Chapter 12, Paul_** explains the diversity of spiritual gifts and their unified purpose within the body of Christ, emphasizing that all gifts come from the same Spirit and are given for the common good (*vv. 4–11*). He uses the analogy of the human body to illustrate how believers, though many, are one body in Christ, with each member essential to the whole (*vv. 12–27*). Paul highlights the variety of roles in the church, such as apostles, prophets, and teachers, and encourages believers to earnestly desire the greater gifts, promising to show them a better way in Chapter 13 (*vv. 28–31*). **_Christ is presented as_** *the head of the body, uniting and empowering its members through the Spirit* (*vv. 12–13*), **_Believers should_** *recognize the value of each member, use their gifts for the common good, and seek the greater gifts with love* (*vv. 7, 25–31*).
- 
-**_In Chapter 13, Paul_** defines love as the greatest virtue, essential for the proper use of spiritual gifts (*vv. 1–3*). He describes love’s attributes: it is patient, kind, not envious, boastful, arrogant, or rude; it rejoices with the truth, bears all things, believes all things, hopes all things, and endures all things (*vv. 4–7*). Paul emphasizes that love never ends, contrasting it with spiritual gifts like prophecy and tongues, which are temporary (*vv. 8–10*). He concludes that faith, hope, and love remain, but the greatest of these is love (*v. 13*). **_Christ is presented as_** *the ultimate demonstration of perfect love* (*v. 13*), **_Believers should_** *pursue love as the greatest virtue, reflecting Christ’s character in all they do* (*vv. 4–7*).
+***In Chapter 5, Paul*** confronts the church for tolerating sexual immorality, specifically a case of incest, and calls for the removal of the offender from the community (*vs. 1-2*). He emphasizes that a little leaven leavens the whole lump, urging the Corinthians to remove sin from their midst to be a new, unleavened batch, as Christ, our Passover Lamb, has been sacrificed (*vs. 6-8*). ***Christ is presented as*** the Passover Lamb whose sacrifice calls believers to holiness and purity (*vs. 7*). ***Believers should*** mourn over sin, purge evil from among them (*vs. 2, 13*), and live as a sanctified community in sincerity and truth (*vs. 8*).
 
-**_In Chapter 14, Paul_** emphasizes the importance of order and edification in corporate worship, contrasting the use of tongues and prophecy (*vv. 1–25*). He teaches that prophecy builds up the church by encouraging, comforting, and instructing, while tongues, unless interpreted, benefit only the speaker (*vv. 3–5, 12*). Paul sets guidelines for orderly worship, instructing that everything should be done in a fitting and orderly way to reflect God’s character of peace, not confusion (*vv. 26–33, 40*). **_Christ is presented as_** *the head of the church, whose worship should reflect God’s order and edification* (*v. 33*), **_Believers should_** *pursue gifts that build up the church, speak intelligibly for edification, and ensure worship honors God’s order and peace* (*vv. 12, 26, 33, 40*).
+***In Chapter 6, Paul*** rebukes the Corinthians for settling disputes in secular courts and reminds them that believers, sanctified and justified in Christ, are called to judge with godly wisdom (*vv. 1–6, 11*). He warns against sins like sexual immorality and idolatry, emphasizing that their bodies, as temples of the Holy Spirit, must glorify God, for they were bought with a price (*vv. 9–20*). ***Christ is presented as*** *the one who justifies and sanctifies believers through His name* (*v. 11*), ***Believers should*** *flee from sexual immorality* and *glorify God in their bodies* (*vv. 18–20*).
 
-**_In Chapter 15, Paul_** declares the resurrection of Christ as the cornerstone of the gospel and the assurance of believers’ resurrection (*vv. 1–22*). He explains the culmination of God’s redemptive plan: Christ will reign until He has abolished all rule, authority, and power, putting all enemies under His feet, with the final enemy being death (*vv. 24–26*). Christ will then hand over the kingdom to God the Father, completing His mission and ushering in the eternal reign of God, where sin and death are no more (*vv. 27–28*). Paul also describes the resurrection body as imperishable and glorified, fit for the eternal kingdom (*vv. 35–53*). **_Christ is presented as_** *the reigning King who conquers all enemies, including death, and hands the kingdom to the Father* (*vv. 24–26*), **_Believers should_** *stand firm in their hope, hold fast to the gospel, and labor faithfully for the Lord, knowing their work is not in vain* (*vv. 2, 58*).
+## IV. Problems of the Church
 
-### VI. Conclusion vs. 16:1-24
-**_In Chapter 16, Paul_** gives practical instructions, including a collection for the saints in Jerusalem and guidance on how it should be handled (*vv. 1–4*). He outlines his travel plans and commends Timothy and Apollos to the Corinthians (*vv. 5–12*). Paul exhorts the believers to stand firm in their faith, act courageously, and do everything in love (*vv. 13–14*). He acknowledges the faithful service of Stephanas and others, encouraging the church to honor such workers (*vv. 15–18*). Paul closes with final greetings, a warning against anyone who does not love the Lord, and a blessing of grace (*vv. 19–24*). **_Christ is presented as_** *the Lord deserving of love and the source of grace and strength* (*vv. 22–23*), **_Believers should_** *stand firm in faith, act in love, and honor those who serve faithfully* (*vv. 13–14, 18*).
+**vs. 7:1-15:58**
+
+***In Chapter 7, Paul*** addresses questions about marriage, singleness, and divorce, emphasizing that each person should live according to the calling they have received from God (*vv. 1, 17*). He teaches that marriage is a safeguard against immorality, but those who are single can devote themselves more fully to the Lord (*vv. 2, 32–35*). Paul allows for divorce only in specific cases and encourages believers to remain in their current circumstances, whether married, single, or enslaved, as they serve the Lord (*vv. 10–24*). ***Christ is presented as*** *the Lord who calls each believer to live faithfully in their assigned circumstances* (*vv. 17, 24*), ***Believers should*** *honor God in their marital and personal relationships* and *remain faithful to the Lord’s calling in their lives* (*vv. 17, 35*).
+
+***In Chapter 8, Paul*** discusses the issue of eating food sacrificed to idols, emphasizing that while knowledge can lead to freedom, love should guide believers' actions to avoid causing others to stumble (*vv. 1–3, 9*). He explains that idols have no real existence and that there is only one God, yet some believers with weaker consciences may still view such practices as sinful (*vv. 4–7*). Paul urges the Corinthians to prioritize the spiritual well-being of others over their own rights, avoiding behavior that might lead a weaker brother or sister into sin (*vv. 9–13*). ***Christ is presented as*** *the one through whom all things exist and who strengthens believers to live in love* (*v. 6*), ***Believers should*** *act in love, building up others and avoiding actions that harm their faith* (*vv. 1, 9, 13*).
+
+***In Chapter 9, Paul*** defends his rights as an apostle, explaining that while he has the right to financial support, he willingly forgoes it to avoid hindering the gospel (*vv. 1–15*). He emphasizes his commitment to preaching the gospel free of charge and becoming all things to all people to save some (*vv. 16–23*). Paul likens the Christian life to a race, urging believers to exercise self-discipline and strive for an imperishable crown (*vv. 24–27*). ***Christ is presented as*** *the source of the gospel and the ultimate goal of faithful service* (*vv. 16–23*), ***Believers should*** *exercise self-control, endure for the sake of the gospel, and run their race to obtain the eternal prize* (*vv. 24–27*).
+
+***In Chapter 10, Paul*** warns the Corinthians against idolatry and overconfidence, using Israel's wilderness experiences as examples of disobedience and God's judgment (*vv. 1–11*). He urges them to flee from idolatry and reminds them that they cannot partake of both the Lord’s table and the table of demons (*vv. 14–22*). Paul emphasizes that all actions should be done for God’s glory and for the benefit of others, avoiding behavior that might cause others to stumble (*vv. 23–33*). ***Christ is presented as*** *the spiritual Rock who sustains His people* (*v. 4*), ***Believers should*** *flee idolatry, seek God’s glory in all things, and act with consideration for the conscience of others* (*vv. 14, 31–32*).
+
+***In Chapter 11, Paul*** addresses issues of proper conduct in worship, emphasizing the importance of headship and orderly appearance during prayer and prophecy (*vv. 2–16*). He also rebukes the Corinthians for their improper **observance of the Lord’s Supper**, urging them to partake in a worthy manner, recognizing the body of Christ, and examining themselves to avoid judgment (*vv. 17–34*). ***Christ is presented as*** *the head of every believer and the one who instituted the Lord’s Supper to proclaim His death until He comes* (*vv. 3, 23–26*), ***Believers should*** *honor Christ’s authority, participate in the Lord’s Supper reverently, and examine themselves before partaking* (*vv. 28–31*).
+
+***In Chapter 12, Paul*** explains the diversity of spiritual gifts and their unified purpose within the body of Christ, emphasizing that all gifts come from the same Spirit and are given for the common good (*vv. 4–11*). He uses the analogy of the human body to illustrate how believers, though many, are one body in Christ, with each member essential to the whole (*vv. 12–27*). Paul highlights the variety of roles in the church, such as apostles, prophets, and teachers, and encourages believers to earnestly desire the greater gifts, promising to show them a better way in Chapter 13 (*vv. 28–31*). ***Christ is presented as*** *the head of the body, uniting and empowering its members through the Spirit* (*vv. 12–13*), ***Believers should*** *recognize the value of each member, use their gifts for the common good, and seek the greater gifts with love* (*vv. 7, 25–31*).
+
+***In Chapter 13, Paul*** defines love as the greatest virtue, essential for the proper use of spiritual gifts (*vv. 1–3*). He describes love’s attributes: it is patient, kind, not envious, boastful, arrogant, or rude; it rejoices with the truth, bears all things, believes all things, hopes all things, and endures all things (*vv. 4–7*). Paul emphasizes that love never ends, contrasting it with spiritual gifts like prophecy and tongues, which are temporary (*vv. 8–10*). He concludes that faith, hope, and love remain, but the greatest of these is love (*v. 13*). ***Christ is presented as*** *the ultimate demonstration of perfect love* (*v. 13*), ***Believers should*** *pursue love as the greatest virtue, reflecting Christ’s character in all they do* (*vv. 4–7*).
+
+***In Chapter 14, Paul*** emphasizes the importance of order and edification in corporate worship, contrasting the use of tongues and prophecy (*vv. 1–25*). He teaches that prophecy builds up the church by encouraging, comforting, and instructing, while tongues, unless interpreted, benefit only the speaker (*vv. 3–5, 12*). Paul sets guidelines for orderly worship, instructing that everything should be done in a fitting and orderly way to reflect God’s character of peace, not confusion (*vv. 26–33, 40*). ***Christ is presented as*** *the head of the church, whose worship should reflect God’s order and edification* (*v. 33*), ***Believers should*** *pursue gifts that build up the church, speak intelligibly for edification, and ensure worship honors God’s order and peace* (*vv. 12, 26, 33, 40*).
+
+***In Chapter 15, Paul*** declares the resurrection of Christ as the cornerstone of the gospel and the assurance of believers’ resurrection (*vv. 1–22*). He explains the culmination of God’s redemptive plan: Christ will reign until He has abolished all rule, authority, and power, putting all enemies under His feet, with the final enemy being death (*vv. 24–26*). Christ will then hand over the kingdom to God the Father, completing His mission and ushering in the eternal reign of God, where sin and death are no more (*vv. 27–28*). Paul also describes the resurrection body as imperishable and glorified, fit for the eternal kingdom (*vv. 35–53*). ***Christ is presented as*** *the reigning King who conquers all enemies, including death, and hands the kingdom to the Father* (*vv. 24–26*), ***Believers should*** *stand firm in their hope, hold fast to the gospel, and labor faithfully for the Lord, knowing their work is not in vain* (*vv. 2, 58*).
+
+## VI. Conclusion
+
+**vs. 16:1-24**
+
+***In Chapter 16, Paul*** gives practical instructions, including a collection for the saints in Jerusalem and guidance on how it should be handled (*vv. 1–4*). He outlines his travel plans and commends Timothy and Apollos to the Corinthians (*vv. 5–12*). Paul exhorts the believers to stand firm in their faith, act courageously, and do everything in love (*vv. 13–14*). He acknowledges the faithful service of Stephanas and others, encouraging the church to honor such workers (*vv. 15–18*). Paul closes with final greetings, a warning against anyone who does not love the Lord, and a blessing of grace (*vv. 19–24*). ***Christ is presented as*** *the Lord deserving of love and the source of grace and strength* (*vv. 22–23*), ***Believers should*** *stand firm in faith, act in love, and honor those who serve faithfully* (*vv. 13–14, 18*).

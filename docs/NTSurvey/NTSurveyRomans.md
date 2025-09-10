@@ -25,7 +25,7 @@ bibleReference: Romans
   - [Theme of Romans *"Survey of the New Testament"*](#theme-of-romans-survey-of-the-new-testament)
   - [I. Introduction](#i-introduction)
   - [II. The Sinfulness and Condemnation of All Men](#ii-the-sinfulness-and-condemnation-of-all-men)
-  - [III. The Justification of Believeing Sinners](#iii-the-justification-of-believeing-sinners)
+  - [III. The Justification of Believing Sinners](#iii-the-justification-of-believing-sinners)
 
 ## CDI Session 11 Part 1
 
@@ -220,7 +220,7 @@ Romans Chapter 3
 
 ---
 
-## III. The Justification of Believeing Sinners
+## III. The Justification of Believing Sinners
 
 **vs.3:21-5:21**
 
