@@ -1,13 +1,11 @@
 ---
 title: Chapter Summaries for Romans
-date: 56 AD
-author: "Dave Haines"
-category: "Sermon Notes"
-description: "Written in Corinth on his 3rd missionary journey. The theme is of righteousness, it discusses in detail the righteousness that God provides sinful mankind."
-image: "/images/welcome.jpg"
-bibleReference: "[Romans]"
+date: 56 A.D
+writer: Paul, a bond-servant of Christ Jesus
+category: Third Missionary Journey
+description: The theme of Romans is righteousness. This letter discusses in detail the righteousness that God provides for sinful mankind. This is the only kind of righteousness that God approves.
+bibleReference: Romans
 ---
-
 
 # {{ page.meta.title }}
 
@@ -36,7 +34,10 @@ bibleReference: "[Romans]"
 > *1Paul, a bond-servant of Christ Jesus, called as an apostle, set apart for the gospel of God, 2which He promised beforehand through His prophets in the holy Scriptures, 3concerning His Son, who was born of a descendant of David according to the flesh, 4who was declared the Son of God with power by the resurrection from the dead, according to the Spirit of holiness, Jesus Christ our Lord, 5through whom we have received grace and apostleship to bring about the obedience of faith among all the Gentiles for His name’s sake, 6among whom you also are the called of Jesus Christ; 7to all who are beloved of God in Rome, called as saints: Grace to you and peace from God our Father and the Lord Jesus Christ. 8First, I thank my God through Jesus Christ for you all, because your faith is being proclaimed throughout the whole world. 9For God, whom I serve in my spirit in the preaching of the gospel of His Son, is my witness as to how unceasingly I make mention of you, 10always in my prayers making request, if perhaps now at last by the will of God I may succeed in coming to you. 11For I long to see you so that I may impart some spiritual gift to you, that you may be established; 12that is, that I may be encouraged together with you while among you, each of us by the other’s faith, both yours and mine. 13I do not want you to be unaware, brethren, that often I have planned to come to you (and have been prevented so far) so that I may obtain some fruit among you also, even as among the rest of the Gentiles. 14I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish. 15So, for my part, I am eager to preach the gospel to you also who are in Rome. 16For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. 17For in it the righteousness of God is revealed from faith to faith; as it is written, “But the righteous man shall live by faith.”*  
 > --Romans1:1-17
 
-- Unbelief and Its Consequences
+**Unbelief and Its Consequences**  
+
+> *18For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, 19because that which is known about God is evident within them; for God made it evident to them. 20For since the creation of the world His invisible attributes, His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. 21For even though they knew God, they did not honor Him as God or give thanks, but they became futile in their speculations, and their foolish heart was darkened. 22Professing to be wise, they became fools, 23and exchanged the glory of the incorruptible God for an image in the form of corruptible man and of birds and four-footed animals and crawling creatures. 24Therefore God gave them over in the lusts of their hearts to impurity, so that their bodies would be dishonored among them. 25For they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen. 26For this reason God gave them over to degrading passions; for their women exchanged the natural function for that which is unnatural, 27and in the same way also the men abandoned the natural function of the woman and burned in their desire toward one another, men with men committing indecent acts and receiving in their own persons the due penalty of their error. 28And just as they did not see fit to acknowledge God any longer, God gave them over to a depraved mind, to do those things which are not proper, 29being filled with all unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice; they are gossips, 30slanderers, haters of God, insolent, arrogant, boastful, inventors of evil, disobedient to parents, 31without understanding, untrustworthy, unloving, unmerciful; 32and although they know the ordinance of God, that those who practice such things are worthy of death, they not only do the same, but also give hearty approval to those who practice them.*  
+> --Romans 1:18-32
 
 ### Chapter 2
 
