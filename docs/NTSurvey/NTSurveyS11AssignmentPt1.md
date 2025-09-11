@@ -19,14 +19,14 @@ bibleReference: Romans
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
-  - [CDI Session 11 Part 1](#cdi-session-11-part-1)
-  - [CDI Session 11 Part 2](#cdi-session-11-part-2)
-  - [Book of Romans with Chapter Headings and Section Titles (NASB1995)](#book-of-romans-with-chapter-headings-and-section-titles-nasb1995)
-  - [Outline of Romans](#outline-of-romans)
-  - [Theme of Romans *"Survey of the New Testament"*](#theme-of-romans-survey-of-the-new-testament)
-  - [Chapter Summaries](#chapter-summaries)
+  - [CDI Notes - Content of Romans](#cdi-notes---content-of-romans)
+  - [Chapter Headings of Romans (NASB1995)](#chapter-headings-of-romans-nasb1995)
+  - [Survey of New Testament](#survey-of-new-testament)
+  - [Romans Summary](#romans-summary)
 
-## CDI Session 11 Part 1
+## CDI Notes - Content of Romans
+
+### CDI Session 11 Part 1
 
 Paul did not know the church personally, because he had not founded the church
 through his missionary effort nor had he visited it.
@@ -43,13 +43,13 @@ so?
 1. Is the purpose of Romans to evangelize the lost with the gospel or to edify the saints
 and why?
 
-## CDI Session 11 Part 2
+### CDI Session 11 Part 2
 
 1. Why do you think that Romans has been so influential over the centuries?
 2. Why do you think the doctrine of righteousness is so important in the Judeo-Christian religion?
 3. Righteousness, salvation, and faith are three important concepts. Use these three words to summarize the message of Romans.
 
-## Book of Romans with Chapter Headings and Section Titles (NASB1995)
+## Chapter Headings of Romans (NASB1995)
 
 ### Chapter 1
 
@@ -143,7 +143,9 @@ and why?
 
 ---
 
-## Outline of Romans
+## Survey of New Testament
+
+### Outline of Romans
 
 | **Paul's Letter to Romans** | |
 |:-------:|:-------:|
@@ -193,11 +195,11 @@ and why?
 
 ---
 
-## Theme of Romans *"Survey of the New Testament"*
+### Theme of Romans *"Survey of the New Testament"*
 
 The theme of Romans is righteousness. This letter discusses in detail the righteousness that God provides for sinful mankind. This is the only kind of righteousness that God approves. The epistle also discusses the kind of righteousness living that ought to characterize those who are believers in Christ.
 
-## Chapter Summaries
+## Romans Summary
 
 ### I. Introduction
 

@@ -1,5 +1,5 @@
 ---
-title: NTSurvey - Session 13 Part 1 Assignment
+title: NTSurvey - Session 13 Part 1 - 1 Timothy
 date: A.D. 62
 writer: Paul the Apostle
 category: Pastoral Epistle
@@ -19,8 +19,10 @@ bibleReference: 1 Timothy
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
-  - [1 Timothy — Chapter Headings](#1-timothy--chapter-headings)
+  - [Key Verses](#key-verses)
+  - [Book of 1 Timothy with Chapter Headings and Section Titles (NASB1995)](#book-of-1-timothy-with-chapter-headings-and-section-titles-nasb1995)
   - [Outline of 1 Timothy](#outline-of-1-timothy)
+  - [Theme of 1 Timothy](#theme-of-1-timothy)
 
 **pg. 256 NT Survey Instructors Guide**
 
@@ -30,14 +32,7 @@ bibleReference: 1 Timothy
 
 > *but in case I am delayed, I write so that you will know how one ought to conduct himself in the household of God, which is the church of the living God, the pillar and support of the truth.*
 
-## Concerns and Topics
-
-- Private and public concerns
-- What is the true gospel?
-- What is worthy worship?
-- What does faithful ministry look like?
-
-## 1 Timothy — Chapter Headings
+## Book of 1 Timothy with Chapter Headings and Section Titles (NASB1995)
 
 ### Chapter 1  
 
@@ -107,3 +102,7 @@ bibleReference: 1 Timothy
 | B. About Earthly Riches | (6:6-10, 17-19) |
 | C. About Godly Living | (6:11-16) |
 | D. About Timothy's Trust | (6:20-21) |
+
+## Theme of 1 Timothy
+
+*The emphasis of this letter is the proper ministry and administration of the local church. A variety of subjects are dealt with in order to ensure that the church would be all that it should be.*

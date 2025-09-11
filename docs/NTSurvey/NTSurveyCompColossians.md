@@ -1,5 +1,5 @@
 ---
-title: NTSurvey - Session 12 Parts 1-3 Colossians
+title: NTSurvey - Session 12 Part 2 - Colossians
 date: 61 A.D
 writer: Paul the Apostle
 category: Prison Epistle

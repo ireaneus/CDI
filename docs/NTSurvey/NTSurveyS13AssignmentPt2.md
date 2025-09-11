@@ -19,14 +19,20 @@ bibleReference: Titus
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
+  - [CDI Notes - Content of Titus](#cdi-notes---content-of-titus)
+  - [Chapter Headings of Titus (NASB1995)](#chapter-headings-of-titus-nasb1995)
+  - [Survey of New Testament](#survey-of-new-testament)
+  - [Titus Summary](#titus-summary)
 
-## Key Verses
+## CDI Notes - Content of Titus
+
+### Key Verses
 
 **Titus 2:11-14**
 
 > *For the grace of God has appeared, bringing salvation to all men, 12instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age, 13looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus, 14who gave Himself for us to redeem us from every lawless deed, and to purify for Himself a people for His own possession, zealous for good deeds.*
 
-## Book of Titus with Chapter Headings and Section Titles (NASB1995)
+## Chapter Headings of Titus (NASB1995)
 
 ### Chapter 1  
 
@@ -46,7 +52,9 @@ bibleReference: Titus
 - Avoid Divisive People  
 - Final Instructions and Greetings  
 
-## Outline of Titus
+## Survey of New Testament
+
+### Outline of Titus
 
 | **Titus** | |
 | :---------: | :---------: |
@@ -67,6 +75,8 @@ bibleReference: Titus
 | V. Conclusion | (3:10-15) |
 | | |
 
-## Theme of Titus
+### Theme of Titus
 
 The emphasis of Titus is similar to 1 Timothy, namely, the importance of proper administration and ministry in the local church.
+
+## Titus Summary

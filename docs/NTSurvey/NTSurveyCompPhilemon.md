@@ -1,5 +1,5 @@
 ---
-title: NTSurvey - Session 12 Parts 1-3 Philemon
+title: NTSurvey - Session 12 Part 3 - Philemon
 date: 61 A.D
 writer: Paul the Apostle
 category: Prison Epistle
@@ -22,7 +22,6 @@ bibleReference: Philemon
   - [CDI Notes - Content of Philemon](#cdi-notes---content-of-philemon)
   - [Chapter headings of Philemon (NASB1995)](#chapter-headings-of-philemon-nasb1995)
   - [Survey of New Testament](#survey-of-new-testament)
-  - [Theme of Philemon](#theme-of-philemon)
   - [Philemon Summary - *Personal, Reconciliation*](#philemon-summary---personal-reconciliation)
 
 ## CDI Notes - Content of Philemon
@@ -88,7 +87,7 @@ bibleReference: Philemon
 | III. Request | (vv. 8-21) |
 | IV. Conclusion | (vv.22-25) |
 
-## Theme of Philemon
+### Theme of Philemon
 
 Since this is a personal letter, there is really no theme as such. The letter was designed to persuade Philemon to forgive and reinstate Onesimus, and even to receive him as a new brother in Christ.
 
