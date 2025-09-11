@@ -24,6 +24,19 @@ bibleReference: 1 Timothy
 
 **pg. 256 NT Survey Instructors Guide**
 
+## Key Verses
+
+**1 Timothy 3:15**  
+
+> *but in case I am delayed, I write so that you will know how one ought to conduct himself in the household of God, which is the church of the living God, the pillar and support of the truth.*
+
+## Concerns and Topics
+
+- Private and public concerns
+- What is the true gospel?
+- What is worthy worship?
+- What does faithful ministry look like?
+
 ## 1 Timothy — Chapter Headings
 
 ### Chapter 1  
