@@ -1,9 +1,9 @@
 ---
 title: NTSurvey - Session 13 Part 1 Assignment
-date: 08-08-2025
-writer: Dave Haines
+date: A.D. 62
+writer: Paul the Apostle
 category: Pastoral Epistle
-description: Session 13 Part 1 you will be able to explain The author, date, and purpose of 1 Timothy The characteristics and content of 1 Timothy.
+description: Paul wrote to assist Timothy in his oversight of the church, Timothy was reminded of his authority and of his ministry responsibilities. This letter is also an instruction to the church about their responsibilities in the local assembly.
 bibleReference: 1 Timothy
 ---
 
@@ -19,195 +19,78 @@ bibleReference: 1 Timothy
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
-  - [1 Timothy Overview](#1-timothy-overview)
+  - [1 Timothy — Chapter Headings](#1-timothy--chapter-headings)
+  - [Outline of 1 Timothy](#outline-of-1-timothy)
 
 **pg. 256 NT Survey Instructors Guide**
 
-## 1 Timothy Overview
+## 1 Timothy — Chapter Headings
 
-- Author
-- Dating
-- Purpose
-- Characteristics
-- Content
+### Chapter 1  
 
-### Author
+- Warning Against False Doctrine  
+- The Purpose of the Law  
+- Paul’s Testimony of Grace  
+- Fight the Good Fight  
 
-- In Scripture
-- In History
+### Chapter 2  
 
-### In Scripture
+- Instructions on Prayer  
+- Conduct for Men and Women in Worship  
 
-- **Acts 28:30-1** Paul ends up in house arrest
-- **Phil. 2:24** released - “coming to them shortly”
-- **Acts 20:38** Tells Ephesian elders, “see his face no more”
-- **1 Tim. 1:3-4** *“instruct certain men”* in Ephesus
-- **2 Tim. 1:1, Titus 1:1**
-  - Self-identified
-  - *“Apostle of Jesus Christ”*
-- End of Acts in Prison
-- His personal emissary is Timothy
-- Shared persecuted at Ephesus
-- Left Timothy at Ephesus
-- *“Paul”* is the writer
+### Chapter 3  
 
-### In History
+- Qualifications for Overseers (Elders)  
+- Qualifications for Deacons  
+- The Mystery of Godliness  
 
-- Testimony of the church until 1800s
-- Paul wrote
+### Chapter 4  
 
-This uniform acceptance by the Church of the contents of these epistles as Pauline *"can only be dismissed on the lofty presumption that until this late age they were never studied with any real insight or intelligence."* **Hiebert, An Introduction to the New Testament, Vols. 1-3 p. 310**
+- Apostasy in Later Times  
+- A Good Servant of Christ Jesus  
 
-- 2 Tim. 1:17 written from Rome
-- 2 Tim. 4:16 imprisonment and awaiting trial
-- Imprisonment not mentioned in 1 Tim.
-- Written while free, 1 Tim. 1:3
-- After Acts 28:31
-- Order: 1 Tim., Titus – free; 2 Tim. – prison
+### Chapter 5  
 
-### Date
+- Instructions for the Church  
+- Widows, Elders, and Church Discipline  
 
-- 62 AD earliest possible release date from 1st imprisonment
-- Origin
-- Destination
-- Internal evidence
-- External evidence
+### Chapter 6  
 
-### Origin
+- Instructions to Slaves and Teachers  
+- Godliness with Contentment  
+- A Charge to the Rich  
+- Guard the Trust Entrusted to You  
 
-- 1 Tim. 1:3
-  - Written from Macedonia
-  - Departs from prison in Rome
-  - Goes to Ephesus via Crete
-  - Then on to Macedonia
-- Churches Paul regularly visited: Thessalonica, Philippi, Apollonia, Berea
+## Outline of 1 Timothy
 
-### Destination
-
-- Person, Timothy
-- **Acts 16:1-3** circumcision, travelling companion
-- **Acts 17:4-5** Timothy shares in Paul’s suffering
-- **Acts 20:4** Paul’s company
-- **Phil. 2:19-24** quality *“I have no one else…”*
-- Ministry at Ephesus
-- **1 Tim. 1:4** Theology teacher
-- **1 Tim. 4:6-10** told to be a model of discipline
-- **1 Tim. 3:2-7** compared with **Acts 16:1-5** Timothy is an elder above reproach
-
-### Internal Evidence
-
-- Hopes to return 1 Tim. 3:14 “hoping to come to you before long”
-- Silence about next or future visit
-- Church is well-developed
-- **1 Tim. 3:1ff** selecting elders
-  - First selected by Paul
-  - cf. **Acts 20:17ff**
-  - Explains **Acts 20:38** the elders would *“see his face no more”*
-
-More Internal Evidence: unbiased self-reporting both bad (1Tim. 1:13, 15) and good (1Tim. 2:7, 2Tim. 1:11).  
-
-- 23 personal references in 2 Timothy. (Thiessen, Introduction to the New Testament pp. 256-7).
-
-### External Evidence
-
-- Many Ephesian contacts and witnesses
-- **Acts 18:24** Apollos came from Ephesus
-- Paul’s 4 visits - Paul is known
-- Timothy the pastor
-- Later join the Apostle
-- 2nd letter to Ephesus
-- This letter is just to this church
-- **Eph. 1:15, 4:13** compared with **1Tim. 3:9-4:1**
-  - “the faith”
-- **Eph. 4:3-9** compared with **1Tim. 3:16, 6:15-16**
-- Use of hymns
-
-### Some Objections To Paul As Author
-
-- Vocabulary is different between 1 & 2 Timothy
-- Average ratio of 3 common to 1 uncommon word
-  - 2 Tim fits and does better than Shakespeare
-- Vocabulary varies with topic, writer, circumstance, and reader
-- Ecclesiology too developed
-  - Elders were appointed early in the church, Acts 14:23
-
-### Purpose
-
-- Readers
-- Occasion
-- Intent
-- Key verse
-
-### Readers
-
-- Timothy
-- Addressing Timothy’s struggles
-- Addressing Timothy’s conflicts
-- Addressing attacks on Timothy
-- Addressing Timothy’s insecurities
-
-### Occasion
-
-- **1Tim. 1:3** *“instruct certain men not to teach strange doctrine.”*
-- Direction
-- **1Tim. 1:4** meaningless genealogies
-- Problems
-- This is what makes the pastorals so applicable to those in ministry today
-
-### Intent
-
-- **Acts 20:29-30** wolves from the outside and perverse men from within – seek to destroy the church
-- In and out problems
-- **1Tim. 4:1-5, 6:3-4** *“latter times some will fall away…Appearing of our Lord Jesus”*
-- Future anticipated
-- Furnish a credential
-
-### Key Purpose
-
-- Encourage to a strong stand
-- Verse:
-  - **1Tim. 3:15** *“but in case I am delayed, I write so that you may know how one ought to conduct himself in the household of God, which is the church of the living God, the pillar and support of the truth.”*
-
-### Characteristics
-
-- Divided
-- Three topics
-- Church government
-
-### Concerns & Topics
-
-- Private concerns
-- Public concerns
-- Topics:
-  - Pure gospel
-  - Worthy worship
-  - Faithful ministry
-
-### Church Government
-
-- Women:
-  - **1Tim. 2:9**
-  - **1Tim. 3:11**
-  - **1Tim. 5:3**
-- Regulations or policies:
-  - **1Tim. 2:1-4, 3:16** godly relations
-  - **1Tim. 2:5-6** Jesus mediator
-  - **1Tim. 4:1-3** what is good
-  - **1Tim. 6:6-10** love of money
-
-### Content
-
-- Salutation, **1Tim. 1:1-2**
-- Preamble, **1Tim. 1:3-20**
-  - False teachers, **1Tim. 1:3-11**
-  - Personal credibility, **1Tim. 1:12-17**
-  - Call to the task, **1Tim. 18-20**
-- Official instruction, **1Tim. 2:1-3:16**
-  - Prayer, **1Tim. 2:1-8**
-  - Women, **1Tim. 2:9-15**
-  - Officers, **1Tim. 3:1-16**
-- Personal instruction, **1Tim. 4:1-6:19**
-  - Personal discipline, **1Tim. 4:1-16**
-    - Personal conduct, **1Tim. 5:1-6:2**
-    - Personal instruction in money, **1Tim. 6:3-19**
-    - Greeting, **1Tim. 6:20ff**
+| **1 Timothy** | |
+| :-----------: | :---------: |
+| | |
+| I. Salutation | (1:1-2) |
+| | |
+| II. The Instructions Concerning Teachers in the Church | (1:3-20) |
+| A. The Nature of the Instructions | (1:3-4) |
+| B. The Goal of the Instructions | (1:5) |
+| C. The Reason for the Instructions | (1:6-11) |
+| D. The Example of the Instructions | (1:12-17) |
+| E. The Charge of the Instructions | (1:18-20) |
+| | |
+| III. The Instructions Concerning Life in the Church | (2:1-3:16) |
+| A. Relating to Public Worship | (2:1-15) |
+| B. Relating to Church Leadership | (3:1-16) |
+| | |
+| IV. The Instructions Concerning Apostasy in the Church | (4:1-16) |
+| A. The Exposure of Error | (4:1-5) |
+| B. The Antidote to Error | (4:6-16) |
+| | |
+| V. The Instructions Concerning Groups in the Church | (5:1-6:2) |
+| A. Everyone | (5:1-2) |
+| B. Widows | (5:3-16) |
+| C. Elders | (5:17-25) |
+| D. Slaves | (6:1-2) |
+| | |
+| VI. Conclusion | (6:3-21) |
+| A. About False Teachers | (6:3-5) |
+| B. About Earthly Riches | (6:6-10, 17-19) |
+| C. About Godly Living | (6:11-16) |
+| D. About Timothy's Trust | (6:20-21) |

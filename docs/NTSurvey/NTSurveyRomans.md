@@ -22,10 +22,9 @@ bibleReference: Romans
   - [CDI Session 11 Part 1](#cdi-session-11-part-1)
   - [CDI Session 11 Part 2](#cdi-session-11-part-2)
   - [Book of Romans with Chapter Headings and Section Titles (NASB1995)](#book-of-romans-with-chapter-headings-and-section-titles-nasb1995)
+  - [Outline of Romans](#outline-of-romans)
   - [Theme of Romans *"Survey of the New Testament"*](#theme-of-romans-survey-of-the-new-testament)
-  - [I. Introduction](#i-introduction)
-  - [II. The Sinfulness and Condemnation of All Men](#ii-the-sinfulness-and-condemnation-of-all-men)
-  - [III. The Justification of Believing Sinners](#iii-the-justification-of-believing-sinners)
+  - [Chapter Summaries](#chapter-summaries)
 
 ## CDI Session 11 Part 1
 
@@ -144,6 +143,8 @@ and why?
 
 ---
 
+## Outline of Romans
+
 | **Paul's Letter to Romans** | |
 |:-------:|:-------:|
 | I. Introduction | (vs. 1:1-17) |
@@ -196,34 +197,36 @@ and why?
 
 The theme of Romans is righteousness. This letter discusses in detail the righteousness that God provides for sinful mankind. This is the only kind of righteousness that God approves. The epistle also discusses the kind of righteousness living that ought to characterize those who are believers in Christ.
 
-## I. Introduction
+## Chapter Summaries
+
+### I. Introduction
 
 **vs.1:1-17**  
 
-### Romans Chapter 1
+#### Romans Chapter 1
 
 ***In Chapter 1, Paul*** introduces himself as a slave of Christ Jesus, called as an apostle set apart for the gospel of God and emphasizes the gospel’s power to bring salvation to everyone who believes, both Jew and Gentile (*vv. 1–17*). He explains that God’s wrath is revealed against all ungodliness and unrighteousness because people suppress the truth and worship created things rather than the Creator (*vv. 18–23*). Paul describes how God gave them over to their sinful desires, resulting in moral corruption and various forms of wickedness (*vv. 24–32*). ***Christ is presented as*** *the Son of God, declared with power by His resurrection, through whom grace and apostleship are received* (*vv. 3–5*), ***Believers should*** *live by faith and not be ashamed of the gospel, which is the power of God for salvation* (*vv. 16–17*).
 
 ---
 
-## II. The Sinfulness and Condemnation of All Men
+### II. The Sinfulness and Condemnation of All Men
 
 **vs.1:18-3:20**
 
-### Romans Chapter 2
+#### Romans Chapter 2
 
 ***In Chapter 2, Paul*** warns against judging others, reminding that God’s judgment is based on truth and applies to all, both Jews and Gentiles. He emphasizes that outward signs like circumcision are meaningless without obedience to God’s law and that true righteousness comes from a transformed heart (*vv. 1–29*). ***Christ is presented as*** *the righteous judge who judges impartially* (*vv. 5–6*), ***Believers should*** *repent, seek God’s righteousness, and live with a transformed heart* (*vv. 4, 13, 29*).
 
-Romans Chapter 3
+#### Romans Chapter 3
 
 ***In Chapter 3, Paul*** explains that both Jews and Gentiles are under sin, emphasizing that no one is righteous by their own works (*vv. 9–20*). He declares that righteousness comes through faith in Jesus Christ for all who believe, apart from the law, as all have sinned and fall short of God’s glory (*vv. 21–26*). Paul concludes that boasting is excluded because justification is by faith, not by works of the law (*vv. 27–31*). ***Christ is presented as*** *the one through whom God’s righteousness is revealed and believers are justified by faith* (*vv. 22–26*), ***Believers should*** *trust in Christ for righteousness and understand that justification is by faith, not works* (*vv. 22, 28*).
 
 ---
 
-## III. The Justification of Believing Sinners
+### III. The Justification of Believing Sinners
 
 **vs.3:21-5:21**
 
-### Romans Chapter 4
+#### Romans Chapter 4
 
 ***In Chapter 4, Paul*** explains that Abraham was justified by faith before circumcision, making him the father of all who believe. He emphasizes that righteousness comes through faith, not the law, so the promise is based on grace (*vv. 1–22*). ***Christ is presented as*** *the one through whom justification and righteousness are given by faith* (*vv. 24–25*), ***Believers should*** *have faith in God’s promises and trust in Christ, who was raised for their justification* (*vv. 20–25*).
