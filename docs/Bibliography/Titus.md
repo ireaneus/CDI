@@ -1,15 +1,23 @@
-# Book of Titus with Chapter Headings and Section Titles (NASB2020)
+# Book of Titus with Chapter Headings and Section Titles (NASB1995)
 
 ---
 
-## Titus
-### Chapter 1
-- Salutation
-- Qualifications of Elders
+# Titus — Chapter Headings
 
-### Chapter 2
-- Proclaim Sound Doctrine
+## Chapter 1
 
-### Chapter 3
-- Godly Living
-- Personal Concerns
+- Salutation and Purpose  
+- Qualifications of Elders  
+- Rebuke of False Teachers  
+
+## Chapter 2
+
+- Instructions for Sound Doctrine  
+- Godly Living in All Stages of Life  
+- The Grace of God Has Appeared  
+
+## Chapter 3
+
+- Be Ready for Good Deeds  
+- Avoid Divisive People  
+- Final Instructions and Greetings  
