@@ -34,6 +34,14 @@ bibleReference: Titus
 
 > *For the grace of God has appeared, bringing salvation to all men, 12instructing us to deny ungodliness and worldly desires and to live sensibly, righteously and godly in the present age, 13looking for the blessed hope and the appearing of the glory of our great God and Savior, Christ Jesus, 14who gave Himself for us to redeem us from every lawless deed, and to purify for Himself a people for His own possession, zealous for good deeds.*
 
+### CDI Titus Chapters Summary
+
+***In Titus, Paul*** writes to his trusted co-worker on the island of Crete to instruct him in appointing qualified elders and setting things in order in the churches (*1:5*). He emphasizes the need for godly leadership, sound doctrine, and Christlike behavior in all areas of life—within the church, in the home, and in society. Paul warns against false teachers and empty religious talk that undermines the truth of the gospel (*1:10–16*). He outlines what healthy teaching looks like for older men and women, younger believers, church leaders, and even slaves, all rooted in the grace of God that has appeared to bring salvation to all (*2:1–14*). The letter ends with reminders for believers to be ready for every good deed, live peaceably under authority, and avoid divisive arguments (*3:1–11*).
+***Christ is presented as*** *our great God and Savior, who gave Himself to redeem and purify a people for His own possession* (*2:13–14*).
+***Believers should*** *live godly lives, submit to authority, engage in good deeds, and adorn the doctrine of God in every respect* (*2:10; 3:1–8*).
+
+---
+
 ## Survey of New Testament
 
 ### Outline of Titus
