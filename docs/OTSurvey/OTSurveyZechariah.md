@@ -64,26 +64,26 @@ Along with other prophets, Zechariah was martyred.[^1]
 
 > Zechariah is one of the most Christ-centered prophetic books in the OT, second only to Isaiah.  
 
-   1. His arrival in Jerusalem on the foal of a donkey (9:9)
-   2. His betrayal for the price of thirty pieces of silver (11:12)
-   3. The casting of those silver pieces back into the house of the Lord (11:13)
-   4. His crucifixion (12:10)
-   5. His death as the Shepherd of Israel (13:7)
-   6. a prophecy to which Jesus Himself refers in Matthew 26:31
-   7. His coming in glory and sovereign power (9:10)
-   8. His ingathering of His people (chapter 10)
-   9. His return to the Mount of Olives, creating an earthquake splitting the mount in two (14:4)
-   10. The final, culminating Day of the Lord (chapter 14)
+- His arrival in Jerusalem on the foal of a donkey (9:9)
+- His betrayal for the price of thirty pieces of silver (11:12)
+- The casting of those silver pieces back into the house of the Lord (11:13)
+- His crucifixion (12:10)
+- His death as the Shepherd of Israel (13:7)
+- a prophecy to which Jesus Himself refers in Matthew 26:31
+- His coming in glory and sovereign power (9:10)
+- His ingathering of His people (chapter 10)
+- His return to the Mount of Olives, creating an earthquake splitting the mount in two (14:4)
+- The final, culminating Day of the Lord (chapter 14)
 
-1. Yahweh God:
+2. Yahweh God:
 
 > Mentioned more than 130 times, He is the covenant God of Israel who acts in power, wisdom, and compassionate love to protect, strengthen, and ultimately redeem His people
 
-1. Repentance:
+3. Repentance:
 
 > from the first chapter, as we’ll see in a few minutes, Zechariah is relentless in his proclamation that Yahweh calls His people to be holy as He is holy
 
-1. Comfort for Israel:
+4. Comfort for Israel:
 
 > Finally, this book is the most encouraging message the Judeans could have imagined. it assured them that Yahweh had not forgotten them, or worse, cast them off.
 
