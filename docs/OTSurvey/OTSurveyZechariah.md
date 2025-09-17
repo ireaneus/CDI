@@ -75,15 +75,15 @@ Along with other prophets, Zechariah was martyred.[^1]
 - His return to the Mount of Olives, creating an earthquake splitting the mount in two (14:4)
 - The final, culminating Day of the Lord (chapter 14)
 
-2. Yahweh God:
+1. Yahweh God:
 
 > Mentioned more than 130 times, He is the covenant God of Israel who acts in power, wisdom, and compassionate love to protect, strengthen, and ultimately redeem His people
 
-3. Repentance:
+1. Repentance:
 
 > from the first chapter, as we’ll see in a few minutes, Zechariah is relentless in his proclamation that Yahweh calls His people to be holy as He is holy
 
-4. Comfort for Israel:
+1. Comfort for Israel:
 
 > Finally, this book is the most encouraging message the Judeans could have imagined. it assured them that Yahweh had not forgotten them, or worse, cast them off.
 
