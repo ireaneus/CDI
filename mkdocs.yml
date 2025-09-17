@@ -3,3 +3,5 @@ extra_css:
   - styles.css
 plugins:
   - macros
+markdown_extensions:
+  - footnotes
