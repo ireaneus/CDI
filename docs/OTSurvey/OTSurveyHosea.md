@@ -1,22 +1,33 @@
 ---
 title: OTSurvey - Chapters of Hosea
-date: 12-24-2024
-author: "Dave Haines"
-category: "Sermon Notes"
-description: "Assignment: Chapter Diary of Old Testament Hosea"
-image: "/images/welcome.jpg"
+date: 650 BC
+author: Hosea
+category: The Twelve
+description: Assignment: Chapter Diary of Old Testament Hosea
+image: /images/welcome.jpg
 bibleReference: "[Hosea]"
 ---
 
-### Table of Contents
-[Hosea Outline](#hosea-outline)  
-[Hosea Chapters 1-3](#hosea-chapter-1)  
-[Hosea Chapters 4-10](#hosea-chapter-4)  
-[Hosea Chapter 11-14](#hosea-chapter-11)  
-[Hosea 5 Locations and People references](#hosea-5-references)  
+# {{ page.meta.title }}
 
-### Hosea Outline
-| **Hosea** | | 
+**Date:** {{ page.meta.date }}  
+**Writer:** {{ page.meta.writer }}  
+**Category:** {{ page.meta.category }}  
+**Description:** {{ page.meta.description }}  
+**BibleReference:** {{ page.meta.bibleReference }}
+
+## Table of Contents
+
+- [{{ page.meta.title }}](#-pagemetatitle-)
+  - [Table of Contents](#table-of-contents)
+  - [Hosea Outline](#hosea-outline)
+  - [I. Hosea’s Marriage: A Symbol of God’s Relationship with Israel (Chapters 1-3)](#i-hoseas-marriage-a-symbol-of-gods-relationship-with-israel-chapters-1-3)
+  - [II. Israel’s Unfaithfulness and God’s Judgment (Chapters 4-10)](#ii-israels-unfaithfulness-and-gods-judgment-chapters-4-10)
+  - [III. God’s Love and Future Restoration (Chapters 11-14)](#iii-gods-love-and-future-restoration-chapters-11-14)
+
+## Hosea Outline
+
+| **Hosea** | |
 |:-------:|:-------:|
 | I. Hosea’s Marriage: A Symbol of God’s Relationship with Israel | (Chapters 1-3) |
 | A. Hosea’s Marriage and Family | (*Chapter 1*) |
@@ -38,56 +49,69 @@ bibleReference: "[Hosea]"
 
 ## I. Hosea’s Marriage: A Symbol of God’s Relationship with Israel (Chapters 1-3)  
 
-### **Hosea Chapter 1**  
-**_In Chapter 1, Hosea_** is commanded by God to marry Gomer, a woman of harlotry, to symbolize Israel’s unfaithfulness to the Lord. The names of their children—Jezreel, Lo-Ruhamah, and Lo-Ammi—prophesy judgment, loss of compassion, and the breaking of God’s covenant with Israel (*vs. 4-9*). **_God is presented as_** the faithful covenant-keeper who will restore His people despite their unfaithfulness (*vs. 10-11*). **_Believers should_** understand the seriousness of sin and trust in God’s promises of restoration even in the face of judgment.  
+### **Hosea Chapter 1**
+
+***In Chapter 1, Hosea*** is commanded by God to marry Gomer, a woman of harlotry, to symbolize Israel’s unfaithfulness to the Lord. The names of their children—Jezreel, Lo-Ruhamah, and Lo-Ammi—prophesy judgment, loss of compassion, and the breaking of God’s covenant with Israel (*vs. 4-9*). ***God is presented as*** the faithful covenant-keeper who will restore His people despite their unfaithfulness (*vs. 10-11*). ***Believers should*** understand the seriousness of sin and trust in God’s promises of restoration even in the face of judgment.  
 
 ### **Hosea Chapter 2**  
-**_In Chapter 2, Hosea_** recounts God’s accusations against Israel, describing their idolatry and spiritual adultery. God promises judgment but also vows to allure and restore Israel, renewing the covenant of love and blessing (*vs. 14-23*). **_God is presented as_** a loving yet just husband, who disciplines to restore the unfaithful to a relationship of fidelity and love (*vs. 19-20*). **_Believers should_** forsake idols and return to God, trusting in His unwavering love and commitment.  
+
+***In Chapter 2, Hosea*** recounts God’s accusations against Israel, describing their idolatry and spiritual adultery. God promises judgment but also vows to allure and restore Israel, renewing the covenant of love and blessing (*vs. 14-23*). ***God is presented as*** a loving yet just husband, who disciplines to restore the unfaithful to a relationship of fidelity and love (*vs. 19-20*). ***Believers should*** forsake idols and return to God, trusting in His unwavering love and commitment.  
 
 ### **Hosea Chapter 3**  
-**_In Chapter 3, Hosea_** redeems Gomer, purchasing her from her unfaithfulness, symbolizing God’s love for Israel despite their rebellion. Hosea is instructed to love her again, just as God loves the children of Israel, even as they turn to other gods (*vs. 1-2*). **_God is presented as_** the redeemer, who pays the price to restore His wayward people. **_Believers should_** marvel at God’s redemptive love and respond with repentance and loyalty.  
+
+***In Chapter 3, Hosea*** redeems Gomer, purchasing her from her unfaithfulness, symbolizing God’s love for Israel despite their rebellion. Hosea is instructed to love her again, just as God loves the children of Israel, even as they turn to other gods (*vs. 1-2*). ***God is presented as*** the redeemer, who pays the price to restore His wayward people. ***Believers should*** marvel at God’s redemptive love and respond with repentance and loyalty.  
 
 ---
 
 ## II. Israel’s Unfaithfulness and God’s Judgment (Chapters 4-10)  
 
 ### **Hosea Chapter 4**  
-**_In Chapter 4, Hosea_** delivers God’s charges against Israel, condemning their lack of knowledge, idolatry, and moral corruption. The priests and leaders are rebuked for failing to guide the people in truth (*vs. 4-9*). **_God is presented as_** the righteous judge who holds His people accountable for their sins. **_Believers should_** pursue the knowledge of God and live righteously, avoiding the pitfalls of false worship.  
+
+***In Chapter 4, Hosea*** delivers God’s charges against Israel, condemning their lack of knowledge, idolatry, and moral corruption. The priests and leaders are rebuked for failing to guide the people in truth (*vs. 4-9*). ***God is presented as*** the righteous judge who holds His people accountable for their sins. ***Believers should*** pursue the knowledge of God and live righteously, avoiding the pitfalls of false worship.  
 
 ### **Hosea Chapter 5**  
-**_In Chapter 5, Hosea_** warns both Israel and Judah of impending judgment, rebuking their pride and false alliances. God’s presence is withdrawn due to their persistent sin, and they are called to seek Him earnestly in their distress (*vs. 15*). **_God is presented as_** the one who desires repentance and wholehearted devotion. **_Believers should_** humble themselves, seek God sincerely, and turn from self-reliance.  
+
+***In Chapter 5, Hosea*** warns both Israel and Judah of impending judgment, rebuking their pride and false alliances. God’s presence is withdrawn due to their persistent sin, and they are called to seek Him earnestly in their distress (*vs. 15*). ***God is presented as*** the one who desires repentance and wholehearted devotion. ***Believers should*** humble themselves, seek God sincerely, and turn from self-reliance.  
 
 ### **Hosea Chapter 6**  
-**_In Chapter 6, Hosea_** calls the people to repentance: *“Come, let us return to the Lord”* (*vs. 1*), but laments their fleeting love and insincere devotion. God desires steadfast love rather than sacrifice and acknowledgment of Him rather than burnt offerings (*vs. 6*). **_God is presented as_** the merciful one who heals and restores those who return to Him. **_Believers should_** approach God with genuine hearts, prioritizing love and knowledge of Him over empty rituals.  
+
+***In Chapter 6, Hosea*** calls the people to repentance: *“Come, let us return to the Lord”* (*vs. 1*), but laments their fleeting love and insincere devotion. God desires steadfast love rather than sacrifice and acknowledgment of Him rather than burnt offerings (*vs. 6*). ***God is presented as*** the merciful one who heals and restores those who return to Him. ***Believers should*** approach God with genuine hearts, prioritizing love and knowledge of Him over empty rituals.  
 
 ### **Hosea Chapter 7**  
-**_In Chapter 7, Hosea_** rebukes Israel’s political alliances and false worship, describing their sins as a heated oven of passion and rebellion (*vs. 4-7*). Their failure to turn to God in humility brings their downfall. **_God is presented as_** the sovereign one who is grieved by their arrogance and sin. **_Believers should_** forsake pride, humble themselves before God, and trust Him rather than worldly alliances.  
+
+***In Chapter 7, Hosea*** rebukes Israel’s political alliances and false worship, describing their sins as a heated oven of passion and rebellion (*vs. 4-7*). Their failure to turn to God in humility brings their downfall. ***God is presented as*** the sovereign one who is grieved by their arrogance and sin. ***Believers should*** forsake pride, humble themselves before God, and trust Him rather than worldly alliances.  
 
 ### **Hosea Chapter 8**  
-**_In Chapter 8, Hosea_** warns Israel that their idolatry and misplaced trust in foreign nations will bring judgment. The golden calf of Samaria is condemned as a false god that will bring destruction (*vs. 5-6*). **_God is presented as_** the only true God who desires exclusive worship. **_Believers should_** worship God alone and avoid putting their trust in man-made idols or earthly powers.  
+
+***In Chapter 8, Hosea*** warns Israel that their idolatry and misplaced trust in foreign nations will bring judgment. The golden calf of Samaria is condemned as a false god that will bring destruction (*vs. 5-6*). ***God is presented as*** the only true God who desires exclusive worship. ***Believers should*** worship God alone and avoid putting their trust in man-made idols or earthly powers.  
 
 ### **Hosea Chapter 9**  
-**_In Chapter 9, Hosea_** foretells the consequences of Israel’s unfaithfulness, warning that their idolatry will lead to exile and loss of blessings. Their joy in false worship will turn to mourning as they reap the consequences of their rebellion (*vs. 1-7*). **_God is presented as_** the just judge who disciplines His people out of love. **_Believers should_** recognize the cost of sin and remain faithful to God’s ways.  
+
+***In Chapter 9, Hosea*** foretells the consequences of Israel’s unfaithfulness, warning that their idolatry will lead to exile and loss of blessings. Their joy in false worship will turn to mourning as they reap the consequences of their rebellion (*vs. 1-7*). ***God is presented as*** the just judge who disciplines His people out of love. ***Believers should*** recognize the cost of sin and remain faithful to God’s ways.  
 
 ### **Hosea Chapter 10**  
-**_In Chapter 10, Hosea_** likens Israel to an empty vine that produces fruit for itself rather than for God. Judgment is pronounced for their false worship and failure to seek the Lord (*vs. 1-8*). **_God is presented as_** the one who desires righteousness and devotion. **_Believers should_** sow righteousness and seek the Lord while He may be found (*vs. 12*).  
+
+***In Chapter 10, Hosea*** likens Israel to an empty vine that produces fruit for itself rather than for God. Judgment is pronounced for their false worship and failure to seek the Lord (*vs. 1-8*). ***God is presented as*** the one who desires righteousness and devotion. ***Believers should*** sow righteousness and seek the Lord while He may be found (*vs. 12*).  
 
 ---
 
 ## III. God’s Love and Future Restoration (Chapters 11-14)  
 
 ### **Hosea Chapter 11**  
-**_In Chapter 11, God_** recalls His love for Israel, describing how He called them out of Egypt and cared for them as a father cares for a child (*vs. 1-4*). Despite their rebellion, God’s compassion leads Him to withhold complete destruction. **_God is presented as_** the loving Father whose mercy triumphs over judgment (*vs. 8-9*). **_Believers should_** trust in God’s love and respond with obedience and gratitude.  
+
+***In Chapter 11, God*** recalls His love for Israel, describing how He called them out of Egypt and cared for them as a father cares for a child (*vs. 1-4*). Despite their rebellion, God’s compassion leads Him to withhold complete destruction. ***God is presented as*** the loving Father whose mercy triumphs over judgment (*vs. 8-9*). ***Believers should*** trust in God’s love and respond with obedience and gratitude.  
 
 ### **Hosea Chapter 12**  
-**_In Chapter 12, Hosea_** recounts Israel’s history, highlighting their deceit and unfaithfulness, yet calling them to return to God. God reminds them of Jacob’s wrestling with Him and His faithfulness throughout their history (*vs. 2-6*). **_God is presented as_** the faithful covenant-keeper who calls His people to return. **_Believers should_** learn from the past, trust in God’s promises, and remain steadfast in their devotion.  
+
+***In Chapter 12, Hosea*** recounts Israel’s history, highlighting their deceit and unfaithfulness, yet calling them to return to God. God reminds them of Jacob’s wrestling with Him and His faithfulness throughout their history (*vs. 2-6*). ***God is presented as*** the faithful covenant-keeper who calls His people to return. ***Believers should*** learn from the past, trust in God’s promises, and remain steadfast in their devotion.  
 
 ### **Hosea Chapter 13**  
-**_In Chapter 13, Hosea_** warns of impending judgment as Israel persists in idolatry and self-reliance. God declares, *“I will redeem them from death; I will ransom them from the power of Sheol”* (*vs. 14*), offering hope of future restoration. **_God is presented as_** the redeemer who holds the power over life and death. **_Believers should_** repent and trust in God’s power to deliver and restore.  
+
+***In Chapter 13, Hosea*** warns of impending judgment as Israel persists in idolatry and self-reliance. God declares, *“I will redeem them from death; I will ransom them from the power of Sheol”* (*vs. 14*), offering hope of future restoration. ***God is presented as*** the redeemer who holds the power over life and death. ***Believers should*** repent and trust in God’s power to deliver and restore.  
 
 ### **Hosea Chapter 14**  
-**_In Chapter 14, Hosea_** concludes with a call to repentance, urging Israel to return to the Lord and receive His forgiveness and healing (*vs. 1-4*). God promises restoration, describing Israel as a flourishing tree that blesses others. **_God is presented as_** the healer and restorer who blesses those who turn back to Him. **_Believers should_** repent sincerely and trust in God’s promise of renewal and blessing (*vs. 9*).  
 
+***In Chapter 14, Hosea*** concludes with a call to repentance, urging Israel to return to the Lord and receive His forgiveness and healing (*vs. 1-4*). God promises restoration, describing Israel as a flourishing tree that blesses others. ***God is presented as*** the healer and restorer who blesses those who turn back to Him. ***Believers should*** repent sincerely and trust in God’s promise of renewal and blessing (*vs. 9*).  
 
 ---
 
