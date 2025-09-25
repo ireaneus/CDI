@@ -119,5 +119,5 @@ Isaiah 40:8
 
 ## FootNotes
 
-[^1]: Steven Morris. messiahbible.org/zechariah-1-1-6-the-twelve-series. Messiah Bible Church, San Antonio TX.
+[^1]: Steven Morris. messiahbible.org/zechariah-1-1-6-the-twelve-series. Messiah Bible Church, San Antonio TX.  
 [^2]: All Scripture quotations are from the New American Standard Bible, 1995 edition (NASB1995), unless otherwise noted.
