@@ -31,7 +31,36 @@ bibleReference: 2 Timothy
 
 ## CDI Notes - Content of 1 Timothy
 
+### Aside on Paul’s Movements
+
+1. In the first itinerary, Paul does not go to Spain (Rom. 15:28). Since there is little
+record and the relics in Spain are questionable, some think He didn’t go directly
+from Rome. Instead he travels to Ephesus via Crete possibly, and visits churches
+for a year or more (Philemon 22). There he leaves Timothy. Moving on to
+Macedonia he writes 1 Timothy and Titus. Then having visited churches in
+Macedonia (Phil. 2:24) he goes to Nicopolis where he is arrested in late 64
+AD. He is imprisoned in Rome and writes 2 Timothy before his martyrdom.
+2. In the second proposed itinerary Paul does go to Spain and returns to
+Ephesus. From there he travels and writes as proposed in the first itinerary.
+This is a tighter schedule with less time to visit churches in Crete, Asia and
+Macedonia before his arrest at Nicopolis.
+3. The third itinerary is a variation on the first itinerary, for Paul does not go to
+Spain from Rome after his imprisonment, but travels to Ephesus as proposed and
+visits churches and writes as suggested. From Nicopolis he travels to Spain for a
+brief visit and is arrested in Marseilles. He is imprisoned in Rome and writes 2
+Timothy before his death.
+
 ### Key Verses
+
+**Chapter 1**  
+> 11 _It is a trustworthy statement:_  
+> _For if we died with Him, we will also live with Him;_  
+> 12 _If we endure, we will also reign with Him;_  
+> _If we deny Him, He also will deny us;_  
+> 13 _If we are faithless, He remains faithful, for He cannot deny Himself._
+
+**Chapter 4**  
+> 2 preach the word; be ready in season and out of season; reprove, rebuke, exhort, with great patience and instruction.
 
 ## Chapter Headings of 2 Timothy (NASB1995)
 
