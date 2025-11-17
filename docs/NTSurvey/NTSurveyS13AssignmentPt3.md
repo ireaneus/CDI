@@ -19,7 +19,7 @@ bibleReference: 2 Timothy
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of 1 Timothy](#cdi-notes---content-of-1-timothy)
+  - [CDI Notes - Content of 2 Timothy](#cdi-notes---content-of-2-timothy)
   - [Chapter Headings of 2 Timothy (NASB1995)](#chapter-headings-of-2-timothy-nasb1995)
   - [Survey of New Testament](#survey-of-new-testament)
   - [2 Timothy Summary](#2-timothy-summary)
@@ -29,26 +29,35 @@ bibleReference: 2 Timothy
   - [IV. The Command to Endure for the Gospel Chapter 3](#iv-the-command-to-endure-for-the-gospel-chapter-3)
   - [V. The Command to Preach the Gospel Chapter 4](#v-the-command-to-preach-the-gospel-chapter-4)
 
-## CDI Notes - Content of 1 Timothy
+## CDI Notes - Content of 2 Timothy
 
 ### Aside on Paul’s Movements
 
-1. In the first itinerary, Paul does not go to Spain (Rom. 15:28). Since there is little
-record and the relics in Spain are questionable, some think He didn’t go directly
-from Rome. Instead he travels to Ephesus via Crete possibly, and visits churches
-for a year or more (Philemon 22). There he leaves Timothy. Moving on to
-Macedonia he writes 1 Timothy and Titus. Then having visited churches in
-Macedonia (Phil. 2:24) he goes to Nicopolis where he is arrested in late 64
-AD. He is imprisoned in Rome and writes 2 Timothy before his martyrdom.
-2. In the second proposed itinerary Paul does go to Spain and returns to
-Ephesus. From there he travels and writes as proposed in the first itinerary.
-This is a tighter schedule with less time to visit churches in Crete, Asia and
+1. In the first itinerary, Paul does not go to Spain (Rom. 15:28). Since there is little record and the relics in Spain are questionable, some think He didn’t go directly from Rome. Instead he travels to Ephesus via Crete possibly, and visits churches for a year or more (Philemon 22). There he leaves Timothy. Moving on to
+Macedonia he writes 1 Timothy and Titus. Then having visited churches in Macedonia (Phil. 2:24) he goes to Nicopolis where he is arrested in late 64 AD. He is imprisoned in Rome and writes 2 Timothy before his martyrdom.
+2. In the second proposed itinerary Paul does go to Spain and returns to Ephesus. From there he travels and writes as proposed in the first itinerary. This is a tighter schedule with less time to visit churches in Crete, Asia and
 Macedonia before his arrest at Nicopolis.
-3. The third itinerary is a variation on the first itinerary, for Paul does not go to
-Spain from Rome after his imprisonment, but travels to Ephesus as proposed and
-visits churches and writes as suggested. From Nicopolis he travels to Spain for a
-brief visit and is arrested in Marseilles. He is imprisoned in Rome and writes 2
+3. The third itinerary is a variation on the first itinerary, for Paul does not go to Spain from Rome after his imprisonment, but travels to Ephesus as proposed and visits churches and writes as suggested. From Nicopolis he travels to Spain for a brief visit and is arrested in Marseilles. He is imprisoned in Rome and writes 2
 Timothy before his death.
+
+Read 2 Tim. 1,2 & 4.  
+
+Ask your students to identify common suffering, common discipleship for those who lead in ministry and the charge to the work in chapter 4.
+
+Compare Ephesians 4:3-9 with 1 Timothy 3:16 and 6:15-16.  
+
+Ask your students to identify the similar theology in these passages.
+
+**Discussion Question:**  
+
+- Is this a job description for a sane person, why or why not?
+
+Note how varied the job expectations are and how constant the expected performance is.
+
+Read Benware, Survey of the New Testament p. 224, and ask what makes this second imprisonment of Paul different from the first?
+It was the expectation of martyrdom.
+
+If you have Tenney, New Testament Survey read pp. 8-9.
 
 ### Key Verses
 
@@ -174,6 +183,8 @@ Second Timothy is a very personal letter from the aged apostle to his younger co
 > 8 Remember Jesus Christ, risen from the dead, descendant of David, according to my gospel,  
 > 9 for which I suffer hardship even to imprisonment as a criminal; but the word of God is not imprisoned.  
 > 10 For this reason I endure all things for the sake of those who are chosen, so that they also may obtain the salvation which is in Christ Jesus and with it eternal glory.  
+
+**Hymn**  
 > 11 _It is a trustworthy statement:_  
 > _For if we died with Him, we will also live with Him;_  
 > 12 _If we endure, we will also reign with Him;_  
