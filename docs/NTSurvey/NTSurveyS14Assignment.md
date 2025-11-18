@@ -75,73 +75,100 @@ Character
 
 #### Jewish Literature
 
-Matthew
-• Early
-• Jesus is a rabbi
-• Jesus is the Messiah
-• Persecution by Palestinian Jews
-• Drove away from Jerusalem
-• Need for the story of the Messiah
-James
-• Written to dispersed Jews
-• Believers
-• Class differences in between Hellenists and refugees
-• Proverbial in nature
-• Emphasis on practical wisdom
-• Not the story, but the ethical teaching of Jesus
-Hebrews
-• The next entry
-• Will pick up themes of concern to Jews
-History
-• Behind these books
-• Acts 2:10-12, 37 Asia Minor, North Africa, Crete, Arabia
-• Day of Pentecost begins the church at Jerusalem
-• Acts 6:3, 7 organized group of diverse Jews
-• Acts 8:4 scattered
-• Jerusalem the place of formation and first mission
-Jerusalem
-• Acts 11:2, 22 parent church superintending growth
-• Oversees the missionary outreach
-• Acts 15:2 Jerusalem council
-• The deciding body of the larger church
-• Acts 24:17 alms brought to a poor church
-• Tide turns
-• 66-70 AD civil war to fall of temple
-• Period of transition between James and Hebrews
+**Matthew**  
 
-Attitudes
-• Within Judaism
-• Within the Church
-Attitudes within Judaism
-• Acts 10:14, 28 Peter holding on to dietary and social rules
-• Acts 11:1-2
-o Sheet let down in a vision
-o “circumcised took issue with him”
-• This would create factions
-• Faction of Judaizers
-• Open to Christianity if under Jewish Law
-Faction of Cultural Jews
-• Maintain distinctives, but see grace to all
-Attitudes in the Church
-• Acts 2:39, don’t see the promises as gone
-• Romans 9:3, Paul’s heart for his kinsmen
-• Acts 28:28, Jewish rejection at Rome and unbridled offer to Gentiles
+- Early
+- Jesus is a rabbi
+- Jesus is the Messiah
+- Persecution by Palestinian Jews
+- Drove away from Jerusalem
+- Need for the story of the Messiah
 
-### The Church
+**James**
+
+- Written to dispersed Jews
+- Believers
+- Class differences in between Hellenists and refugees
+- Proverbial in nature
+- Emphasis on practical wisdom
+- Not the story, but the ethical teaching of Jesus
+
+**Hebrews**
+
+- The next entry
+- Will pick up themes of concern to Jews
+
+**History**
+
+- Behind these books
+- Acts 2:10-12, 37 Asia Minor, North Africa, Crete, Arabia
+- Day of Pentecost begins the church at Jerusalem
+- Acts 6:3, 7 organized group of diverse Jews
+- Acts 8:4 scattered
+- Jerusalem the place of formation and first mission
+
+**Jerusalem**
+
+- Acts 11:2, 22 parent church superintending growth
+- Oversees the missionary outreach
+- Acts 15:2 Jerusalem council
+- The deciding body of the larger church
+- Acts 24:17 alms brought to a poor church
+- Tide turns
+- 66-70 AD civil war to fall of temple
+- Period of transition between James and Hebrews
+
+**Attitudes**
+
+- Within Judaism
+- Within the Church
+
+**Attitudes within Judaism**
+
+- Acts 10:14, 28 Peter holding on to dietary and social rules
+- Acts 11:1-2
+  - Sheet let down in a vision
+  - “circumcised took issue with him”
+- This would create factions
+- Faction of Judaizers
+- Open to Christianity if under Jewish Law
+
+**Faction of Cultural Jews**
+
+- Maintain distinctives, but see grace to all
+
+**Attitudes in the Church**
+
+- Acts 2:39, don’t see the promises as gone
+- Romans 9:3, Paul’s heart for his kinsmen
+- Acts 28:28, Jewish rejection at Rome and unbridled offer to Gentiles
+
+### The Church Class Assignment
 
 **Read the following scripture: Acts 2:10, 11, 12, 37, Acts 6:3, 7, 8:4, Acts 15:6, 24:17.**  
 *With your students, identify the changes in the status and conditions of the Jerusalem church between 33 and 70 AD. You may wish to list on a whiteboard the above scriptures under the following headings: Growing Influence, Controlling Influence, Declining Influence, and Needing Help.*
 
+| Verses | Growing  | Controlling | Declining | Needs help |
+| :----: | :------: | :---------: | :-------: | :--------: |
+| Acts 2:10-37 | X | | | |
+| Acts 6:3| | X | | |
+| Acts 6:7| X | | | |
+| Acts 8:4 | X | | | |
+| Acts 15:6 | | | X | |
+| Acts 24:17 | | | | X |
+
 **Read Acts 4:5-22. With your students describe the attitude of unbelieving Jews toward the church.**  
 *Encourage your students to use descriptors like foolish, ignorant, weak, etc.*
+
+> Acts 4:5-22 The high priests, elders, were present and perplexed at what they saw *"A man of 40yrs - healed"*. They were ignorant of the Scriptures and foolish.
 
 **Read Acts 10:14, 28, Acts 2:39, Romans 9:3-5, Acts 28:28 and describe the attitude of the larger church toward the believers of Jewish descent.**  
 *The attitude ranged from positive to negative. It includes a view as separationist and legalistic to brethren and benefactors.*
 
-### Class Assignment
-
-**Read the following scriptures Acts 2:10, 11, 12, 37, Acts 6:3, 7, 8:4, Acts 15:6, 24:17 and develop a picture of the change in the status and condition of the Jerusalem church between 33 and 70 AD.**
-
-**Read Acts 4:5-22 and describe the attitude of unbelieving Jews toward the church.**
-
-**Read Acts 10:14, 28, Acts 2:39, Romans 9:3-5, Acts 28:28 and describe the attitude of the larger church toward the believers of Jewish descent.**
+> **Acts 10:14,28** But Peter said, “By no means, Lord, for I have never eaten anything unholy and unclean.”, And he said to them, “You yourselves know how unlawful it is for a man who is a Jew to associate with a foreigner or to visit him; and yet God has shown me that I should not call any man unholy or unclean.  
+>
+> **Acts2:39** "For the promise is for you and your children and for all who are far off, as many as the Lord our God will call to Himself.”  
+>
+> **Romans 9:3-5** For I could wish that I myself were accursed, separated from Christ for the sake of my brethren, my kinsmen according to the flesh, who are Israelites, to whom belongs the adoption as sons, and the glory and the covenants and the giving of the Law and the temple service and the promises, whose are the fathers, and from whom is the Christ according to the flesh, who is over all, God blessed forever. Amen.  
+>
+> **Acts 28:28** Therefore let it be known to you that this salvation of God has been sent to the Gentiles; they will also listen.”

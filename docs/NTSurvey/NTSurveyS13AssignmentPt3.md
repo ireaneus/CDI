@@ -98,25 +98,25 @@ If you have Tenney, New Testament Survey read pp. 8-9.
 | **2 Timothy** | |
 | :---------: | :---------: |
 | | |
-| I. Personal Greetings | (1:1-7) |
+| I. [Personal Greetings](#i-personal-greetings-chapter-1) | (1:1-7) |
 | | |
-| II. The Command to Guard the Gospel | (1:8-18) |
+| II. [The Command to Guard the Gospel](#ii-the-command-to-guard-the-gospel) | (1:8-18) |
 | A. The Character of the Gospel | (1:8-10) |
 | B. The Responsibility to the Gospel | (1:11-18) |
 | | |
-| III. The Command to Suffer for the Gospel | (2:1-26) |
+| III. [The Command to Suffer for the Gospel](#iii-the-command-to-suffer-for-the-gospel-chapter-2) | (2:1-26) |
 | A. The Participants of Suffering | (2:1-2) |
 | B. The Illustrations of Suffering | (2:3-7) |
 | C. The Inclusiveness of Suffering | (2:8-13) |
 | D. The Evaluation of Suffering | (2:14-22) |
 | E. The Character of Suffering | (2:23-26) |
 | | |
-| IV. The Command to Endure for the Gospel | (3:1-17) |
+| IV. [The Command to Endure for the Gospel](#iv-the-command-to-endure-for-the-gospel-chapter-3) | (3:1-17) |
 | A. Because of the Vigorous Opposition | (3:1-9) |
 | B. Because of Faithful Teaching | (3:10-15) |
 | C. Because of Inspired Scriptures | (3:16-17) |
 | | |
-| V. The Command to Preach the Gospel | (4:1-22) |
+| V. [The Command to Preach the Gospel](#v-the-command-to-preach-the-gospel-chapter-4) | (4:1-22) |
 | A. The Charge | (4:1-2) |
 | B. The Reasons | (4:3-8) |
 | C. The Results | (4:9-22) |

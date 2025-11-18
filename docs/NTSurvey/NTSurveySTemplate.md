@@ -34,6 +34,11 @@ bibleReference: 2 Timothy
 
 ### Outline of 2 Timothy
 
+| **2 Timothy** | |
+| :---------: | :---------: |
+| | |
+| I. [Personal Greetings] | (1:1-7) |
+
 ### Theme of 2 Timothy
 
 ## 2 Timothy Summary

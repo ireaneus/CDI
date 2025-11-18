@@ -1,11 +1,10 @@
 ---
 title: OTSurvey - Chapters of Hosea
 date: 650 BC
-author: Hosea
+writer: Hosea
 category: The Twelve
-description: Assignment: Chapter Diary of Old Testament Hosea
-image: /images/welcome.jpg
-bibleReference: "[Hosea]"
+description: Assignment Chapter Diary of Old Testament Hosea
+bibleReference: Hosea
 ---
 
 # {{ page.meta.title }}
