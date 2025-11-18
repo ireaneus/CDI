@@ -27,10 +27,103 @@ bibleReference: James
   - [II. The Believer's Genuineness](#ii-the-believers-genuineness)
   - [III. The Believer's Obstacles](#iii-the-believers-obstacles)
   - [IV. The Believer's Challenges](#iv-the-believers-challenges)
+  - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of James
 
+Author: James the Half Brother
+• Matt 13:55 “carpenter’s son…brothers James, Joseph, Simon, Judas
+• Mark 6:3 ditto
+• Doubter, John 7:5 “For not even His brothers were believing in Him.”
+• 1 Cor. 15:7 received a post resurrection appearance
+• Acts 1:14 in the upper room
+• Gal. 1:18, 19, 2:9 “James, the Lord’s brother” approves Paul’s ministry
+• Acts 15:20-21, 21:18-25 authors council edict and approves Paul’s mission
+
+James Old Testament Background
+• 5 quotes
+• Many allusions James 5:16-18 Elijah and prayer
+• Hebraic phrasing
+o Idioms
+o Assonance
+o Fullness
+o Prophecy, James 5:4 sounds like Isaiah or Jeremiah
+• Addressees, James 1:1 “to the 12 tribes who are dispersed”
+• He best fits the story of Acts
+
+Parallels to Sermon on the Mount
+• 14 all together
+• James 1:2 compared with Matthew 5:10-12
+• James 1:4 compared with Matthew 5:48
+• More allusions to Jesus’ teaching than any other epistle
+
+Destination
+• Jewish Christians
+• James 1:1 *“to the 12 tribes who are dispersed”*
+• Spread by persecution
+• Or converted in dispersion
+• Hellenistic Jewish contact
+• Eastern provinces
+
+Purpose
+• Readers
+• Jewish Christians
+• Gentile church is growing
+o Acts 11:15-21 Holy Spirit on Gentiles through Peter
+o Gentile church at Antioch growing & Paul’s mission about to begin
+• They are tempted to antinomianism
+Occasion
+• Concept: Christianity is the consummation of the hope of Israel
+• Need for exhortation
+o Influence is less in the church
+o Rejection by the synagogue
+• Ethical demands of Christianity
+o No less than with Judaism
+o Reasoning needs reinforcement
+Intent of James
+• Reduce pressures of wealth and poverty
+• Direct the use of the tongue
+• To reinforce Christianity as a religion
+• To help them face trials
+Purpose and Key Verse
+• Practical and ethical
+• True faith is genuine, living, and fruitful.
+• James 1:22 (see also James 2:20) “prove yourselves doers”
+
+James
+Content
+• Salutation, James 1:1
+• The nature of true religion, James 1:2-27
+• The nature of true faith, James 2:1-3:12
+• The nature of wisdom, James 3:13-5:18
+• Conclusion, James 5:19-20
+First Two Sections
+• The nature of true religion, James 1:2-27
+o In trials, James vv. 2-18
+o In works, James vv. 19-27
+• The nature of true faith, James 2:1-3:12
+o Ethical relations with the poor, James 2:1 - 26
+o Integrity of speech, James 3:1 - 12
+• The Nature of true wisdom, James 3:13-5:18
+o In temper, James 3:13-18
+o In conflict, James 4:1-12
+o In planning, James 4:13-17
+o In future judgment, James 5:1-12
+o In intercession, James 5:13 - 18
+
+James: The Testing of Your Faith
+• By trials and temptations, James 1:2-18
+• By your attitude to the Word, James 1:19-27
+• By social distinction, James 2:1-13
+• By production of good works, James 2:14-29
+• By self-control, James 3:1-18
+• By reaction to the world, James 4:1-5:12
+• By your resort to prayer, James
+• James 5:13-18
+
 ### Key Verses
+
+> 1:22 *But prove yourselves doers of the word, and not merely hearers who delude themselves.*
 
 ## Chapter Headings of James (NASB1995)
 
@@ -210,6 +303,8 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 5 You have lived luxuriously on the earth and led a life of wanton pleasure; you have fattened your hearts in a day of slaughter.  
 > 6 You have condemned and put to death the righteous man; he does not resist you.
 
+[Table of Contents](#table-of-contents)
+
 ## IV. The Believer's Challenges
 
 **Exhortation 5:7-20**
@@ -228,3 +323,22 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 18 Then he prayed again, and the sky poured rain and the earth produced its fruit.  
 > 19 My brethren, if any among you strays from the truth and one turns him back,  
 > 20 let him know that he who turns a sinner from the error of his way will save his soul from death and will cover a multitude of sins.
+
+## Class Exercise
+
+What is the connection to Jesus’ teaching, the Old Testament likenesses, catechetical teaching, and other literary devices?  
+*James uses references to nature like Jesus, and a Q & A approach to catechism like both Jesus and the Prophets.*
+
+How does James develop the concept of testing of faith? Refer to these verses:
+
+- By trials and temptations, James 1:2-18
+- By your attitude to the Word, James 1:19-27
+- By social distinction, James 2:1-13
+- By production of good works, James 2:14-29
+- By self-control, James 3:1-18
+- By reaction to the world, James 4:1-5:12
+- By your resort to prayer, James 5:13-18
+
+*These verses open up the ethical demands of Christianity that have been stressed by James.*
+
+[Table of Contents](#table-of-contents)
