@@ -187,6 +187,38 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 
 ## James Summary
 
+### James Chapter 1  
+
+***In Chapter 1, James*** teaches that trials test faith and produce endurance, leading to spiritual maturity. He calls believers to ask God for wisdom without doubting and to remain steadfast under trial (*vv. 2–12*). Temptation comes not from God but from one’s own desires. James also exhorts believers to receive the implanted word and be doers of the word, not merely hearers, as this leads to blessing. He refers to God’s perfect law as the *law of liberty* (*v. 25*), which should govern their actions.  
+***Christ is presented as*** *the Word implanted that saves souls, and the Lord whose coming brings blessing to those who endure* (*vv. 18, 12*).  
+***Believers should*** *ask for wisdom, be slow to speak, do the word, and live according to the law of liberty* (*vv. 5, 19, 22, 25*).
+
+### James Chapter 2  
+
+***In Chapter 2, James*** warns against favoritism and teaches that mercy must triumph over judgment. He refers to the royal law, “You shall love your neighbor as yourself,” and again mentions the *law of liberty* (*vv. 8, 12*). James stresses that faith without works is dead and gives examples from Abraham and Rahab to show that true faith results in action.  
+***Christ is presented as*** *the Lord of glory and the fulfillment of the royal law of love* (*vv. 1, 8*).  
+***Believers should*** *show no partiality, live under the law of liberty, and demonstrate faith through works* (*vv. 1, 12, 17*).
+
+### James Chapter 3  
+
+***In Chapter 3, James*** focuses on the power of the tongue, warning that it can corrupt and destroy if not controlled. He emphasizes that no one can tame the tongue, which can both bless God and curse people. He contrasts earthly wisdom with wisdom from above, which is pure, peaceable, and full of mercy.  
+***Christ is presented as*** *the source of heavenly wisdom and the one whom believers bless with their tongue* (*vv. 9, 17*).  
+***Believers should*** *bridle the tongue, seek wisdom from above, and sow peace through righteousness* (*vv. 2, 13, 18*).
+
+### James Chapter 4  
+
+***In Chapter 4, James*** rebukes worldliness and quarrels driven by selfish desires. He urges submission to God, resistance to the devil, and drawing near to God in repentance. He warns against judging others and presuming upon the future without considering the Lord’s will.  
+***Christ is presented as*** *the one before whom pride is humbled and from whom grace flows to the humble* (*vv. 6–10, 15*).  
+***Believers should*** *humble themselves before the Lord, submit to God, and speak and plan with humility* (*vv. 7, 10, 15*).
+
+### James Chapter 5  
+
+***In Chapter 5, James*** warns the rich oppressors and calls for patient endurance until the coming of the Lord. He encourages prayer, confession, and mutual care within the community. He highlights Elijah’s effective prayer as an example of righteous persistence.  
+***Christ is presented as*** *the coming Lord, the Judge standing at the door, and the compassionate and merciful one* (*vv. 7–9, 11*).  
+***Believers should*** *wait patiently for the Lord, pray in faith, confess sins, and restore one another* (*vv. 7–16*).
+
+---
+
 ## I. The Believer's Trials
 
 **The Testing of your Faith vs. 1:1-18**

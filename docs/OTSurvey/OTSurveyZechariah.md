@@ -3,7 +3,7 @@ title: OTSurvey - The Twelve - Zechariah
 date: 520 B.C.
 writer: Zechariah
 category: The Twelve
-description: Author is mentioned in Ezra 5 and 6, and counterpart Nehemiah 12:1. Date is the same year as Haggai's prophecy, in the eighth month.
+description: Author is mentioned in Ezra 5 and 6, and counterpart Nehemiah 121. Date is the same year as Haggais prophecy, in the eighth month.
 bibleReference: Zechariah
 ---
 
@@ -19,14 +19,14 @@ bibleReference: Zechariah
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
-  - [The Twelve - Zechariah](#the-twelve---zechariah)
+  - [The Twelve Zechariah](#the-twelve-zechariah)
   - [Structure](#structure)
   - [Themes\[^1\]](#themes1)
   - [Chapter 1: Prologue](#chapter-1-prologue)
   - [Apply God's Word](#apply-gods-word)
   - [FootNotes](#footnotes)
 
-## The Twelve - Zechariah
+## The Twelve Zechariah
 
 Zechariah returned from Babylon to Judah with Zerubbabel the governor and Josiah the High Priest. verse 16 adds that he was a priest, the “head of his father’s house”. Zechariah stands alongside Haggai and Malachi as the final prophets of the OT. Zechariah’s name means “Yahweh remembers” which is the perfect message for this moment in Israel’s history.
 
