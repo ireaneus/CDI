@@ -255,6 +255,7 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 26 If anyone thinks himself to be religious, and yet does not bridle his tongue but deceives his own heart, this man’s religion is worthless.  
 > 27 Pure and undefiled religion in the sight of our God and Father is this: to visit orphans and widows in their distress, and to keep oneself unstained by the world.
 
+[Outline of James](#outline-of-james)
 [Table of Contents](#table-of-contents)
 
 ## III. The Believer's Obstacles
@@ -291,6 +292,7 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 25 In the same way, was not Rahab the harlot also justified by works when she received the messengers and sent them out by another way?  
 > 26 For just as the body without the spirit is dead, so also faith without works is dead.
 
+[Outline of James](#outline-of-james)
 [Table of Contents](#table-of-contents)
 
 **The Tongue is a Fire 3:1-12**
@@ -318,6 +320,7 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 17 But the wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, without hypocrisy.  
 > 18 And the seed whose fruit is righteousness is sown in peace by those who make peace.
 
+[Outline of James](#outline-of-james)
 [Table of Contents](#table-of-contents)
 
 **Things to Avoid 4:1-17**
@@ -349,6 +352,7 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 5 You have lived luxuriously on the earth and led a life of wanton pleasure; you have fattened your hearts in a day of slaughter.  
 > 6 You have condemned and put to death the righteous man; he does not resist you.
 
+[Outline of James](#outline-of-james)
 [Table of Contents](#table-of-contents)
 
 ## IV. The Believer's Challenges
@@ -387,4 +391,5 @@ How does James develop the concept of testing of faith? Refer to these verses:
 
 *These verses open up the ethical demands of Christianity that have been stressed by James.*
 
+[Outline of James](#outline-of-james)
 [Table of Contents](#table-of-contents)
