@@ -136,91 +136,172 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 
 ## Hebrews Summary
 
+### Hebrews Chapter 1
+
+**_In Chapter 1, the author of Hebrews_** opens by affirming that God, who previously spoke through the prophets, has now spoken through His Son, _"whom He appointed heir of all things and through whom He also made the world"_ (_v. 2_). This Son is _"the radiance of God’s glory and the exact representation of His nature, and He upholds all things by the word of His power."_ After making _"purification of sins, He sat down at the right hand of the Majesty on high"_ (_v. 3_). The remainder of the chapter contrasts the Son with the angels, making it clear that Christ is far superior to them. Various Old Testament passages are quoted to show that while angels are servants, the Son is enthroned, eternal, righteous, and worshiped:
+
+- _“You are My Son, Today I have begotten You”_ — Psalm 2:7 (quoted in v. 5)  
+- _“I will be a Father to Him and He shall be a Son to Me”_ — 2 Samuel 7:14 (v. 5)  
+- _“Let all the angels of God worship Him”_ — Deuteronomy 32:43 LXX / Psalm 97:7 (v. 6)  
+- _“Who makes His angels winds, and His ministers a flame of fire”_ — Psalm 104:4 (v. 7)  
+- _“Your throne, O God, is forever and ever”_ — Psalm 45:6–7 (vv. 8–9)  
+- _“You, Lord, in the beginning laid the foundation of the earth...”_ — Psalm 102:25–27 (vv. 10–12)  
+- _“Sit at My right hand until I make Your enemies a footstool for Your feet”_ — Psalm 110:1 (v. 13)  
+
+**_Christ is presented as_** the eternal, divine Son of God—the radiance of God’s glory and the exact imprint of His nature. He is the agent of creation, the sustainer of the universe, and the one who accomplished purification for sins. Christ is exalted at the right hand of God, superior to angels in both name and nature. He is addressed by God as _“My Son”_ and is declared to be worshiped by the angels. His throne is eternal, His reign is righteous, and He is unchanging—unlike creation which will perish. The Father calls Him _“God”_ and affirms His divine authority, eternal kingship, and creative power.  
+
+**_Believers should_** worship Christ as the exalted and eternal Son, listen to the word spoken through Him, and recognize His supremacy over all created beings (_vv. 1–6, 8–12_).
+
+### Hebrews Chapter 2
+
+**_In Chapter 2, the author of Hebrews_** begins with a warning: _“For this reason we must pay much closer attention to what we have heard, so that we do not drift away from it”_ (_v. 1_). He emphasizes that the message spoken through angels was binding and that neglecting the great salvation announced by the Lord and confirmed by eyewitnesses is even more serious (_vv. 2–4_). The chapter explains that although Christ was temporarily made lower than the angels, it was in order to suffer death and bring many sons to glory. By doing so, He was perfected as the Author of salvation through suffering and fully identified with humanity in order to redeem them.
+
+**_Christ is presented as_** the incarnate Son who was made for a little while lower than the angels, so that by the grace of God He might taste death for everyone (_v. 9_). He is the Author of salvation, made perfect through sufferings, and is not ashamed to call believers His brethren. A merciful and faithful High Priest, made like His brethren in all things.
+
+**_Believers should_** pay close attention to the message of salvation spoken through Christ, not neglect His word, and take comfort in His help as our faithful High Priest who understands our weakness (_vv. 1, 3, 17–18_).
+
+### Hebrews Chapter 3
+
+**_In Chapter 3, the author of Hebrews_** calls his audience to consider Jesus as the _"Apostle and High Priest of their confession"_, who was faithful to God just as Moses was. However, Jesus is _"counted worthy of more glory than Moses"_—just as the builder of a house has more honor than the house itself (_vv. 1–6_). The author warns believers not to _"harden their hearts"_, quoting Psalm 95 to recall how Israel rebelled in the wilderness and failed to enter God’s rest (_vv. 7–19_).
+
+- _“Today if you hear His voice, do not harden your hearts as when they provoked Me”_ — Psalm 95:7–8 (quoted in _Hebrews 3:7–8, 15_)
+- _“They always go astray in their heart, and they did not know My ways”_ — Psalm 95:10 (_Hebrews 3:10_)
+- _“So I swore in My anger, ‘They certainly shall not enter My rest’”_ — Psalm 95:11 (_Hebrews 3:11, 18_)
+
+**_Christ is presented as_** the _"faithful"_ Son over God’s house, greater than Moses who was merely a servant within it (_vv. 1–6_). He is both the Apostle (sent one) and High Priest of our confession. Christ is the one and only _"Sabbath Rest"_.
+
+**_Believers should_** hold fast their confidence, and encourage one another daily so that none are hardened by the deceitfulness of sin. Faithfulness, not mere association with the community, marks those who truly belong to Christ (_vv. 1, 6, 12–14_).
+
+### Hebrews Chapter 4
+
+**_In Chapter 4, the author of Hebrews_** continues the theme of entering God's rest, urging believers to fear missing it due to disobedience and unbelief. The promise still stands, but just as Israel failed to enter because of hard hearts, so too can others fall short if they do not unite hearing with faith (_vv. 1–11_). The “rest” spoken of is not merely the land of Canaan but a future, spiritual rest foreshadowed in creation and now available in Christ. The chapter ends with a focus on the power of God's word and the compassionate role of Christ as High Priest (_vv. 12–16_).
+
+- _“So I swore in My anger, ‘They certainly shall not enter My rest’”_ — Psalm 95:11 (quoted in _Hebrews 4:3, 5_)
+- _“And God rested on the seventh day from all His works”_ — Genesis 2:2 (quoted in _Hebrews 4:4_)
+- _“Today if you hear His voice, do not harden your hearts”_ — Psalm 95:7–8 (quoted again in _Hebrews 4:7_)
+
+**_Christ is presented as_** the great High Priest who has passed through the heavens, Jesus the Son of God. He sympathizes with human weakness, having been tempted in all things yet without sin. He is the one through whom God’s rest is secured.
+
+**_Believers should_** strive to enter God’s rest through faith and obedience, remain soft-hearted to God’s voice, and come boldly to the throne of grace to receive mercy and help in time of need (_vv. 1, 11, 16_).
+
+### Hebrews Chapter 5
+
+**_In Chapter 5, the author of Hebrews_** explains the qualifications of a high priest: appointed by God, able to deal gently with the ignorant and misguided, and offering sacrifices for sins, including his own. Christ did not glorify Himself to become High Priest but was appointed by God, as stated in Scripture. Though He was a Son, He learned obedience through what He suffered, and being made perfect, became the source of eternal salvation to all who obey Him (_vv. 1–10_). The chapter closes with a rebuke: the audience has become dull of hearing and immature in their understanding, needing milk rather than solid food (_vv. 11–14_).
+
+- _“You are My Son, Today I have begotten You”_ — Psalm 2:7 (quoted in _Hebrews 5:5_)
+- _“You are a priest forever According to the order of Melchizedek”_ — Psalm 110:4 (quoted in _Hebrews 5:6, 10_)
+
+**_Christ is presented as_** the divinely appointed High Priest, not of the Levitical line, but of the order of Melchizedek. Though He is the eternal Son, He entered fully into human suffering and learned obedience through it. Through His perfect obedience, He became the source of eternal salvation. (_vv. 5–10_)
+
+**_Believers should_** grow in maturity, move beyond elementary truths, and become those who discern good and evil through constant use of God’s word (_vv. 11–14_).
+
+### Hebrews Chapter 6
+
+**_In Chapter 6, the author of Hebrews_** urges believers to press on to maturity, moving beyond elementary teachings such as repentance, faith, baptisms, laying on of hands, resurrection, and eternal judgment (_vv. 1–3_). He delivers a serious warning about falling away after receiving the knowledge of the truth, stating that such apostasy makes repentance impossible and is akin to re-crucifying the Son of God (_vv. 4–6_). He illustrates this with land that either bears fruit or thorns, indicating blessing or cursing. However, he expresses hope for better things concerning his readers and reminds them that God is not unjust to forget their love and service (_vv. 7–10_). The chapter ends by pointing to God's promise to Abraham as a basis for hope, secured by two unchangeable things—God's promise and oath—anchored by Christ, our forerunner who has entered within the veil (_vv. 11–20_).
+
+- _“Surely I will bless you and multiply you”_ — Genesis 22:17 (quoted in _Hebrews 6:14_)
+- _“The Lord has sworn and will not change His mind”_ — alluded from Psalm 110:4 (contextual link to _Hebrews 6:20_)
+
+**_Christ is presented as_** the forerunner who has entered behind the veil on our behalf, becoming a High Priest forever according to the order of Melchizedek. He is the anchor of the soul, both sure and steadfast, who secures the believer’s hope by His finished work and eternal priesthood (_vv. 19–20_).
+
+**_Believers should_** leave elementary teachings, pursue maturity, remain diligent in faith and love, and hold fast to the hope set before them, anchored in Christ (_vv. 1, 11–12, 18–19_).
+
+### Hebrews Chapter 7
+
+**_In Chapter 7, the author of Hebrews_** explains the greatness of Melchizedek, the king of Salem and priest of God Most High, who met Abraham and blessed him after the victory over the kings. Abraham gave him a tenth of all, demonstrating Melchizedek’s superiority to Abraham himself (_vv. 1–4_). The author argues from the silence of Genesis—Melchizedek appears _“without father, without mother, without genealogy, having neither beginning of days nor end of life”_—not literally, but in the way Scripture presents him, making him a fitting **type** of Christ (_v. 3_). Furthermore, since Levi descended from Abraham, even Levi “paid tithes” through Abraham, proving that Melchizedek’s priesthood is greater than the Levitical priesthood (_vv. 5–10_). The chapter then demonstrates that perfection could not come through the Levitical system, and therefore another priest “according to the order of Melchizedek” was necessary (_vv. 11–14_). This new priest arises not according to the Law of physical descent but by the power of an indestructible life (_v. 16_), confirmed by God’s oath in Psalm 110:4. The old commandment is set aside because it was weak and useless, and a better hope is introduced through which we draw near to God (_vv. 18–19_). Jesus, unlike mortal priests, continues forever and therefore holds His priesthood permanently (_vv. 23–24_). As the eternal High Priest, He is able to save completely those who draw near to God through Him, since He ever lives to make intercession (_v. 25_). The chapter concludes by showing that Jesus is the perfect and holy High Priest we needed, appointed by God’s oath and exalted above the heavens (_vv. 26–28_).
+
+**Old Testament Passages Referenced in Hebrews 7:**
+
+- _“You are a priest forever according to the order of Melchizedek”_ — Psalm 110:4 (quoted in _Hebrews 7:17, 21_)
+- _Genesis 14:18–20_ — Melchizedek blessing Abraham and receiving the tithe (context for _Hebrews 7:1–10_)
+
+**Precedence Principle Noted in Hebrews:**  
+Just as Melchizedek appears suddenly in Genesis as a real historical man with no recorded genealogy, parents, birth, or death—and is known only by the brief account given—so also the author of Hebrews remains unnamed and without personal identification. The Holy Spirit presents both Melchizedek and the author in a deliberately anonymous manner. Melchizedek’s literary “silence” in Genesis becomes the basis for the typology used in Hebrews, and likewise, the Spirit-inspired anonymity of Hebrews elevates the message above the messenger. Remarkably, Hebrews contains the most extensive teaching on Melchizedek in all of Scripture—more than the entire Old Testament and New Testament combined—underscoring how God uses this deliberate anonymity to reveal the supremacy of Christ through the Melchizedek pattern.
+
+**_Christ is presented as_** the superior and eternal High Priest—greater than Abraham, greater than Levi, and greater than all the priests who came before. He is a priest _“according to the order of Melchizedek,”_ not by genealogy but by divine appointment and the power of an indestructible life. He remains forever, holds His priesthood permanently, intercedes continually, and is the holy, innocent, undefiled High Priest who has been exalted above the heavens. His priesthood is secured by God’s oath, founded on perfect righteousness, and effective to save completely those who draw near to God through Him.
+
+**_Believers should_** draw near to God through Christ, trust in His continual intercession, and rest in the better hope and perfect priesthood that God has provided in His Son (_vv. 19, 22, 25_).
+
+
 ## I. Christ's Superiority in Revelation
 
-**God's Final Word in His Son** *(1:1-14)*
+**God's Final Word in His Son** _(1:1-14)_
 
 > 1 God, after He spoke long ago to the fathers in the prophets in many portions and in many ways,  
 > 2 in these last days has spoken to us in His Son, whom He appointed heir of all things, through whom also He made the world.  
 > 3 And He is the radiance of His glory and the exact representation of His nature, and upholds all things by the word of His power. When He had made purification of sins, He sat down at the right hand of the Majesty on high,  
 > 4 having become as much better than the angels, as He has inherited a more excellent name than they.
 
-[Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
-
 ## II. Christ's Superiority over Angels
 
 > 5 For to which of the angels did He ever say,  
-> *“You are My Son,*  
-> *Today I have begotten You”?*  
+> _“You are My Son,_  
+> _Today I have begotten You”?_  
 > And again,  
-> *“I will be a Father to Him*  
-> *And He shall be a Son to Me”?*  
+> _“I will be a Father to Him_  
+> _And He shall be a Son to Me”?_  
 > 6 And when He again brings the firstborn into the world, He says,  
-> *“And let all the angels of God worship Him.”*  
+> _“And let all the angels of God worship Him.”_  
 > 7 And of the angels He says,  
-> *“Who makes His angels winds,*  
-> *And His ministers a flame of fire.”*  
+> _“Who makes His angels winds,_  
+> _And His ministers a flame of fire.”_  
 > 8 But of the Son He says,  
-> *“Your throne, O God, is forever and ever,*  
-> *And the righteous scepter is the scepter of His kingdom.*  
-> 9 *You have loved righteousness and hated lawlessness;*  
-> *Therefore God, Your God, has anointed You*  
-> *With the oil of gladness above Your companions.”*  
-> 10 And, *“You, Lord, in the beginning laid the foundation of the earth,*  
-> *And the heavens are the works of Your hands;*  
-> 11 *They will perish, but You remain;*  
-> *And they all will become old like a garment,*  
-> 12 *And like a mantle You will roll them up;*  
-> *Like a garment they will also be changed.*  
-> *But You are the same,*  
-> *And Your years will not come to an end.”*  
+> _“Your throne, O God, is forever and ever,_  
+> _And the righteous scepter is the scepter of His kingdom._  
+> 9 _You have loved righteousness and hated lawlessness;_  
+> _Therefore God, Your God, has anointed You_  
+> _With the oil of gladness above Your companions.”_  
+> 10 And, _“You, Lord, in the beginning laid the foundation of the earth,_  
+> _And the heavens are the works of Your hands;_  
+> 11 _They will perish, but You remain;_  
+> _And they all will become old like a garment,_  
+> 12 _And like a mantle You will roll them up;_  
+> _Like a garment they will also be changed._  
+> _But You are the same,_  
+> _And Your years will not come to an end.”_  
 > 13 But to which of the angels has He ever said,  
-> *“Sit at My right hand,*  
-> *Until I make Your enemies*  
-> *A footstool for Your feet”?*  
+> _“Sit at My right hand,_  
+> _Until I make Your enemies_  
+> _A footstool for Your feet”?_  
 > 14 Are they not all ministering spirits, sent out to render service for the sake of those who will inherit salvation?
 
-**Give Heed** *(2:1-4)*
+**Give Heed** _(2:1-4)_
 
 > 1 For this reason we must pay much closer attention to what we have heard, so that we do not drift away from it.  
 > 2 For if the word spoken through angels proved unalterable, and every transgression and disobedience received a just penalty,  
 > 3 how will we escape if we neglect so great a salvation? After it was at the first spoken through the Lord, it was confirmed to us by those who heard,  
 > 4 God also testifying with them, both by signs and wonders and by various miracles and by gifts of the Holy Spirit according to His own will.
 
-**Earth Subject to Man** *(2:5-8)*
+**Earth Subject to Man** _(2:5-8)_
 
 > 5 For He did not subject to angels the world to come, concerning which we are speaking.  
 > 6 But one has testified somewhere, saying,  
-> *“What is man, that You remember him?*  
-> *Or the son of man, that You are concerned about him?*  
-> 7 *You have made him for a little while lower than the angels;*  
-> *You have crowned him with glory and honor,*  
-> *And have appointed him over the works of Your hands;*  
-> 8 *You have put all things in subjection under his feet.”*  
+> _“What is man, that You remember him?_  
+> _Or the son of man, that You are concerned about him?_  
+> 7 _You have made him for a little while lower than the angels;_  
+> _You have crowned him with glory and honor,_  
+> _And have appointed him over the works of Your hands;_  
+> 8 _You have put all things in subjection under his feet.”_  
 > For in subjecting all things to him, He left nothing that is not subject to him. But now we do not yet see all things subjected to him.
 
-**Jesus Briefly Humbled** *(2:9-18)*
+**Jesus Briefly Humbled** _(2:9-18)_
 
 > 9 But we do see Him who was made for a little while lower than the angels, namely, Jesus, because of the suffering of death crowned with glory and honor, so that by the grace of God He might taste death for everyone.  
 > 10 For it was fitting for Him, for whom are all things, and through whom are all things, in bringing many sons to glory, to perfect the author of their salvation through sufferings.  
 > 11 For both He who sanctifies and those who are sanctified are all from one Father; for which reason He is not ashamed to call them brethren,  
-> 12 saying, *“I will proclaim Your name to My brethren,*  
-> *In the midst of the congregation I will sing Your praise.”*  
-> 13 And again, *“I will put My trust in Him.”*  
-> And again, *“Behold, I and the children whom God has given Me.”*  
+> 12 saying, _“I will proclaim Your name to My brethren,_  
+> _In the midst of the congregation I will sing Your praise.”_  
+> 13 And again, _“I will put My trust in Him.”_  
+> And again, _“Behold, I and the children whom God has given Me.”_  
 > 14 Therefore, since the children share in flesh and blood, He Himself likewise also partook of the same, that through death He might render powerless him who had the power of death, that is, the devil,  
 > 15 and might free those who through fear of death were subject to slavery all their lives.  
 > 16 For assuredly He does not give help to angels, but He gives help to the descendant of Abraham.  
 > 17 Therefore, He had to be made like His brethren in all things, so that He might become a merciful and faithful high priest in things pertaining to God, to make propitiation for the sins of the people.  
 > 18 For since He Himself was tempted in that which He has suffered, He is able to come to the aid of those who are tempted.
 
-[Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
-
 ## III. Christ's Superiority over Moses
 
-**Jesus Our High Priest** *(3:1:11)*
+**Jesus Our High Priest** _(3:1:11)_
 
 > 1 Therefore, holy brethren, partakers of a heavenly calling, consider Jesus, the Apostle and High Priest of our confession;  
 > 2 He was faithful to Him who appointed Him, as Moses also was in all His house.  
@@ -229,49 +310,49 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 5 Now Moses was faithful in all His house as a servant, for a testimony of those things which were to be spoken later;  
 > 6 but Christ was faithful as a Son over His house—whose house we are, if we hold fast our confidence and the boast of our hope firm until the end.  
 > 7 Therefore, just as the Holy Spirit says,  
-> *“Today if you hear His voice,*  
-> 8 *Do not harden your hearts as when they provoked Me,*  
-> *As in the day of trial in the wilderness,*  
-> 9 *Where your fathers tried Me by testing Me,*  
-> *And saw My works for forty years.*  
-> 10 *Therefore I was angry with this generation,*  
-> *And said, ‘They always go astray in their heart,*  
-> *And they did not know My ways’;*  
-> 11 *As I swore in My wrath,*  
-> *‘They shall not enter My rest.’ ”*
+> _“Today if you hear His voice,_  
+> 8 _Do not harden your hearts as when they provoked Me,_  
+> _As in the day of trial in the wilderness,_  
+> 9 _Where your fathers tried Me by testing Me,_  
+> _And saw My works for forty years._  
+> 10 _Therefore I was angry with this generation,_  
+> _And said, ‘They always go astray in their heart,_  
+> _And they did not know My ways’;_  
+> 11 _As I swore in My wrath,_  
+> _‘They shall not enter My rest.’ ”_
 
-**The Peril of Unbelief** *(3:12-19)*
+**The Peril of Unbelief** _(3:12-19)_
 
 > 12 Take care, brethren, that there not be in any one of you an evil, unbelieving heart that falls away from the living God.  
-> 13 But encourage one another day after day, as long as it is still called *“Today,”* so that none of you will be hardened by the deceitfulness of sin.  
+> 13 But encourage one another day after day, as long as it is still called _“Today,”_ so that none of you will be hardened by the deceitfulness of sin.  
 > 14 For we have become partakers of Christ, if we hold fast the beginning of our assurance firm until the end,  
 > 15 while it is said,  
-> *“Today if you hear His voice,*  
-> *Do not harden your hearts, as when they provoked Me.”*  
+> _“Today if you hear His voice,_  
+> _Do not harden your hearts, as when they provoked Me.”_  
 > 16 For who provoked Him when they had heard? Indeed, did not all those who came out of Egypt led by Moses?  
 > 17 And with whom was He angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?  
 > 18 And to whom did He swear that they would not enter His rest, but to those who were disobedient?  
 > 19 So we see that they were not able to enter because of unbelief.
 
-**The Believer's Rest** *(4:1-16)*
+**The Believer's Rest** _(4:1-16)_
 
 > 1 Therefore, let us fear if, while a promise remains of entering His rest, any one of you may seem to have come short of it.  
 > 2 For indeed we have had good news preached to us, just as they also; but the word they heard did not profit them, because it was not united by faith in those who heard.  
 > 3 For we who have believed enter that rest, just as He has said,  
-> *“As I swore in My wrath,*  
-> *They shall not enter My rest,”*  
+> _“As I swore in My wrath,_  
+> _They shall not enter My rest,”_  
 > although His works were finished from the foundation of the world.  
-> 4 For He has said somewhere concerning the seventh day: *“And God rested on the seventh day from all His works”*;  
-> 5 and again in this passage, *“They shall not enter My rest.”*  
+> 4 For He has said somewhere concerning the seventh day: _“And God rested on the seventh day from all His works”_;  
+> 5 and again in this passage, _“They shall not enter My rest.”_  
 > 6 Therefore, since it remains for some to enter it, and those who formerly had good news preached to them failed to enter because of disobedience,  
-> 7 He again fixes a certain day, *“Today,”* saying through David after so long a time just as has been said before,  
-> *“Today if you hear His voice,*  
-> *Do not harden your hearts.”*  
+> 7 He again fixes a certain day, _“Today,”_ saying through David after so long a time just as has been said before,  
+> _“Today if you hear His voice,_  
+> _Do not harden your hearts.”_  
 > 8 For if Joshua had given them rest, He would not have spoken of another day after that.  
 > 9 So there remains a Sabbath rest for the people of God.  
 > 10 For the one who has entered His rest has himself also rested from his works, as God did from His.  
 > 11 Therefore let us be diligent to enter that rest, so that no one will fall, through following the same example of disobedience.  
-> 12 For the word of God is living and active and sharper than any two-edged sword, and piercing as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart.  
+> 12 **For the word of God is living and active and sharper than any two-edged sword, and piercing as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart.**  
 > 13 And there is no creature hidden from His sight, but all things are open and laid bare to the eyes of Him with whom we have to do.
 
 [Outline of Hebrews](#outline-of-hebrews)  
@@ -283,28 +364,28 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 15 For we do not have a high priest who cannot sympathize with our weaknesses, but One who has been tempted in all things as we are, yet without sin.  
 > 16 Therefore let us draw near with confidence to the throne of grace, so that we may receive mercy and find grace to help in time of need.
 
-**The Perfect High Priest** *(5:1-14)*
+**The Perfect High Priest** _(5:1-14)_
 
 > 1 For every high priest taken from among men is appointed on behalf of men in things pertaining to God, in order to offer both gifts and sacrifices for sins;  
 > 2 he can deal gently with the ignorant and misguided, since he himself also is beset with weakness;  
 > 3 and because of it he is obligated to offer sacrifices for sins, as for the people, so also for himself.  
 > 4 And no one takes the honor to himself, but receives it when he is called by God, even as Aaron was.  
 > 5 So also Christ did not glorify Himself so as to become a high priest, but He who said to Him,  
-> *“You are My Son,*  
-> *Today I have begotten You”;*  
+> _“You are My Son,_  
+> _Today I have begotten You”;_  
 > 6 just as He says also in another passage,  
-> *“You are a priest forever*  
-> *According to the order of Melchizedek.”*  
+> _“You are a priest forever_  
+> _According to the order of Melchizedek.”_  
 > 7 In the days of His flesh, He offered up both prayers and supplications with loud crying and tears to the One able to save Him from death, and He was heard because of His piety.  
 > 8 Although He was a Son, He learned obedience from the things which He suffered.  
 > 9 And having been made perfect, He became to all those who obey Him the source of eternal salvation,  
 > 10 being designated by God as a high priest according to the order of Melchizedek.  
-> 11 Concerning him we have much to say, and it is hard to explain, since you have become dull of hearing.  
-> 12 For though by this time you ought to be teachers, you have need again for someone to teach you the elementary principles of the oracles of God, and you have come to need milk and not solid food.  
-> 13 For everyone who partakes only of milk is not accustomed to the word of righteousness, for he is an infant.  
-> 14 But solid food is for the mature, who because of practice have their senses trained to discern good and evil.
+> 11 **Concerning him we have much to say, and it is hard to explain, since you have become dull of hearing.**  
+> 12 **For though by this time you ought to be teachers, you have need again for someone to teach you the elementary principles of the oracles of God, and you have come to need milk and not solid food.**  
+> 13 **For everyone who partakes only of milk is not accustomed to the word of righteousness, for he is an infant.**  
+> 14 **But solid food is for the mature, who because of practice have their senses trained to discern good and evil.**
 
-**The Peril of Falling Away** *(6:1-8)*
+**The Peril of Falling Away** _(6:1-8)_
 
 > 1 Therefore leaving the elementary teaching about the Christ, let us press on to maturity, not laying again a foundation of repentance from dead works and of faith toward God,  
 > 2 of instruction about washings and laying on of hands, and the resurrection of the dead and eternal judgment.  
@@ -315,14 +396,14 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 7 For ground that drinks the rain which often falls on it and brings forth vegetation useful to those for whose sake it is also tilled, receives a blessing from God;  
 > 8 but if it yields thorns and thistles, it is worthless and close to being cursed, and it ends up being burned.
 
-**Better Things for You** *(6:9-20)*
+**Better Things for You** _(6:9-20)_
 
 > 9 But, beloved, we are convinced of better things concerning you, and things that accompany salvation, though we are speaking in this way.  
 > 10 For God is not unjust so as to forget your work and the love which you have shown toward His name, in having ministered and in still ministering to the saints.  
 > 11 And we desire that each one of you show the same diligence so as to realize the full assurance of hope until the end,  
 > 12 so that you will not be sluggish, but imitators of those who through faith and patience inherit the promises.  
 > 13 For when God made the promise to Abraham, since He could swear by no one greater, He swore by Himself,  
-> 14 saying, *“I will surely bless you and I will surely multiply you.”*  
+> 14 saying, _“I will surely bless you and I will surely multiply you.”_  
 > 15 And so, having patiently waited, he obtained the promise.  
 > 16 For men swear by one greater than themselves, and with them an oath given as confirmation is an end of every dispute.  
 > 17 In the same way God, desiring even more to show to the heirs of the promise the unchangeableness of His purpose, interposed with an oath,  
@@ -333,7 +414,7 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 [Outline of Hebrews](#outline-of-hebrews)  
 [Table of Contents](#table-of-contents)
 
-**Melchizedek's Priesthood Like Christ's** *(7:1-28)*
+**Melchizedek's Priesthood Like Christ's** _(7:1-28)_
 
 > 1 For this Melchizedek, king of Salem, priest of the Most High God, who met Abraham as he was returning from the slaughter of the kings and blessed him,  
 > 2 to whom also Abraham apportioned a tenth part of all the spoils, was first of all, by the translation of his name, king of righteousness, and then also king of Salem, which is king of peace.  
@@ -352,15 +433,15 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 15 And this is clearer still, if another priest arises according to the likeness of Melchizedek,  
 > 16 who has become such not on the basis of a law of physical requirement, but according to the power of an indestructible life.  
 > 17 For it is attested of Him,  
-> *“You are a priest forever*  
-> *According to the order of Melchizedek.”*  
+> _“You are a priest forever_  
+> _According to the order of Melchizedek.”_  
 > 18 For, on the one hand, there is a setting aside of a former commandment because of its weakness and uselessness  
 > 19 (for the Law made nothing perfect), and on the other hand there is a bringing in of a better hope, through which we draw near to God.  
 > 20 And inasmuch as it was not without an oath  
 > 21 (for they indeed became priests without an oath, but He with an oath through the One who said to Him,  
-> *“The Lord has sworn*  
-> *And will not change His mind,*  
-> *‘You are a priest forever’ ”);*  
+> _“The Lord has sworn_  
+> _And will not change His mind,_  
+> _‘You are a priest forever’ ”);_  
 > 22 so much the more also Jesus has become the guarantee of a better covenant.  
 > 23 The former priests, on the one hand, existed in greater numbers because they were prevented by death from continuing,  
 > 24 but Jesus, on the other hand, because He continues forever, holds His priesthood permanently.  
@@ -369,45 +450,45 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 27 who does not need daily, like those high priests, to offer up sacrifices, first for His own sins and then for the sins of the people, because this He did once for all when He offered up Himself.  
 > 28 For the Law appoints men as high priests who are weak, but the word of the oath, which came after the Law, appoints a Son, made perfect forever.
 
-**A Better Ministry** *(8:1-6)*
+**A Better Ministry** _(8:1-6)_
 
 > 1 Now the main point in what has been said is this: we have such a high priest, who has taken His seat at the right hand of the throne of the Majesty in the heavens,  
 > 2 a minister in the sanctuary and in the true tabernacle, which the Lord pitched, not man.  
 > 3 For every high priest is appointed to offer both gifts and sacrifices; so it is necessary that this high priest also have something to offer.  
 > 4 Now if He were on earth, He would not be a priest at all, since there are those who offer the gifts according to the Law;  
-> 5 who serve a copy and shadow of the heavenly things, just as Moses was warned by God when he was about to erect the tabernacle; for, *“See,”* He says, *“that you make all things according to the pattern which was shown you on the mountain.”*  
+> 5 who serve a copy and shadow of the heavenly things, just as Moses was warned by God when he was about to erect the tabernacle; for, _“See,”_ He says, _“that you make all things according to the pattern which was shown you on the mountain.”_  
 > 6 But now He has obtained a more excellent ministry, by as much as He is also the mediator of a better covenant, which has been enacted on better promises.
 
-**A New Covenant** *(8:7-13)* *(Jer. 31:31-34)*
+**A New Covenant** _(8:7-13)_ _(Jer. 31:31-34)_
 
 > 7 For if that first covenant had been faultless, there would have been no occasion sought for a second.  
 > 8 For finding fault with them, He says,  
-> *“Behold, days are coming, says the Lord,*  
-> *When I will effect a new covenant*  
-> *With the house of Israel and with the house of Judah;*  
-> 9 *Not like the covenant which I made with their fathers*  
-> *On the day when I took them by the hand*  
-> *To lead them out of the land of Egypt;*
-> *For they did not continue in My covenant,*  
-> *And I did not care for them, says the Lord.*  
-> 10 *For this is the covenant that I will make with the house of Israel*  
-> *After those days, says the Lord:*  
-> *I will put My laws into their minds,*  
-> *And I will write them on their hearts.*  
-> *And I will be their God,*  
-> *And they shall be My people.*  
-> 11 *And they shall not teach everyone his fellow citizen,*  
-> *And everyone his brother, saying, ‘Know the Lord,’*  
-> *For all will know Me,*  
-> *From the least to the greatest of them.*  
-> 12 *For I will be merciful to their iniquities,*  
-> *And I will remember their sins no more.”*  
-> 13 When He said, *“A new covenant,”* He has made the first obsolete. But whatever is becoming obsolete and growing old is ready to disappear.
+> _“Behold, days are coming, says the Lord,_  
+> _When I will effect a new covenant_  
+> _With the house of Israel and with the house of Judah;_  
+> 9 _Not like the covenant which I made with their fathers_  
+> _On the day when I took them by the hand_  
+> _To lead them out of the land of Egypt;_
+> _For they did not continue in My covenant,_  
+> _And I did not care for them, says the Lord._  
+> 10 _For this is the covenant that I will make with the house of Israel_  
+> _After those days, says the Lord:_  
+> _I will put My laws into their minds,_  
+> _And I will write them on their hearts._  
+> _And I will be their God,_  
+> _And they shall be My people._  
+> 11 _And they shall not teach everyone his fellow citizen,_  
+> _And everyone his brother, saying, ‘Know the Lord,’_  
+> _For all will know Me,_  
+> _From the least to the greatest of them._  
+> 12 _For I will be merciful to their iniquities,_  
+> _And I will remember their sins no more.”_  
+> 13 When He said, _“A new covenant,”_ He has made the first obsolete. But whatever is becoming obsolete and growing old is ready to disappear.
 
 [Outline of Hebrews](#outline-of-hebrews)  
 [Table of Contents](#table-of-contents)
 
-**The Old and the New** *(9:1-28)*
+**The Old and the New** _(9:1-28)_
 
 > 1 Now even the first covenant had regulations of divine worship and the earthly sanctuary.  
 > 2 For there was a tabernacle prepared, the outer one, in which were the lampstand and the table and the sacred bread; this is called the holy place.  
@@ -428,7 +509,7 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 17 For a covenant is valid only when men are dead, for it is never in force while the one who made it lives.  
 > 18 Therefore even the first covenant was not inaugurated without blood.  
 > 19 For when every commandment had been spoken by Moses to all the people according to the Law, he took the blood of the calves and the goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,  
-> 20 saying, *“This is the blood of the covenant which God commanded you.”*  
+> 20 saying, _“This is the blood of the covenant which God commanded you.”_  
 > 21 And in the same way he sprinkled both the tabernacle and all the vessels of the ministry with the blood.  
 > 22 And according to the Law, one may almost say, all things are cleansed with blood, and without shedding of blood there is no forgiveness.  
 > 23 Therefore it was necessary for the copies of the things in the heavens to be cleansed with these, but the heavenly things themselves with better sacrifices than these.  
@@ -438,39 +519,39 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 27 And inasmuch as it is appointed for men to die once and after this comes judgment,  
 > 28 so Christ also, having been offered once to bear the sins of many, will appear a second time for salvation without reference to sin, to those who eagerly await Him.
 
-**One Sacrifice of Christ is Sufficient** *(10:1-18)* *(Psalm 40:6-8)*
+**One Sacrifice of Christ is Sufficient** _(10:1-18)_ _(Psalm 40:6-8)_
 
 > 1 For the Law, since it has only a shadow of the good things to come and not the very form of things, can never, by the same sacrifices which they offer continually year by year, make perfect those who draw near.  
 > 2 Otherwise, would they not have ceased to be offered, because the worshipers, having once been cleansed, would no longer have had consciousness of sins?  
 > 3 But in those sacrifices there is a reminder of sins year by year.  
 > 4 For it is impossible for the blood of bulls and goats to take away sins.  
 > 5 Therefore, when He comes into the world, He says,  
-> *“Sacrifice and offering You have not desired,*  
-> *But a body You have prepared for Me;*  
-> 6 *In whole burnt offerings and sacrifices for sin You have taken no pleasure.*  
-> 7 *Then I said, ‘Behold, I have come*  
-> *(In the scroll of the book it is written of Me)*  
-> *To do Your will, O God.’ ”*  
-> 8 After saying above, *“Sacrifices and offerings and whole burnt offerings and sacrifices for sin You have not desired, nor have You taken pleasure in them”* (which are offered according to the Law),  
-> 9 then He said, *“Behold, I have come to do Your will.”* He takes away the first in order to establish the second.  
+> _“Sacrifice and offering You have not desired,_  
+> _But a body You have prepared for Me;_  
+> 6 _In whole burnt offerings and sacrifices for sin You have taken no pleasure._  
+> 7 _Then I said, ‘Behold, I have come_  
+> _(In the scroll of the book it is written of Me)_  
+> _To do Your will, O God.’ ”_  
+> 8 After saying above, _“Sacrifices and offerings and whole burnt offerings and sacrifices for sin You have not desired, nor have You taken pleasure in them”_ (which are offered according to the Law),  
+> 9 then He said, _“Behold, I have come to do Your will.”_ He takes away the first in order to establish the second.  
 > 10 By this will we have been sanctified through the offering of the body of Jesus Christ once for all.  
 > 11 Every priest stands daily ministering and offering time after time the same sacrifices, which can never take away sins;  
 > 12 but He, having offered one sacrifice for sins for all time, sat down at the right hand of God,  
 > 13 waiting from that time onward until His enemies be made a footstool for His feet.  
 > 14 For by one offering He has perfected for all time those who are sanctified.  
 > 15 And the Holy Spirit also testifies to us; for after saying,  
-> 16 *“This is the covenant that I will make with them*  
-> *After those days, says the Lord:*  
-> *I will put My laws upon their heart,*  
-> *And on their mind I will write them,”*  
+> 16 _“This is the covenant that I will make with them_  
+> _After those days, says the Lord:_  
+> _I will put My laws upon their heart,_  
+> _And on their mind I will write them,”_  
 > He then says,  
-> 17 *“And their sins and their lawless deeds*  
-> *I will remember no more.”*  
+> 17 _“And their sins and their lawless deeds_  
+> _I will remember no more.”_  
 > 18 Now where there is forgiveness of these things, there is no longer any offering for sin.
 
 ## V. Christ's Superiority over Self
 
-**A New and Living Way** *(10:19-25)*
+**A New and Living Way** _(10:19-25)_
 
 > 19 Therefore, brethren, since we have confidence to enter the holy place by the blood of Jesus,  
 > 20 by a new and living way which He inaugurated for us through the veil, that is, His flesh,  
@@ -480,13 +561,13 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 24 and let us consider how to stimulate one another to love and good deeds,  
 > 25 not forsaking our own assembling together, as is the habit of some, but encouraging one another; and all the more as you see the day drawing near.
 
-**Christ or Judgement** *(10:26-39)*
+**Christ or Judgement** _(10:26-39)_
 
 > 26 For if we go on sinning willfully after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,  
 > 27 but a terrifying expectation of judgment and the fury of a fire which will consume the adversaries.  
 > 28 Anyone who has set aside the Law of Moses dies without mercy on the testimony of two or three witnesses.  
 > 29 How much severer punishment do you think he will deserve who has trampled under foot the Son of God, and has regarded as unclean the blood of the covenant by which he was sanctified, and has insulted the Spirit of grace?  
-> 30 For we know Him who said, *“Vengeance is Mine, I will repay.”* And again, *“The Lord will judge His people.”*  
+> 30 For we know Him who said, _“Vengeance is Mine, I will repay.”_ And again, _“The Lord will judge His people.”_  
 > 31 **It is a terrifying thing to fall into the hands of the living God.**  
 > 32 But remember the former days, when, after being enlightened, you endured a great conflict of sufferings,  
 > 33 partly by being made a public spectacle through reproaches and tribulations, and partly by becoming sharers with those who were so treated.  
@@ -502,7 +583,7 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 [Outline of Hebrews](#outline-of-hebrews)  
 [Table of Contents](#table-of-contents)
 
-**The Triumps of Faith** *(11:1-40)*
+**The Triumps of Faith** _(11:1-40)_
 
 > 1 Now faith is the assurance of things hoped for, the conviction of things not seen.  
 > 2 For by it the men of old gained approval.  
@@ -521,7 +602,7 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 15 And indeed if they had been thinking of that country from which they went out, they would have had opportunity to return.  
 > 16 But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God; for He has prepared a city for them.  
 > 17 By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises was offering up his only begotten son;  
-> 18 it was he to whom it was said, *“In Isaac your descendants shall be called.”*  
+> 18 it was he to whom it was said, _“In Isaac your descendants shall be called.”_  
 > 19 He considered that God is able to raise people even from the dead, from which he also received him back as a type.  
 > 20 By faith Isaac blessed Jacob and Esau, even regarding things to come.  
 > 21 By faith Jacob, as he was dying, blessed each of the sons of Joseph, and worshiped, leaning on the top of his staff.  
@@ -548,20 +629,20 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 [Outline of Hebrews](#outline-of-hebrews)  
 [Table of Contents](#table-of-contents)
 
-**Jesus, the Example** *(12:1-3)*
+**Jesus, the Example** _(12:1-3)_
 
 > 1 Therefore, since we have so great a cloud of witnesses surrounding us, let us also lay aside every encumbrance and the sin which so easily entangles us, and let us run with endurance the race that is set before us,  
 > 2 fixing our eyes on Jesus, the author and perfecter of faith, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.  
 > 3 For consider Him who has endured such hostility by sinners against Himself, so that you will not grow weary and lose heart.
 
-**A Father's Discipline** *(12:4-17)*
+**A Father's Discipline** _(12:4-17)_
 
 > 4 You have not yet resisted to the point of shedding blood in your striving against sin;  
 > 5and you have forgotten the exhortation which is addressed to you as sons,  
-> *“My son, do not regard lightly the discipline of the Lord,*  
-> *Nor faint when you are reproved by Him;*  
-> 6 *For those whom the Lord loves He disciplines,*  
-> *And He scourges every son whom He receives.”*  
+> _“My son, do not regard lightly the discipline of the Lord,_  
+> _Nor faint when you are reproved by Him;_  
+> 6 _For those whom the Lord loves He disciplines,_  
+> _And He scourges every son whom He receives.”_  
 > 7 It is for discipline that you endure; God deals with you as with sons; for what son is there whom his father does not discipline?  
 > 8 But if you are without discipline, of which all have become partakers, then you are illegitimate children and not sons.  
 > 9 Furthermore, we had earthly fathers to discipline us, and we respected them; shall we not much rather be subject to the Father of spirits, and live?  
@@ -574,21 +655,21 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 16 that there be no immoral or godless person like Esau, who sold his own birthright for a single meal.  
 > 17 **For you know that even afterwards, when he desired to inherit the blessing, he was rejected, for he found no place for repentance, though he sought for it with tears.**
 
-**Contrast of Sinai and Zion** *(12:18-24)*
+**Contrast of Sinai and Zion** _(12:18-24)_
 
 > 18 For you have not come to a mountain that can be touched and to a blazing fire, and to darkness and gloom and whirlwind,  
 > 19 and to the blast of a trumpet and the sound of words which sound was such that those who heard begged that no further word be spoken to them.  
-> 20 For they could not bear the command, *“If even a beast touches the mountain, it will be stoned.”*  
-> 21 And so terrible was the sight, that Moses said, *“I am full of fear and trembling.”*  
+> 20 For they could not bear the command, _“If even a beast touches the mountain, it will be stoned.”_  
+> 21 And so terrible was the sight, that Moses said, _“I am full of fear and trembling.”_  
 > 22 But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to myriads of angels,  
 > 23 to the general assembly and church of the firstborn who are enrolled in heaven, and to God, the Judge of all, and to the spirits of the righteous made perfect,  
 > 24 **and to Jesus, the mediator of a new covenant, and to the sprinkled blood, which speaks better than the blood of Abel.**
 
-**The Unshaken Kingdom** *(12:25-29)*
+**The Unshaken Kingdom** _(12:25-29)_
 
 > 25 See to it that you do not refuse Him who is speaking. For if those did not escape when they refused him who warned them on earth, much less will we escape who turn away from Him who warns from heaven.  
-> 26 And His voice shook the earth then, but now He has promised, saying, *“Yet once more I will shake not only the earth, but also the heaven.”*  
-> 27 This expression, *“Yet once more,”* denotes the removing of those things which can be shaken, as of created things, so that those things which cannot be shaken may remain.  
+> 26 And His voice shook the earth then, but now He has promised, saying, _“Yet once more I will shake not only the earth, but also the heaven.”_  
+> 27 This expression, _“Yet once more,”_ denotes the removing of those things which can be shaken, as of created things, so that those things which cannot be shaken may remain.  
 > 28 Therefore, since we receive a kingdom which cannot be shaken, let us show gratitude, by which we may offer to God an acceptable service with reverence and awe;  
 > 29 **for our God is a consuming fire.**
 
@@ -597,16 +678,16 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 
 ## Conclusion
 
-**The Changeless Christ** *(13:1-14)*
+**The Changeless Christ** _(13:1-14)_
 
 > 1 Let love of the brethren continue.  
 > 2 Do not neglect to show hospitality to strangers, for by this some have entertained angels without knowing it.  
 > 3 Remember the prisoners, as though in prison with them, and those who are ill-treated, since you yourselves also are in the body.  
 > 4 Marriage is to be held in honor among all, and the marriage bed is to be undefiled; for fornicators and adulterers God will judge.  
-> 5 Make sure that your character is free from the love of money, being content with what you have; for He Himself has said, *“I will never desert you, nor will I ever forsake you,”*  
+> 5 Make sure that your character is free from the love of money, being content with what you have; for He Himself has said, _“I will never desert you, nor will I ever forsake you,”_  
 > 6 so that we confidently say,  
-> *“The Lord is my helper, I will not be afraid.*  
-> *What will man do to me?”*  
+> _“The Lord is my helper, I will not be afraid._  
+> _What will man do to me?”_  
 > 7 Remember those who led you, who spoke the word of God to you; and considering the result of their conduct, imitate their faith.  
 > 8 Jesus Christ is the same yesterday and today and forever.  
 > 9 Do not be carried away by varied and strange teachings; for it is good for the heart to be strengthened by grace, not by foods, through which those who were so occupied were not benefited.  
@@ -616,7 +697,7 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 13 So, let us go out to Him outside the camp, bearing His reproach.  
 > 14 For here we do not have a lasting city, but we are seeking the city which is to come.
 
-**God-pleasing Sacrifices** *(13:15-19)*
+**God-pleasing Sacrifices** _(13:15-19)_
 
 > 15 Through Him then, let us continually offer up a sacrifice of praise to God, that is, the fruit of lips that give thanks to His name.  
 > 16 And do not neglect doing good and sharing, for with such sacrifices God is pleased.  
@@ -624,7 +705,7 @@ The main theme of Hebrews is the superiority of Jesus Christ. Hebrews emphasizes
 > 18 Pray for us, for we are sure that we have a good conscience, desiring to conduct ourselves honorably in all things.  
 > 19 And I urge you all the more to do this, so that I may be restored to you the sooner.
 
-**Benediction** *(13:20-25)*
+**Benediction** _(13:20-25)_
 
 > 20 Now the God of peace, who brought up from the dead the great Shepherd of the sheep through the blood of the eternal covenant, even Jesus our Lord,  
 > 21 equip you in every good thing to do His will, working in us that which is pleasing in His sight, through Jesus Christ, to whom be the glory forever and ever. Amen.  
