@@ -2,7 +2,7 @@
 title: NTSurvey - Session 14 Part 3 - Hebrews
 date: 65 A.D
 writer: Unknown
-category: Christian Maturity General Epistle
+category: Christian Maturity General Essay
 description: Hebrews emphasizes that Christianity (The New Covenant) is better than the old system in every way.
 bibleReference: Hebrews
 ---
@@ -32,7 +32,46 @@ bibleReference: Hebrews
 
 ## CDI Notes - Content of Hebrews
 
+Hebrews
+Author, Unknown
+• In Scripture
+• In history
+Author in Scripture
+• Heb. 1:1 no introduction or salutation
+• No author
+• No reader
+• Not an apostle of Jesus
+• Heb. 2:3 “How shall we escape…confirmed by those who heard?”
+• In Pauline circle
+• Heb. 10:38, 13:20, 23 quote used by Paul and Timothy
+In History
+• KJV title, “The Epistle of Paul to the Hebrews”
+• Oldest manuscripts, “To Hebrews”
+• Eusebius, “…fourteen epistles of Paul”
+• Clement of Rome quotes without author
+• Clement of Alexandria 200 AD by Paul in Hebrew, translated by Luke
+• Tertullian 200 AD Barnabas (Priscilla or Silas)
+• Papyrus 46 AD places it between Romans and 1 Corinthians
+• Luther said, Apollos
+• Separate authorship from authority
+Dating 65–70 AD
+• Inspiration
+• Early acceptance
+• Internal evidence
+• Destination
+
+Contents, “Better Worship”
+• Better Messenger
+• Better Apostle
+• Better Priest
+• Better Covenant
+• Better Sacrifice
+• Better Way
+• Conclusion: the better practice of the faith
+
 ### Key Verses
+
+**Hebrews 10:31**  
 
 ## Chapter Headings of Hebrews (NASB1995)
 
@@ -221,7 +260,6 @@ Just as Melchizedek appears suddenly in Genesis as a real historical man with no
 **_Christ is presented as_** the superior and eternal High Priest—greater than Abraham, greater than Levi, and greater than all the priests who came before. He is a priest _“according to the order of Melchizedek,”_ not by genealogy but by divine appointment and the power of an indestructible life. He remains forever, holds His priesthood permanently, intercedes continually, and is the holy, innocent, undefiled High Priest who has been exalted above the heavens. His priesthood is secured by God’s oath, founded on perfect righteousness, and effective to save completely those who draw near to God through Him.
 
 **_Believers should_** draw near to God through Christ, trust in His continual intercession, and rest in the better hope and perfect priesthood that God has provided in His Son (_vv. 19, 22, 25_).
-
 
 ## I. Christ's Superiority in Revelation
 
