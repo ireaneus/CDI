@@ -21,7 +21,7 @@ bibleReference: Zechariah
   - [Table of Contents](#table-of-contents)
   - [The Twelve Zechariah](#the-twelve-zechariah)
   - [Structure](#structure)
-  - [Themes\[^1\]](#themes1)
+  - [Themes](#themes)
   - [Chapter 1: Prologue](#chapter-1-prologue)
   - [Apply God's Word](#apply-gods-word)
   - [FootNotes](#footnotes)
@@ -50,7 +50,7 @@ Along with other prophets, Zechariah was martyred.[^1]
 | | |
 | IV. Two Prophetic Oracles | (vs. 9:1-14) |
 
-## Themes[^1]
+## Themes
 
 1. Jesus Messiah:
 
