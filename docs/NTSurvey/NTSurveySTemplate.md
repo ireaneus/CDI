@@ -23,6 +23,7 @@ bibleReference: 2 Timothy
   - [Chapter Headings of 2 Timothy (NASB1995)](#chapter-headings-of-2-timothy-nasb1995)
   - [Survey of New Testament](#survey-of-new-testament)
   - [2 Timothy Summary](#2-timothy-summary)
+  - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of 1 Timothy
 
@@ -42,3 +43,5 @@ bibleReference: 2 Timothy
 ### Theme of 2 Timothy
 
 ## 2 Timothy Summary
+
+## Class Exercise

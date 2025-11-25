@@ -8,16 +8,7 @@ image: "/images/welcome.jpg"
 bibleReference: "[2 Thessalonians]"
 ---
 
-#### Diary requirements
-- Four chapters or less do one paragraph for entire letter
-- Simplicity is key - one paragraph per chapter
-
-#### Format for diary:
-- In Chapter __ Jesus (or the author) said, or did...
-- Christ was presented as...
-- Believers should...
-
-| **2 Thessalonians** | | 
+| **2 Thessalonians** | |
 |:-------:|:-------:|
 | I. Instructions Concerning Future Things | (vs. 1:1-2:12) |
 | A. An Explanation About Present Persecution | (vs. 1:1-12) |
@@ -35,4 +26,3 @@ bibleReference: "[2 Thessalonians]"
 ### 2 Thessalonians Chapters Summary
 
 **In 2 Thessalonians, Paul** commends the Thessalonians for their faith amidst persecution and assures them that God will bring justice and relief at Christ’s return (*vs. 1:1-12*). He clarifies that the Day of the Lord has not yet come, as the rebellion and the man of lawlessness must be revealed first (*vs. 2:1-12*). **Christ is presented as** the righteous judge who will destroy the lawless one and reward the faithful with eternal glory (*vs. 1:10, 2:8*). **Believers should** stand firm in the gospel, pray diligently, avoid idleness, and persist in doing good while awaiting the Lord’s return (*vs. 2:15, 3:1-13*).
-
