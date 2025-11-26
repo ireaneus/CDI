@@ -35,7 +35,7 @@ bibleReference: 2 Timothy
 
 ### Outline of 2 Timothy
 
-| **2 Timothy** | |
+| **2 Timothy** | **Verses** |
 | :---------: | :---------: |
 | | |
 | I. [Personal Greetings] | (1:1-7) |
