@@ -1,7 +1,7 @@
 ---
-title: Chapter Summaries for 2 Corinthians
+title: NTSurvey - Session 10 Part 2 - 2 Corinthians
 date: 57 AD
-author: Paul
+writer: Paul
 category: Paul's Epistles
 description: Written shortly after 1 Corinthians from Macedonia
 bibleReference: 2 Corinthians
@@ -28,17 +28,17 @@ bibleReference: 2 Corinthians
 
 | **Paul's Second letter to the Corinthians** | |
 |:-------:|:-------:|
-| I. Introduction | (vs. 1:1-11) |
+| I. [Introduction](#i-introduction) | (vs. 1:1-11) |
 | | |
-| II. Paul's Personal Testimony | (vs. 1:12-2:13) |
+| II. [Paul's Personal Testimony](#ii-pauls-personal-testimony) | (vs. 1:12-2:13) |
 | | |
-| III. Paul's Teachings about the True Ministry of Christ | (vs. 2:14-6:10) |
+| III. [Paul's Teachings about the True Ministry of Christ](#iii-pauls-teachings-about-the-true-ministry-of-christ) | (vs. 2:14-6:10) |
 | | |
-| IV. Paul's Exhortations to the Corinthians | (vs. 6:11-7:16) |
+| IV. [Paul's Exhortations to the Corinthians](#iv-pauls-exhortations-to-the-corinthians) | (vs. 6:11-7:16) |
 | | |
-| V. Paul's Instructions About Giving | (vs. 8:1-9:15) |
+| V. [Paul's Instructions About Giving](#v-pauls-instructions-about-giving) | (vs. 8:1-9:15) |
 | | |
-| VI. Paul's Defense of His Apostolic Ministry | (vs. 10:1-13:10) |
+| VI. [Paul's Defense of His Apostolic Ministry](#vi-pauls-defense-of-his-apostolic-ministry) | (vs. 10:1-13:10) |
 | | |
 | VII. Conclusion | (vs. 13:11-14) |
 

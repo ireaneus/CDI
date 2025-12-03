@@ -1,7 +1,7 @@
 ---
-title: NTSurvey - Session 10 Parts 1-3 1 Corinthians
+title: NTSurvey - Session 10 Part 1 - 1 Corinthians
 date: A.D. 54
-author: Paul the Apostle
+writer: Paul the Apostle
 category: Prison Epistle
 description: Origin in Ephesus Acts 19:10 school of Tyrannus
 bibleReference: 1 Corinthians

@@ -27,11 +27,15 @@ bibleReference: 2 Timothy
 
 ## CDI Notes - Content of 1 Timothy
 
+**Instructors Guide** *(pg.338)*
+
 ### Key Verses
 
 ## Chapter Headings of 2 Timothy (NASB1995)
 
 ## Survey of New Testament
+
+**Survey of the New Testament-Everyman's Bible Commentary** *(pg.269)*
 
 ### Outline of 2 Timothy
 

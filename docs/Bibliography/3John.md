@@ -3,8 +3,10 @@
 ---
 
 ## 3 John
+
 - A Good Report
 
 ## Jude 1
+
 - The Warnings of History to the Ungodly
 - Keep Yourselves in the Love of God

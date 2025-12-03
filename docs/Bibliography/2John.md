@@ -3,5 +3,5 @@
 ---
 
 ## 2 John
-- Walk According to His Commandments
 
+- Walk According to His Commandments
