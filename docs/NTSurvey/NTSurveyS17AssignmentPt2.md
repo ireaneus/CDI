@@ -476,7 +476,7 @@ John writes about the great end-time events that will occur during the Day of th
 > 13 And in that hour there was a great earthquake, and a tenth of the city fell; seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven.  
 > 14 The **second woe is past**; behold, the **third woe is coming quickly.**
 
-**The Seventh Trumpet-Christ's Reign Foreseen** *(11:15-19)*
+**The Seventh Trumpet-Christ's Reign Foreseen third woe** *(11:15-19)*
 
 > 15 Then the seventh angel sounded; and there were loud voices in heaven, saying,  
 > *“The kingdom of the world has become the kingdom of our Lord and of His Christ; and He will reign forever and ever.”*  
