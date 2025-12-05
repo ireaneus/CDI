@@ -284,7 +284,7 @@ Final Events: Rev. 17:1-22:5
 | F. Two Babylons | (17:1-18:24) |
 | G. Final Visions | (19:1-22:5) |
 | | |
-| V. Conclusion | (22:6-21) |
+| V. [Conclusion](#conclusion) | (22:6-21) |
 
 ### Theme of Revelation
 
@@ -312,6 +312,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 10 the twenty-four elders will fall down before Him who sits on the throne, and will worship Him who lives forever and ever, and will cast their crowns before the throne, saying,  
 > 11 *“Worthy are You, our Lord and our God, to receive glory and honor and power; for You created all things, and because of Your will they existed, and were created.”*
 
+**Chapter 4 Summary**
+
+***In Chapter 4, John*** is taken up in the Spirit into heaven and sees a throne with One seated upon it, surrounded by twenty-four elders, flashes of lightning, seven lamps of fire (the seven spirits of God), and four living creatures who continually declare God’s holiness (*vv. 1–8*). The elders fall before the throne, cast their crowns, and proclaim God’s worthiness as Creator, for all things exist by His will (*vv. 9–11*).
+
+***Christ is presented as*** the eternal, holy Lord God Almighty who receives unceasing worship on the throne and is honored as Creator (*vv. 8–11*).
+
+***Believers should*** worship God with reverence, acknowledge His sovereignty, and honor Him as Creator (*vv. 10–11*).
+
 ## Revelation 5
 
 **The Book with Seven Seals** *(5:1-10)*
@@ -336,6 +344,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 13 And every created thing which is in heaven and on the earth and under the earth and on the sea, and all things in them, I heard saying,  
 > *“To Him who sits on the throne, and to the Lamb, be blessing and honor and glory and dominion forever and ever.”*  
 > 14 And the four living creatures kept saying, *“Amen.”* And the elders fell down and worshiped.
+
+**Chapter 5 Summary**
+
+***In Chapter 5, John*** sees a scroll in the right hand of the One on the throne that no one is worthy to open until the Lion of Judah—the Lamb who was slain—appears and takes the scroll (*vv. 1–7*). The living creatures, elders, angels, and every creature worship the Lamb, declaring Him worthy because He was slain and purchased people for God with His blood (*vv. 8–14*).
+
+***Christ is presented as*** the Lion of Judah and the slain yet victorious Lamb who alone is worthy to open the scroll and receives universal worship (*vv. 5–12*).
+
+***Believers should*** worship Christ as the worthy Lamb and trust in His redemptive authority (*vv. 8–14*).
 
 **The First Seal-Rider on White Horse** *(6:1-2)*
 
@@ -372,6 +388,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 16 and they said to the mountains and to the rocks, *“Fall on us and hide us from the presence of Him who sits on the throne, and from the wrath of the Lamb;*  
 > 17 *for the great day of their wrath has come, and who is able to stand?”*
 
+**Revelation 6 Summary**
+
+***In Chapter 6, John*** witnesses the Lamb opening the first six seals of the scroll. The first four seals release four horsemen bringing conquest, war, famine, and death (*vv. 1–8*). The fifth seal reveals the martyrs beneath the altar crying out for God’s justice (*vv. 9–11*). The sixth seal brings cosmic disturbances—earthquake, darkened sun, blood-red moon, falling stars—and the people of the earth hide in fear from the wrath of the Lamb (*vv. 12–17*).
+
+***Christ is presented as*** the Lamb who opens the seals and initiates God’s judgments, exercising sovereign authority over history and its unfolding events (*vv. 1, 16–17*).
+
+***Believers should*** trust in Christ’s sovereign justice and remain steadfast, like the martyrs, as God works out His purposes in the world (*vv. 9–11*).
+
 **An Interlude** *(7:1-3)*
 
 > 1 After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, so that no wind would blow on the earth or on the sea or on any tree.  
@@ -400,6 +424,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 16 *They will hunger no longer, nor thirst anymore; nor will the sun beat down on them, nor any heat;*  
 > 17 *for the Lamb in the center of the throne will be their shepherd, and will guide them to springs of the water of life; and God will wipe every tear from their eyes.”*
 
+**Revelation Chapter 7 Summary**
+
+***In Chapter 7, John*** sees four angels holding back the winds of judgment until the servants of God are sealed on their foreheads. One hundred forty-four thousand from the tribes of Israel are sealed (*vv. 1–8*). John then sees a great multitude from every nation standing before the throne and the Lamb, clothed in white robes and worshiping God (*vv. 9–12*). He learns that these are those who came out of the great tribulation, whose robes were washed white in the blood of the Lamb. They now serve God continually, and He shelters them, wiping away every tear (*vv. 13–17*).
+
+***Christ is presented as*** the Lamb who redeems a countless multitude, washes them in His blood, and shepherds them in God’s presence forever (*vv. 10, 14, 17*).
+
+***Believers should*** worship God and the Lamb, trust in His protection and redemption, and remain faithful through tribulation (*vv. 10–12, 14*).
+
 **The Seventh Seal-the Trumpets** *(8:1-13)*
 
 > 1 When the Lamb broke the seventh seal, there was silence in heaven for about half an hour.  
@@ -415,6 +447,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 11 The name of the star is called Wormwood; and a third of the waters became wormwood, and many men died from the waters, because they were made bitter.  
 > 12 The **fourth angel sounded**, and a third of the sun and a third of the moon and a third of the stars were struck, so that a third of them would be darkened and the day would not shine for a third of it, and the night in the same way.  
 > 13 Then I looked, and I heard an eagle flying in midheaven, saying with a loud voice, *“Woe, woe, woe to those who dwell on the earth, because of the remaining blasts of the trumpet of the three angels who are about to sound!”*
+
+**Revelation Chapter 8 Summary**
+
+***In Chapter 8, John*** sees the Lamb open the seventh seal, resulting in silence in heaven for about half an hour (*v. 1*). Seven angels are given seven trumpets, and another angel offers incense with the prayers of the saints before God. The angel then casts fire from the altar to the earth, signaling coming judgment (*vv. 2–5*). As the first four trumpets sound, catastrophic judgments strike the earth: vegetation is burned, the sea becomes blood, freshwater sources become bitter, and celestial light is darkened (*vv. 6–13*). An eagle then warns that worse judgments are yet to come.
+
+***Christ is presented as*** the Lamb whose opening of the final seal initiates the trumpet judgments and whose authority directs the unfolding of God’s purposes (*v. 1*).
+
+***Believers should*** recognize the seriousness of God’s coming judgments, persevere in prayer, and live with reverence before the God who answers the cries of His saints (*vv. 3–5*).
 
 **The Fifth Trumpet-the Bottomless Pit** *(9:1-12)*
 
@@ -443,6 +483,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 20 The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands, so as not to worship demons, and the idols of gold and of silver and of brass and of stone and of wood, which can neither see nor hear nor walk;  
 > 21 and they did not repent of their murders nor of their sorceries nor of their immorality nor of their thefts.
 
+**Revelation 9 Summary**
+
+***In Chapter 9, John*** witnesses the sounding of the fifth and sixth trumpets. The fifth trumpet releases demonic torment from the abyss as locust-like beings led by Abaddon/Apollyon afflict those without God’s seal for five months (*vv. 1–11*). The sixth trumpet releases four bound angels at the Euphrates who lead an enormous cavalry force that kills a third of mankind through plagues of fire, smoke, and brimstone (*vv. 13–19*). Despite these judgments, the rest of humanity refuses to repent of idolatry, murder, sorcery, immorality, and theft (*vv. 20–21*).
+
+***Christ is presented as*** the sovereign Lord who permits and controls these trumpet judgments as part of God’s unfolding wrath (*vv. 1, 13*).
+
+***Believers should*** recognize the justice of God’s judgments and maintain faithful repentance and obedience, unlike those who harden their hearts (*vv. 20–21*).
+
 ## Revelation 10
 
 **The Angel and the Little Book** *(10:1-11)*
@@ -458,6 +506,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 9 So I went to the angel, telling him to give me the little book. And he said to me, *“Take it and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.”*  
 > 10 I took the little book out of the angel’s hand and ate it, and in my mouth it was sweet as honey; and when I had eaten it, my stomach was made bitter.  
 > 11 And they said to me, *“You must prophesy again concerning many peoples and nations and tongues and kings.”*
+
+**Revelation 10 Summary**
+
+***In Chapter 10, John*** sees a mighty angel descending from heaven, clothed with a cloud, a rainbow on his head, and his face shining like the sun. He holds a little scroll open in his hand and stands with one foot on the sea and one on the land, declaring that when the seventh trumpet sounds, the mystery of God will be completed as He announced to His prophets (*vv. 1–7*). John is then told to take the little scroll and eat it; it is sweet in his mouth but bitter in his stomach. He is instructed that he must prophesy again concerning many peoples, nations, languages, and kings (*vv. 8–11*).
+
+***Christ is presented as*** the Lord whose purposes are nearing fulfillment, the one whose mystery will be completed at the sound of the seventh trumpet (*v. 7*).
+
+***Believers should*** receive and proclaim God’s word faithfully, recognizing that His revelation may be both sweet and bitter as His purposes unfold (*vv. 9–11*).
 
 **The Two Witnesses** *(11:1-14)*
 
@@ -485,6 +541,14 @@ John writes about the great end-time events that will occur during the Day of th
 > *“We give You thanks, O Lord God, the Almighty, who are and who were, because You have taken Your great power and have begun to reign.*  
 > 18 *And the nations were enraged, and Your wrath came, and the time came for the dead to be judged, and the time to reward Your bond-servants the prophets and the saints and those who fear Your name, the small and the great, and to destroy those who destroy the earth.”*  
 > 19 And the temple of God which is in heaven was opened; and the ark of His covenant appeared in His temple, and there were flashes of lightning and sounds and peals of thunder and an earthquake and a great hailstorm.
+
+**Revelation 11 Summary**
+
+***In Chapter 11, John*** is given a measuring rod and told to measure the temple, the altar, and those who worship there, while the outer court is left to the nations who will trample the holy city for forty-two months (*vv. 1–2*). God’s two witnesses prophesy for 1,260 days with power to strike the earth with plagues, shut the sky, and consume enemies with fire (*vv. 3–6*). When their testimony is complete, the beast kills them, and their bodies lie in the great city. After three and a half days, God raises them, and they ascend to heaven, causing fear and a great earthquake (*vv. 7–13*). The seventh trumpet sounds, and loud voices in heaven proclaim that the kingdom of the world has become the kingdom of the Lord and of His Christ. The elders worship God as He begins to reign and prepares to judge the dead and reward His servants (*vv. 14–19*).
+
+***Christ is presented as*** the one whose kingdom overtakes the kingdoms of the world, who reigns forever and ever, and who rewards His servants and brings judgment (*vv. 15–18*).
+
+***Believers should*** remain faithful in witness, trust God’s sovereign timing, and worship Him as the rightful King whose rule will be fully revealed (*vv. 3, 11, 15–18*).
 
 **The Woman, Israel** *(12:1-2)*
 
@@ -516,6 +580,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 16 But the earth helped the woman, and the earth opened its mouth and drank up the river which the dragon poured out of his mouth.  
 > 17 So the dragon was enraged with the woman, and went off to make war with the rest of her children, who keep the commandments of God and hold to the testimony of Jesus.
 
+**Revelation 12 Summary**
+
+***In Chapter 12, John*** sees a great sign in heaven: a woman clothed with the sun who gives birth to a male child destined to rule all nations, while a great red dragon seeks to devour the child (*vv. 1–4*). The child is caught up to God and His throne, and the woman flees into the wilderness where God protects her for 1,260 days (*vv. 5–6*). A war in heaven occurs—Michael and his angels fight the dragon, who is cast down to earth with his angels (*vv. 7–9*). A loud voice declares victory through the blood of the Lamb and the word of believers’ testimony (*vv. 10–11*). Enraged, the dragon persecutes the woman and her offspring—those who keep God’s commandments and hold to the testimony of Jesus (*vv. 13–17*).
+
+***Christ is presented as*** the male child who is destined to rule all nations and is exalted to God’s throne, securing victory over the dragon through His redemptive work (*vv. 5, 10–11*).
+
+***Believers should*** overcome through the blood of the Lamb and their testimony, remain faithful under persecution, and keep God’s commandments (*vv. 11, 17*).
+
 **the Beast from the Sea** *(13:1-10)*
 
 > 1 And the dragon stood on the sand of the seashore.  
@@ -540,6 +612,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 16 And he causes all, the small and the great, and the rich and the poor, and the free men and the slaves, to be given a mark on their right hand or on their forehead,  
 > 17 and he provides that no one will be able to buy or to sell, except the one who has the mark, either the name of the beast or the number of his name.  
 > 18 Here is wisdom. Let him who has understanding calculate the number of the beast, for the number is that of a man; and his number is six hundred and sixty-six.
+
+**Revelation 13 Summary**
+
+***In Chapter 13, John*** sees a beast rising out of the sea with ten horns and seven heads, receiving power, throne, and authority from the dragon. The world marvels and worships the beast, who speaks blasphemies and makes war with the saints for forty-two months (*vv. 1–8*). A second beast rises from the earth, performing signs and directing the world to worship the first beast. He creates an image of the beast, causes those who refuse to worship it to be killed, and enforces a mark on all people so that no one can buy or sell without it (*vv. 11–17*). The chapter closes with the famous call for wisdom: the number of the beast is 666 (*v. 18*).
+
+***Christ is presented as*** the one whose true authority stands in contrast to the counterfeit power of the beasts, and whose people remain written in the book of life of the Lamb slain (*vv. 8*).
+
+***Believers should*** demonstrate endurance and faithfulness, resist deception and coerced worship, and remain loyal to Christ despite pressure or persecution (*vv. 10, 18*).
 
 **The Lamb and the 144,000 on Mount Zion** *(14:1-5)*
 
@@ -573,6 +653,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 19 So the angel swung his sickle to the earth and gathered the clusters from the vine of the earth, and threw them into the great wine press of the wrath of God.  
 > 20 And the wine press was trodden outside the city, and blood came out from the wine press, up to the horses’ bridles, for a distance of two hundred miles.
 
+**Revelation 14 Summary**
+
+***In Chapter 14, John*** sees the Lamb standing on Mount Zion with 144,000 who bear His name and the Father’s name on their foreheads, singing a new song before God’s throne (*vv. 1–5*). Three angels then proclaim messages to the world: the first calls all to fear God and worship Him; the second announces the fall of Babylon; the third warns that anyone who worships the beast or receives its mark will face God’s wrath (*vv. 6–11*). A call for the perseverance of the saints follows, blessing those who die in the Lord (*vv. 12–13*). John then sees two harvests: one like a Son of Man reaping the earth, and another in which grapes are gathered and thrown into the winepress of God’s wrath (*vv. 14–20*).
+
+***Christ is presented as*** the Lamb who stands with His redeemed on Mount Zion and the one like a Son of Man who executes God’s final harvest (*vv. 1, 14–16*).
+
+***Believers should*** worship God alone, persevere in faithfulness, resist the beast’s system, and remain steadfast in hope even unto death (*vv. 7, 12–13*).
+
 ## Revelation 15
 
 **A Scene of Heaven** *(15:1-8)*
@@ -592,6 +680,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 6 and the seven angels who had the seven plagues came out of the temple, clothed in linen, clean and bright, and girded around their chests with golden sashes.  
 > 7 Then one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.  
 > 8 And the temple was filled with smoke from the glory of God and from His power; and no one was able to enter the temple until the seven plagues of the seven angels were finished.
+
+**Revelation 15 Summary**
+
+***In Chapter 15, John*** sees another great and marvelous sign: seven angels with the seven last plagues, which complete the wrath of God (*v. 1*). He then sees those who conquered the beast standing beside a sea of glass, holding harps of God and singing the song of Moses and the song of the Lamb, praising God’s righteousness and His works (*vv. 2–4*). After this, the heavenly temple—the tabernacle of testimony—is opened, and the seven angels receive seven golden bowls filled with the wrath of God. The temple fills with smoke from the glory of God so that no one can enter until the plagues are finished (*vv. 5–8*).
+
+***Christ is presented as*** the Lamb whose redeemed people praise Him for His righteous acts and deliverance, and whose victory over the beast is the basis of their worship (*vv. 2–4*).
+
+***Believers should*** worship God for His righteous judgments, trust in His ultimate justice, and remain faithful as He brings His purposes to completion (*vv. 3–4*).
 
 **Six Bowls of Wrath** *(16:1-12)*
 
@@ -617,10 +713,19 @@ John writes about the great end-time events that will occur during the Day of th
 
 **Seventh Bowl of Wrath** *(16:17-21)*
 
-> 17 Then the seventh angel poured out his bowl upon the air, and a loud voice came out of the temple from the throne, saying, *“It is done.”*  18 And there were flashes of lightning and sounds and peals of thunder; and there was a great earthquake, such as there had not been since man came to be upon the earth, so great an earthquake was it, and so mighty.  
+> 17 Then the seventh angel poured out his bowl upon the air, and a loud voice came out of the temple from the throne, saying, *“It is done.”*  
+> 18 And there were flashes of lightning and sounds and peals of thunder; and there was a great earthquake, such as there had not been since man came to be upon the earth, so great an earthquake was it, and so mighty.  
 > 19 The great city was split into three parts, and the cities of the nations fell. Babylon the great was remembered before God, to give her the cup of the wine of His fierce wrath.  
 > 20 And every island fled away, and the mountains were not found.  
 > 21 And huge hailstones, about one hundred pounds each, came down from heaven upon men; and men blasphemed God because of the plague of the hail, because its plague was extremely severe.
+
+**Revelation 16 Summary**
+
+***In Chapter 16, John*** sees the seven angels pour out the seven bowls of God’s wrath upon the earth. The first bowl brings harmful sores on those who bear the mark of the beast (*v. 2*). The second and third turn the sea and rivers into blood (*vv. 3–7*). The fourth bowl scorches people with fierce heat, yet they refuse to repent (*vv. 8–9*). The fifth plunges the beast’s kingdom into darkness (*vv. 10–11*). The sixth dries up the Euphrates to prepare the way for the kings of the east, as demonic spirits gather the nations for the battle of Armageddon (*vv. 12–16*). The seventh bowl brings a great earthquake, the fall of Babylon, and massive hailstones, yet people still blaspheme God (*vv. 17–21*).
+
+***Christ is presented as*** the sovereign Lord whose judgments are poured out in perfect righteousness and whose return is anticipated even in the midst of wrath (*vv. 5–7, 15*).
+
+***Believers should*** remain watchful, stay faithful and spiritually prepared, and trust in the justice of God’s judgments (*vv. 15, 7*).
 
 **Doom of Babylon** *(17:1-13)*
 
@@ -646,6 +751,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 17 *For God has put it in their hearts to execute His purpose by having a common purpose, and by giving their kingdom to the beast, until the words of God will be fulfilled.*  
 > 18 *The woman whom you saw is the great city, which reigns over the kings of the earth.”*
 
+**Revelation 17 Summary**
+
+***In Chapter 17, John*** is shown the judgment of the great harlot who sits on many waters, symbolizing a corrupt world system that influences nations and kings (*vv. 1–2, 15*). He sees a woman clothed in luxury, sitting on a scarlet beast with seven heads and ten horns, drunk with the blood of the saints (*vv. 3–6*). The angel explains that the seven heads represent seven mountains and also seven kings, and the ten horns are ten kings who will receive authority with the beast and wage war against the Lamb (*vv. 7–14*). The Lamb will overcome them because He is Lord of lords and King of kings, and those with Him are the called, chosen, and faithful (*v. 14*). The chapter ends with the beast and the ten kings turning against the harlot to destroy her, fulfilling God’s purpose (*vv. 16–18*).
+
+***Christ is presented as*** the Lord of lords and King of kings who overcomes all earthly powers and stands victorious with His faithful people (*v. 14*).
+
+***Believers should*** remain faithful to Christ, resist the seduction and corruption of the world system, and trust that God’s sovereign purposes will prevail (*vv. 14, 17–18*).
+
 **Babylon is Fallen** *(18:1-8)*
 
 > 1 After these things I saw another angel coming down from heaven, having great authority, and the earth was illumined with his glory.  
@@ -665,7 +778,8 @@ John writes about the great end-time events that will occur during the Day of th
 > 12 *cargoes of gold and silver and precious stones and pearls and fine linen and purple and silk and scarlet, and every kind of citron wood and every article of ivory and every article made from very costly wood and bronze and iron and marble,*  
 > 13 *and cinnamon and spice and incense and perfume and frankincense and wine and olive oil and fine flour and wheat and cattle and sheep, and cargoes of horses and chariots and slaves and human lives.*  
 > 14 *The fruit you long for has gone from you, and all things that were luxurious and splendid have passed away from you and men will no longer find them.*  
-> 15 *The merchants of these things, who became rich from her, will stand at a distance because of the fear of her torment, weeping and mourning,*  *16saying, ‘Woe, woe, the great city, she who was clothed in fine linen and purple and scarlet, and adorned with gold and precious stones and pearls;*  
+> 15 *The merchants of these things, who became rich from her, will stand at a distance because of the fear of her torment, weeping and mourning,*  
+> 16 *saying, ‘Woe, woe, the great city, she who was clothed in fine linen and purple and scarlet, and adorned with gold and precious stones and pearls;*  
 > 17 *for in one hour such great wealth has been laid waste!’ And every shipmaster and every passenger and sailor, and as many as make their living by the sea, stood at a distance,*  
 > 18 *and were crying out as they saw the smoke of her burning, saying, ‘What city is like the great city?’*  
 > 19 *And they threw dust on their heads and were crying out, weeping and mourning, saying, ‘Woe, woe, the great city, in which all who had ships at sea became rich by her wealth, for in one hour she has been laid waste!’*  
@@ -675,12 +789,20 @@ John writes about the great end-time events that will occur during the Day of th
 > 23 *and the light of a lamp will not shine in you any longer; and the voice of the bridegroom and bride will not be heard in you any longer; for your merchants were the great men of the earth, because all the nations were deceived by your sorcery.*  
 > 24 *And in her was found the blood of prophets and of saints and of all who have been slain on the earth.”*
 
+**Revelation 18 Summary**
+
+***In Chapter 18, John*** hears a mighty angel proclaim the fall of Babylon, the great city, because she has become a dwelling place of demons and has corrupted the nations with her immorality (*vv. 1–3*). A voice from heaven calls God’s people to come out of her so they will not share in her sins or plagues (*v. 4*). Her judgment comes swiftly as kings, merchants, and shipmasters mourn the loss of her wealth and power, standing far off in fear of her torment (*vv. 9–19*). Heaven, however, rejoices over her downfall because God has judged her for her corruption and violence against the saints (*vv. 20–24*). A strong angel casts a millstone into the sea, symbolizing Babylon’s complete and permanent destruction (*vv. 21–23*).
+
+***Christ is presented as*** the righteous Judge who brings final judgment on the world’s corrupt system and vindicates His people (*vv. 8, 20*).
+
+***Believers should*** separate themselves from Babylon’s sins, remain faithful and undefiled, and rejoice in God’s just and final judgment (*vv. 4–5, 20*).
+
 **The Forefold Hallelujah** *(19:1-6)*
 
 > 1 After these things I heard something like a loud voice of a great multitude in heaven, saying,  
 > *“Hallelujah! Salvation and glory and power belong to our God;*  
 > 2 *because His judgments are true and righteous; for He has judged the great harlot who was corrupting the earth with her immorality, and He has avenged the blood of His bond-servants on her.”*  
-> 3 *And a second time they said, *“Hallelujah! Her smoke rises up forever and ever.”*  
+> 3 And a second time they said, *“Hallelujah! Her smoke rises up forever and ever.”*  
 > 4 And the twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne saying, *“Amen. Hallelujah!”*  
 > 5 And a voice came from the throne, saying,  
 > *“Give praise to our God, all you His bond-servants, you who fear Him, the small and the great.”*  
@@ -711,6 +833,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 20 And the beast was seized, and with him the false prophet who performed the signs in his presence, by which he deceived those who had received the mark of the beast and those who worshiped his image; these two were thrown alive into the lake of fire which burns with brimstone.  
 > 21 And the rest were killed with the sword which came from the mouth of Him who sat on the horse, and all the birds were filled with their flesh.
 
+**Revelation 19 Summary**
+
+***In Chapter 19, John*** hears a great multitude in heaven praising God for judging Babylon and avenging the blood of His servants (*vv. 1–5*). The scene shifts to the marriage of the Lamb, as the bride—arrayed in fine linen—has made herself ready (*vv. 6–8*). John is told that blessed are those invited to the marriage supper of the Lamb (*v. 9*). Heaven then opens, and a rider on a white horse appears—called Faithful and True—who judges and wages war in righteousness. His eyes are like fire, and on His robe and thigh is written: *King of kings and Lord of lords* (*vv. 11–16*). The beast, false prophet, and their armies gather to make war against Him, but they are defeated; the beast and false prophet are thrown alive into the lake of fire, and the rest are slain (*vv. 17–21*).
+
+***Christ is presented as*** the Lamb whose marriage has come, and the victorious Rider on the white horse—Faithful and True, the Word of God, King of kings, and Lord of lords—who judges in righteousness and triumphs over all His enemies (*vv. 7, 11–16*).
+
+***Believers should*** rejoice in God’s righteous judgments, prepare themselves in purity for the marriage of the Lamb, and trust in Christ’s ultimate victory over all evil (*vv. 7–8, 5, 11–16*).
+
 ## Revelation 20
 
 **Satan Bound** *(20:1-6)*
@@ -736,6 +866,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 13 And the sea gave up the dead which were in it, and death and Hades gave up the dead which were in them; and they were judged, every one of them according to their deeds.  
 > 14 Then death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.  
 > 15 And if anyone’s name was not found written in the book of life, he was thrown into the lake of fire.
+
+**Revelation 20 Summary**
+
+***In Chapter 20, John*** sees an angel binding Satan for a thousand years and casting him into the abyss so that he can no longer deceive the nations until the thousand years are completed (*vv. 1–3*). John then sees thrones, and those who were martyred for their testimony reign with Christ during this millennium in what is called the first resurrection (*vv. 4–6*). After the thousand years, Satan is released and deceives the nations once more, gathering them for battle, but fire from heaven consumes them. Satan is then thrown into the lake of fire forever (*vv. 7–10*). John next sees a great white throne where the dead are judged according to their deeds; anyone not found in the book of life is cast into the lake of fire (*vv. 11–15*).
+
+***Christ is presented as*** the reigning King during the millennium, the Judge at the great white throne, and the conqueror who brings the final defeat of Satan and all evil (*vv. 4, 11–15*).
+
+***Believers should*** remain faithful to Christ’s reign, take confidence in His ultimate judgment and justice, and live in readiness for the resurrection and eternal life (*vv. 4–6, 12*).
 
 **The New Heaven and Earth** *(21:1-9)*
 
@@ -770,6 +908,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 26 and they will bring the glory and the honor of the nations into it;  
 > 27 and nothing unclean, and no one who practices abomination and lying, shall ever come into it, but only those whose names are written in the Lamb’s book of life.
 
+**Revelation 21 Summary**
+
+***In Chapter 21, John*** sees a new heaven and a new earth, for the first heaven and earth have passed away (*v. 1*). He beholds the New Jerusalem coming down out of heaven from God, prepared as a bride adorned for her husband (*v. 2*). A loud voice declares that God will dwell among His people, wipe away every tear, and remove death, mourning, crying, and pain forever (*vv. 3–4*). God, seated on the throne, announces, *“Behold, I am making all things new,”* affirming that He is the Alpha and the Omega and promising the water of life to the one who thirsts (*vv. 5–7*). But the cowardly, unbelieving, immoral, and idolatrous will face the second death in the lake of fire (*v. 8*). One of the angels shows John the holy city, the New Jerusalem, described with radiant glory, precious stones, twelve gates named after Israel’s tribes, and twelve foundations named after the apostles (*vv. 9–14*). The city is measured, shining with the glory of God, needing no temple because the Lord God Almighty and the Lamb are its temple, and needing no sun or moon because the glory of God illumines it, and the Lamb is its lamp (*vv. 15–23*). Only those written in the Lamb’s book of life may enter (*vv. 24–27*).
+
+***Christ is presented as*** the Alpha and Omega, the Lamb who is the light and temple of the New Jerusalem, the giver of the water of life, and the one whose redeemed dwell forever in His presence (*vv. 5–7, 22–23, 27*).
+
+***Believers should*** long for the new creation, trust God’s promises, pursue holiness, and live as those whose names are written in the Lamb’s book of life (*vv. 3–4, 7, 27*).
+
 **The River and the Tree of Life** *(22:1-9)*
 
 > 1 Then he showed me a river of the water of life, clear as crystal, coming from the throne of God and of the Lamb,  
@@ -799,6 +945,14 @@ John writes about the great end-time events that will occur during the Day of th
 > 19 and if anyone takes away from the words of the book of this prophecy, God will take away his part from the tree of life and from the holy city, which are written in this book.  
 > 20 He who testifies to these things says, *“Yes, I am coming quickly.”* Amen. Come, Lord Jesus.  
 > 21 The grace of the Lord Jesus be with all. Amen.
+
+**Revelation 22 Summary**
+
+***In Chapter 22, John*** sees the river of the water of life flowing from the throne of God and of the Lamb, with the tree of life on both sides of the river bearing twelve kinds of fruit and leaves for the healing of the nations (*vv. 1–2*). No longer will there be any curse, for the throne of God and the Lamb will be in the city, and His servants will see His face and serve Him forever (*vv. 3–5*). The angel affirms that these words are faithful and true, and Jesus declares, *“Behold, I am coming quickly.”* John is instructed not to seal up the prophecy, for the time is near (*vv. 6–10*). Christ announces blessings to the obedient and warnings to the wicked, declaring Himself the Alpha and Omega, the first and the last (*vv. 12–15*). The Spirit and the bride invite all who are thirsty to come and take the water of life without cost (*v. 17*). A solemn warning is given not to add to or take away from the words of this prophecy (*vv. 18–19*). The book ends with the promise, *“Yes, I am coming quickly,”* and John’s prayer, *“Amen. Come, Lord Jesus.”* (*vv. 20–21*).
+
+***Christ is presented as*** the Lamb whose throne is with God, the giver of the water of life, the one whose face believers will see, the Alpha and Omega, and the one who is coming quickly to reward, judge, and restore all things (*vv. 3–5, 12–13, 20*).
+
+***Believers should*** long for Christ’s return, obey His words, come to Him for the water of life, worship and serve Him faithfully, and guard the integrity of Scripture (*vv. 6–7, 14, 17–20*).
 
 ## Class Exercise
 
