@@ -21,7 +21,6 @@ bibleReference: 2 3 John
   - [Table of Contents](#table-of-contents)
   - [CDI Notes - Content of 2 3 John](#cdi-notes---content-of-2-3-john)
   - [Chapter Headings of 2 3 John (NASB1995)](#chapter-headings-of-2-3-john-nasb1995)
-  - [2 and 3 John Summaries](#2-and-3-john-summaries)
   - [Survey of New Testament](#survey-of-new-testament)
   - [2 John Summary](#2-john-summary)
   - [3 John Summary](#3-john-summary)
@@ -110,21 +109,6 @@ Purpose & Key Verse
 
 - A Good Report
 
-## 2 and 3 John Summaries
-
-### 2 John CDI Summary  
-
-***In 2 John, the apostle*** writes to “the chosen lady and her children,” exhorting them to walk in truth and love, the commandments they have had from the beginning (*vv. 1–6*). He warns that many deceivers have gone out into the world, specifically those who do not confess Jesus Christ as coming in the flesh. Such a one is “the deceiver and the antichrist” (*v. 7*). Believers must guard themselves so that they do not lose what they have worked for but may receive a full reward (*v. 8*). Anyone who goes too far and does not abide in the teaching of Christ does not have God; the one who abides in the teaching has both the Father and the Son (*v. 9*). John instructs them not to receive false teachers into their homes or give them encouragement, lest they participate in their evil works (*vv. 10–11*). He ends with a brief hope of visiting them soon, that their joy may be made full (*vv. 12–13*).  
-***Christ is presented as*** the incarnate Son whose true teaching must be preserved, the one in whom abiding brings fellowship with both the Father and the Son (*vv. 7, 9*).  
-***Believers should*** walk in truth and love, guard against false teachers, abide in Christ’s doctrine, and refuse support to deceivers who deny the incarnation (*vv. 4–6, 8–11*).
-
-### 3 John CDI Summary  
-
-***In 3 John, the apostle*** commends Gaius for walking in the truth and showing hospitality to traveling brothers who preach the gospel (*vv. 1–8*). Gaius’s love and support make him a fellow worker with the truth. John contrasts this with Diotrephes, who refuses apostolic authority, speaks maliciously, rejects the brethren, and expels those who help them (*vv. 9–10*). John urges believers not to imitate what is evil but what is good, highlighting Demetrius as one who has a good testimony from all and from the truth itself (*v. 12*). John hopes to visit soon and speak face to face, closing with greetings from the brethren (*vv. 13–15*).  
-***Christ is presented as*** the truth in whom believers walk, the basis for Christian fellowship, and the one whose teaching authenticates true ministry (*vv. 3–4, 8*).  
-***Believers should*** support faithful ministers, imitate what is good, reject divisive and arrogant behavior, and walk in the truth with love and hospitality (*vv. 5–8, 11*).
-
-
 ## Survey of New Testament
 
 **Survey of the New Testament-Everyman's Bible Commentary** *(pg.269-273)*
@@ -163,6 +147,10 @@ The letter emphasizes the demonstration of truth or error in the believer's life
 
 ## 2 John Summary
 
+***In 2 John, the apostle*** writes to “the chosen lady and her children,” exhorting them to walk in truth and love, the commandments they have had from the beginning (*vv. 1–6*). He warns that many deceivers have gone out into the world, specifically those who do not confess Jesus Christ as coming in the flesh. Such a one is “the deceiver and the antichrist” (*v. 7*). Believers must guard themselves so that they do not lose what they have worked for but may receive a full reward (*v. 8*). Anyone who goes too far and does not abide in the teaching of Christ does not have God; the one who abides in the teaching has both the Father and the Son (*v. 9*). John instructs them not to receive false teachers into their homes or give them encouragement, lest they participate in their evil works (*vv. 10–11*). He ends with a brief hope of visiting them soon, that their joy may be made full (*vv. 12–13*).  
+***Christ is presented as*** the incarnate Son whose true teaching must be preserved, the one in whom abiding brings fellowship with both the Father and the Son (*vv. 7, 9*).  
+***Believers should*** walk in truth and love, guard against false teachers, abide in Christ’s doctrine, and refuse support to deceivers who deny the incarnation (*vv. 4–6, 8–11*).
+
 ### I. Greetings
 
 **Walk According to His Commandments** *(1-13)*
@@ -191,6 +179,10 @@ The letter emphasizes the demonstration of truth or error in the believer's life
 > 13 The children of your chosen sister greet you.
 
 ## 3 John Summary
+
+***In 3 John, the apostle*** commends Gaius for walking in the truth and showing hospitality to traveling brothers who preach the gospel (*vv. 1–8*). Gaius’s love and support make him a fellow worker with the truth. John contrasts this with Diotrephes, who refuses apostolic authority, speaks maliciously, rejects the brethren, and expels those who help them (*vv. 9–10*). John urges believers not to imitate what is evil but what is good, highlighting Demetrius as one who has a good testimony from all and from the truth itself (*v. 12*). John hopes to visit soon and speak face to face, closing with greetings from the brethren (*vv. 13–15*).  
+***Christ is presented as*** the truth in whom believers walk, the basis for Christian fellowship, and the one whose teaching authenticates true ministry (*vv. 3–4, 8*).  
+***Believers should*** support faithful ministers, imitate what is good, reject divisive and arrogant behavior, and walk in the truth with love and hospitality (*vv. 5–8, 11*).
 
 ### I. Commendation for Gaius
 

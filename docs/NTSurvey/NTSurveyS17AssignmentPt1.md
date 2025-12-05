@@ -117,24 +117,6 @@ John writes about the great end-time events that will occur during the Day of th
 
 ## Revelation Summary
 
-### Revelation Chapter 1  
-
-***In Chapter 1, John*** receives the revelation of Jesus Christ while exiled on Patmos. He is instructed to write what he sees to the seven churches in Asia (*vv. 1–3, 9–11*). John describes a vision of the risen Christ standing among seven golden lampstands, holding seven stars in His right hand. His appearance is majestic and overwhelming—His voice like many waters, His face shining like the sun, and His eyes like a flame of fire (*vv. 12–16*). John falls at His feet, but Christ declares, *“Do not be afraid; I am the first and the last… I was dead, and behold, I am alive forevermore”* (*vv. 17–18*). The mystery of the lampstands and stars is explained: the lampstands are the seven churches, and the stars are their angels (*v. 20*).  
-***Christ is presented as*** the risen, glorified Son of Man, eternal and sovereign, holding authority over death and Hades, walking among His churches, and revealing Himself with divine majesty (*vv. 12–18*).  
-***Believers should*** hear the words of this prophecy, keep what is written, and live in reverent awareness of Christ’s presence and authority (*vv. 3, 11, 19*).
-
-### Revelation Chapter 2  
-
-***In Chapter 2, John*** relays Christ’s messages to the first four churches: Ephesus, Smyrna, Pergamum, and Thyatira. Ephesus is commended for endurance but rebuked for abandoning its first love and called to repent (*vv. 1–7*). Smyrna is encouraged to remain faithful unto death amid suffering (*vv. 8–11*). Pergamum is praised for holding fast to Christ’s name yet rebuked for tolerating false teaching and immorality, urged to repent (*vv. 12–17*). Thyatira is commended for love, faith, service, and perseverance but rebuked for permitting a false prophetess who misleads believers into immorality; those who hold fast will receive authority from Christ (*vv. 18–29*).  
-***Christ is presented as*** the one who walks among the churches, knows their works, holds the sharp two-edged sword, is the First and the Last, and searches minds and hearts (*vv. 1, 8, 12, 18, 23*).  
-***Believers should*** repent where needed, reject false teaching, remain faithful in suffering, persevere in works of love and holiness, and hold fast until Christ comes (*vv. 5, 10, 16, 24–26*).
-
-### Revelation Chapter 3  
-
-***In Chapter 3, John*** delivers Christ’s messages to the churches in Sardis, Philadelphia, and Laodicea. Sardis has a reputation for life but is spiritually dead; Christ commands them to wake up, strengthen what remains, and repent (*vv. 1–6*). Philadelphia is commended for keeping Christ’s word and not denying His name; Christ promises protection, an open door no one can shut, and a permanent place in God’s temple (*vv. 7–13*). Laodicea is rebuked for being lukewarm—neither hot nor cold—and is urged to buy true spiritual riches from Christ and open the door to Him in repentance (*vv. 14–22*).  
-***Christ is presented as*** the one who has the seven spirits of God, the holy and true one with the key of David, the faithful and true witness, the beginning (origin) of God’s creation, and the one who disciplines those He loves (*vv. 1, 7, 14, 19*).  
-***Believers should*** wake up spiritually, keep Christ’s word, endure, repent of lukewarmness, open the door to Christ’s fellowship, and hold fast their faith until He comes (*vv. 3, 8, 11, 19–20*).
-
 ### I. Introduction
 
 **The Revelation of Jesus Christ** *(1:1-3)*
@@ -167,6 +149,12 @@ John writes about the great end-time events that will occur during the Day of th
 > 18 *and the living One; and I was dead, and behold, I am alive forevermore, and I have the keys of death and of Hades.*  
 > 19 *Therefore write the things which you have seen, and the things which are, and the things which will take place after these things.*  
 > 20 *As for the mystery of the seven stars which you saw in My right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.*
+
+**Revelation Chapter 1 Summary**
+
+***In Chapter 1, John*** receives the revelation of Jesus Christ while exiled on Patmos. He is instructed to write what he sees to the seven churches in Asia (*vv. 1–3, 9–11*). John describes a vision of the risen Christ standing among seven golden lampstands, holding seven stars in His right hand. His appearance is majestic and overwhelming—His voice like many waters, His face shining like the sun, and His eyes like a flame of fire (*vv. 12–16*). John falls at His feet, but Christ declares, *“Do not be afraid; I am the first and the last… I was dead, and behold, I am alive forevermore”* (*vv. 17–18*). The mystery of the lampstands and stars is explained: the lampstands are the seven churches, and the stars are their angels (*v. 20*).  
+***Christ is presented as*** the risen, glorified Son of Man, eternal and sovereign, holding authority over death and Hades, walking among His churches, and revealing Himself with divine majesty (*vv. 12–18*).  
+***Believers should*** hear the words of this prophecy, keep what is written, and live in reverent awareness of Christ’s presence and authority (*vv. 3, 11, 19*).
 
 ### III. The Things Which Are The Possessions of Christ
 
@@ -215,6 +203,12 @@ John writes about the great end-time events that will occur during the Day of th
 > 28 *and I will give him the morning star.*  
 > 29 *He who has an ear, let him hear what the Spirit says to the churches.’*
 
+**Revelation Chapter 2 Summary**
+
+***In Chapter 2, John*** relays Christ’s messages to the first four churches: Ephesus, Smyrna, Pergamum, and Thyatira. Ephesus is commended for endurance but rebuked for abandoning its first love and called to repent (*vv. 1–7*). Smyrna is encouraged to remain faithful unto death amid suffering (*vv. 8–11*). Pergamum is praised for holding fast to Christ’s name yet rebuked for tolerating false teaching and immorality, urged to repent (*vv. 12–17*). Thyatira is commended for love, faith, service, and perseverance but rebuked for permitting a false prophetess who misleads believers into immorality; those who hold fast will receive authority from Christ (*vv. 18–29*).  
+***Christ is presented as*** the one who walks among the churches, knows their works, holds the sharp two-edged sword, is the First and the Last, and searches minds and hearts (*vv. 1, 8, 12, 18, 23*).  
+***Believers should*** repent where needed, reject false teaching, remain faithful in suffering, persevere in works of love and holiness, and hold fast until Christ comes (*vv. 5, 10, 16, 24–26*).
+
 **Message to Sardis** *(3:1-6)*
 
 > 1 *“To the angel of the church in Sardis write:*  
@@ -248,6 +242,12 @@ John writes about the great end-time events that will occur during the Day of th
 > 20 *Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me.*  
 > 21 He who overcomes, I will grant to him to sit down with Me on My throne, as I also overcame and sat down with My Father on His throne.*  
 > 22 *He who has an ear, let him hear what the Spirit says to the churches.’ ”*
+
+**Revelation Chapter 3 Summary**
+
+***In Chapter 3, John*** delivers Christ’s messages to the churches in Sardis, Philadelphia, and Laodicea. Sardis has a reputation for life but is spiritually dead; Christ commands them to wake up, strengthen what remains, and repent (*vv. 1–6*). Philadelphia is commended for keeping Christ’s word and not denying His name; Christ promises protection, an open door no one can shut, and a permanent place in God’s temple (*vv. 7–13*). Laodicea is rebuked for being lukewarm—neither hot nor cold—and is urged to buy true spiritual riches from Christ and open the door to Him in repentance (*vv. 14–22*).  
+***Christ is presented as*** the one who has the seven spirits of God, the holy and true one with the key of David, the faithful and true witness, the beginning (origin) of God’s creation, and the one who disciplines those He loves (*vv. 1, 7, 14, 19*).  
+***Believers should*** wake up spiritually, keep Christ’s word, endure, repent of lukewarmness, open the door to Christ’s fellowship, and hold fast their faith until He comes (*vv. 3, 8, 11, 19–20*).
 
 ## Class Exercise
 
