@@ -1,23 +1,32 @@
 # Introduction to Bibliography Session 1
+
 ## SESSION 1, PART 1– INTRODUCTION TO BIBLIOLOGY
+
 At the end of this session, you will be able to explain the following:
+
 - The Basics of Online Video Learning
 - Theistic Belief Systems
 - Revelation (Definition)
 - General Revelation
 
 ## Introduction to Bibliology
+
 Theistic Belief Systems:
+
 1. Pantheism - All is God
 2. Polytheism - Many Gods
 3. Atheism - Belief in no God
 4. Deism - Belief in a non-personal God
 5. Theism - Belief in a personally involved God
-#### Revelation - Truth Revealed
+
+### Revelation - Truth Revealed
+
 #### General Revelation
+
 1. Nature’s witness
 
 **Psalm 19:1-4**
+>
 > 1. *The heavens tell of the glory of God; And their expanse declares the work of His hands.*
 > 2. *Day to day pours forth speech, And night to night reveals knowledge.*
 > 3. *There is no speech, nor are there words; Their voice is not heard.*
@@ -114,4 +123,4 @@ Theistic Belief Systems:
 
 **Romans 2:14-15**
 > 14. *For when Gentiles who do not have the Law instinctively perform the requirements of the Law, these, though not having the Law, are a law to themselves,*
-> 15. *in that they show the work of the Law written in their hearts, their conscience testifying and their thoughts alternately accusing or else defending them,* 
+> 15. *in that they show the work of the Law written in their hearts, their conscience testifying and their thoughts alternately accusing or else defending them,*

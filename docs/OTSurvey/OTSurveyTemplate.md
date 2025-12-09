@@ -15,14 +15,10 @@ bibleReference: Genesis
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes](#cdi-notes)
-
 ## CDI Notes
 
 **Instructors Guide** *(pg.338)*
 
-### Key Verses
+## Key Verses
+
+## Class Exercise

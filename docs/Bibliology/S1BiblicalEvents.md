@@ -1,6 +1,7 @@
 # CLASS ACTIVITY: CREATING A BIBLE TIMELINE REFERENCE
 
-## Biblical Events (Approximated & Rounded to Nearest 5):
+## Biblical Events (Approximated & Rounded to Nearest 5)
+
 - CREATION and the FALL of MAN - 4000BC
 - The FLOOD - 2350BC
 - The TOWER of BABEL - 2235BC
@@ -35,7 +36,8 @@
   
 ---
 
-## POST BIBLICAL EVENTS:
+## POST BIBLICAL EVENTS
+
 - NERO PERSECUTES the CHURCH - 65AD
 - JERUSALEM DESTROYED - 70AD
 - DOMITIAN PERSECUTES the CHURCH - 90AD
@@ -56,7 +58,8 @@
 
 ---
 
-## KEY PEOPLE (approximated and rounded to nearest 10):
+## KEY PEOPLE (approximated and rounded to nearest 10)
+
 - ADAM - (4000 - 3070BC)
 - SETH - (3870 - 2980BC)
 - METHUSELAH - (3310 - 2350BC)
@@ -70,7 +73,8 @@
 
 ---
 
-## PROPHETS (approximated and rounded to nearest 10):
+## PROPHETS (approximated and rounded to nearest 10)
+
 - ISAIAH - (740 - 690BC)
 - JEREMIAH - (630 - 580BC)
 - EZEKIEL - (590 - 570BC)

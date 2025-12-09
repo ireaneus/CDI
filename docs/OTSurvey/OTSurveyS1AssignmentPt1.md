@@ -15,14 +15,6 @@ bibleReference: Genesis
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes](#cdi-notes)
-  - [Key Verses](#key-verses)
-  - [Class Exercise](#class-exercise)
-
 ## CDI Notes
 
 **Instructors Guide** *(pg.19)*
@@ -190,7 +182,7 @@ The Old Testament Bible timeline is a classroom project completed throughout the
 4. Break into groups of four students per timeline for larger groups and assign a leader for each group. Students will be supplied timeline references (refer to Timeline References section of the guide) to fill in their timeline. Different colored pens should be used for different groups of events listed below. Have group leader make assignments.
 5. Additional dates may be included from [www.biblehub.com/timeline/](https://www.biblehub.com/timeline/) if online access is available in the classroom. Students may also supplement post Biblical historical events from personal knowledge.
 
-### Timelines References
+## Timelines References
 
 **Group 1: Biblical Events (approximated and rounded):**  
 
@@ -201,24 +193,99 @@ The Old Testament Bible timeline is a classroom project completed throughout the
 - *1760 BC* - JACOB flees from ESAU
 - *1715 BC* - JOSEPH becomes EGYPT’S PRIME MINISTER
 - *1705 BC* - JACOB’S FAMILY enters EGYPT
-JOSEPH DIES – 1635 BC
-MOSES BORN – 1570 BC
-The EXODUS – 1490 BC
-JOSHUA and the ISRAELITES cross RIVER JORDAN – 1450 BC
-SAUL becomes ISRAEL’S first KING – 1095 BC
-DAVID becomes ISRAEL’S second KING – 1055 BC
-SOLOMON becomes ISRAEL’S third KING – 1015 BC
-SOLOMON builds ISRAEL’S first TEMPLE – 1005 BC
-The KINGDOM is DIVIDED into ISRAEL & JUDAH – 975 BC
-ISRAEL goes into ASSIRIAN CAPTIVITY – 721 BC
-JUDAH goes into BABYLONIAN CAPTIVITY – 586 BC
-The JEWS RETURN from EXILE – 535 BC
-The SECOND TEMPLE is BUILT – 515 BC
-NEHEMIAH rebuilds JERUSALEM’S WALLS – 450 BC
-JEWS CONQUERED by ALEXANDER – 320 BC
-JEWS LIBERATED by the MACCABEES – 165 BC
-JEWS CONQUERED by ROME – 64 BC
-HEROD REMODELS the second TEMPLE – 20 BC
-JESUS is BORN – 4 BC
-PAUL is BORN – 2 BC
-JESUS is CRUCIFIED – 30 AD
+- *1635 BC* - JOSEPH DIES
+- *1570 BC* - MOSES BORN
+- *1490 BC* - The EXODUS
+- *1450 BC* - JOSHUA and the ISRAELITES cross RIVER JORDAN
+- *1095 BC* - SAUL becomes ISRAEL’S first KING
+- *1055 BC* - DAVID becomes ISRAEL’S second KING
+- *1015 BC* - SOLOMON becomes ISRAEL’S third KING
+- *1005 BC* - SOLOMON builds ISRAEL’S first TEMPLE
+- *975 BC* - The KINGDOM is DIVIDED into ISRAEL & JUDAH
+- *721 BC* - ISRAEL goes into ASSIRIAN CAPTIVITY
+- *586 BC* - JUDAH goes into BABYLONIAN CAPTIVITY
+- *535 BC* - The JEWS RETURN from EXILE
+- *515 BC* - The SECOND TEMPLE is BUILT
+- *450 BC* - NEHEMIAH rebuilds JERUSALEM’S WALLS
+- *320 BC* - JEWS CONQUERED by ALEXANDER
+- *165 BC* - JEWS LIBERATED by the MACCABEES
+- *64 BC* - JEWS CONQUERED by ROME
+- *20 BC* - HEROD REMODELS the second TEMPLE
+- *4 BC* - JESUS is BORN
+- *2 BC* - PAUL is BORN
+- *27 AD* - JESUS is CRUCIFIED
+
+**Group 2: KEY PEOPLE (approximated and rounded):**
+
+- ADAM - 4000/3070 BC
+- SETH - 3870/2960 BC
+- ENOS - 3770/2870BC
+- CAINAN - 3680/2770 BC
+- MAHALALEL - 3610/2715C
+- JARED - 3545/2580 BC
+- ENOCH - 3380/3015 BC
+- METHUSELAH - 3310/2350 BC
+- LAMECH - 3130/2355BC
+- NOAH - 2950/2000 BC
+- SHEM - 2450/1850 BC
+- ARPHAXAD - 2350/19
+- SALAH - 2310/1880BC
+- EBER – 2280/1820BC
+- PELEG – 2250/2010
+- REU – 2220/1980
+- SERUG -2185/1955
+- NAHOR – 2155-1920
+- TERAH – 2125-1920
+- ABRAHAM – 2170/1990 BC
+- ISSAC – 2070/1890 BC
+- JACOB – 2010/1860 BC
+- JOSEPH – 1920/1810 BC
+- MOSES – 1530/1410 BC
+
+**Group 3: PROPHETS (approximated and rounded):**  
+
+- ISAIAH – 740/690 BC
+- JEREMIAH – 630/580 BC
+- EZEKIEL – 590/570 BC
+- DANIEL – 610/540 BC
+- HOSEA – 760/720 BC
+- JOEL – 840/? BC
+- AMOS – 760/750 BC
+- OBADIAH – 850/840 BC
+- JONAH – 780/750 BC
+- MICAH – 740/700 BC
+- NAHUM – 660/650 BC
+- HABAKKUK – 610/600 BC
+- ZEPHANIAH – 640/630 BC
+- HAGGAI/ZECHARIAH – 520/490 BC
+- MALACHI – 435/415 BC
+
+**Group Four: BOOKS OF THE BIBLE (find approx. time period covered & when written):**  
+
+It’s important to note that even though the Bible is God’s inspired, inerrant Word, there is some disagreement as to the exact dating of the Biblical books.
+
+| **Book of the OT** | **Written in Date** | **Book of the OT** | **Written in Date** |
+| :----------------: | :-----------------: | :----------------: | :-----------------: |
+| Job | 2000 BC; Written? | | |
+| Genesis | 1490 BC | Leviticus | 1490 BC |
+| Exodus | 1490 BC | Numbers | 1490 BC |
+| Deuteronomy | 1490 BC | | |
+| Joshua | 1450 - 1390 BC | Psalms | 1400 - 500 BC |
+| Judges | 1374 - 1129 BC | | |
+| Ruth | 1150? BC | | |
+| 1 Samuel | 1100 - 1015 BC | 1 Chronicles | 1010 -1015 BC; Written: 450 - 425 BC |
+| 2 Samuel | 1015 - 975 BC | 2 Chronicles | 1015 - 500 BC; Written: 450 - 425 BC |
+| Song of Solomon | 1000 BC | Proverbs | 1015 - 700 BC |
+| 1 Kings | 975 - 850 BC | Ecclesiastes | 970 BC |
+| 2 Kings | 850 - 500 BC | Joel | 835 BC |
+| Isaiah | 740 - 690 BC | Jonah | 760 BC |
+| Amos | 755 BC | Hosea | 720 BC |
+| Michah | 700 BC | Nahum | 663 - 612 BC |
+| Jeremiah | 627 - 585 BC | Daniel | 605 - 536 BC |
+| Habakkuk | 607 BC | Ezekiel | 593 - 560 BC |
+| Lamentations | 586 BC | Obadiah | 586 BC |
+| Haggai | 520 BC | | |
+| Zephaniah | 520 - 518 BC | Zechariah | 520 - 518 BC |
+| Esther | 465 BC | | |
+| Ezra | 450 BC | Malachi | 450 BC |
+| Nehemiah | 445 - 425 BC | | |
