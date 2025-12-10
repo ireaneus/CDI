@@ -1,10 +1,10 @@
 ---
 title: OTSurvey - Session 1 Part 1 - Introduction/Doctrine of Inspiration
-date: 63 B.C.
-writer: Moses
-category: Law
-description: 
-bibleReference: Genesis
+date: 4000 - 425 BC
+writer: 70 writers
+category: Law, Psalms, and the prophets
+description: What Jesus read to his disciples, the first 39 books of the Old Testament.
+bibleReference: Genesis - Malachi
 ---
 
 # {{ page.meta.title }}
@@ -125,7 +125,7 @@ God Speaking to Joshua
 
 Psalm 19
 
-- Psalm 19 gives a powerful sense of the inestimable value an Old Testament believer placed on the words of divine Scripture. The law of the LORD is perfect, reviving the soul. The statutes of the LORD are trustworthy, making wise the simple. The precepts of the LORD are right, giving joy to the heart. The commands of the LORD are radiant, giving light to the eyes…The ordinances of the LORD are sure and altogether righteous. They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the comb. By them is your servant warned; in keeping them there is great reward. Psalm 19:7-11
+- Psalm 19 gives a powerful sense of the inestimable value an Old Testament believer placed on the words of divine Scripture. *"The law of the LORD is perfect, reviving the soul. The statutes of the LORD are trustworthy, making wise the simple. The precepts of the LORD are right, giving joy to the heart. The commands of the LORD are radiant, giving light to the eyes…The ordinances of the LORD are sure and altogether righteous. They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the comb. By them is your servant warned; in keeping them there is great reward."* Psalm 19:7-11
 
 Psalm 119
 
@@ -289,3 +289,5 @@ It’s important to note that even though the Bible is God’s inspired, inerran
 | Esther | 465 BC | | |
 | Ezra | 450 BC | Malachi | 450 BC |
 | Nehemiah | 445 - 425 BC | | |
+
+![OT Timeline](OTTimeline.png)
