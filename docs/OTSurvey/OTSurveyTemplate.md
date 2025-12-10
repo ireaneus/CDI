@@ -1,5 +1,5 @@
 ---
-title: OTSurvey - Session 1 Part 1 - TEMPLATE
+title: OTSurvey - TEMPLATE
 date: 63 B.C.
 writer: Moses
 category: Law
