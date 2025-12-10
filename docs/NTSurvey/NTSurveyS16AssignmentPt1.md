@@ -167,36 +167,6 @@ The theme of this book is fellowship. Fellowship with the Father is built upon t
 
 ## 1 John Summary
 
-### 1 John Chapter 1  
-
-***In Chapter 1, John*** proclaims the message of the eternal Word of life whom he and the other apostles heard, saw, and touched. He announces this so that believers may share fellowship with the Father and the Son (*vv. 1–3*). John declares that God is light, and in Him there is no darkness at all (*v. 5*). Walking in the light results in fellowship with one another and cleansing through the blood of Jesus. Confession of sin brings forgiveness and cleansing, while denying sin is self-deception (*vv. 6–10*).  
-***Christ is presented as*** the eternal Word of life made manifest, and the one whose blood cleanses believers from all sin (*vv. 1–2, 7*).  
-***Believers should*** walk in the light, confess their sins, and pursue true fellowship with God and one another (*vv. 5–7, 9*).
-
-### 1 John Chapter 2  
-
-***In Chapter 2, John*** urges believers not to sin, yet assures them that if anyone does, they have an Advocate with the Father—Jesus Christ the righteous (*vv. 1–2*). He teaches that those who know God obey His commands and walk as Jesus walked. A new yet old commandment is given: to love one another (*vv. 7–11*). John warns believers not to love the world or the things in it because the world is passing away (*vv. 15–17*). He alerts them to antichrists who deny the Son and thereby deny the Father (*vv. 18–23*). They must remain in what they heard from the beginning and abide in Christ (*vv. 24–29*).  
-***Christ is presented as*** the righteous Advocate and the propitiation for sins, the true Light, and the Son whose relationship with the Father cannot be denied (*vv. 1–2, 8, 22–23*).  
-***Believers should*** obey God’s commands, love one another, reject the world’s values, guard against deception, and abide in Christ (*vv. 3, 10, 15, 24, 28*).
-
-### 1 John Chapter 3  
-
-***In Chapter 3, John*** marvels at the love of the Father in calling believers His children (*v. 1*). He contrasts the children of God with the children of the devil, teaching that those born of God practice righteousness and do not live in habitual sin (*vv. 4–10*). Love is the defining mark of God’s children: just as Jesus laid down His life, believers must love in deed and truth (*vv. 11–18*). Confidence before God comes through a clear conscience and obedience to His commands (*vv. 19–24*).  
-***Christ is presented as*** the one who appeared to take away sins, destroyed the works of the devil, and demonstrated perfect love by laying down His life (*vv. 5, 8, 16*).  
-***Believers should*** practice righteousness, avoid sin, love in action and truth, and keep God’s commandments while abiding in Him (*vv. 7, 11, 18, 23–24*).
-
-### 1 John Chapter 4  
-
-***In Chapter 4, John*** instructs believers to test the spirits, for many false prophets have gone out into the world. The true Spirit confesses that Jesus Christ has come in the flesh (*vv. 1–3*). God’s people overcome falsehood because He who is in them is greater than he who is in the world (*v. 4*). The supreme evidence of knowing God is love, because God is love (*vv. 7–8*). God’s love is revealed in sending His only Son as the propitiation for sins (*v. 10*). Perfect love casts out fear, and those who love God must also love their brothers (*vv. 17–21*).  
-***Christ is presented as*** the Son of God sent into the world as Savior and propitiation, whose incarnation is the test of true teaching (*vv. 2, 9–10, 14*).  
-***Believers should*** test the spirits, love one another, abide in God’s love, and reject fear through the perfect love revealed in Christ (*vv. 1, 7, 16–18*).
-
-### 1 John Chapter 5  
-
-***In Chapter 5, John*** explains that everyone who believes Jesus is the Christ is born of God, and true love for God is shown by keeping His commandments (*vv. 1–3*). Faith is the victory that overcomes the world (*v. 4*). The testimony about Christ is confirmed by the Spirit, the water, and the blood (*vv. 6–8*). Eternal life is in God’s Son, and whoever has the Son has life (*vv. 11–12*). John assures believers that God hears their prayers and that they may intercede for those committing sins not leading to death (*vv. 14–17*). He concludes with three certainties: believers are born of God, the world lies in the power of the evil one, and the Son has come to give understanding so that we may know the true God (*vv. 18–21*).  
-***Christ is presented as*** the Christ, the Son of God, the one who came by water and blood, the giver of eternal life, and the true God revealed to believers (*vv. 1, 6, 11–12, 20*).  
-***Believers should*** overcome the world by faith, keep God’s commandments, pray with confidence, avoid sin, and keep themselves from idols (*vv. 4, 3, 14, 18, 21*).
-
 ### I. Introduction
 
 **The Incarnate Word** *(1:1-4)*
@@ -216,6 +186,12 @@ The theme of this book is fellowship. Fellowship with the Father is built upon t
 > 8 If we say that we have no sin, we are deceiving ourselves and the truth is not in us.  
 > 9 If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness.  
 > 10 If we say that we have not sinned, we make Him a liar and His word is not in us.
+
+**1 John Chapter 1**
+
+***In Chapter 1, John*** proclaims the message of the eternal Word of life whom he and the other apostles heard, saw, and touched. He announces this so that believers may share fellowship with the Father and the Son (*vv. 1–3*). John declares that God is light, and in Him there is no darkness at all (*v. 5*). Walking in the light results in fellowship with one another and cleansing through the blood of Jesus. Confession of sin brings forgiveness and cleansing, while denying sin is self-deception (*vv. 6–10*).  
+***Christ is presented as*** the eternal Word of life made manifest, and the one whose blood cleanses believers from all sin (*vv. 1–2, 7*).  
+***Believers should*** walk in the light, confess their sins, and pursue true fellowship with God and one another (*vv. 5–7, 9*).
 
 **Christ is Our Advocate** *(2:1-14)*
 
@@ -258,6 +234,12 @@ The theme of this book is fellowship. Fellowship with the Father is built upon t
 > 28 Now, little children, abide in Him, so that when He appears, we may have confidence and not shrink away from Him in shame at His coming.  
 > 29 If you know that He is righteous, you know that everyone also who practices righteousness is born of Him.
 
+**1 John Chapter 2**
+
+***In Chapter 2, John*** urges believers not to sin, yet assures them that if anyone does, they have an Advocate with the Father—Jesus Christ the righteous (*vv. 1–2*). He teaches that those who know God obey His commands and walk as Jesus walked. A new yet old commandment is given: to love one another (*vv. 7–11*). John warns believers not to love the world or the things in it because the world is passing away (*vv. 15–17*). He alerts them to antichrists who deny the Son and thereby deny the Father (*vv. 18–23*). They must remain in what they heard from the beginning and abide in Christ (*vv. 24–29*).  
+***Christ is presented as*** the righteous Advocate and the propitiation for sins, the true Light, and the Son whose relationship with the Father cannot be denied (*vv. 1–2, 8, 22–23*).  
+***Believers should*** obey God’s commands, love one another, reject the world’s values, guard against deception, and abide in Christ (*vv. 3, 10, 15, 24, 28*).
+
 **Children of God Love One Another** *(3:1-24)*
 
 > 1 See how great a love the Father has bestowed on us, that we would be called children of God; and such we are. For this reason the world does not know us, because it did not know Him.  
@@ -285,6 +267,11 @@ The theme of this book is fellowship. Fellowship with the Father is built upon t
 > 23 This is His commandment, that we believe in the name of His Son Jesus Christ, and love one another, just as He commanded us.  
 > 24 The one who keeps His commandments abides in Him, and He in him. We know by this that He abides in us, by the Spirit whom He has given us.
 
+**1 John Chapter 3**
+
+***In Chapter 3, John*** marvels at the love of the Father in calling believers His children (*v. 1*). He contrasts the children of God with the children of the devil, teaching that those born of God practice righteousness and do not live in habitual sin (*vv. 4–10*). Love is the defining mark of God’s children: just as Jesus laid down His life, believers must love in deed and truth (*vv. 11–18*). Confidence before God comes through a clear conscience and obedience to His commands (*vv. 19–24*).  
+***Christ is presented as*** the one who appeared to take away sins, destroyed the works of the devil, and demonstrated perfect love by laying down His life (*vv. 5, 8, 16*).  
+***Believers should*** practice righteousness, avoid sin, love in action and truth, and keep God’s commandments while abiding in Him (*vv. 7, 11, 18, 23–24*).
 **Testing the Spirits** *(4:1-6)*
 
 > 1 Beloved, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.  
@@ -314,6 +301,11 @@ The theme of this book is fellowship. Fellowship with the Father is built upon t
 > 20 If someone says, *“I love God,”* and hates his brother, he is a liar; for the one who does not love his brother whom he has seen, cannot love God whom he has not seen.  
 > 21 And this commandment we have from Him, that the one who loves God should love his brother also.
 
+**1 John Chapter 4**
+
+***In Chapter 4, John*** instructs believers to test the spirits, for many false prophets have gone out into the world. The true Spirit confesses that Jesus Christ has come in the flesh (*vv. 1–3*). God’s people overcome falsehood because He who is in them is greater than he who is in the world (*v. 4*). The supreme evidence of knowing God is love, because God is love (*vv. 7–8*). God’s love is revealed in sending His only Son as the propitiation for sins (*v. 10*). Perfect love casts out fear, and those who love God must also love their brothers (*vv. 17–21*).  
+***Christ is presented as*** the Son of God sent into the world as Savior and propitiation, whose incarnation is the test of true teaching (*vv. 2, 9–10, 14*).  
+***Believers should*** test the spirits, love one another, abide in God’s love, and reject fear through the perfect love revealed in Christ (*vv. 1, 7, 16–18*).
 **Overcoming the World** *(5:1-12)*
 
 > 1 Whoever believes that Jesus is the Christ is born of God, and whoever loves the Father loves the child born of Him.  
@@ -342,6 +334,12 @@ The theme of this book is fellowship. Fellowship with the Father is built upon t
 > 19 We know that we are of God, and that the whole world lies in the power of the evil one.  
 > 20 And we know that the Son of God has come, and has given us understanding so that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. This is the true God and eternal life.  
 > 21 Little children, guard yourselves from idols.
+
+**1 John Chapter 5**
+
+***In Chapter 5, John*** explains that everyone who believes Jesus is the Christ is born of God, and true love for God is shown by keeping His commandments (*vv. 1–3*). Faith is the victory that overcomes the world (*v. 4*). The testimony about Christ is confirmed by the Spirit, the water, and the blood (*vv. 6–8*). Eternal life is in God’s Son, and whoever has the Son has life (*vv. 11–12*). John assures believers that God hears their prayers and that they may intercede for those committing sins not leading to death (*vv. 14–17*). He concludes with three certainties: believers are born of God, the world lies in the power of the evil one, and the Son has come to give understanding so that we may know the true God (*vv. 18–21*).  
+***Christ is presented as*** the Christ, the Son of God, the one who came by water and blood, the giver of eternal life, and the true God revealed to believers (*vv. 1, 6, 11–12, 20*).  
+***Believers should*** overcome the world by faith, keep God’s commandments, pray with confidence, avoid sin, and keep themselves from idols (*vv. 4, 3, 14, 18, 21*).
 
 ## Class Exercise
 

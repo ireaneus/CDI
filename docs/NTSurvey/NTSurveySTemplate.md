@@ -15,16 +15,6 @@ bibleReference: 2 Timothy
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of 1 Timothy](#cdi-notes---content-of-1-timothy)
-  - [Chapter Headings of 2 Timothy (NASB1995)](#chapter-headings-of-2-timothy-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [2 Timothy Summary](#2-timothy-summary)
-  - [Class Exercise](#class-exercise)
-
 ## CDI Notes - Content of 1 Timothy
 
 **Instructors Guide** *(pg.338)*

@@ -15,21 +15,6 @@ bibleReference: 1 Peter
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of 1 Peter](#cdi-notes---content-of-1-peter)
-  - [Chapter Headings of 1 Peter (NASB1995)](#chapter-headings-of-1-peter-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [1 Peter Summary](#1-peter-summary)
-  - [I. Opening Praise](#i-opening-praise)
-  - [II. Exhortations Because of our Position in the Lord](#ii-exhortations-because-of-our-position-in-the-lord)
-  - [III. Exhortations Because of our Position in the World](#iii-exhortations-because-of-our-position-in-the-world)
-  - [IV. Exhortations Because of Our Position in the Church](#iv-exhortations-because-of-our-position-in-the-church)
-  - [Conclusion](#conclusion)
-  - [Class Exercise](#class-exercise)
-
 ## CDI Notes - Content of 1 Peter
 
 Peter’s Key Confessions
@@ -282,7 +267,6 @@ Acts 15:6-11 Open the door to the Gentiles, keys that bring the Holy Spirit to t
 ---
 
 [Outline of 1 Peter](#outline-of-1-peter)  
-[Table of Contents](#table-of-contents)
 
 ## I. Opening Praise
 
@@ -368,7 +352,6 @@ Acts 15:6-11 Open the door to the Gentiles, keys that bring the Holy Spirit to t
 > 25 For you were continually straying like sheep, but now you have returned to the Shepherd and Guardian of your souls.
 
 [Outline of 1 Peter](#outline-of-1-peter)  
-[Table of Contents](#table-of-contents)
 
 **Godly Living** *(3:1-22)*
 
@@ -401,7 +384,6 @@ Acts 15:6-11 Open the door to the Gentiles, keys that bring the Holy Spirit to t
 > 22 who is at the right hand of God, having gone into heaven, after angels and authorities and powers had been subjected to Him.
 
 [Outline of 1 Peter](#outline-of-1-peter)  
-[Table of Contents](#table-of-contents)
 
 **Keep Fervent in your love** *(4:1-11)*
 
@@ -452,7 +434,6 @@ Acts 15:6-11 Open the door to the Gentiles, keys that bring the Holy Spirit to t
 > Peace be to you all who are in Christ.
 
 [Outline of 1 Peter](#outline-of-1-peter)  
-[Table of Contents](#table-of-contents)
 
 ## Class Exercise
 
