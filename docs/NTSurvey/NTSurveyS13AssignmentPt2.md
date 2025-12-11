@@ -19,106 +19,129 @@ bibleReference: Titus
 
 **Instructors Guide** *(pg.265)*
 
-Author
-Paul
-We believe that the letters ascribed to Paul were written by him in the course of the
-ministry as described in Acts or in the course of events which followed his imprisonment,
-but preceded his martyrdom.
-• In Scripture
-• In history
+We believe that the letters ascribed to Paul were written by him in the course of the ministry as described in Acts or in the course of events which followed his imprisonment, but preceded his martyrdom.
+
+- In Scripture
+- In history
+
 In Scripture & History
-• Titus 1:1 “Apostle”
-• Titus 1:5 “I left you in Crete…”
-• Titus 3:12 Nicopolis where Paul will winter
-• Acts 27:8 Lasea
-• Ministry in Crete Titus 1:5
-• Titus of Antioch Gal. 2:1-3
-• One author makes a case for Titus as Luke’s brother
-• Titus to Corinth, 2 Cor. 7:6-16
-• Paul testifies to the character 2 Cor. 8:16, 19, 23
-o Titus has an earnest heart
-o Titus appointed by the church
-o Partner and fellow worker
-o Includes Titus in “us,” Acts 20:5
+
+- Titus 1:1 *“Apostle”*
+- Titus 1:5 *“I left you in Crete…”*
+- Titus 3:12 Nicopolis where Paul will winter
+- Acts 27:8 Lasea
+- Ministry in Crete Titus 1:5
+- Titus of Antioch Gal. 2:1-3
+- One author makes a case for Titus as Luke’s brother
+- Titus to Corinth, 2 Cor. 7:6-16
+- Paul testifies to the character 2 Cor. 8:16, 19, 23
+  - Titus has an earnest heart
+  - Titus appointed by the church
+  - Partner and fellow worker
+  - Includes Titus in *“us,”* Acts 20:5
+
 Dating 63 AD
-• Origin
-• Destination
-• Evidence
+
+- Origin
+- Destination
+- Evidence
+
 Origin
-• Paul in Ephesus and sends a note back to Crete
-• Or sent with 1 Timothy from Macedonia
-• Acts 2:11 Cretans were at Pentecost
-• Titus may have worked there before Paul’s visit
+
+- Paul in Ephesus and sends a note back to Crete
+- Or sent with 1 Timothy from Macedonia
+- Acts 2:11 Cretans were at Pentecost
+- Titus may have worked there before Paul’s visit
 
 Destination
-• Island of Crete, Titus 1:5
-• Three cities: Gortyn, Lasea, Phoenix
-• Titus the intended reader
-o Through him to the church receives a Pauline letter
-• Resolves authority issue
-Evidence
+
+- Island of Crete, Titus 1:5
+- Three cities: Gortyn, Lasea, Phoenix
+- Titus the intended reader
+  - Through him to the church receives a Pauline letter
+- Resolves authority issue
+
+Evidence  
 Internal:
-• Titus 1:1 very personal letter
-• Elder appointments, Acts 14:23 compared with 1:5
-• Pauline characteristic “in Christ,” “the faith”
+
+- Titus 1:1 very personal letter
+- Elder appointments, Acts 14:23 compared with 1:5
+- Pauline characteristic “in Christ,” “the faith”
+
 External:
-• Polycarp
-• Irenaeus
+
+- Polycarp
+- Irenaeus
+
 Purpose
-• Reader
-• Occasion
-• Intent
-• Key
+
+- Reader
+- Occasion
+- Intent
+- Key
+
 Reader
-• Titus 1:4 “Titus my true child in a common faith”
-• Titus is the once (Corinth) and future emissary of Paul
-• 2 Tim. 4:10 Paul agrees to send Titus to Dalmatia
-• Paul’s regard like 1 Tim. 1:2 “True child”
-• Brother, 2 Cor. 2:13
-• Partner, 2 Cor. 8:23
+
+- Titus 1:4 *“Titus my true child in a common faith”*
+- Titus is the once (Corinth) and future emissary of Paul
+- 2 Tim. 4:10 Paul agrees to send Titus to Dalmatia
+- Paul’s regard like 1 Tim. 1:2 “True child”
+- Brother, 2 Cor. 2:13
+- Partner, 2 Cor. 8:23
 
 Occasion
-• Paul’s recent visit, Titus 1:5
-• Moral laxity, church disorganization
-• Paul lacks firsthand knowledge, Titus 1:12
-• Encourage Titus to be his apostolic representation in Crete, Titus 3:9-12
-• Prepare Titus future assignment, Titus 3:12 compared with 2 Tim. 4:10
+
+- Paul’s recent visit, Titus 1:5
+- Moral laxity, church disorganization
+- Paul lacks firsthand knowledge, Titus 1:12
+- Encourage Titus to be his apostolic representation in Crete, Titus 3:9-12
+- Prepare Titus future assignment, Titus 3:12 compared with 2 Tim. 4:10
+
 Intent
-o Introduce itinerants Apollos and Zenas, Titus 3:13-14
-o Prepare their hospitable reception
-o Up Titus’ credibility
-o Augment previous instruction, Titus 1:4-5
-o Exhort to the work
+
+- Introduce itinerants Apollos and Zenas, Titus 3:13-14
+- Prepare their hospitable reception
+- Up Titus’ credibility
+- Augment previous instruction, Titus 1:4-5
+- Exhort to the work
 
 Characteristics
-• More compact but like 1 Timothy
-• Titus 1:6, 2:7, 14, 3:1, 8, 14
-o More emphasis on worthy conduct
-• Doctrinal summaries, Titus 3:5ff
-• Opponents are Judaizers
 
-Content
-Overview
-• Salutation
-• Administration of doctrine
-• Apply sound doctrine
-• Advice by sound doctrine
+- More compact but like 1 Timothy
+- Titus 1:6, 2:7, 14, 3:1, 8, 14
+  - More emphasis on worthy conduct
+- Doctrinal summaries, Titus 3:5ff
+- Opponents are Judaizers
+
+Content Overview
+
+- Salutation
+- Administration of doctrine
+- Apply sound doctrine
+- Advice by sound doctrine
+
 Salutation
-• Apostle. Titus 1:1
-• His child. Titus 1:4
+
+- Apostle. Titus 1:1
+- His child. Titus 1:4
+
 Administration of Doctrine
-• Through elders, Titus 1:5-9
-• Against false & immoral, Titus 1:10-16
+
+- Through elders, Titus 1:5-9
+- Against false & immoral, Titus 1:10-16
+
 Apply Sound Doctrine
-• To individuals, Titus 2:1-10
-• Summary gospel application, Titus 2:11-15
+
+- To individuals, Titus 2:1-10
+- Summary gospel application, Titus 2:11-15
+
 Advice by Sound Doctrine
-• To Cretans, Titus 3:1-8
-• To Titus, Titus 3:9-14
-• Greetings, Titus 3:15
-The letter to Titus is similar to 1 Timothy. However, there is little, if any, church
-development on the Island of Crete. So Titus must establish a rudimentary order and
-found a bulwark against ungodliness.
+
+- To Cretans, Titus 3:1-8
+- To Titus, Titus 3:9-14
+- Greetings, Titus 3:15
+
+The letter to Titus is similar to 1 Timothy. However, there is little, if any, church development on the Island of Crete. So Titus must establish a rudimentary order and found a bulwark against ungodliness.
 
 ### Key Verses
 
@@ -300,43 +323,32 @@ The emphasis of Titus is similar to 1 Timothy, namely, the importance of proper 
 
 ## Class Exercise
 
-Read Titus.
-Discussion:
-The three Pastoral Epistles were written during the period after Paul was released from
-prison in 62 AD and before his martyrdom in 66-67 AD.
-In his letters prior to his release from his first imprisonment he had proposed some
-visits to various places after his anticipated release.
-Three possible routes have been proposed that would allow for his anticipated visits and
-fit within the years between his release and his martyrdom:
+**Read Titus.**
 
-1. In the first itinerary, Paul does not go to Spain (Rom. 15:28). Since there is little
-record and the relics in Spain are questionable, some think he didn’t go directly
-from Rome. Instead he travels to Ephesus via Crete possibly and visits churches
-for a year or more (Philemon 22). There he leaves Timothy. Moving on to
-Macedonia he writes 1 Timothy and Titus. Then having visited churches in
-Macedonia (Phil. 2:24) he goes to Nicopolis where he is arrested in late 64
-AD. He is imprisoned in Rome and writes 2 Timothy before his martyrdom.
-2. In the second proposed itinerary, Paul does go to Spain and returns to
-Ephesus. From there he travels and writes as proposed in the first itinerary.
-This is a tighter schedule with less time to visit churches in Crete, Asia and
-Macedonia before his arrest at Nicopolis.
-3. The third itinerary is a variation on the first itinerary for Paul does not go to
-Spain from Rome after his imprisonment, but travels to Ephesus as proposed and
-visits churches and writes as suggested. From Nicopolis he travels to Spain for a
-brief visit and is arrested in Marseilles. He is imprisoned in Rome and writes 2
-Timothy before his death.
-Each of these fits within the time from Paul’s release from his first imprisonment in 62
-AD and his martyrdom at the hands of Nero in 66-67 AD. They each allow for more or
-less time for visiting churches and writing the Pastoral Letters ascribed to Paul.
+**Discussion:**
+
+The three Pastoral Epistles were written during the period after Paul was released from prison in 62 AD and before his martyrdom in 66-67 AD.
+
+In his letters prior to his release from his first imprisonment he had proposed some visits to various places after his anticipated release.
+
+Three possible routes have been proposed that would allow for his anticipated visits and fit within the years between his release and his martyrdom:
+
+1. In the first itinerary, Paul does not go to Spain (Rom. 15:28). Since there is little record and the relics in Spain are questionable, some think he didn’t go directly from Rome. Instead he travels to Ephesus via Crete possibly and visits churches for a year or more (Philemon 22). There he leaves Timothy. Moving on to
+Macedonia he writes 1 Timothy and Titus. Then having visited churches in Macedonia (Phil. 2:24) he goes to Nicopolis where he is arrested in late 64 AD. He is imprisoned in Rome and writes 2 Timothy before his martyrdom.
+2. In the second proposed itinerary, Paul does go to Spain and returns to Ephesus. From there he travels and writes as proposed in the first itinerary. This is a tighter schedule with less time to visit churches in Crete, Asia and Macedonia before his arrest at Nicopolis.
+3. The third itinerary is a variation on the first itinerary for Paul does not go to Spain from Rome after his imprisonment, but travels to Ephesus as proposed and visits churches and writes as suggested. From Nicopolis he travels to Spain for a brief visit and is arrested in Marseilles. He is imprisoned in Rome and writes 2 Timothy before his death.
+
+Each of these fits within the time from Paul’s release from his first imprisonment in 62 AD and his martyrdom at the hands of Nero in 66-67 AD. They each allow for more or less time for visiting churches and writing the Pastoral Letters ascribed to Paul.
+
 Read Benware, Survey of the New Testament p. 224
-Ask your students to find statements about women in Titus and compare them with 1
-Timothy to come up with Paul’s view of the role of women in the church, worship,
-marriage, and life.
-This is an opportunity to foster discussion of egalitarian versus
-complementarian positions and explain your understanding of these positions.
-The Observations Column below could include statements like, “women are
-examples of godliness and righteousness”, “women are leaders”, “women
-provide important service.”
+
+Ask your students to find statements about women in Titus and compare them with 1 Timothy to come up with Paul’s view of the role of women in the church, worship, marriage, and life.  
+**This is an opportunity to foster discussion of egalitarian versus complementarian positions and explain your understanding of these positions.**
+
+**The Observations Column below could include statements like, *“women are examples of godliness and righteousness”*, *“women are leaders”*, *“women provide important service.”***
 
 | Titus | 1 Timothy | Observations |
 | :---: | :-------: | :----------: |
+| 2:3 | 2:9-15 | |
+| 2:4-5 | 3:11 | |
+| | 4:2-16 | |
