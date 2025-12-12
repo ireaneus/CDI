@@ -1,7 +1,20 @@
-# 5 step Bible Study Method
+---
+title: Bibliology - Session 14 - Circumstantial Review / Biographical Study
+date: 2025-12-11
+category: Hermoneutics
+description: 5 Step Bible Study Method
+bibleReference: Whole
+---
+
+# {{ page.meta.title }}
+
+**Date:** {{ page.meta.date }}  
+**Category:** {{ page.meta.category }}  
+**Description:** {{ page.meta.description }}  
+**BibleReference:** {{ page.meta.bibleReference }}
 
 1. Word Study - Exegesis
-2. Circumstandtial Study
+2. Circumstantial Study
 3. Boigraphical Study
 4. Paraphrase
 5. Hermanuetics

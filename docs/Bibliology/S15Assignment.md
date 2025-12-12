@@ -19,16 +19,16 @@ bibleReference: Whole
 - Communion
 - Participation
 
-1. Study the topic κοινωνία koinōnia
+### 1. Study the topic κοινωνία koinōnia
 
 > (which fellowship, according to John's teaching, consists in the fact that Christians are partakers in common of the same mind as God and Christ, and of the blessings arising therefrom).
 
-2. Identify the sub-topic you want to study.
+### 2. Identify the sub-topic you want to study
 
 > **According to "John MacArther, Topical Bible"** Fellowship of Believers, The '*with each other*' **Naves Topical** refers to it as 'Communion of the Saints'
 
-3. Study it exhaustively from Genesis to Revelation
->
+### 3. Study it exhaustively from Genesis to Revelation
+
 > - Acts 2:42 *They were continually devoting themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.*
 > - 1 Sam 23:16 *And Jonathan, Saul’s son, arose and went to David at Horesh, and encouraged him in God.*
 > - Psalm 119:63 *I am a companion of all those who fear You, And of those who keep Your precepts.*
@@ -54,10 +54,10 @@ For there the Lord commanded the blessing—life forever.*
 > - Heb. 10:24-25 *and let us consider how to stimulate one another to love and good deeds, 25not forsaking our own assembling together, as is the habit of some, but encouraging one another; and all the more as you see the day drawing near.*
 > - James 5:16 *Therefore, confess your sins to one another, and pray for one another so that you may be healed. The effective prayer of a righteous man can accomplish much.*
 
-4. Take Notes while you are studying.
->
-> - Notice there are subtopics breaking up just the 'Communion of the Saints' some are about the local church, even for those in heaven. Hebrews 10:24-25 state not to forsake the assembly, whereas Gal 2:9 just mentions a simple handshake of being 'in agreement with one another'
+### 4. Take Notes while you are studying
 
-5. Write a paper on what you have learned
+> Notice there are subtopics breaking up just the 'Communion of the Saints' some are about the local church, even for those in heaven. Hebrews 10:24-25 state not to forsake the assembly, whereas Gal 2:9 just mentions a simple handshake of being 'in agreement with one another'
+
+### 5. Write a paper on what you have learned
 
 > **Communion of the Saints** *means to comfort, encourage, and exhort one another while it is still called 'Today,' so that we may not be hardened by the deceitfulness of sin (Hebrews 3:13). In our fellowship, we strive to be a source of support, walking alongside one another in the faith. But also, when we do sin, we can confess them to one another, knowing that mutual prayer leads to healing (James 5:16). We are one body in Christ, and when one part of the body suffers, the rest feels its pain and longs to heal and alleviate the hurt (1 Corinthians 12:26). This unity reflects the love and compassion of Christ, calling us to bear each other's burdens, fulfill the law of Christ, and grow together in love and maturity (Galatians 6:2; Ephesians 4:15-16).*
