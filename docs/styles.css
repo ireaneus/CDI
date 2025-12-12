@@ -157,3 +157,9 @@ img {
   background-image: none !important;
   --bs-bg-opacity: 1 !important;
 }
+
+/* Hide Previous and Next navigation links */
+a[rel="prev"],
+a[rel="next"] {
+  display: none !important;
+}
