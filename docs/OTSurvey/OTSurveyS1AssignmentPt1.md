@@ -131,13 +131,13 @@ Psalm 119
 
 - Psalm 119, the longest poem in the Old Testament, is written entirely in praise of God’s Word.
 - Memorable statements concerning the value of Scripture come from this acrostic Psalm.
-  - *“How can a young man keep his way pure? By living according to Your Word.”* Psalm 119:9
-  - *“I have hidden Your Word in my heart that I might not sin against You.”* Psalm 119:11
-  - *“The law from Your mouth is more precious to me than thousands of pieces of silver and gold.”* Psalm 119:72
-  - *“Your Word, O LORD, is eternal; it stands firm in the heavens.”* Psalm 119:89
-  - *“Your Word is a lamp to my feet and a light for my path.”* Psalm 119:105
-  - *“The unfolding of Your Word gives light; it gives understanding to the simple.”* Psalm 119:130
-  - *“Great peace have they who love Your law, and nothing can make them stumble."* Psalm 119:165
+    - *“How can a young man keep his way pure? By living according to Your Word.”* Psalm 119:9
+    - *“I have hidden Your Word in my heart that I might not sin against You.”* Psalm 119:11
+    - *“The law from Your mouth is more precious to me than thousands of pieces of silver and gold.”* Psalm 119:72
+    - *“Your Word, O LORD, is eternal; it stands firm in the heavens.”* Psalm 119:89
+    - *“Your Word is a lamp to my feet and a light for my path.”* Psalm 119:105
+    - *“The unfolding of Your Word gives light; it gives understanding to the simple.”* Psalm 119:130
+    - *“Great peace have they who love Your law, and nothing can make them stumble."* Psalm 119:165
 - The inspired writers of the Old Testament gave credit to the true Author of their works. They were deeply impressed with the value of these writings and moved by the power of His Word.
 
 Scriptures, the Law, the Prophets, and the Writings

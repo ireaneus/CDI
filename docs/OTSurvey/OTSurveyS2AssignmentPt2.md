@@ -252,7 +252,7 @@ The Type you select. For example: Joseph as a Type of Christ.
 - **An introduction or illustration as to the why this type was chosen and its’importance.** For example: *“From the earliest history of God’s chosen people, one man stands out as the Savior of his people. He is an unappreciated prophet, falsely accused and mistreated and yet rises to become God’s means of rescuing the children of Abraham from certain death.”*
 - **A Thesis statement** - This is one sentence stating the importance of the Type and what it teaches. For example: *“Joseph: One of many brothers, exalted through suffering set apart for the salvation of his people.”*
 - **Outline** – Several main points of the lesson or sermon that the student would want to make. For example:
-  - I. Joseph: Unappreciated Dreamer and Prophet
-  - II. Joseph: Falsely Accused yet faithful
-  - III. Joseph: Exalted to Save His people
+    - I. Joseph: Unappreciated Dreamer and Prophet
+    - II. Joseph: Falsely Accused yet faithful
+    - III. Joseph: Exalted to Save His people
 - **Conclusion** – A final restatement of the Thesis and the importance of this Biblical Type. For example: Hidden in plain sight, in the first book of the Bible, is one of the greatest revelations of the future suffering and ultimate success of the Promised One who would *“Save his people from their sins.”*
