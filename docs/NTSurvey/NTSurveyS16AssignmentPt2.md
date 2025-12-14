@@ -18,13 +18,13 @@ bibleReference: 2 3 John
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of 2 3 John](#cdi-notes---content-of-2-3-john)
-  - [Chapter Headings of 2 3 John (NASB1995)](#chapter-headings-of-2-3-john-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [2 John Summary](#2-john-summary)
-  - [3 John Summary](#3-john-summary)
-  - [Class Exercise](#class-exercise)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of 2 3 John](#cdi-notes---content-of-2-3-john)
+    - [Chapter Headings of 2 3 John (NASB1995)](#chapter-headings-of-2-3-john-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [2 John Summary](#2-john-summary)
+    - [3 John Summary](#3-john-summary)
+    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of 2 3 John
 
@@ -50,54 +50,54 @@ Purpose
 Occasion
 
 - 2 John
-  - Persistent efforts of false teachers
-  - Affecting the local church of the elect lady
+    - Persistent efforts of false teachers
+    - Affecting the local church of the elect lady
 - 3 John
-  - Diotrephes refused hospitality to itinerants
-  - Gaius offered it
-  - John is sending out itinerant evangelists like Demetrius
+    - Diotrephes refused hospitality to itinerants
+    - Gaius offered it
+    - John is sending out itinerant evangelists like Demetrius
 
 Intent
 
 - 2 John: Cultivate vigilance
 - 3 John: administrative directive
-  - Enlist Gaius
-  - Commend Demetrius
+    - Enlist Gaius
+    - Commend Demetrius
 
 Characteristics
 
 - 2 John
-  - Love and truth linked
-  - Denial of humanity of Jesus corrected
-  - Deny reception to heretics
+    - Love and truth linked
+    - Denial of humanity of Jesus corrected
+    - Deny reception to heretics
 - 3 John
-  - Importance of hospitality
-  - Support missionaries
-  - Evaluate controlling leaders
+    - Importance of hospitality
+    - Support missionaries
+    - Evaluate controlling leaders
 
 Content
 
 - 2 John
-  - Salutation, vv. 1-3
-  - Injunctions, vv. 4-11
-  - Conclusion, vv. 12-13
+    - Salutation, vv. 1-3
+    - Injunctions, vv. 4-11
+    - Conclusion, vv. 12-13
 - 3 John
-  - Introduction, vv. 1 - 4
-  - Encourage workers for the truth, vv. 5-8
-  - Reprove opponents of truth, vv. 9-11
-  - Commend witness for the truth, v. 12
-  - Conclusion, vv. 13 - 14
+    - Introduction, vv. 1 - 4
+    - Encourage workers for the truth, vv. 5-8
+    - Reprove opponents of truth, vv. 9-11
+    - Commend witness for the truth, v. 12
+    - Conclusion, vv. 13 - 14
 
 ### Key Verses
 
 Purpose & Key Verse
 
 - 2 John
-  - Abiding in truth to avoid error
-  - V. 9 *“abides in the teaching”*
+    - Abiding in truth to avoid error
+    - V. 9 *“abides in the teaching”*
 - 3 John
-  - Hospitality demonstrates truth
-  - V. 5 *“Beloved, you are acting faithfully in whatever you accomplish for the brethren, and especially when they are strangers”*
+    - Hospitality demonstrates truth
+    - V. 5 *“Beloved, you are acting faithfully in whatever you accomplish for the brethren, and especially when they are strangers”*
 
 ## Chapter Headings of 2 3 John (NASB1995)
 

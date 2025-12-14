@@ -18,12 +18,12 @@ bibleReference: Jude
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of Jude](#cdi-notes---content-of-jude)
-  - [Chapter Headings of Jude (NASB1995)](#chapter-headings-of-jude-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [Jude Summary](#jude-summary)
-  - [Class Exercise](#class-exercise)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of Jude](#cdi-notes---content-of-jude)
+    - [Chapter Headings of Jude (NASB1995)](#chapter-headings-of-jude-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [Jude Summary](#jude-summary)
+    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of Jude
 
@@ -42,13 +42,13 @@ Author in History
 - Not an Apostle, v. 17
 - Traveled as an evangelist, 1 Cor. 9:5
 - Two grandsons
-  - Brought before Domitian - F. F. Bruce New Testament History p. 413
-  - Peasant farmers of 39 acres in Palestine
+    - Brought before Domitian - F. F. Bruce New Testament History p. 413
+    - Peasant farmers of 39 acres in Palestine
 - Placement after John’s letters
-  - Jude an itinerant
-  - John’s letters about itinerancy
-  - Jude deals with heresy
-  - As does Revelation
+    - Jude an itinerant
+    - John’s letters about itinerancy
+    - Jude deals with heresy
+    - As does Revelation
 
 Dating 66-71 AD
 
@@ -82,14 +82,14 @@ Brevity and non-apostolic author limited acceptance for awhile among some
 churches
 
 - Jude 4-18 compared with 2 Peter 2:1-3:4
-  - Jude wrote in an emergency, v. 3
-  - Used Peter as a resource
-  - Jude quotes more than Peter so he would quote Peter not the other way round
-  - Jude expands 2 Peter
-  - Same problem, more advanced for Jude
-  - Material reworked into triplets
-  - Peter diagnosis, Jude anti-dotes
-  - 2 Tim. 3:1-8 similar and same time, *“In the last days difficult times will come…”*
+    - Jude wrote in an emergency, v. 3
+    - Used Peter as a resource
+    - Jude quotes more than Peter so he would quote Peter not the other way round
+    - Jude expands 2 Peter
+    - Same problem, more advanced for Jude
+    - Material reworked into triplets
+    - Peter diagnosis, Jude anti-dotes
+    - 2 Tim. 3:1-8 similar and same time, *“In the last days difficult times will come…”*
 
 Characteristics
 

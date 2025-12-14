@@ -18,13 +18,13 @@ bibleReference: Zechariah
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [The Twelve Zechariah](#the-twelve-zechariah)
-  - [Structure](#structure)
-  - [Themes](#themes)
-  - [Chapter 1: Prologue](#chapter-1-prologue)
-  - [Apply God's Word](#apply-gods-word)
-  - [FootNotes](#footnotes)
+    - [Table of Contents](#table-of-contents)
+    - [The Twelve Zechariah](#the-twelve-zechariah)
+    - [Structure](#structure)
+    - [Themes](#themes)
+    - [Chapter 1: Prologue](#chapter-1-prologue)
+    - [Apply God's Word](#apply-gods-word)
+    - [FootNotes](#footnotes)
 
 ## The Twelve Zechariah
 

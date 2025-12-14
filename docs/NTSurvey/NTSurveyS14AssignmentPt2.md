@@ -18,16 +18,16 @@ bibleReference: James
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of James](#cdi-notes---content-of-james)
-  - [Chapter Headings of James (NASB1995)](#chapter-headings-of-james-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [James Summary](#james-summary)
-  - [I. The Believer's Trials](#i-the-believers-trials)
-  - [II. The Believer's Genuineness](#ii-the-believers-genuineness)
-  - [III. The Believer's Obstacles](#iii-the-believers-obstacles)
-  - [IV. The Believer's Challenges](#iv-the-believers-challenges)
-  - [Class Exercise](#class-exercise)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of James](#cdi-notes---content-of-james)
+    - [Chapter Headings of James (NASB1995)](#chapter-headings-of-james-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [James Summary](#james-summary)
+    - [I. The Believer's Trials](#i-the-believers-trials)
+    - [II. The Believer's Genuineness](#ii-the-believers-genuineness)
+    - [III. The Believer's Obstacles](#iii-the-believers-obstacles)
+    - [IV. The Believer's Challenges](#iv-the-believers-challenges)
+    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of James
 
@@ -46,10 +46,10 @@ James Old Testament Background
 - 5 quotes
 - Many allusions James 5:16-18 Elijah and prayer
 - Hebraic phrasing
-  - Idioms
-  - Assonance
-  - Fullness
-  - Prophecy, James 5:4 sounds like Isaiah or Jeremiah
+    - Idioms
+    - Assonance
+    - Fullness
+    - Prophecy, James 5:4 sounds like Isaiah or Jeremiah
 - Addressees, James 1:1 “to the 12 tribes who are dispersed”
 - He best fits the story of Acts
 
@@ -75,18 +75,18 @@ Purpose
 - Jewish Christians
 - Gentile church is growing
 - Acts 11:15-21 Holy Spirit on Gentiles through Peter
-  - Gentile church at Antioch growing & Paul’s mission about to begin
+    - Gentile church at Antioch growing & Paul’s mission about to begin
 - They are tempted to antinomianism
 
 Occasion
 
 - Concept: Christianity is the consummation of the hope of Israel
 - Need for exhortation
-  - Influence is less in the church
-  - Rejection by the synagogue
+    - Influence is less in the church
+    - Rejection by the synagogue
 - Ethical demands of Christianity
-  - No less than with Judaism
-  - Reasoning needs reinforcement
+    - No less than with Judaism
+    - Reasoning needs reinforcement
 
 Intent of James
 
@@ -112,17 +112,17 @@ James Content
 First Two Sections
 
 - The nature of true religion, James 1:2-27
-  - In trials, James vv. 2-18
-  - In works, James vv. 19-27
+    - In trials, James vv. 2-18
+    - In works, James vv. 19-27
 - The nature of true faith, James 2:1-3:12
-  - Ethical relations with the poor, James 2:1 - 26
-  - Integrity of speech, James 3:1 - 12
+    - Ethical relations with the poor, James 2:1 - 26
+    - Integrity of speech, James 3:1 - 12
 - The Nature of true wisdom, James 3:13-5:18
-  - In temper, James 3:13-18
-  - In conflict, James 4:1-12
-  - In planning, James 4:13-17
-  - In future judgment, James 5:1-12
-  - In intercession, James 5:13 - 18
+    - In temper, James 3:13-18
+    - In conflict, James 4:1-12
+    - In planning, James 4:13-17
+    - In future judgment, James 5:1-12
+    - In intercession, James 5:13 - 18
 
 James: The Testing of Your Faith
 

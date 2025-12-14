@@ -18,17 +18,17 @@ bibleReference: Old Testament
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [1. Creation to Early Patriarchs (Approx. 4000–2000 B.C.)](#1-creation-to-early-patriarchs-approx-40002000-bc)
-  - [2. The Patriarchs (Approx. 2000–1700 B.C.)](#2-the-patriarchs-approx-20001700-bc)
-  - [3. Captivity in Egypt (Approx. 1700–1300 B.C.)](#3-captivity-in-egypt-approx-17001300-bc)
-  - [4. Exodus and the Leadership of Moses (Approx. 1300–1200 B.C.)](#4-exodus-and-the-leadership-of-moses-approx-13001200-bc)
-  - [5. Conquest and Settlement (Approx. 1200–1050 B.C.)](#5-conquest-and-settlement-approx-12001050-bc)
-  - [6. United Monarchy (Approx. 1050–930 B.C.)](#6-united-monarchy-approx-1050930-bc)
-  - [7. Divided Kingdom and Prophetic Voices (Approx. 930–586 B.C.)](#7-divided-kingdom-and-prophetic-voices-approx-930586-bc)
-  - [8. Babylonian Exile (Approx. 586–538 B.C.)](#8-babylonian-exile-approx-586538-bc)
-  - [9. Return from Exile and Rebuilding (Approx. 538 B.C. Onward)](#9-return-from-exile-and-rebuilding-approx-538-bc-onward)
-  - [Summary of Significant Timeframes and Scriptural References](#summary-of-significant-timeframes-and-scriptural-references)
+    - [Table of Contents](#table-of-contents)
+    - [1. Creation to Early Patriarchs (Approx. 4000–2000 B.C.)](#1-creation-to-early-patriarchs-approx-40002000-bc)
+    - [2. The Patriarchs (Approx. 2000–1700 B.C.)](#2-the-patriarchs-approx-20001700-bc)
+    - [3. Captivity in Egypt (Approx. 1700–1300 B.C.)](#3-captivity-in-egypt-approx-17001300-bc)
+    - [4. Exodus and the Leadership of Moses (Approx. 1300–1200 B.C.)](#4-exodus-and-the-leadership-of-moses-approx-13001200-bc)
+    - [5. Conquest and Settlement (Approx. 1200–1050 B.C.)](#5-conquest-and-settlement-approx-12001050-bc)
+    - [6. United Monarchy (Approx. 1050–930 B.C.)](#6-united-monarchy-approx-1050930-bc)
+    - [7. Divided Kingdom and Prophetic Voices (Approx. 930–586 B.C.)](#7-divided-kingdom-and-prophetic-voices-approx-930586-bc)
+    - [8. Babylonian Exile (Approx. 586–538 B.C.)](#8-babylonian-exile-approx-586538-bc)
+    - [9. Return from Exile and Rebuilding (Approx. 538 B.C. Onward)](#9-return-from-exile-and-rebuilding-approx-538-bc-onward)
+    - [Summary of Significant Timeframes and Scriptural References](#summary-of-significant-timeframes-and-scriptural-references)
 
 **pg. 29 NT Survey Instructors Guide**
 
@@ -78,9 +78,9 @@ bibleReference: Old Testament
 
 - **Fall of Jerusalem and Captivity**: *2 Kings 25:1-12*, *Jeremiah 52:4-16* – The destruction of the First Temple and the beginning of the Babylonian Exile in 586 B.C.
 - **Reason for the 70 Years**:
-  - *2 Chronicles 36:20-21* – The exile fulfilled the word of the LORD through Jeremiah, as the land rested for 70 years to account for the Sabbath years that were not observed during the 490 years of Israel’s disobedience.
-  - *Leviticus 26:34-35* – God’s command that the land should observe a Sabbath rest every seven years.
-  - *Jeremiah 25:11-12* – Prophecy that the land would lie desolate for 70 years.
+    - *2 Chronicles 36:20-21* – The exile fulfilled the word of the LORD through Jeremiah, as the land rested for 70 years to account for the Sabbath years that were not observed during the 490 years of Israel’s disobedience.
+    - *Leviticus 26:34-35* – God’s command that the land should observe a Sabbath rest every seven years.
+    - *Jeremiah 25:11-12* – Prophecy that the land would lie desolate for 70 years.
 - **Significance of the 490 Years**: This period reflects the cumulative time of Israel’s rebellion against God’s covenantal commands, particularly neglecting the Sabbath year of rest. The *490 years* preceding the exile represented 70 missed Sabbaths (every seventh year), leading to the enforced rest during captivity.
 
 ## 9. Return from Exile and Rebuilding (Approx. 538 B.C. Onward)

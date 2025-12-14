@@ -14,8 +14,8 @@ bibleReference: "[New Covenant]"
 ## Compare the Old Covenant
 
 - Made, Genesis 12:1-3 includes:
-  - Separation to a unique relationship with God
-  - Promises a land
+    - Separation to a unique relationship with God
+    - Promises a land
 - Promises a nation of descendants
 - Predicts a place of power and influence among nations
 
@@ -89,9 +89,9 @@ Christ fulfills several elements of the Old Covenant:
 - **Instituted by Jesus**: Central to the Gospels, particularly at the Last Supper (Luke 22:20, Mark 14:24), where Jesus describes His blood as the seal of the New Covenant.
 - **Proclaimed by Apostles**: The Acts of the Apostles highlight the spread of this covenant through the Gospel.
 - **Features**:
-  - Internal transformation: God’s law written on hearts (Jeremiah 31:33).
-  - Personal knowledge of God without intermediaries.
-  - Forgiveness of sins (Jeremiah 31:34).
+    - Internal transformation: God’s law written on hearts (Jeremiah 31:33).
+    - Personal knowledge of God without intermediaries.
+    - Forgiveness of sins (Jeremiah 31:34).
 
 ---
 
@@ -102,8 +102,8 @@ The New Covenant encompasses all believers:
 - **Universal Scope**: While initially directed to Israel and Judah, the New Covenant extends to Gentiles (Ephesians 2:11-13).
 - **Inclusion of Christians**: Paul explains that through faith in Christ, Gentiles are grafted into the promises of Israel (Romans 11:17-24).
 - **Present Participation and Future Fulfillment**:
-  - Present: Christians partake in the spiritual blessings of the New Covenant, including forgiveness and the indwelling Spirit.
-  - Future: Full realization occurs in Christ’s kingdom when “all Israel will be saved” (Romans 11:26).
+    - Present: Christians partake in the spiritual blessings of the New Covenant, including forgiveness and the indwelling Spirit.
+    - Future: Full realization occurs in Christ’s kingdom when “all Israel will be saved” (Romans 11:26).
 
 ---
 

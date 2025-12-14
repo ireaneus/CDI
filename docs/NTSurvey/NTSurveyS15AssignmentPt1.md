@@ -42,18 +42,18 @@ Readers
 - Sporadic, local persecution for readers
 - 1 Pet. 4:4, *“they malign you”*
 - Aside on persecution:
-  - Persecution not ordered empire wide until Domitian
-  - To win favor in empire do what pleases the emperor, persecute
+    - Persecution not ordered empire wide until Domitian
+    - To win favor in empire do what pleases the emperor, persecute
 
 Occasion
 
 - Opposition because of faith
-  - 1 Pet. 1:6, 3:13-17, 4:12-19
-  - *“various trials”, “for righteousness sake”, “fiery ordeal”*
+    - 1 Pet. 1:6, 3:13-17, 4:12-19
+    - *“various trials”, “for righteousness sake”, “fiery ordeal”*
 - General distrust by populace
 - Tempted to return to heathen ways
-  - 1 Pet. 2:11, 12, 16
-  - Keep your behavior excellent among the Gentiles
+    - 1 Pet. 2:11, 12, 16
+    - Keep your behavior excellent among the Gentiles
 - Even elders tempted, 1 Pet. 5:2-3 *“not for sordid gain”*
 - Peter affirms the keys
 - *“elect,”* 1 Pet. 1:1-2
@@ -70,8 +70,8 @@ Characteristics
 
 - Vivid, energetic Greek, Better than 2 Peter
 - Amanuensis, Silvanus 1 Pet. 5:12,
-  - Silas?
-  - Tenney, p. 350 *“If Silvanus (Latin) is identical with Silas (Greek), Paul’s associate and helper, Peter could have learned much about Paul’s teaching from him.”*
+    - Silas?
+    - Tenney, p. 350 *“If Silvanus (Latin) is identical with Silas (Greek), Paul’s associate and helper, Peter could have learned much about Paul’s teaching from him.”*
 - Frequent imperatives chain of 30 beginning at 1 Pet. 1:13 “be sober” (cf chart
 
 Tenney, p. 352)

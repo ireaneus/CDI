@@ -18,18 +18,18 @@ bibleReference: Hebrews
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of Hebrews](#cdi-notes---content-of-hebrews)
-  - [Chapter Headings of Hebrews (NASB1995)](#chapter-headings-of-hebrews-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [Hebrews Summary](#hebrews-summary)
-  - [I. Christ's Superiority in Revelation](#i-christs-superiority-in-revelation)
-  - [II. Christ's Superiority over Angels](#ii-christs-superiority-over-angels)
-  - [III. Christ's Superiority over Moses](#iii-christs-superiority-over-moses)
-  - [IV. Christ's Superiority over Aaron](#iv-christs-superiority-over-aaron)
-  - [V. Christ's Superiority over Self](#v-christs-superiority-over-self)
-  - [Conclusion](#conclusion)
-  - [Class Exercise](#class-exercise)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of Hebrews](#cdi-notes---content-of-hebrews)
+    - [Chapter Headings of Hebrews (NASB1995)](#chapter-headings-of-hebrews-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [Hebrews Summary](#hebrews-summary)
+    - [I. Christ's Superiority in Revelation](#i-christs-superiority-in-revelation)
+    - [II. Christ's Superiority over Angels](#ii-christs-superiority-over-angels)
+    - [III. Christ's Superiority over Moses](#iii-christs-superiority-over-moses)
+    - [IV. Christ's Superiority over Aaron](#iv-christs-superiority-over-aaron)
+    - [V. Christ's Superiority over Self](#v-christs-superiority-over-self)
+    - [Conclusion](#conclusion)
+    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of Hebrews
 

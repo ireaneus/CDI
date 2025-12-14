@@ -18,12 +18,12 @@ bibleReference: Colossians
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes: Content of Colossians](#cdi-notes-content-of-colossians)
-  - [Colossians Section Headings (NASB2020)](#colossians-section-headings-nasb2020)
-  - [Basic Outline of Colossians](#basic-outline-of-colossians)
-  - [Theme of Colossians *Survey of the New Testament*](#theme-of-colossians-survey-of-the-new-testament)
-  - [Colossians Summary - Christ's Sufficiency and Supremacy](#colossians-summary---christs-sufficiency-and-supremacy)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes: Content of Colossians](#cdi-notes-content-of-colossians)
+    - [Colossians Section Headings (NASB2020)](#colossians-section-headings-nasb2020)
+    - [Basic Outline of Colossians](#basic-outline-of-colossians)
+    - [Theme of Colossians *Survey of the New Testament*](#theme-of-colossians-survey-of-the-new-testament)
+    - [Colossians Summary - Christ's Sufficiency and Supremacy](#colossians-summary---christs-sufficiency-and-supremacy)
 
 ## CDI Notes: Content of Colossians
 
@@ -31,11 +31,11 @@ bibleReference: Colossians
 
 - In doctrine
 - In ethics
-  - Pre-eminence of Christ in doctrine, Col. 1-2
+    - Pre-eminence of Christ in doctrine, Col. 1-2
     - Begins with a salutation, Col. 1:1-8
     - Outlines the doctrine of Christ, Col. 1:9-23
     - Threatened treasures of Christ, Col. 1:24-2:23
-  - Pre-eminence of Christ in ethics, Col. 3-4
+    - Pre-eminence of Christ in ethics, Col. 3-4
     - Ethics of heart, mind, temper, Col. 3:1 - 17
     - Ethics of relationships, Col. 3:18-4:1
     - Ethics of conduct, Col. 4:2-9

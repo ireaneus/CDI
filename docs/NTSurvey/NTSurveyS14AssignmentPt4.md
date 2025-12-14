@@ -18,20 +18,20 @@ bibleReference: 1-2 Peter, Jude Galatians, 1-2 Thessalonians
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes](#cdi-notes)
-  - [Key Verses](#key-verses)
-  - [Class Discussion: General Letters](#class-discussion-general-letters)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes](#cdi-notes)
+    - [Key Verses](#key-verses)
+    - [Class Discussion: General Letters](#class-discussion-general-letters)
 
 ## CDI Notes
 
 Review of General Epistles
 
 - General Epistles
-  - Also *“Catholic”*
-  - James and 1 Peter to refugees
-  - Hebrews to unknown audience in Rome
-  - Where author and/or readers are unstated
+    - Also *“Catholic”*
+    - James and 1 Peter to refugees
+    - Hebrews to unknown audience in Rome
+    - Where author and/or readers are unstated
 
 Overview of 1 Peter
 

@@ -18,9 +18,9 @@ bibleReference: "[Galatians]"
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [Outline of Galatians](#outline-of-galatians)
-  - [Galatians](#galatians)
+    - [Table of Contents](#table-of-contents)
+    - [Outline of Galatians](#outline-of-galatians)
+    - [Galatians](#galatians)
 
 ## Outline of Galatians
 

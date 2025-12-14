@@ -18,11 +18,11 @@ bibleReference: 1 Timothy
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [Key Verses](#key-verses)
-  - [Book of 1 Timothy with Chapter Headings and Section Titles (NASB1995)](#book-of-1-timothy-with-chapter-headings-and-section-titles-nasb1995)
-  - [Outline of 1 Timothy](#outline-of-1-timothy)
-  - [Theme of 1 Timothy](#theme-of-1-timothy)
+    - [Table of Contents](#table-of-contents)
+    - [Key Verses](#key-verses)
+    - [Book of 1 Timothy with Chapter Headings and Section Titles (NASB1995)](#book-of-1-timothy-with-chapter-headings-and-section-titles-nasb1995)
+    - [Outline of 1 Timothy](#outline-of-1-timothy)
+    - [Theme of 1 Timothy](#theme-of-1-timothy)
 
 **pg. 256 NT Survey Instructors Guide**
 

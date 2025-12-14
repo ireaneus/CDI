@@ -18,15 +18,15 @@ bibleReference: 2 Peter
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of 2 Peter](#cdi-notes---content-of-2-peter)
-  - [Chapter Headings of 2 Peter (NASB1995)](#chapter-headings-of-2-peter-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [2 Peter Summary](#2-peter-summary)
-  - [I. Knowledge That is True](#i-knowledge-that-is-true)
-  - [II. Knowledge That is False](#ii-knowledge-that-is-false)
-  - [III. Knowledge That is Needed](#iii-knowledge-that-is-needed)
-  - [Class Exercise](#class-exercise)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of 2 Peter](#cdi-notes---content-of-2-peter)
+    - [Chapter Headings of 2 Peter (NASB1995)](#chapter-headings-of-2-peter-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [2 Peter Summary](#2-peter-summary)
+    - [I. Knowledge That is True](#i-knowledge-that-is-true)
+    - [II. Knowledge That is False](#ii-knowledge-that-is-false)
+    - [III. Knowledge That is Needed](#iii-knowledge-that-is-needed)
+    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of 2 Peter
 
@@ -36,18 +36,18 @@ Author: Peter
 - Gospels
 - Jn. 1:41-42 introduced, Mark 1:16-20 called, Matthew 16:16 confessed, 26:69ff (denial from which he was restored in Jn. 21. Now faithful)
 - Keys
-  - Acts 2:14, 8:14, 10:6, 11:15, 15:6 - 11
-  - Traveled
-  - 2 Cor. 1:12, Gal. 2:11 (Corinth & Antioch)
+    - Acts 2:14, 8:14, 10:6, 11:15, 15:6 - 11
+    - Traveled
+    - 2 Cor. 1:12, Gal. 2:11 (Corinth & Antioch)
 
 Author in Scripture
 
 - Biographical notes in 2 Peter
-  - 2 Pet. 1:1, “bond-servant”
-  - 2 Pet. 1:9, “former sins”
-  - 2 Pet. 13, “as long as I am in my earthly dwelling”
-  - 2 Pet. 14, “laying aside of my earthly dwelling”
-  - 2 Pet. 16-18, “on the Holy Mountain”
+    - 2 Pet. 1:1, “bond-servant”
+    - 2 Pet. 1:9, “former sins”
+    - 2 Pet. 13, “as long as I am in my earthly dwelling”
+    - 2 Pet. 14, “laying aside of my earthly dwelling”
+    - 2 Pet. 16-18, “on the Holy Mountain”
 - On a level with Paul, 2 Pet. 3:15
 
 Evidence

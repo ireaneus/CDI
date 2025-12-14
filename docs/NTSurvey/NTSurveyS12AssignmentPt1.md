@@ -18,12 +18,12 @@ bibleReference: Ephesians
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes: Content of Ephesians](#cdi-notes-content-of-ephesians)
-  - [Ephesians NASB1995 Section Headings](#ephesians-nasb1995-section-headings)
-  - [Notes from _"Survey of New Testament"_](#notes-from-survey-of-new-testament)
-  - [The Calling of the Church](#the-calling-of-the-church)
-  - [The Conduct of the Church](#the-conduct-of-the-church)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes: Content of Ephesians](#cdi-notes-content-of-ephesians)
+    - [Ephesians NASB1995 Section Headings](#ephesians-nasb1995-section-headings)
+    - [Notes from _"Survey of New Testament"_](#notes-from-survey-of-new-testament)
+    - [The Calling of the Church](#the-calling-of-the-church)
+    - [The Conduct of the Church](#the-conduct-of-the-church)
 
 ## CDI Notes: Content of Ephesians
 
@@ -49,9 +49,9 @@ bibleReference: Ephesians
 **Conflict and the Church**  
 
 - Ephesians 6:1–20  
-  - Conflict with Satan  
-  - Putting on the armor of God  
-  - Prayer  
+    - Conflict with Satan  
+    - Putting on the armor of God  
+    - Prayer  
 
 **Conclusion**  
 

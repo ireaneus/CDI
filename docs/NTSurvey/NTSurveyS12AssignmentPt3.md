@@ -18,11 +18,11 @@ bibleReference: Philemon
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of Philemon](#cdi-notes---content-of-philemon)
-  - [Chapter headings of Philemon (NASB1995)](#chapter-headings-of-philemon-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [Philemon Summary - *Personal, Reconciliation*](#philemon-summary---personal-reconciliation)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of Philemon](#cdi-notes---content-of-philemon)
+    - [Chapter headings of Philemon (NASB1995)](#chapter-headings-of-philemon-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [Philemon Summary - *Personal, Reconciliation*](#philemon-summary---personal-reconciliation)
 
 ## CDI Notes - Content of Philemon
 
@@ -31,9 +31,9 @@ bibleReference: Philemon
 - Acts 28:30
 - Paul is in prision
 - Onesimus:
-  - Escaped slave
-  - With stolen property
-  - Phil. 1:18 “If he owes you”
+    - Escaped slave
+    - With stolen property
+    - Phil. 1:18 “If he owes you”
 - Returning with Tychicus Phil. 1:10, Col. 4:9
 - Philemon converted by Paul Phil. 1:10, “my child”
 

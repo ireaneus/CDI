@@ -18,11 +18,11 @@ bibleReference: Romans
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of Romans](#cdi-notes---content-of-romans)
-  - [Chapter Headings of Romans (NASB1995)](#chapter-headings-of-romans-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [Romans Summary](#romans-summary)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of Romans](#cdi-notes---content-of-romans)
+    - [Chapter Headings of Romans (NASB1995)](#chapter-headings-of-romans-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [Romans Summary](#romans-summary)
 
 ## CDI Notes - Content of Romans
 

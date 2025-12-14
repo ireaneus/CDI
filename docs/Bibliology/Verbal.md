@@ -158,8 +158,8 @@ The doctrine of **Verbal Inspiration** significantly influences **church practic
 ### 2. **Scripture-Centered Worship**
 
 - Churches that emphasize verbal inspiration often ensure that **Scripture is central** in worship. This could include:
-  - **Reading of Scripture**: Many churches have the public reading of Scripture during services, often before or after a sermon, as a way of affirming the importance of God’s Word.
-  - **Singing Scripture**: Hymns, songs, and other forms of worship often incorporate biblical phrases, verses, and themes because the words of the Bible are considered divinely inspired.
+    - **Reading of Scripture**: Many churches have the public reading of Scripture during services, often before or after a sermon, as a way of affirming the importance of God’s Word.
+    - **Singing Scripture**: Hymns, songs, and other forms of worship often incorporate biblical phrases, verses, and themes because the words of the Bible are considered divinely inspired.
 - **Implication for practice**: Worship services are shaped around the Word of God, with an emphasis on **Scripture reading, singing biblically grounded songs, and expository preaching**.
 
 ### 3. **Doctrinal Standards**
@@ -175,8 +175,8 @@ The doctrine of **Verbal Inspiration** significantly influences **church practic
 ### 5. **Discipleship and Christian Education**
 
 - Since every word of Scripture is seen as inspired, church practices around **discipleship** and **education** focus heavily on biblical study. This includes:
-  - **Bible study groups**: Church small groups or Sunday schools often engage in detailed study of Scripture to help believers understand and apply the Word of God.
-  - **Catechism**: In some traditions, children and new believers are taught the fundamentals of the faith using **catechisms** that are based on Scripture, reflecting the church’s commitment to teaching the inspired Word.
+    - **Bible study groups**: Church small groups or Sunday schools often engage in detailed study of Scripture to help believers understand and apply the Word of God.
+    - **Catechism**: In some traditions, children and new believers are taught the fundamentals of the faith using **catechisms** that are based on Scripture, reflecting the church’s commitment to teaching the inspired Word.
 - **Implication for practice**: Discipleship programs place a high priority on teaching believers to study the Bible carefully, often using resources like Bible commentaries and language tools to understand the inspired text.
 
 ### 6. **Church Governance**

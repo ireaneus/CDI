@@ -18,8 +18,8 @@ bibleReference: James, Hebrews, 1 & 2 Peter, Jude, 1-3 John
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of Catholic Epistles](#cdi-notes---content-of-catholic-epistles)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of Catholic Epistles](#cdi-notes---content-of-catholic-epistles)
 
 ## CDI Notes - Content of Catholic Epistles
 
@@ -52,8 +52,8 @@ General Letters, Definition
 - Unlike Paul’s letters
 - James to dispersed Jews
 - Hebrews to Jewish church, but unspecified location
-  - Perhaps Rome
-  - Author unknown, but tradition ascribes to Paul
+    - Perhaps Rome
+    - Author unknown, but tradition ascribes to Paul
 
 General Letters, Definition
 
@@ -127,8 +127,8 @@ Character
 
 - Acts 10:14, 28 Peter holding on to dietary and social rules
 - Acts 11:1-2
-  - Sheet let down in a vision
-  - “circumcised took issue with him”
+    - Sheet let down in a vision
+    - “circumcised took issue with him”
 - This would create factions
 - Faction of Judaizers
 - Open to Christianity if under Jewish Law

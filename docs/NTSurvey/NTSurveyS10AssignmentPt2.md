@@ -18,13 +18,13 @@ bibleReference: 2 Corinthians
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [I. Introduction](#i-introduction)
-  - [II. Paul's Personal Testimony](#ii-pauls-personal-testimony)
-  - [III. Paul's Teachings about the True Ministry of Christ](#iii-pauls-teachings-about-the-true-ministry-of-christ)
-  - [IV. Paul's Exhortations to the Corinthians](#iv-pauls-exhortations-to-the-corinthians)
-  - [V. Paul's Instructions About Giving](#v-pauls-instructions-about-giving)
-  - [VI. Paul's Defense of His Apostolic Ministry](#vi-pauls-defense-of-his-apostolic-ministry)
+    - [Table of Contents](#table-of-contents)
+    - [I. Introduction](#i-introduction)
+    - [II. Paul's Personal Testimony](#ii-pauls-personal-testimony)
+    - [III. Paul's Teachings about the True Ministry of Christ](#iii-pauls-teachings-about-the-true-ministry-of-christ)
+    - [IV. Paul's Exhortations to the Corinthians](#iv-pauls-exhortations-to-the-corinthians)
+    - [V. Paul's Instructions About Giving](#v-pauls-instructions-about-giving)
+    - [VI. Paul's Defense of His Apostolic Ministry](#vi-pauls-defense-of-his-apostolic-ministry)
 
 | **Paul's Second letter to the Corinthians** | |
 |:-------:|:-------:|

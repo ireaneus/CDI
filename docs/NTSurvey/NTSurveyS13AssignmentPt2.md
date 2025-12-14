@@ -35,10 +35,10 @@ In Scripture & History
 - One author makes a case for Titus as Luke’s brother
 - Titus to Corinth, 2 Cor. 7:6-16
 - Paul testifies to the character 2 Cor. 8:16, 19, 23
-  - Titus has an earnest heart
-  - Titus appointed by the church
-  - Partner and fellow worker
-  - Includes Titus in *“us,”* Acts 20:5
+    - Titus has an earnest heart
+    - Titus appointed by the church
+    - Partner and fellow worker
+    - Includes Titus in *“us,”* Acts 20:5
 
 Dating 63 AD
 
@@ -58,7 +58,7 @@ Destination
 - Island of Crete, Titus 1:5
 - Three cities: Gortyn, Lasea, Phoenix
 - Titus the intended reader
-  - Through him to the church receives a Pauline letter
+    - Through him to the church receives a Pauline letter
 - Resolves authority issue
 
 Evidence  
@@ -109,7 +109,7 @@ Characteristics
 
 - More compact but like 1 Timothy
 - Titus 1:6, 2:7, 14, 3:1, 8, 14
-  - More emphasis on worthy conduct
+    - More emphasis on worthy conduct
 - Doctrinal summaries, Titus 3:5ff
 - Opponents are Judaizers
 

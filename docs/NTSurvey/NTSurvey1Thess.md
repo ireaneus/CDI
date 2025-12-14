@@ -18,8 +18,8 @@ bibleReference: 1 Thessalonians
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [1 Thessalonians](#1-thessalonians)
+    - [Table of Contents](#table-of-contents)
+    - [1 Thessalonians](#1-thessalonians)
 
 **Read Acts 18:5; 1 Thessalonians 3:5-7**  
 

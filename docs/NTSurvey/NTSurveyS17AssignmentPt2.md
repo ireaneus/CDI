@@ -18,17 +18,17 @@ bibleReference: Revelation Chapters 4-22
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of Revelation Chapters 4-22](#cdi-notes---content-of-revelation-chapters-4-22)
-  - [Chapter Headings of Revelation 4-22 (NASB1995)](#chapter-headings-of-revelation-4-22-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [Revelation 4-22 Summary](#revelation-4-22-summary)
-  - [Revelation 5](#revelation-5)
-  - [Revelation 10](#revelation-10)
-  - [Revelation 15](#revelation-15)
-  - [Revelation 20](#revelation-20)
-  - [Conclusion](#conclusion)
-  - [Class Exercise](#class-exercise)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of Revelation Chapters 4-22](#cdi-notes---content-of-revelation-chapters-4-22)
+    - [Chapter Headings of Revelation 4-22 (NASB1995)](#chapter-headings-of-revelation-4-22-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [Revelation 4-22 Summary](#revelation-4-22-summary)
+    - [Revelation 5](#revelation-5)
+    - [Revelation 10](#revelation-10)
+    - [Revelation 15](#revelation-15)
+    - [Revelation 20](#revelation-20)
+    - [Conclusion](#conclusion)
+    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of Revelation Chapters 4-22
 
@@ -66,8 +66,8 @@ Historical Approach
 - All events are historical
 - All events, save perhaps chapters 21-22, fulfilled in first century
 - Problems
-  - Late date of the Revelation makes it not prophetic but a report
-  - Which events of the first century are assigned subjectively since it is in figurative language
+    - Late date of the Revelation makes it not prophetic but a report
+    - Which events of the first century are assigned subjectively since it is in figurative language
 
 Futurist Approach
 
@@ -92,9 +92,9 @@ Interpretation
 - Benware, Survey of the New Testament p. 274, *“Revelation is basically chronological”*
 - See topics by chapters (chart p. 274)
 - Old Testament background
-  - Daniel, Ezekiel, Jeremiah, Zechariah
+    - Daniel, Ezekiel, Jeremiah, Zechariah
 - New Testament background
-  - Matthew, Romans, 1 & 2 Thessalonians
+    - Matthew, Romans, 1 & 2 Thessalonians
 
 Contents
 
@@ -118,15 +118,15 @@ The Things Which Are
 The Messages to the Seven Churches
 
 - Ephesus, Smyrna, Pergamum, Thyatira, Rev. 2:1-29
-  - *“I know… but I have this against…”* Ephesus, Pergamum, Thyatira
-  - Smyrna, *“I know… Do not fear”*
+    - *“I know… but I have this against…”* Ephesus, Pergamum, Thyatira
+    - Smyrna, *“I know… Do not fear”*
 
 The Messages to the Seven Churches
 
 - Sardis, Philadelphia, Laodicea, Rev. 3:1-22
-  - Sardis, *“Wake up…remember”*
-  - Laodicea, *“I know, I advise to buy gold, I stand at the door”*
-  - Philadelphia, *“because you have kept… I will also keep”*
+    - Sardis, *“Wake up…remember”*
+    - Laodicea, *“I know, I advise to buy gold, I stand at the door”*
+    - Philadelphia, *“because you have kept… I will also keep”*
 - Situation in heaven in the present Rev. 4:1-5:14 book opened to the Lamb
 
 The Thing Which Shall Take Place
@@ -139,7 +139,7 @@ The Judgments of Sevens
 - Six of seven seals of the book broken, Rev. 6:1-16
 - Interlude of 144,000, Rev. 7:1-17
 - Seven trumpets start from 7th seal, Rev. 8:1-9:21
-  - 3 Woes are specified and given more space
+    - 3 Woes are specified and given more space
 - Interlude of prophecies, Rev. 10:1-11:14
 - Seventh trumpet followed by Prophetic visions, Rev. 11:15-14:20
 - Seven bowls from these visions, Rev. 15:1-16:21
@@ -147,9 +147,9 @@ The Judgments of Sevens
 Final Events: Rev. 17:1-22:5
 
 - Final events on earth
-  - End of Babylon, Rev. 17:1-18:24
-  - Armageddon, Rev. 19:1-21
-  - Millennium, Rev. 20:1-15
+    - End of Babylon, Rev. 17:1-18:24
+    - Armageddon, Rev. 19:1-21
+    - Millennium, Rev. 20:1-15
 - Final events in heaven, Rev. 21:1-22:5
 - Concluding warnings, Rev. 22:5-21
 

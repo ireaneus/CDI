@@ -18,13 +18,13 @@ bibleReference: 1 Corinthians
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [1 Corinthians](#1-corinthians)
-  - [I. Introduction](#i-introduction)
-  - [II. Divisions in the Church](#ii-divisions-in-the-church)
-  - [III. Sins of the Church](#iii-sins-of-the-church)
-  - [IV. Problems of the Church](#iv-problems-of-the-church)
-  - [VI. Conclusion](#vi-conclusion)
+    - [Table of Contents](#table-of-contents)
+    - [1 Corinthians](#1-corinthians)
+    - [I. Introduction](#i-introduction)
+    - [II. Divisions in the Church](#ii-divisions-in-the-church)
+    - [III. Sins of the Church](#iii-sins-of-the-church)
+    - [IV. Problems of the Church](#iv-problems-of-the-church)
+    - [VI. Conclusion](#vi-conclusion)
 
 ### Homework
 

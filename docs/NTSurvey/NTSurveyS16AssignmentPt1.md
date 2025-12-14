@@ -18,12 +18,12 @@ bibleReference: 1 John
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [CDI Notes - Content of 1 John](#cdi-notes---content-of-1-john)
-  - [Chapter Headings of 1 John (NASB1995)](#chapter-headings-of-1-john-nasb1995)
-  - [Survey of New Testament](#survey-of-new-testament)
-  - [1 John Summary](#1-john-summary)
-  - [Class Exercise](#class-exercise)
+    - [Table of Contents](#table-of-contents)
+    - [CDI Notes - Content of 1 John](#cdi-notes---content-of-1-john)
+    - [Chapter Headings of 1 John (NASB1995)](#chapter-headings-of-1-john-nasb1995)
+    - [Survey of New Testament](#survey-of-new-testament)
+    - [1 John Summary](#1-john-summary)
+    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of 1 John
 
@@ -32,14 +32,14 @@ bibleReference: 1 John
 John in Scripture
 
 - Nelson, Maps and Charts p. 444 his life included residence and travel in Palestine then Ephesus then Patmos
-  - Note that he first meets Jesus near Jerusalem
-  - Later he is called from fishing on the sea of Galilee
-  - He was the closest to Jesus during the passion week
-  - He was a leader of the Jerusalem church with Peter and James
+    - Note that he first meets Jesus near Jerusalem
+    - Later he is called from fishing on the sea of Galilee
+    - He was the closest to Jesus during the passion week
+    - He was a leader of the Jerusalem church with Peter and James
 - Mark 3:17 *“Son of Thunder”*
-  - John 20:31 Purpose for gospel, “you may believe”
-  - 1 John 5:13 letter “to you who believe”
-  - Literary connection
+    - John 20:31 Purpose for gospel, “you may believe”
+    - 1 John 5:13 letter “to you who believe”
+    - Literary connection
 
 In History
 
@@ -49,20 +49,20 @@ In History
 - Exiled to Patmos, Rev. 1:9
 - Returns after the death of Domitian
 - Domitians persecution (Tenney, New Testament Survey, pp. 11-12)
-  - Domitian tried to raise the moral level of Roman society by suppressing other religions and demanding worship of himself
-  - He had Christians executed for not worshipping his likeness, including his nephew, Flavius Clemens
+    - Domitian tried to raise the moral level of Roman society by suppressing other religions and demanding worship of himself
+    - He had Christians executed for not worshipping his likeness, including his nephew, Flavius Clemens
 - John wrote his letters just before or after Patmos Dating, 85 AD or Later
 - Origin, Ephesus
 - Destination
-  - Asian churches e.g., province of Asia
-  - Nelson, Maps and Charts p. 451 “7 churches”
-  - Jerusalem destroyed
-  - 1 John 1:1 no address
-  - But an admission of eye witness
+    - Asian churches e.g., province of Asia
+    - Nelson, Maps and Charts p. 451 “7 churches”
+    - Jerusalem destroyed
+    - 1 John 1:1 no address
+    - But an admission of eye witness
 - Evidence
-  - Polycarp quotes 1 John 4:2-3
-  - Irenaeus and Eusebius know it
-  - Justin Martyr, *“There was a certain man with us, whose name was John, one of the Apostles of Christ, who prophesied, by a revelation that was made to him, that those who believed in our Christ would dwell a thousand years in Jerusalem.”*
+    - Polycarp quotes 1 John 4:2-3
+    - Irenaeus and Eusebius know it
+    - Justin Martyr, *“There was a certain man with us, whose name was John, one of the Apostles of Christ, who prophesied, by a revelation that was made to him, that those who believed in our Christ would dwell a thousand years in Jerusalem.”*
 
 Internal Evidence
 
@@ -92,8 +92,8 @@ Contents
 - Introduced, 1 John 2:5, 15
 - 1 John 3:1, 10, 11, 14, 16-18, 4:7, 8, 10–12, 16-18, 20, 21 *“love”*
 - *“Know,”* 1 John 3:14, 16, 19, 24, 4:13, 16
-  - Parallels the concept of abiding in John 15
-  - Certainty is to know love
+    - Parallels the concept of abiding in John 15
+    - Certainty is to know love
 - Certainty, through the exercise of faith
 - *“Faith,”* 1 John 5:1, 4, 5, 10
 - *“Know,”* 1 John 5:2
