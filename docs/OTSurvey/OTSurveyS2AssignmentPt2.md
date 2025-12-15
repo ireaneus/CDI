@@ -105,6 +105,8 @@ Review the typology notes from Bibliology and How To Study the Bible. (You may w
 **Fundamental Principle of Hermeneutics**  
 Bible is its own best interpreter/commentator
 
+*hermeneutic is the science of interpretation of written words.*
+
 **Definition of Typology**  
 A type is an Old Testament person, place, thing, or occurrence that prefigures a person, place, thing, or occurrence found in the New Testament called the antitype. The acronym is PPTO. The prefix anti in this case means *“instead of: rather than “against.”*
 

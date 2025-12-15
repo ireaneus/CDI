@@ -15,21 +15,6 @@ bibleReference: Revelation Chapters 4-22
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of Revelation Chapters 4-22](#cdi-notes---content-of-revelation-chapters-4-22)
-    - [Chapter Headings of Revelation 4-22 (NASB1995)](#chapter-headings-of-revelation-4-22-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [Revelation 4-22 Summary](#revelation-4-22-summary)
-    - [Revelation 5](#revelation-5)
-    - [Revelation 10](#revelation-10)
-    - [Revelation 15](#revelation-15)
-    - [Revelation 20](#revelation-20)
-    - [Conclusion](#conclusion)
-    - [Class Exercise](#class-exercise)
-
 ## CDI Notes - Content of Revelation Chapters 4-22
 
 **Instructors Guide** *(pg.351)*

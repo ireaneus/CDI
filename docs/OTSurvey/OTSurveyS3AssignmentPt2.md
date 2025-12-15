@@ -3,7 +3,7 @@ title: OTSurvey - Session 3 Part 2 - The Creator Revealed
 date: 1490 B.C.
 writer: Moses
 category: Law
-description: 
+description: Scripture declares that God the Son created all things.
 bibleReference: Genesis
 ---
 
