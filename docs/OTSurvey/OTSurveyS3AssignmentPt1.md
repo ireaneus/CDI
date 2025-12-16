@@ -96,3 +96,62 @@ Preview of the Next Session
 ## Class Exercise
 
 Be prepared to discuss the KNOW, ARE ABLE TO and WILL BE THINKING ABOUT statements from this session that appear at the beginning of this session in your guidebook.
+
+## Notes about the creation beginning
+
+- As said, *"Light"* without an apparent source
+- Darkness is created, not merely the absence of light
+- God sets out to create the world with light and dark from the beginning
+- New Heavens and Earth there won't be any darkness
+
+**Question: If God has determined the He doesn't need darkness in the eternal order, why did He create it in the first earth?**
+
+- God has constantly linked light & dark with good and evil
+    - **Job 30:26** *"“When I expected good, then evil came; When I waited for light, then darkness came."*
+    - **Isaiah 9:2-3** *"The people who walk in darkness Will see a great light; Those who live in a dark land, The light will shine on them. You shall multiply the nation, You shall increase their gladness; They will be glad in Your presence As with the gladness of harvest, As men rejoice when they divide the spoil."*
+- God was already anticipating and planning for the entry of sin into His creation.
+
+### Pattern to His creation
+
+- First three days God creates spaces
+- Second three days God creates objects to fill those spaces
+- God has establishes the passage of time (light/dark cycles)
+    - Time will not exist in new Heavens and Earth their won't be a way to measure it.
+
+## Tree of Knowledge of good and evil
+
+- Only by contrast can you know them
+    - One is defined by the other in the same way light defines dark, sound defines silence.
+- Adam and Woman were good, because God created them that way
+    - Covenant made with Adam (Hosea 6:6-7) - Edenic
+- God is not capable of sinning, He created man and Jesus to choose to sin
+- God places the tree in the garden as a test for Adam, which results in his failure.
+
+**Why does God permit, even invite, Adam’s sin?**
+
+- God’s purpose in the creation was to express His nature and character to a creation that can know Him and worship Him fully
+    - But before the creation can fully know and worship Him, we must have opportunity to see God’s full personality
+        - We must know God’s love, compassion, provision and wisdom
+            - These attributes are knowable in a world without sin
+        - But to know God fully, we must also know His wrath, judgment, mercy, and grace
+            - And these attributes are only knowable in a world of sin
+- Without the possibility of Adam knowing evil, mankind couldn’t hope to understand God’s full nature
+    - And the very purpose of the creation could not be fulfilled
+    - And without Adam’s choice to fall, mankind would never have known the depths of God’s love when He sent His son to death, to save us from that sin[^1]
+
+**Ephesians 1:3-6**
+
+- God the father chose us in Christ before the foundation of the world
+    - Before this creation story started, He had a plan to redeem men through the death of His Son
+        - Why did He do this?  Verse 4 says because of God’s love
+        - God predetermined that He would adopt sons to Himself…
+        - Notice that God’s  plan required that from before the world began, our adoption would be made through His Son
+            - Implying that we were chosen to believe in the sacrificial death of His Son
+            - Again, why?  Verse 6 says to elicit praise to the glory of His grace
+
+- What Paul is saying is that God created the world and man and the garden and the tree knowing that it would lead to His Son’s death on the cross
+    - And when you remember that the Son was the One creating everything, it stuns us to consider that the Son made all things come into being knowing it would require Him to go to the cross[^1]
+
+## Footnotes
+
+[^1]: <https://versebyverseministry.org/lessons/genesis_2011_lesson_2b>
