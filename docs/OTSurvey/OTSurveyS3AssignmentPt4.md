@@ -143,6 +143,10 @@ Read *“The New Answers Book”*, Chapter 8, “Could God Really Have Created E
 
 > For in six days the LORD made the heavens and the earth, the sea, and all that is in them, and rested the seventh day. *Therefore the LORD blessed the Sabbath day and hallowed it.*
 
+**Exodus 31:12** *says that God commanded Moses to say to the children of Israel:*
+
+> *"Six days may work be done, but on the seventh is the sabbath of rest, holy to the Lord. Whoever does any work in the Sabbath day, he shall surely be put to death. Therefore, the sons of Israel shall keep the Sabbath, to observe the Sabbath throughout their generations, for an everlasting covenant. It is a sign between me and the sons of Israel forever. For in six days the Lord made the heavens and the earth, and on the seventh day He rested, and was refreshed"* **(Exodus 31:15–17).**
+
 - *He set the example for man.*
 - *dying, you will die*
 - *Hebrews 9:22: And according to the law almost all things are purified with blood, and without shedding of blood there is no remission.*
@@ -155,7 +159,13 @@ Read *“The New Answers Book”*, Chapter 8, “Could God Really Have Created E
 
 > For we who have believed do enter that rest, as He has said: *"So I swore in My wrath, 'They shall not enter My rest'", although the works were finished from the foundation of the world. For He has spoken in a certain place of the seventh day in this way: "And God rested on the seventh day from all His works..."
 
+**Martin Luther once said:**
+
+> *"I have often said that whoever would study Holy Scripture should be sure to see to it that he stays with the simple words as long as he can and by no means departs from them unless an article of faith compels him to understand them differently. For of this we must be certain: no clearer speech has been heard on Earth than what God has spoken."*
+
 *"If the present sense makes common sense, seek no other sense."*
+
+Because God is infinite in power and wisdom, there’s no doubt He could have created the universe and its contents in no time at all, or six seconds, or six minutes, or six hours—after all, with God nothing shall be impossible **(Luke 1:37).**
 
 ## Luther and Calvin 6 ordinary days
 
@@ -166,6 +176,16 @@ In Martin Luther’s day, some of the church fathers were saying that God create
 Similarly, John Calvin stated,
 
 > *“Albeit the duration of the world, now declining to its ultimate end, has not yet attained six thousand years. ... God’s work was completed not in a moment but in six days.”*
+
+| **Biblical account of creation** | **Evolutionary / Long-age speculation** |
+| :------------------------------: | :-------------------------------------: |
+| Earth before the sun and stars | Stars and sun before earth |
+| Earth covered in water initially | Earth a molten blob initially |
+| Oceans first, then dry land  | Dry land, then the oceans |
+| Life first created on the land | Life started in the oceans |
+| Plants created before the sun | Plants came long after the sun |
+| Land animals created after birds | Land animals existed before birds |
+| Whales before land animals | Land animals before whales |
 
 Be prepared to discuss alternative views of the days of creation.
 
