@@ -150,6 +150,8 @@ Be prepared to discuss the KNOW, ARE ABLE TO and WILL BE THINKING ABOUT statemen
 
 ## Answer
 
+**Why? It was because of what He did before the creation**
+
 Before the creation, God purposed — from eternity — to **display the fullness of His glory**. His justice, holiness, mercy, grace, patience, and love were not created traits — they are **eternal perfections** of His being.
 
 To manifest the **riches of who He is**, He ordained a redemptive plan that would **glorify Himself** by redeeming a people through His Son — not because He needed them, but because His love and glory are **overflowing**.
@@ -190,7 +192,7 @@ Creation, the fall, and redemption were never about human need — they were abo
 
 ## Summary
 
-If we were created initially as in our resurrection body, good and incapable of sin.  We or Adam would not see the depths of His love, His mercy, grace, and judgement, wrath, jealousy. We would only see His perfection? or really a one sided view, but because we have experienced and are sinners, we so much more will see all of who He is.
+If we were created like Adam and Jesus (good, able to choose to obey or disobey), but without the capability to sin, the only side to God we would see would be His perfection, which in and of itself is awesome, but we wouldn't be able to experience or see all of His attributes, His Love, Mercy, Forgiveness, Justice and Wrath, to name a few.
 
 God created man with the capacity to choose — not for man’s sake, but for **His own glory’s sake**.
 
