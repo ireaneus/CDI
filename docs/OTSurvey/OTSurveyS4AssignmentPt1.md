@@ -146,7 +146,7 @@ Be prepared to discuss the KNOW, ARE ABLE TO and WILL BE THINKING ABOUT statemen
 
 ---
 
-## Question: Why did God create man with the ability to obey or disobey?
+## Question: Why did God create darkness, sea, and sin, all that provision for Evil, when the new Heavens, and Earth will not have these things?
 
 ## Answer
 
