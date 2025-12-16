@@ -169,3 +169,16 @@ Be prepared to discuss the KNOW, ARE ABLE TO and WILL BE THINKING ABOUT statemen
 Memorize Hebrews 11:7.
 
 Chart the month and day narrative of the Flood given found in Genesis 6-9. Either add it to the Biblical Timeline in a box or use a separate piece of paper.
+
+| **Timeline (days)** | **Duration** | **Month/Day** | **Description** | **Bible Reference** |
+| :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |
+| 0 |  Initial reference point | 600th year of Noah’s life: 2nd month, 17th day of the month | *The fountains of the great deep broke apart and the windows of heaven were opened; it began to rain. This happened on the seventeenth day of the second month. Noah actually entered the Ark seven days prior to this.* | Genesis 7:11 |
+| 40 | 40 days and nights | 3rd month, 27th day of the month | *Rain fell for 40 days, and then water covered the earth’s highest places (at that time) by over ~20 feet (15 cubits) and began the stage of flooding until the next milestone.2* | Genesis 7:11–12,17–20 |
+| 150 | 150 days (including the intial 40 days) | 7th month, 17th day of the month | *The water rose to its highest level (covering the whole earth) sometime between the 40th and 150th day, and the end of these 150 days was the seventeenth day of the seventh month. The Ark rested on the mountains of Ararat. On the 150th day, the springs of the great deep were shut off, and the rain from above ceased, and the water began continually receding.* | Genesis 7:24–8:5 |
+| 150 + 74 = 224 | 74 days | 10th month, 1st day of the month | *The tops of the mountains became visible on the tenth month, first day.* | Genesis 8:5 |
+| 224 + 40 = 264 | 40 days | 11th month, 11th day of the month | *After 40 more days, Noah sent out a raven.* | Genesis 8:6 |
+| 264 + 7 = 271 | 7 days | 11th month, 18th day of the month | *The dove was sent out seven days after the raven. It had no resting place and returned to Noah.3* | Genesis 8:6–12 |
+|271 + 7 = 278 |7 days | 11th month, 25th day of the month | *After seven more days, Noah sent out the dove again. It returned again but this time with an olive leaf in its beak.* | Genesis 8:10–11 |
+| 278 + 7 = 285 | 7 days | 12th month, 2nd day of the month | *After seven more days, Noah sent out the dove again, and it did not return.* | Genesis 8:12 |
+| 314 | 29 days | 601st year of Noah life: 1st month, 1st day of the month | *Noah removed the cover of the Ark on the first day of the first month. The surface of the earth was dried up, and Noah could verify this to the extent of what he could see.* | Genesis 8:13 |
+| 370 (371 if counting the first day and last day as full days) | 56 days | 2nd month, 27th day of the month | *The earth was dry, and God commanded Noah’s family and the animals to come out of the Ark. From the first day of the year during the daylight portion there were 29.5 more days left in the month plus 26.5 more days left in the second month until the exit.* | Genesis 8:14–17, Genesis 7:11 |
