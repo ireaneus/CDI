@@ -1,10 +1,10 @@
 ---
 title: OTSurvey - TEMPLATE
-date: 63 B.C.
+date: 1500 B.C.
 writer: Moses
 category: Law
 description: 
-bibleReference: Genesis
+bibleReference: Exodus
 ---
 
 # {{ page.meta.title }}
@@ -17,7 +17,7 @@ bibleReference: Genesis
 
 ## CDI Notes
 
-**Instructors Guide** *(pg.338)*
+**Instructors Guide** *(pg.321)*
 
 ## Key Verses
 

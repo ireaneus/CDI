@@ -68,7 +68,7 @@ You will THINK ABOUT:
 
 - Jesus Himself said, *“These are the Scriptures that testify about Me.”* **John 5:39b**
 - The second half of Genesis is important in tracing Abraham's blessing through his descendants.
-- The Genesis 12 blessings to Abraham are both temporal and spiritual. 
+- The Genesis 12 blessings to Abraham are both temporal and spiritual.
 
 **Genesis 24 – Finding a Wife for Isaac**
 
