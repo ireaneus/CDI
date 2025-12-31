@@ -230,6 +230,8 @@ Be prepared to discuss the KNOW, ARE ABLE TO and WILL BE THINKING ABOUT statemen
 
 **Memorize Hebrews 10:14.**
 
+> *For by one offering He has perfected for all time those who are sanctified.*
+
 Scan through Deuteronomy and number and mark the beginning and ending of each of
 Moses’ five speeches.
 
@@ -239,9 +241,8 @@ Take Mid-Term
 
 | **Speech #** | **Beginning At** | **Ending At** | **Title** | **Primary Thought** |
 | :----------: | :--------------: | :-----------: | :-------: | :---------: |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| 1 | Deut 1:6 | Deut 4:40 | Israel's History after the Exodus | Israel Urged to Obey God's Law |
+| 2 | Deut 5 | Deut 26 | Obedience is better than Sacrifice | Observation of the Feasts and keeping the Law as God commanded |
+| 3 | Deut. 27:11 | Deut 28:68 | Blessings and Cursings | If you diligently obey the Lord your God |
+| 4 | Deut. 29:2 | Deut 30:20 | The Covenant in Moab readdressed | So keep the words of this covenant to do them, that you may prosper in all that you do vs.9 |
+| 5 | Deut. 33 | Deut. 33 | The Blessing of Moses | Who is like you, a people saved by the Lord vs. 29 |
