@@ -84,7 +84,7 @@ need of the repenting believer.
 - Only a portion of this offering is to be burned; the rest belongs to the priests for their use.
 - As with all offerings, only the best is to be presented to the LORD.
 - No yeast is to be present and it is to be mixed with incense.
-- The Biblical themes seen here and that speak of “the Bread of Life”, are His purity and His ministry as our Great High Priest.
+- The Biblical themes seen here and that speak of *“the Bread of Life”*, are His purity and His ministry as our Great High Priest.
 
 **The Fellowship Offering – Traditionally Called the Peace Offering**
 
@@ -119,9 +119,9 @@ need of the repenting believer.
 - This particular holy day deserves special notice.
 - It was designed to be an annual day of sacrifice that would cover all the sins of
 the people.
-- This was the only day of the year that the High Priest could enter the Holy of Holies and sprinkle the blood of atonement, or “covering”, on the Mercy Seat that covered the Ark of the Covenant.
+- This was the only day of the year that the High Priest could enter the Holy of Holies and sprinkle the blood of atonement, or *“covering”*, on the Mercy Seat that covered the Ark of the Covenant.
 - The significance of this tremendous picture of Christ’s sacrifice is clarified in
-Hebrews 9 and 10.
+**Hebrews 9 and 10**.
 - The shed blood of Jesus accomplished completely what was only pictured in the annual Day of Atonement.
 
 **Seven Primary “Appointed Feasts”**
@@ -153,22 +153,22 @@ Hebrews 9 and 10.
 - In Chapter 13, the Israelites arrive at the southern border of the Promised Land
 and twelve men, one from each tribe, are sent to explore.
 - Although the people have personally seen God’s power in their deliverance from Egypt and in His daily provisions, they rebel.
-- Ten of the “spies” bring back a false report about the land and its dangers. Only
+- Ten of the *“spies”* bring back a false report about the land and its dangers. Only
 Joshua and Caleb remain faithful.
 - As a result, the Israelites are turned back and for 40 years wander in the desert
 until all that generation dies – except Joshua and Caleb.
-- Those 40 years occur between the end of chapter 14 and the beginning of chapter 15.
+- Those 40 years occur between the end of **chapter 14** and the beginning of **chapter 15**.
 - **Psalm 95 and Hebrews 4**, look back to this time of unbelief of Israel when they
 *“hardened their hearts”* and failed to enter their promised *“rest.”*
 - Jesus himself is the fulfillment of this place of rest, *“for anyone who enters God’s rest also rests from his own work.”* **Hebrews 4:10; Matthew 11:28-30**
 
 **The Remaining Chapters of Numbers**
 
-- The rebellion of Korah, Dathan and Abiram and the confirmation of the Aaronic,priesthood are covered in chapters 16 through 18.
-- Moses and Aaron’s failure when they strike the rock in chapter 20 lead to their
+- The rebellion of *Korah, Dathan and Abiram* and the confirmation of the Aaronic,priesthood are covered in **chapters 16 through 18**.
+- Moses and Aaron’s failure when they *strike the rock* in **chapter 20** lead to their
 being excluded from entering the land.
 - The event of the bronze serpent that Jesus refers to in **John 3:14-15** is recorded in **Numbers 21:4-9.**
-- The account of Balaam is in chapters 22 through 25.
+- The account of *Balaam* is in **chapters 22 through 25**.
 - Balaam’s prophecy, *“A star will come out of Jacob,”* **(Numbers 24:17)** is likely that which led the magi to seek the newborn Christ.
 - In Numbers 26, after 40 years of wandering, the next generation of Israelites is
 *“numbered”* by tribes.
@@ -185,8 +185,8 @@ encouraging look forward to the dividing up of the land they are about to enter.
 - These laws are not different from the commands in Exodus; Deuteronomy retells the core laws to this generation as they prepare to enter the land.
 - This book is, in essence, Moses’ final words to his people, reminding them of God’s Laws, promises and warnings.
 - There are five *“speeches”* of Moses in Deuteronomy.
-- Moses’ first speech is prefaced in Deuteronomy 1:5 and begins in verse 6 and
-ends in chapter 4:40.
+- Moses’ first speech is prefaced in **Deuteronomy 1:5** and begins in verse 6 and
+ends in **chapter 4:40**.
 - The second speech is the longest.
 - A fascinating fact from Deuteronomy is that, when Satan tempted Jesus in the wilderness, Jesus quoted exclusively from Deuteronomy. Jesus successfully resisted the temptation that Adam had failed in the garden.
 - Through faith in Jesus, the *“last Adam”* **(1 Corinthians 15:45)**, we may enter His rest now and forever.
