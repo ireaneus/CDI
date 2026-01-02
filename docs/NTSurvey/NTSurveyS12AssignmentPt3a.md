@@ -15,15 +15,6 @@ bibleReference: Philippians
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes: Content of Philippians Overview](#cdi-notes-content-of-philippians-overview)
-    - [Philippians NASB1995 Section Headings](#philippians-nasb1995-section-headings)
-    - [Notes from *"Survey of the New Testament"*](#notes-from-survey-of-the-new-testament)
-    - [Basic Outline of Philippians](#basic-outline-of-philippians)
-
 ## CDI Notes: Content of Philippians Overview
 
 **Joy in Present Circumstances**  
@@ -90,7 +81,7 @@ bibleReference: Philippians
 ## Basic Outline of Philippians
 
 | Philippians | Verses |
-| ----------- | ----------|
+| ----------- | ---------- |
 | **I. Introduction** | (1:1-11) |
 | A. Greetings and Thanksgiving | (1:1-8) |
 | B. Petitions for Philippian Believers | (1:9-11) |

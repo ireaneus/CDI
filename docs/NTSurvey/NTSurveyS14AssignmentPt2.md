@@ -1,5 +1,5 @@
 ---
-title: NTSurvey - Session 14 - Part 2 - James
+title: NTSurvey - Session 14 Part 2 - James
 date: 45 A.D
 writer: James the Lord's brother
 category: Early NT Jewish Distinctive
@@ -14,20 +14,6 @@ bibleReference: James
 **Category:** {{ page.meta.category }}  
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
-
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of James](#cdi-notes---content-of-james)
-    - [Chapter Headings of James (NASB1995)](#chapter-headings-of-james-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [James Summary](#james-summary)
-    - [I. The Believer's Trials](#i-the-believers-trials)
-    - [II. The Believer's Genuineness](#ii-the-believers-genuineness)
-    - [III. The Believer's Obstacles](#iii-the-believers-obstacles)
-    - [IV. The Believer's Challenges](#iv-the-believers-challenges)
-    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of James
 
@@ -166,8 +152,6 @@ James: The Testing of Your Faith
 
 ## Survey of New Testament
 
-[Table of Contents](#table-of-contents)
-
 ### Outline of James
 
 | **James** | Verses |
@@ -256,7 +240,6 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 27 Pure and undefiled religion in the sight of our God and Father is this: to visit orphans and widows in their distress, and to keep oneself unstained by the world.
 
 [Outline of James](#outline-of-james)
-[Table of Contents](#table-of-contents)
 
 ## III. The Believer's Obstacles
 
@@ -293,7 +276,6 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 26 For just as the body without the spirit is dead, so also faith without works is dead.
 
 [Outline of James](#outline-of-james)
-[Table of Contents](#table-of-contents)
 
 **The Tongue is a Fire 3:1-12**
 
@@ -321,7 +303,6 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 18 And the seed whose fruit is righteousness is sown in peace by those who make peace.
 
 [Outline of James](#outline-of-james)
-[Table of Contents](#table-of-contents)
 
 **Things to Avoid 4:1-17**
 
@@ -353,7 +334,6 @@ The theme of this epistle is the necessity of living faith. James deals very lit
 > 6 You have condemned and put to death the righteous man; he does not resist you.
 
 [Outline of James](#outline-of-james)
-[Table of Contents](#table-of-contents)
 
 ## IV. The Believer's Challenges
 
@@ -392,4 +372,3 @@ How does James develop the concept of testing of faith? Refer to these verses:
 *These verses open up the ethical demands of Christianity that have been stressed by James.*
 
 [Outline of James](#outline-of-james)
-[Table of Contents](#table-of-contents)

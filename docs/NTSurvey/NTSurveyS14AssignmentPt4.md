@@ -1,5 +1,5 @@
 ---
-title: NTSurvey - Session 14 Part 4 – 1-2 PETER, JUDE, GALATIANS, 1-2 THESS
+title: NTSurvey - Session 14 Part 4 - 1-2 PETER, JUDE, GALATIANS, 1-2 THESS
 date: 48-51 A.D
 writer: Paul, an apostle of Jesus Christ
 category: General Letters
@@ -14,14 +14,6 @@ bibleReference: 1-2 Peter, Jude Galatians, 1-2 Thessalonians
 **Category:** {{ page.meta.category }}  
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
-
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes](#cdi-notes)
-    - [Key Verses](#key-verses)
-    - [Class Discussion: General Letters](#class-discussion-general-letters)
 
 ## CDI Notes
 

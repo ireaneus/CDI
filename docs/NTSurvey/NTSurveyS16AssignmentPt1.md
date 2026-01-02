@@ -15,16 +15,6 @@ bibleReference: 1 John
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of 1 John](#cdi-notes---content-of-1-john)
-    - [Chapter Headings of 1 John (NASB1995)](#chapter-headings-of-1-john-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [1 John Summary](#1-john-summary)
-    - [Class Exercise](#class-exercise)
-
 ## CDI Notes - Content of 1 John
 
 **Instructors Guide pg. 330**  

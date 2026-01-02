@@ -15,19 +15,6 @@ bibleReference: 2 Peter
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of 2 Peter](#cdi-notes---content-of-2-peter)
-    - [Chapter Headings of 2 Peter (NASB1995)](#chapter-headings-of-2-peter-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [2 Peter Summary](#2-peter-summary)
-    - [I. Knowledge That is True](#i-knowledge-that-is-true)
-    - [II. Knowledge That is False](#ii-knowledge-that-is-false)
-    - [III. Knowledge That is Needed](#iii-knowledge-that-is-needed)
-    - [Class Exercise](#class-exercise)
-
 ## CDI Notes - Content of 2 Peter
 
 Author: Peter
@@ -147,11 +134,11 @@ Peter wrote to emphasize the necessity of being knowledgable in order to mature 
 
 ## 2 Peter Summary
 
-**_In 2 Peter, the apostle_** writes his final letter to strengthen believers in the true knowledge of Christ, urging them to grow in grace and godliness so they will stand firm against corruption and deception. After reminding them that God’s divine power has granted everything necessary for life and godliness, he calls them to add diligence to their faith through virtue, knowledge, self-control, perseverance, godliness, brotherly kindness, and love (*1:3–7*). Peter stresses the certainty of the apostolic witness and the reliability of Scripture, affirming that prophecy never came by human will but men spoke from God as they were carried along by the Holy Spirit (*1:16–21*). He warns fiercely against false teachers who secretly introduce destructive heresies, deny the Master who bought them, exploit believers, and live in sensuality. Their judgment is certain, as shown through precedents such as fallen angels, Noah’s flood, and the destruction of Sodom and Gomorrah (*2:1–10*). These false teachers are described as springs without water and clouds driven by a storm—boastful, enslaved to corruption, and destined for darkness (*2:17–22*). Peter then addresses the apparent delay of Christ’s return, explaining that God is not slow but patient, desiring all to come to repentance (*3:9*). The present heavens and earth will be destroyed by fire, and believers are to live in holiness and godliness as they await the new heavens and new earth where righteousness dwells (*3:10–13*). He concludes by urging believers to grow in the grace and knowledge of our Lord and Savior Jesus Christ (*3:18*).
+***In 2 Peter, the apostle*** writes his final letter to strengthen believers in the true knowledge of Christ, urging them to grow in grace and godliness so they will stand firm against corruption and deception. After reminding them that God’s divine power has granted everything necessary for life and godliness, he calls them to add diligence to their faith through virtue, knowledge, self-control, perseverance, godliness, brotherly kindness, and love (*1:3–7*). Peter stresses the certainty of the apostolic witness and the reliability of Scripture, affirming that prophecy never came by human will but men spoke from God as they were carried along by the Holy Spirit (*1:16–21*). He warns fiercely against false teachers who secretly introduce destructive heresies, deny the Master who bought them, exploit believers, and live in sensuality. Their judgment is certain, as shown through precedents such as fallen angels, Noah’s flood, and the destruction of Sodom and Gomorrah (*2:1–10*). These false teachers are described as springs without water and clouds driven by a storm—boastful, enslaved to corruption, and destined for darkness (*2:17–22*). Peter then addresses the apparent delay of Christ’s return, explaining that God is not slow but patient, desiring all to come to repentance (*3:9*). The present heavens and earth will be destroyed by fire, and believers are to live in holiness and godliness as they await the new heavens and new earth where righteousness dwells (*3:10–13*). He concludes by urging believers to grow in the grace and knowledge of our Lord and Savior Jesus Christ (*3:18*).
 
-**_Christ is presented as_** the divine Savior and Lord whose power grants everything needed for life and godliness. He is the majestic Son witnessed on the holy mountain, the cornerstone of true prophetic revelation, the Master who bought His people, the righteous Judge who will return in glory, and the One through whom the new creation comes. His return is certain, His judgment is just, and His salvation is complete.
+***Christ is presented as*** the divine Savior and Lord whose power grants everything needed for life and godliness. He is the majestic Son witnessed on the holy mountain, the cornerstone of true prophetic revelation, the Master who bought His people, the righteous Judge who will return in glory, and the One through whom the new creation comes. His return is certain, His judgment is just, and His salvation is complete.
 
-**_Believers should_** diligently pursue spiritual growth, stand firm in the truth of Scripture, flee the corruption of false teachers, live in holiness as they await the coming Day of the Lord, and continually grow in the grace and knowledge of Christ (*1:5–10; 2:1–3; 3:11–18*).
+***Believers should*** diligently pursue spiritual growth, stand firm in the truth of Scripture, flee the corruption of false teachers, live in holiness as they await the coming Day of the Lord, and continually grow in the grace and knowledge of Christ (*1:5–10; 2:1–3; 3:11–18*).
 
 ## I. Knowledge That is True
 

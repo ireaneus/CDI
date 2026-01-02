@@ -1,5 +1,5 @@
 ---
-title: NTSurvey - Session 16 Part 2 - 2 3 John
+title: NTSurvey - Session 16 Part 2 - 2 and 3 John
 date: 85 A.D
 writer: John the Apostle
 category: General Epistle
@@ -14,17 +14,6 @@ bibleReference: 2 3 John
 **Category:** {{ page.meta.category }}  
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
-
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of 2 3 John](#cdi-notes---content-of-2-3-john)
-    - [Chapter Headings of 2 3 John (NASB1995)](#chapter-headings-of-2-3-john-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [2 John Summary](#2-john-summary)
-    - [3 John Summary](#3-john-summary)
-    - [Class Exercise](#class-exercise)
 
 ## CDI Notes - Content of 2 3 John
 

@@ -15,22 +15,6 @@ bibleReference: Hebrews
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of Hebrews](#cdi-notes---content-of-hebrews)
-    - [Chapter Headings of Hebrews (NASB1995)](#chapter-headings-of-hebrews-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [Hebrews Summary](#hebrews-summary)
-    - [I. Christ's Superiority in Revelation](#i-christs-superiority-in-revelation)
-    - [II. Christ's Superiority over Angels](#ii-christs-superiority-over-angels)
-    - [III. Christ's Superiority over Moses](#iii-christs-superiority-over-moses)
-    - [IV. Christ's Superiority over Aaron](#iv-christs-superiority-over-aaron)
-    - [V. Christ's Superiority over Self](#v-christs-superiority-over-self)
-    - [Conclusion](#conclusion)
-    - [Class Exercise](#class-exercise)
-
 ## CDI Notes - Content of Hebrews
 
 **Hebrews**  
@@ -526,7 +510,6 @@ The final chapter demonstrates how the entire epistle moves from **shadow to sub
 > 13 And there is no creature hidden from His sight, but all things are open and laid bare to the eyes of Him with whom we have to do.
 
 [Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
 
 ## IV. Christ's Superiority over Aaron
 
@@ -582,7 +565,6 @@ The final chapter demonstrates how the entire epistle moves from **shadow to sub
 > 20 where Jesus has entered as a forerunner for us, having become a high priest forever according to the order of Melchizedek.
 
 [Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
 
 **Melchizedek's Priesthood Like Christ's** *(7:1-28)*
 
@@ -656,7 +638,6 @@ The final chapter demonstrates how the entire epistle moves from **shadow to sub
 > 13 When He said, *“A new covenant,”* He has made the first obsolete. But whatever is becoming obsolete and growing old is ready to disappear.
 
 [Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
 
 **The Old and the New** *(9:1-28)*
 
@@ -751,7 +732,6 @@ The final chapter demonstrates how the entire epistle moves from **shadow to sub
 > 39 But we are not of those who shrink back to destruction, but of those who have faith to the preserving of the soul.
 
 [Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
 
 **The Triumps of Faith** *(11:1-40)*
 
@@ -797,7 +777,6 @@ The final chapter demonstrates how the entire epistle moves from **shadow to sub
 > 40 because God had provided something better for us, so that apart from us they would not be made perfect.
 
 [Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
 
 **Jesus, the Example** *(12:1-3)*
 
@@ -844,7 +823,6 @@ The final chapter demonstrates how the entire epistle moves from **shadow to sub
 > 29 **for our God is a consuming fire.**
 
 [Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
 
 ## Conclusion
 
@@ -885,7 +863,6 @@ The final chapter demonstrates how the entire epistle moves from **shadow to sub
 > 25 Grace be with you all.
 
 [Outline of Hebrews](#outline-of-hebrews)  
-[Table of Contents](#table-of-contents)
 
 ## Class Exercise
 

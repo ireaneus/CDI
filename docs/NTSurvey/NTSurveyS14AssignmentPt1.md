@@ -15,12 +15,6 @@ bibleReference: James, Hebrews, 1 & 2 Peter, Jude, 1-3 John
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of Catholic Epistles](#cdi-notes---content-of-catholic-epistles)
-
 ## CDI Notes - Content of Catholic Epistles
 
 General Letters, Table of Contents
@@ -148,11 +142,11 @@ Character
 **Read the following scripture: Acts 2:10, 11, 12, 37, Acts 6:3, 7, 8:4, Acts 15:6, 24:17.**  
 *With your students, identify the changes in the status and conditions of the Jerusalem church between 33 and 70 AD. You may wish to list on a whiteboard the above scriptures under the following headings: Growing Influence, Controlling Influence, Declining Influence, and Needing Help.*
 
-| Verses | Growing  | Controlling | Declining | Needs help |
+| Verses | Growing | Controlling | Declining | Needs help |
 | :----: | :------: | :---------: | :-------: | :--------: |
 | Acts 2:10-37 | X | | | |
-| Acts 6:3| | X | | |
-| Acts 6:7| X | | | |
+| Acts 6:3 | | X | | |
+| Acts 6:7 | X | | | |
 | Acts 8:4 | X | | | |
 | Acts 15:6 | | | X | |
 | Acts 24:17 | | | | X |

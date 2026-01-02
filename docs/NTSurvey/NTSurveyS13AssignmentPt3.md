@@ -15,20 +15,6 @@ bibleReference: 2 Timothy
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of 2 Timothy](#cdi-notes---content-of-2-timothy)
-    - [Chapter Headings of 2 Timothy (NASB1995)](#chapter-headings-of-2-timothy-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [2 Timothy Summary](#2-timothy-summary)
-    - [I. Personal Greetings Chapter 1](#i-personal-greetings-chapter-1)
-    - [II. The Command to Guard the Gospel](#ii-the-command-to-guard-the-gospel)
-    - [III. The Command to Suffer for the Gospel Chapter 2](#iii-the-command-to-suffer-for-the-gospel-chapter-2)
-    - [IV. The Command to Endure for the Gospel Chapter 3](#iv-the-command-to-endure-for-the-gospel-chapter-3)
-    - [V. The Command to Preach the Gospel Chapter 4](#v-the-command-to-preach-the-gospel-chapter-4)
-
 ## CDI Notes - Content of 2 Timothy
 
 ### Aside on Paul’s Movements

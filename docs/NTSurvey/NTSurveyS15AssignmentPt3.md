@@ -15,16 +15,6 @@ bibleReference: Jude
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of Jude](#cdi-notes---content-of-jude)
-    - [Chapter Headings of Jude (NASB1995)](#chapter-headings-of-jude-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [Jude Summary](#jude-summary)
-    - [Class Exercise](#class-exercise)
-
 ## CDI Notes - Content of Jude
 
 Author in Scripture

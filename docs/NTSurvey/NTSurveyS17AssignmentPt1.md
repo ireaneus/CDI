@@ -15,16 +15,6 @@ bibleReference: Revelation Chapter 1-3
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of Revelation](#cdi-notes---content-of-revelation)
-    - [Chapter Headings of Revelation(NASB1995)](#chapter-headings-of-revelationnasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [Revelation Summary](#revelation-summary)
-    - [Class Exercise](#class-exercise)
-
 ## CDI Notes - Content of Revelation
 
 **Instructors Guide** *(pg.346)*
