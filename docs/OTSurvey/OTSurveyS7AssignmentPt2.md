@@ -2,8 +2,8 @@
 title: OTSurvey - Session 7 Part 2 - Jesus and the Judges
 date: 1100 B.C.
 writer: Samuel
-category: Judges
-description: 
+category: Nevim
+description: See in the Judges of Israel as pointing to Jesus, but always falling short.
 bibleReference: Judges, Ruth
 ---
 

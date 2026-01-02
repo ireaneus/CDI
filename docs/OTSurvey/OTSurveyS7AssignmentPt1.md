@@ -2,7 +2,7 @@
 title: OTSurvey - Session 7 Part 1 - Jesus and Joshua
 date: 1400 B.C.
 writer: Joshua
-category: Promised Land
+category: Nevim
 description: See in Joshua, the foreshadowing of Jesus. Understand that Joshua trusted the LORD and was used by God to bring his people into the Promised Land.
 bibleReference: Joshua
 ---
