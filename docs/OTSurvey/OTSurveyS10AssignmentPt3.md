@@ -216,3 +216,53 @@ Outline Haggai’s messages including their corresponding verses. When finished,
 **The last message contained in the book was delivered the same day as the third and is found in **Haggai 2:20–23**. In this, the prophet speaks of the establishment of Zerubbabel, a symbol of the idea that God’s people were to stand, just as the power of the heathen nations was completely broken.**
 
 **Assign Mid-Term.**
+
+**Below this is AI driven reference material**
+
+**FULFILLED PROPHECY — HAGGAI, ZECHARIAH, MALACHI (Session 10, Part 3)**  
+*(NASB 1995 | Post-Exilic Prophets)*
+
+---
+
+### **HAGGAI**
+
+| Prophecy | Scripture (NASB1995) | Date Prophesied | Fulfillment | Fulfillment Date |
+| - | - | - | - | - |
+| Rebuilding of the Temple would resume | Haggai 1:2–11 | 520 BC | The people obeyed and resumed construction | 520 BC |
+| God’s presence with the builders | Haggai 1:13 | 520 BC | The LORD strengthened the people to rebuild | 520 BC |
+| Latter glory of the Temple would exceed the former | Haggai 2:7–9 | 520 BC | Fulfilled ultimately by Messiah entering the Second Temple | c. AD 30 |
+| Blessing restored after obedience | Haggai 2:19 | 520 BC | Agricultural and covenant blessing resumed | Post-520 BC |
+| Zerubbabel chosen as God’s signet | Haggai 2:20–23 | 520 BC | Messianic lineage preserved through Zerubbabel | Fulfilled in Christ (Matt 1:12) |
+
+---
+
+### **ZECHARIAH**
+
+| Prophecy | Scripture (NASB1995) | Date Prophesied | Fulfillment | Fulfillment Date |
+| - | - | - | - | - |
+| Priest-King united on one throne | Zechariah 6:13 | 520–518 BC | Fulfilled in Jesus Christ alone | AD 30–present |
+| Messiah enters Jerusalem on a donkey | Zechariah 9:9 | c. 520–480 BC | Triumphal Entry of Jesus | AD 30 |
+| The Shepherd would be struck | Zechariah 13:7 | c. 520–480 BC | Disciples scattered at Jesus’ arrest | AD 30 |
+| Israel would look upon the One pierced | Zechariah 12:10 | c. 520–480 BC | Fulfilled at the crucifixion; future national mourning anticipated | AD 30 / Future |
+| God would pour out a spirit of grace and supplication | Zechariah 12:10 | c. 520–480 BC | Fulfilled at the Cross; ongoing through the New Covenant | AD 30–present |
+
+---
+
+### **MALACHI**
+
+| Prophecy | Scripture (NASB1995) | Date Prophesied | Fulfillment | Fulfillment Date |
+| - | - | - | - | - |
+| Messenger to prepare the way of the LORD | Malachi 3:1 | c. 450–430 BC | John the Baptist prepares the way for Christ | c. AD 26 |
+| The LORD would come suddenly to His Temple | Malachi 3:1 | c. 450–430 BC | Jesus taught and cleansed the Temple | AD 30 |
+| Elijah would come before the Day of the LORD | Malachi 4:5–6 | c. 450–430 BC | John the Baptist is a type of Elijah but Elijah will come before the Day of the Lord | c. AD 26 / Future |
+| Hearts turned through covenant restoration | Malachi 4:6 | c. 450–430 BC | Gospel reconciliation through Christ | AD 30–present |
+
+---
+
+### **SUMMARY**
+
+- **Haggai** shows immediate historical obedience with forward-looking Messianic fulfillment.  
+- **Zechariah** provides the clearest post-exilic Messianic prophecies fulfilled in Jesus Christ.  
+- **Malachi** closes the Old Testament by pointing directly to John the Baptist and the coming Messiah.
+
+---
