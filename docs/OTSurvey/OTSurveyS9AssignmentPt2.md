@@ -1,6 +1,6 @@
 ---
 title: OTSurvey - Session 9 Part 2 - Jesus and Jeremiah
-date: 627–586 B.C.
+date: 627–574 B.C.
 writer: Jeremiah
 category: Prophets
 description: In this session you will recognize in the long, tragic ministry of Jeremiah during the fall of Jerusalem, a type of the Greater Prophet who also weeps over Jerusalem.

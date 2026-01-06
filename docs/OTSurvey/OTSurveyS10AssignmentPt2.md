@@ -1,5 +1,5 @@
 ---
-title: OTSurvey - Session 10 Part 2 - Jesus
+title: OTSurvey - Session 10 Part 2 - Jesus and Nahum, Habakkuk, Zephaniah
 date: 660-586 B.C.
 writer: The Twelve
 category: Prophet
