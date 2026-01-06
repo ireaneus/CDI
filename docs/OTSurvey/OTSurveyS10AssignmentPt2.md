@@ -1,6 +1,6 @@
 ---
 title: OTSurvey - Session 10 Part 2 - Jesus
-date: 800-586 B.C.
+date: 660-586 B.C.
 writer: The Twelve
 category: Prophet
 description: Understand the prophecies of Nahum, Habakkuk and Zephaniah.
@@ -112,41 +112,43 @@ You will THINK ABOUT:
 
 ## Key Verses
 
-**Nahum – The LORD’s Judgment on Nineveh**
+**NAHUM — The LORD’s Judgment on Nineveh**
 
-- **Nahum 1:1–2**
-- **Nahum 1:6**
-- **Nahum 1:8**
-- **Nahum 1:15**
-- **Genesis 10:11**
-- **Isaiah 52:7**
+- **Nahum 1:1–2** — The LORD as jealous and avenging  
+- **Nahum 1:6** — Who can endure His burning anger?  
+- **Nahum 1:8** — Nineveh destroyed by an overwhelming flood  
+- **Nahum 1:15** — Good news announced after judgment  
+- **Genesis 10:11** — Nineveh first mentioned  
+- **Isaiah 52:7** — Parallel to Nahum 1:15 (good news proclaimed)
 
-**Habakkuk – Living by Faith Amid Judgment**
+**HABAKKUK — Living by Faith Amid Judgment**
 
-- **Habakkuk 1:2–3**
-- **Habakkuk 1:5–6**
-- **Habakkuk 1:12–13**
-- **Habakkuk 2:4**
-- **Habakkuk 3:16–19**
-- **Romans 1:17**
-- **Galatians 3:11**
-- **Hebrews 10:38**
+- **Habakkuk 1:2–3** — Cry against violence and injustice  
+- **Habakkuk 1:5–6** — Babylon raised up as God’s instrument  
+- **Habakkuk 1:12–13** — God’s holiness questioned by the prophet  
+- **Habakkuk 2:4** — *“The righteous will live by his faith”*  
+- **Habakkuk 3:16–18** — Rejoicing in God despite coming calamity  
+- **Romans 1:17** — Faith and righteousness applied in the Gospel  
+- **Galatians 3:11** — Justification by faith  
+- **Hebrews 10:38** — Faithfulness in endurance
 
-**Zephaniah – The Day of the LORD and Future Hope**
+**ZEPHANIAH — The Day of the LORD and Future Hope**
 
-- **Zephaniah 1:1**
-- **Zephaniah 1:2, 4**
-- **Zephaniah 1:8, 12–13**
-- **Zephaniah 1:14**
-- **Zephaniah 2:3**
-- **Zephaniah 2:4–7**
-- **Zephaniah 2:8–11**
-- **Zephaniah 2:12**
-- **Zephaniah 2:13–15**
-- **Zephaniah 3:3**
-- **Zephaniah 3:4**
-- **Zephaniah 3:16–17**
-- **Zephaniah 3:20**
+- **Zephaniah 1:1** — Royal lineage and historical setting  
+- **Zephaniah 1:2, 4** — Judgment against Judah and idolatry  
+- **Zephaniah 1:8, 12–13** — Judgment on complacency and pride  
+- **Zephaniah 1:14** — The great Day of the LORD  
+- **Zephaniah 2:3** — Call to humility and righteousness  
+- **Zephaniah 2:4–7** — Judgment on the Philistines  
+- **Zephaniah 2:8–11** — Judgment on Moab and Ammon  
+- **Zephaniah 2:12** — Judgment on Cush  
+- **Zephaniah 2:13–15** — Judgment on Assyria and Nineveh  
+- **Zephaniah 3:3** — Corruption of Jerusalem’s leaders  
+- **Zephaniah 3:4** — Corruption of prophets and priests  
+- **Zephaniah 3:16–17** — The LORD rejoices over His restored people  
+- **Zephaniah 3:20** — Restoration and honor before the nations
+
+---
 
 ## Class Exercise
 

@@ -1,10 +1,10 @@
 ---
 title: OTSurvey - Session 9 Part 3 - Jesus and Ezekiel
-date: 1500 B.C.
-writer: Jeremiah
+date: 605-571 B.C.
+writer: Ezekiel
 category: Prophecy
 description: Recognize in Ezekiel, the prophet in exile and the other *“son of man,”* a type of Jesus.
-bibleReference: Jeremiah
+bibleReference: Ezekiel
 ---
 
 # {{ page.meta.title }}
@@ -163,61 +163,73 @@ You will THINK ABOUT:
 - Last book of the section of the Tanakh called *“the Prophets,”* this is a book called *“The Twelve,”* a collection of what is also known as the Minor Prophets.
 - Look at each book individually as to their place in Jewish history and learn the basic message of each book.
 
-## Key Verses (NASB1995)
+## Key Verses
 
-**The Call and Commission of Ezekiel**
+**DATES AND HISTORICAL SETTING (EZEKIEL)**
 
-- **Ezekiel 1:1–3**
-- **Ezekiel 1:28**
-- **Ezekiel 2:3–5**
-- **Ezekiel 2:9–10**
-- **Ezekiel 3:1–3**
-- **Ezekiel 3:15**
-- **Jeremiah 15:16**
+- **605 BC** — First deportation to Babylon (Jehoiakim); Ezekiel taken among the early captives  
+- **597 BC** — Exile of King Jehoiachin; Ezekiel’s prophetic dating begins  
+- **593 BC** — *“The fifth year of King Jehoiachin’s exile”*; Ezekiel’s call and first vision (**Ezekiel 1:1–2**)  
+- **586 BC** — Destruction of Jerusalem and the Temple  
+- **571 BC** — Last dated prophecy in Ezekiel (**Ezekiel 29:17**)  
+- **Approximate length of ministry:** ~22 years (593–571 BC)
 
-**The Glory of the LORD**
+**THE CALL AND COMMISSION OF EZEKIEL**
 
-- **Ezekiel 1:10–13**
-- **Ezekiel 1:18**
-- **Ezekiel 1:25–26**
-- **Ezekiel 8:4**
-- **Ezekiel 10:18–19**
-- **Ezekiel 11:23**
+- **Ezekiel 1:1–3** — Time, place, and calling among the exiles  
+- **Ezekiel 1:28** — Ezekiel beholds the glory of the LORD  
+- **Ezekiel 2:3–5** — Sent to a rebellious house  
+- **Ezekiel 2:9–10** — The scroll of lament, mourning, and woe  
+- **Ezekiel 3:1–3** — Ezekiel eats the scroll  
+- **Ezekiel 3:15** — Overwhelmed among the exiles at Tel Abib  
+- **Jeremiah 15:16** — God’s word eaten and found sweet  
 
-**Judgment on Jerusalem and the Nations**
+**THE GLORY OF THE LORD**
 
-- **Ezekiel 7:2**
-- **Ezekiel 20:1**
-- **Ezekiel 21:19**
-- **Ezekiel 22–24**
-- **Ezekiel 25**
-- **Ezekiel 26–28**
-- **Ezekiel 29–32**
+- **Ezekiel 1:10–13** — The living creatures  
+- **Ezekiel 1:18** — Wheels full of eyes  
+- **Ezekiel 1:25–26** — Throne and the likeness of a man  
+- **Ezekiel 8:4** — Glory of the God of Israel in the Temple  
+- **Ezekiel 10:18–19** — Glory departs from the Temple  
+- **Ezekiel 11:23** — Glory leaves Jerusalem  
 
-**The Watchman and the Fall of Jerusalem**
+**JUDGMENT ON JERUSALEM AND THE NATIONS**
 
-- **Ezekiel 3:17–21**
-- **Ezekiel 33:7**
-- **Ezekiel 33:21**
+- **Ezekiel 7:2** — *“The end! The end has come”*  
+- **Ezekiel 20:1** — Final warnings before Jerusalem’s fall  
+- **Ezekiel 21:19** — Babylon identified as the LORD’s sword  
+- **Ezekiel 22–24** — Sins of Jerusalem and inevitable judgment  
+- **Ezekiel 25** — Judgment on Ammon, Moab, Edom, Philistia  
+- **Ezekiel 26–28** — Judgment on Tyre and Sidon  
+- **Ezekiel 29–32** — Judgment on Egypt  
 
-**New Hope and Restoration**
+**THE WATCHMAN AND THE FALL OF JERUSALEM**
 
-- **Ezekiel 34:11–12**
-- **Ezekiel 36:27**
-- **Ezekiel 37:3**
-- **Ezekiel 37:14**
-- **Ezekiel 38–39**
-- **Revelation 20**
+- **Ezekiel 3:17–21** — Ezekiel appointed as watchman  
+- **Ezekiel 33:7** — Responsibility to warn the people  
+- **Ezekiel 33:21** — News arrives: *“The city has fallen”*  
 
-**The Final Vision and the LORD’s Dwelling**
+**NEW HOPE AND RESTORATION**
 
-- **Ezekiel 43**
-- **Ezekiel 48:35**
+- **Ezekiel 34:11–12** — The LORD as Shepherd of His people  
+- **Ezekiel 36:27** — God promises His Spirit within His people  
+- **Ezekiel 37:3** — Valley of dry bones questioned  
+- **Ezekiel 37:14** — God’s Spirit gives life and restoration  
+- **Ezekiel 38–39** — Gog and Magog (future conflict)  
+- **Revelation 20** — NT echo of Ezekiel’s prophecy  
 
-**Ezekiel and Christ**
+**THE FINAL VISION AND THE LORD’S DWELLING**
 
-- **Ezekiel 1:3**
-- **1 Peter 1:11**
+- **Ezekiel 43** — Glory of the LORD returns  
+- **Ezekiel 48:35** — Final city name: *“The LORD is there”*  
+
+**EZEKIEL AS A TYPE OF CHRIST**
+
+- **Ezekiel 1:3** — Priest-prophet among exiles  
+- **Ezekiel 2:1** — Repeated title *“son of man”*  
+- **1 Peter 1:11** — The Spirit of Christ speaking through the prophets  
+
+---
 
 ## Class Exercise
 

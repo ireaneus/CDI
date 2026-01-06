@@ -169,74 +169,76 @@ Jews ancient history. Yet even there, hope lay ahead.
 
 - Look at the ministry of Ezekiel, the prophet in exile, the other *“Son of man.”* **Ezekiel 2:1**
 
-## Key Verses (NASB1995)
+## Key Verses
 
-**The Call and Commission of Jeremiah**
+**THE CALL AND COMMISSION OF JEREMIAH**
 
-- **Jeremiah 1:2**
-- **Jeremiah 1:4–5**
-- **Jeremiah 1:8**
-- **Jeremiah 1:9–10**
-- **Jeremiah 1:13**
+- **Jeremiah 1:2** — Historical beginning of Jeremiah’s ministry  
+- **Jeremiah 1:4–5** — Known and appointed before birth  
+- **Jeremiah 1:8** — *“Do not be afraid”*  
+- **Jeremiah 1:9–10** — Appointed to uproot, tear down, build, and plant  
+- **Jeremiah 1:13** — Vision of the boiling pot from the north  
 
-**God’s Charge Against Judah**
+**GOD’S CHARGE AGAINST JUDAH**
 
-- **Jeremiah 2:11–13**
-- **Jeremiah 2:32**
-- **Jeremiah 8:4–5**
+- **Jeremiah 2:11–13** — Forsaking the living water  
+- **Jeremiah 2:32** — God’s people have forgotten Him  
+- **Jeremiah 8:4–5** — Persistent refusal to return  
 
-**Jeremiah – The Weeping Prophet**
+**JEREMIAH — THE WEEPING PROPHET**
 
-- **Jeremiah 9:1**
-- **Jeremiah 12:5–6**
-- **Jeremiah 20:3**
+- **Jeremiah 9:1** — Jeremiah’s lament for his people  
+- **Jeremiah 12:5–6** — Endurance required for the calling  
+- **Jeremiah 20:3** — *“Terror on every side”*  
 
-**The Turning Point: Judgment and Exile**
+**THE TURNING POINT: JUDGMENT AND EXILE**
 
-- **Jeremiah 25:3**
-- **Jeremiah 25:9**
-- **Jeremiah 25:11**
-- **Jeremiah 36**
-- **2 Chronicles 36:6**
-- **2 Chronicles 36:10**
+- **Jeremiah 25:3** — Twenty-three years of ignored warning  
+- **Jeremiah 25:9** — Babylon summoned as God’s instrument  
+- **Jeremiah 25:11** — Seventy-year captivity declared  
+- **Jeremiah 36** — Jehoiakim burns God’s word  
+- **2 Chronicles 36:6** — Jehoiakim taken to Babylon  
+- **2 Chronicles 36:10** — Zedekiah installed as last king  
 
-**The Seventy-Year Captivity and Hope**
+**THE SEVENTY-YEAR CAPTIVITY AND HOPE**
 
-- **Jeremiah 29:5**
-- **Jeremiah 29:10**
-- **Jeremiah 29:11**
+- **Jeremiah 29:5** — Settle in Babylon  
+- **Jeremiah 29:10** — Promise of return after seventy years  
+- **Jeremiah 29:11** — God’s plans for hope and a future  
 
-**Jeremiah and the New Covenant**
+**JEREMIAH AND THE NEW COVENANT**
 
-- **Jeremiah 31:31–34**
-- **Luke 22:20**
+- **Jeremiah 31:31–34** — Promise of a new covenant  
+- **Luke 22:20** — Fulfillment in Christ’s blood  
 
-**The Fall of Jerusalem**
+**THE FALL OF JERUSALEM**
 
-- **Jeremiah 37–38**
-- **Jeremiah 39:8**
-- **Jeremiah 41–43**
-- **Jeremiah 44:27**
+- **Jeremiah 37–38** — Imprisonment of Jeremiah  
+- **Jeremiah 39:8** — Jerusalem burned and destroyed  
+- **Jeremiah 41–43** — Survivors flee to Egypt  
+- **Jeremiah 44:27** — Judgment follows disobedience even in Egypt  
 
-**Judgment on the Nations**
+**JUDGMENT ON THE NATIONS**
 
-- **Jeremiah 46**
-- **Jeremiah 47**
-- **Jeremiah 48**
-- **Jeremiah 49**
-- **Jeremiah 50–51**
-- **Revelation 17–18**
-- **Jeremiah 52**
+- **Jeremiah 46** — Egypt  
+- **Jeremiah 47** — Philistines  
+- **Jeremiah 48** — Moab  
+- **Jeremiah 49** — Ammon, Edom, Damascus, Kedar, Elam  
+- **Jeremiah 50–51** — Fall of Babylon  
+- **Revelation 17–18** — NT echo of Babylon’s judgment  
+- **Jeremiah 52** — Historical summary of Jerusalem’s fall  
 
-**Jeremiah and Christ**
+**JEREMIAH AND CHRIST**
 
-- **Matthew 23:37–38**
-- **Luke 19:41–44**
-- **1 Peter 1:11**
+- **Matthew 23:37–38** — Jesus weeps over Jerusalem  
+- **Luke 19:41–44** — Jesus foretells Jerusalem’s destruction  
+- **1 Peter 1:11** — The Spirit of Christ in the prophets  
 
-**Lamentations**
+**LAMENTATIONS (JEREMIAH’S POEMS OF GRIEF AND HOPE)**
 
-- **Lamentations 3:21–23**
+- **Lamentations 3:21–23** — Great is Your faithfulness  
+
+---
 
 ## Class Exercise
 

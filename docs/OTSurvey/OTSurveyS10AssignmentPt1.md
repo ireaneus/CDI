@@ -176,55 +176,58 @@ Study three more Minor Prophets who ministered just before the fall of Jerusalem
 
 ## Key Verses
 
-**Hosea – The LORD’s Faithful Love**
+**HOSEA — THE LORD’S FAITHFUL LOVE**
 
-- **Hosea 1:2**
-- **Hosea 1:4–9**
-- **Hosea 2:23**
-- **Hosea 6:6**
-- **Hosea 11:8**
-- **Hosea 13:14**
-- **Hosea 14:4**
+- **Hosea 1:1** — Historical setting of Hosea’s ministry  
+- **Hosea 1:2** — Hosea commanded to take an unfaithful wife  
+- **Hosea 1:4–9** — Names of Hosea’s children and covenant judgment  
+- **Hosea 2:23** — Restoration of those once rejected  
+- **Hosea 6:6** — Mercy desired over sacrifice  
+- **Hosea 11:8** — The LORD’s compassionate heart for Ephraim  
+- **Hosea 13:14** — Redemption from death  
+- **Hosea 14:4** — Healing and restoring love  
 
-**Joel – The Day of the LORD and the Outpouring of the Spirit**
+**JOEL — THE DAY OF THE LORD AND THE SPIRIT POURED OUT**
 
-- **Joel 2:13–14**
-- **Joel 2:28**
-- **Joel 2:32**
+- **Joel 2:13–14** — Call to heartfelt repentance  
+- **Joel 2:28** — Promise of the outpouring of the Spirit  
+- **Joel 2:32** — Salvation for all who call on the LORD  
 
-**Amos – Justice, Judgment, and Hope**
+**AMOS — JUSTICE, JUDGMENT, AND HOPE**
 
-- **Amos 1:1**
-- **Amos 3:8**
-- **Amos 4:6**
-- **Amos 5:4**
-- **Amos 5:6**
-- **Amos 5:14**
-- **Amos 7:14–15**
-- **Amos 9:15**
+- **Amos 1:1** — Historical context of Amos’ ministry  
+- **Amos 3:8** — The LORD has spoken; the prophet must prophesy  
+- **Amos 4:6** — Refrain: *“Yet you have not returned to Me”*  
+- **Amos 5:4** — *“Seek Me and live”*  
+- **Amos 5:6** — Call to repentance and life  
+- **Amos 5:14** — Seek good, not evil  
+- **Amos 7:14–15** — Amos’ divine calling  
+- **Amos 9:15** — Final promise of restoration  
 
-**Obadiah – Judgment on Edom**
+**OBADIAH — JUDGMENT ON EDOM**
 
-- **Obadiah 10–11**
-- **Obadiah 18**
+- **Obadiah 10–11** — Edom judged for violence against Jacob  
+- **Obadiah 18** — Complete destruction of Edom  
 
-**Jonah – God’s Compassion for the Nations**
+**JONAH — GOD’S COMPASSION FOR THE NATIONS**
 
-- **Jonah 1:2**
-- **Jonah 4**
-- **2 Kings 14:25**
-- **Matthew 12:40**
+- **Jonah 1:2** — Jonah sent to Nineveh  
+- **Jonah 4** — God’s compassion contrasted with Jonah’s anger  
+- **2 Kings 14:25** — Historical reference to Jonah  
+- **Matthew 12:40** — Jonah as a sign of Christ’s burial and resurrection  
 
-**Micah – Judgment, Restoration, and the Coming Ruler**
+**MICAH — JUDGMENT, RESTORATION, AND THE COMING RULER**
 
-- **Micah 1:1**
-- **Micah 1:3–4**
-- **Micah 1:6**
-- **Micah 2:12**
-- **Micah 3:12**
-- **Micah 5:2**
-- **Micah 6:8**
-- **Micah 7:18–19**
+- **Micah 1:1** — Historical setting of Micah’s ministry  
+- **Micah 1:3–4** — The LORD coming in judgment  
+- **Micah 1:6** — Samaria’s destruction foretold  
+- **Micah 2:12** — Promise of regathering the remnant  
+- **Micah 3:12** — Jerusalem’s destruction foretold  
+- **Micah 5:2** — Ruler to come from Bethlehem  
+- **Micah 6:8** — What the LORD requires: justice, mercy, humility  
+- **Micah 7:18–19** — The LORD delights in mercy and forgiveness  
+
+---
 
 ## Class Exercise
 

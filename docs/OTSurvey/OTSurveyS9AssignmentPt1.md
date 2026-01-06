@@ -180,27 +180,75 @@ You will THINK ABOUT:
 
 ## Key Verses
 
-**The Coming Servant**
+**FOUNDATIONAL / INTRODUCTORY**
 
-- **Isaiah 42:1, 4, 7**
-- **2 Chronicles 28:20**
+- **Isaiah 1:2–4** — Judah’s rebellion and God’s indictment  
+- **Isaiah 1:18–20** — Call to repentance and promise of cleansing  
+- **Isaiah 6:1** — Isaiah’s call in the year King Uzziah died  
+- **Isaiah 6:5** — Isaiah’s confession before the holy LORD  
 
-**The Suffering Servant**
+**MESSIANIC PROMISES (IMMANUEL & DAVIDIC KING)**
 
-- **Isaiah 49:16**
-- **Isaiah 50:6**
-- **Isaiah 52:12–53:12**
-- **Isaiah 53:11**
+- **Isaiah 7:4** — Call to faith and calm during crisis  
+- **Isaiah 7:9** — *“If you do not stand firm in your faith…”*  
+- **Isaiah 7:14** — The virgin shall conceive (Immanuel)  
+- **Isaiah 9:6–7** — Child born, Son given, eternal Davidic King  
+- **Isaiah 11:1–2** — The Branch from the stump of Jesse  
 
-**The Servant and Cyrus (Historical Deliverer)**
+**JUDGMENT, WARNING, AND HOPE**
 
-- **Isaiah 45:1–4**
-- **2 Chronicles 36:22–23**
+- **Isaiah 5:1–7** — Parable of the vineyard  
+- **Isaiah 10:5–19** — Judgment against Assyria  
+- **Isaiah 14:24–28** — The LORD’s unchangeable purpose  
+- **Isaiah 19** — Warning against trusting Egypt  
+- **Isaiah 25:6–8** — Death swallowed up forever  
+- **Isaiah 35:10** — Everlasting joy for the redeemed  
 
-**The Victorious Servant**
+**HISTORICAL DELIVERANCE**
 
-- **Isaiah 65:17, 19**
-- **1 Peter 1:11**
+- **Isaiah 36–37** — Assyria’s siege and divine deliverance  
+- **Isaiah 37:36** — Angel of the LORD destroys the Assyrian army  
+- **Isaiah 39:5–7** — Babylonian exile foretold  
+
+**THE SERVANT OF THE LORD**
+
+- **Isaiah 40:1** — Comfort for God’s people  
+- **Isaiah 42:1** — The Servant who brings justice  
+- **Isaiah 42:4** — The Servant will not be discouraged  
+- **Isaiah 42:7** — The Servant opens blind eyes  
+- **Isaiah 49:16** — God’s people engraved on His hands  
+- **Isaiah 50:6** — The Servant’s suffering  
+- **Isaiah 52:12–53:12** — The suffering and victorious Servant  
+- **Isaiah 53:11** — The Servant justifies many  
+
+**CYRUS AND RESTORATION**
+
+- **Isaiah 45:1–4** — Cyrus named as the LORD’s anointed  
+- **Isaiah 44:28** — Jerusalem and the Temple rebuilt (implied context)  
+
+**FINAL VICTORY AND NEW CREATION**
+
+- **Isaiah 65:17** — New heavens and a new earth  
+- **Isaiah 65:19** — No more weeping or crying  
+
+**NEW TESTAMENT CROSS-REFERENCES USED IN SESSION**
+
+- **Matthew 13:15** — Isaiah 6 applied by Jesus  
+- **Matthew 21** — Isaiah 5 echoed in the Parable of the Vineyard  
+- **Matthew 23** — Woes paralleling Isaiah 5  
+- **Matthew 4:12–16** — Isaiah 9 fulfilled in Galilee  
+- **Luke 4:16–21** — Isaiah 61 applied by Jesus  
+- **1 Peter 1:11** — The Spirit of Christ in Isaiah  
+
+**HISTORICAL CROSS-REFERENCES**
+
+- **2 Chronicles 28:20** — Ahaz and Assyria  
+- **2 Chronicles 32:21** — Assyrian army destroyed  
+- **2 Chronicles 36:22–23** — Cyrus’ decree  
+- **2 Kings 17** — Fall of Samaria  
+- **2 Kings 25** — Fall of Jerusalem  
+
+---
 
 ## Class Exercise
 

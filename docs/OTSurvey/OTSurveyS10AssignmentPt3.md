@@ -219,7 +219,8 @@ Outline Haggai’s messages including their corresponding verses. When finished,
 
 **Below this is AI driven reference material**
 
-**FULFILLED PROPHECY — HAGGAI, ZECHARIAH, MALACHI (Session 10, Part 3)**  
+## FULFILLED PROPHECY — HAGGAI, ZECHARIAH, MALACHI
+
 *(NASB 1995 | Post-Exilic Prophets)*
 
 ---
@@ -234,8 +235,6 @@ Outline Haggai’s messages including their corresponding verses. When finished,
 | Blessing restored after obedience | Haggai 2:19 | 520 BC | Agricultural and covenant blessing resumed | Post-520 BC |
 | Zerubbabel chosen as God’s signet | Haggai 2:20–23 | 520 BC | Messianic lineage preserved through Zerubbabel | Fulfilled in Christ (Matt 1:12) |
 
----
-
 ### **ZECHARIAH**
 
 | Prophecy | Scripture (NASB1995) | Date Prophesied | Fulfillment | Fulfillment Date |
@@ -245,8 +244,6 @@ Outline Haggai’s messages including their corresponding verses. When finished,
 | The Shepherd would be struck | Zechariah 13:7 | c. 520–480 BC | Disciples scattered at Jesus’ arrest | AD 30 |
 | Israel would look upon the One pierced | Zechariah 12:10 | c. 520–480 BC | Fulfilled at the crucifixion; future national mourning anticipated | AD 30 / Future |
 | God would pour out a spirit of grace and supplication | Zechariah 12:10 | c. 520–480 BC | Fulfilled at the Cross; ongoing through the New Covenant | AD 30–present |
-
----
 
 ### **MALACHI**
 
