@@ -22,3 +22,5 @@ bibleReference: Exodus
 ## Key Verses
 
 ## Class Exercise
+
+**Below this is AI driven reference material**

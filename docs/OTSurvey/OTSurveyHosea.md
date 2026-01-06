@@ -15,19 +15,10 @@ bibleReference: Hosea
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [Hosea Outline](#hosea-outline)
-    - [I. Hosea’s Marriage: A Symbol of God’s Relationship with Israel (Chapters 1-3)](#i-hoseas-marriage-a-symbol-of-gods-relationship-with-israel-chapters-1-3)
-    - [II. Israel’s Unfaithfulness and God’s Judgment (Chapters 4-10)](#ii-israels-unfaithfulness-and-gods-judgment-chapters-4-10)
-    - [III. God’s Love and Future Restoration (Chapters 11-14)](#iii-gods-love-and-future-restoration-chapters-11-14)
-
 ## Hosea Outline
 
 | **Hosea** | |
-|:-------:|:-------:|
+| :-------: | :-------: |
 | I. Hosea’s Marriage: A Symbol of God’s Relationship with Israel | (Chapters 1-3) |
 | A. Hosea’s Marriage and Family | (*Chapter 1*) |
 | B. Judgment and Restoration Promised | (*Chapter 2*) |
