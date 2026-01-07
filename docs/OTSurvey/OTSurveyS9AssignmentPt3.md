@@ -259,7 +259,7 @@ Be prepared to discuss the KNOW, ARE ABLE TO and WILL BE THINKING ABOUT statemen
 | **Glory of the LORD Returning**                   | Ezekiel, Isaiah                                         | c. 600 BC       | Ezekiel 43; 48:35 · Isaiah 60                        | God’s presence will dwell again with His people                 | Millennial / New Creation fulfillment            |
 | **New Heavens and New Earth**                     | Isaiah (primary), Ezekiel (imagery)                     | c. 700 BC       | Isaiah 65:17 · Ezekiel 47                            | Final restoration of creation                                   | Future (Revelation 21–22)                        |
 
-## Key Observations (Course-Ready)
+## Key Observations
 
 - **Isaiah** sees the plan from a **distance**
 - **Jeremiah** lives through the **collapse**
