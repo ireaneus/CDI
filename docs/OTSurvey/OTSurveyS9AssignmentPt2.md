@@ -238,6 +238,139 @@ Jews ancient history. Yet even there, hope lay ahead.
 
 - **Lamentations 3:21–23** — Great is Your faithfulness  
 
+## A Foundational Type of the Suffering Messiah
+
+### 📖 The Text
+
+> *“As her soul was departing (for she died), she named him Ben-oni; but his father called him Benjamin.”*
+> — **Genesis 35:18**
+
+- **Ben-Oni** = *son of my sorrow*
+- **Benjamin** = *son of the right hand*
+
+This is not accidental naming — Scripture preserves **both names** intentionally.
+
+### 1️⃣ Suffering Comes First — Glory Follows
+
+The pattern Peter describes:
+
+> *“…the sufferings of Christ and the glories to follow.”*
+> — **1 Peter 1:11**
+
+is already embedded in **Genesis**:
+
+| Phase      | Name         | Meaning               |
+| ---------- | ------------ | --------------------- |
+| Suffering  | **Ben-Oni**  | Son of sorrow         |
+| Exaltation | **Benjamin** | Son of the right hand |
+
+This is the **same pattern** seen later in:
+
+- **Isaiah 53 → Isaiah 52:13**
+- **Psalm 22 → Psalm 110**
+- **Daniel 9:26 → Daniel 7:13–14**
+
+### 2️⃣ The Messiah Is Born Through Sorrow and Death
+
+Rachel **dies** bringing forth Ben-Oni.
+
+That matters.
+
+- The son is **born through suffering**
+- His name memorializes **death and grief**
+- Yet he lives — and is **renamed in exaltation**
+
+This anticipates:
+
+- The Messiah coming **through suffering**
+- The Messiah being **cut off**
+- The Messiah being **vindicated afterward**
+
+Compare:
+
+- *“He was cut off out of the land of the living”* — **Isaiah 53:8**
+- *“After the suffering of His soul, He will see light”* — **Isaiah 53:11**
+
+### 3️⃣ “Son of My Sorrow” → “Son of the Right Hand”
+
+Jacob does something profoundly prophetic:
+
+> Rachel names him from **human sorrow**
+> Jacob names him from **divine destiny**
+
+Benjamin is not remembered by his suffering name —
+he is remembered by his **position**.
+
+This mirrors the Messiah:
+
+| Christ                     | Scripture                         |
+| -------------------------- | --------------------------------- |
+| Suffered                   | **Isaiah 53**                     |
+| Rejected                   | **Psalm 22**                      |
+| Pierced                    | **Zechariah 12:10**               |
+| Cut off                    | **Daniel 9:26**                   |
+| Exalted                    | **Psalm 110:1**                   |
+| Seated at God’s right hand | **Psalm 110:1**; **Isaiah 52:13** |
+
+Benjamin = *son of the right hand*
+Messiah = *seated at the right hand*
+
+### 4️⃣ Why This Strengthens Jesus’ Rebuke on the Road to Emmaus
+
+Jesus says:
+
+> *“Was it not necessary for the Christ to suffer these things and to enter into His glory?”*
+> — **Luke 24:26**
+
+The suffering Messiah was not hidden:
+
+- It was in **Genesis**
+- It was in the **Psalms**
+- It was in **Isaiah**
+- It was in **Daniel**
+- It was in the **Prophets**
+
+Ben-Oni shows that the pattern:
+
+> **sorrow → exaltation**
+
+was present **before Israel existed as a nation**.
+
+### 5️⃣ Why First-Century Jews Missed It
+
+They emphasized:
+
+- Benjamin (*right hand*)
+- Davidic reign
+- Glory
+
+They overlooked:
+
+- Ben-Oni (*sorrow*)
+- Rejection
+- Death
+
+But Scripture never separates the two.
+
+Peter’s point:
+
+> The prophets *saw both* —
+> they just didn’t know **when**.
+
+### 6️⃣ Theological Summary (Tight & Clear)
+
+- **Ben-Oni** is an early, unmistakable **type of the suffering Christ**
+- **Benjamin** completes the picture with **exaltation and authority**
+- Together they proclaim:
+
+  > **One Messiah — suffering first, glory afterward**
+
+This is exactly what:
+
+- **1 Peter 1:10–11** teaches
+- **Luke 24** assumes
+- **Jesus rebukes Israel for missing**
+
 ---
 
 ## Class Exercise
