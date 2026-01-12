@@ -1,17 +1,17 @@
 ---
 title: Church History - Session 1 Part 1 - Introduction/Doctrine of Inspiration
 date: 33 - 2000 A.D.
-writer: Moses
-category: Law
+instructor: Russell Richardson
+course: Church History
 description: Know the importance of the study of Church History. Identify three lessons that will help keep you from repeating the mistakes of the past. (Keep Balanced; Not this way among you = not the way of the Gentiles. Mark 10:43; Contend for the faith = not our culture or traditions.)
-bibleReference: Exodus
+bibleReference: Ephesians 4:11-16
 ---
 
 # {{ page.meta.title }}
 
 **Date:** {{ page.meta.date }}  
-**Writer:** {{ page.meta.writer }}  
-**Category:** {{ page.meta.category }}  
+**Instructor:** {{ page.meta.instructor }}  
+**Course:** {{ page.meta.course }}  
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 

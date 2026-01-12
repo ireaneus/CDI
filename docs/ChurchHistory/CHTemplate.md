@@ -1,17 +1,17 @@
 ---
 title: Church History - TEMPLATE
 date: 33 - 2000 A.D.
-writer: Moses
-category: Law
+instructor: Russell Richardson
+course: Church History
 description: 
-bibleReference: Exodus
+bibleReference: Memory verse
 ---
 
 # {{ page.meta.title }}
 
 **Date:** {{ page.meta.date }}  
-**Writer:** {{ page.meta.writer }}  
-**Category:** {{ page.meta.category }}  
+**Instructor:** {{ page.meta.instructor }}  
+**Course:** {{ page.meta.course }}  
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
