@@ -190,13 +190,7 @@ Quick division reminders:
 > *All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness;*
 > *so that the man of God may be adequate, equipped for every good work."*
 
-Below is a **clean, complete, and scripture-driven reference list**, organized **exactly around Paul’s statements in 1 Corinthians 15**, and aligned with your **OT Survey Session 11 Part 2 (Jesus the Suffering Savior)** framework and method.
-
-I am intentionally **not paraphrasing** and **not arguing** here—this is a **canonical reference catalog** suitable for teaching, sermon notes, or a reference card.
-
----
-
-# **“According to the Scriptures” — 1 Corinthians 15**
+## **“According to the Scriptures” — 1 Corinthians 15**
 
 ## **Christ Died for Our Sins**
 
