@@ -157,6 +157,40 @@ Quick division reminders:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
+## Memory Verses
+
+**Joshua 1:8 (NASB1995)**
+
+> *“This book of the law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it; for then you will make your way prosperous, and then you will have success.”*
+
+**1 Peter 1:10–11 (NASB1995)**
+
+> **1 Peter 1:10–11**
+> *As to this salvation, the prophets who prophesied of the grace that would come to you made careful searches and inquiries,*
+> *seeking to know what person or time the Spirit of Christ within them was indicating as He predicted the sufferings of Christ and the glories to follow.*
+
+**1 Corinthians 15:3–4 (NASB1995)**
+
+> **1 Corinthians 15:3–4**
+> *For I delivered to you as of first importance what I also received, that Christ died for our sins according to the Scriptures,*
+> *and that He was buried, and that He was raised on the third day according to the Scriptures.*
+
+**Luke 24:25–27 (NASB1995)**
+
+> **Luke 24:25–27**
+> *And He said to them, “O foolish men and slow of heart to believe in all that the prophets have spoken!*
+> *Was it not necessary for the Christ to suffer these things and to enter into His glory?”*
+> *Then beginning with Moses and with all the prophets, He explained to them the things concerning Himself in all the Scriptures.*
+
+**2 Timothy 3:16–17 (NASB1995)**
+
+*(The classic “all Scripture” passage)*
+
+> **2 Timothy 3:16–17**
+> *All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness;*
+> *so that the man of God may be adequate, equipped for every good work."*
+
+
 ## Glossary
 
 **Aaron** – Moses’ brother who was made his spokesman by God. Went with Moses to Pharaoh demanding children of Israel’s release from slavery. Made Israel’s first high priest. Was not allowed to enter the Promised Land.
