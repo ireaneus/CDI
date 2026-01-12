@@ -190,6 +190,116 @@ Quick division reminders:
 > *All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness;*
 > *so that the man of God may be adequate, equipped for every good work."*
 
+Below is a **clean, complete, and scripture-driven reference list**, organized **exactly around Paul’s statements in 1 Corinthians 15**, and aligned with your **OT Survey Session 11 Part 2 (Jesus the Suffering Savior)** framework and method.
+
+I am intentionally **not paraphrasing** and **not arguing** here—this is a **canonical reference catalog** suitable for teaching, sermon notes, or a reference card.
+
+---
+
+# **“According to the Scriptures” — 1 Corinthians 15**
+
+## **Christ Died for Our Sins**
+
+### *(1 Corinthians 15:3)*
+
+> *“For I delivered to you as of first importance what I also received, that Christ died for our sins according to the Scriptures…”*
+
+### **Foundational (Law / First Mention)**
+
+* **Genesis 3:15** — The Seed of the woman bruised in conflict with the serpent (suffering before victory)
+* **Exodus 12:5–13, 46** — Passover lamb slain; blood applied; no bones broken
+
+### **Messianic Psalms (Primary OT Witness)**
+
+*(core of your Session 11 Part 2)*
+
+* **Psalm 22:1, 6–8, 14–18** — Forsaken cry; mocking; pierced hands and feet; casting lots
+* **Psalm 34:19–20** — Righteous sufferer; not one bone broken
+* **Psalm 41:9** — Betrayal by a close companion
+* **Psalm 69:4, 9, 21** — Hatred without cause; zeal for God; gall and vinegar
+* **Psalm 88** — Total abandonment and darkness (mental and emotional suffering)
+
+### **Prophets**
+
+* **Isaiah 52:13–53:12** — Substitutionary suffering; pierced; cut off; bears sin
+* **Daniel 9:26** — Messiah “cut off”
+* **Zechariah 12:10** — Pierced one mourned
+* **Zechariah 13:7** — Shepherd struck
+
+---
+
+## **He Was Buried**
+
+### *(1 Corinthians 15:4a)*
+
+> *“…and that He was buried…”*
+
+### **Direct Prophetic Witness**
+
+* **Isaiah 53:9** — Assigned a grave with the wicked, yet with a rich man in His death
+
+### **Typological / Contextual Support**
+
+* **Genesis 23** — Purchased burial place (Abrahamic pattern of promise through death)
+* **Psalm 16:10** — Death assumed, corruption denied (bridge to resurrection)
+
+Burial confirms **real death**, not appearance or survival.
+
+---
+
+## **He Was Raised on the Third Day**
+
+### *(1 Corinthians 15:4b)*
+
+> *“…and that He was raised on the third day according to the Scriptures.”*
+
+### **Explicit Resurrection Prophecy**
+
+* **Psalm 16:10** — God’s Holy One will not see decay
+* **Isaiah 53:10–11** — After death, He sees life and prolongs His days
+
+### **“Third Day” Pattern (Recognized Jewish Motif)**
+
+* **Hosea 6:2** — Raised on the third day
+* **Jonah 1:17** — Three days in death-like confinement, then deliverance
+* **Genesis 22:4** — Isaac received back on the third day (Hebrews 11:19)
+
+### **Royal / Messianic Vindication**
+
+* **Psalm 2:7** — Enthronement following rejection
+* **Psalm 110:1** — Seated at God’s right hand after victory
+
+---
+
+## **Summary Table (Paul’s Gospel Logic)**
+
+| Event          | OT Witness                                                       |
+| -------------- | ---------------------------------------------------------------- |
+| Death for sins | Genesis 3; Exodus 12; Psalms 22, 34, 41, 69; Isaiah 53; Daniel 9 |
+| Burial         | Isaiah 53:9                                                      |
+| Resurrection   | Psalm 16; Isaiah 53; Hosea 6; Jonah 1; Genesis 22                |
+| Third Day      | Embedded pattern, not a single prooftext                         |
+
+---
+
+## **Why This Matches Paul’s Language**
+
+Paul does **not** say:
+
+* “as I reinterpret the Scriptures”
+* “as I now explain the Scriptures”
+
+He says:
+
+> **“according to the Scriptures”**
+
+Meaning:
+
+* These texts **already existed**
+* Their tension was **already known**
+* Their fulfillment was now **historical**
+
+---
 
 ## Glossary
 

@@ -142,9 +142,9 @@ You will THINK ABOUT:
 - Psalms 9, 10, 25, 34 and 145 are acrostic poems which have omitted or duplicated some letters.
 - Psalms 37, 111 and 112 are complete acrostic poems.
 - Psalm 119 is the ultimate acrostic poem.
-- It has 22 *“strophes”* (a connected series of verses), one for each Hebrew letter.
-- Each strophe has 8 verses and each verse begins with the same letter.
-- Psalm 119 is a hymn (or 22 hymns) praising the Word of God. At least seven synonyms for God’s Word are used in this Psalm. **Of the 176 verses, only five do not use one of the terms. See if you can find them**.
+    - It has 22 *“strophes”* (a connected series of verses), one for each Hebrew letter.
+    - Each strophe has 8 verses and each verse begins with the same letter.
+    - Psalm 119 is a hymn (or 22 hymns) praising the Word of God. At least seven synonyms for God’s Word are used in this Psalm. **Of the 176 verses, only five do not use one of the terms. See if you can find them**.
 
 **“Chiastic” Psalms**
 
