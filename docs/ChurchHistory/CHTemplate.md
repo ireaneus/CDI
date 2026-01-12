@@ -1,6 +1,6 @@
 ---
-title: OTSurvey - TEMPLATE
-date: 1500 B.C.
+title: Church History - TEMPLATE
+date: 33 - 2000 A.D.
 writer: Moses
 category: Law
 description: 
