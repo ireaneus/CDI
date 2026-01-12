@@ -263,3 +263,61 @@ Outline Haggai’s messages including their corresponding verses. When finished,
 - **Malachi** closes the Old Testament by pointing directly to John the Baptist and the coming Messiah.
 
 ---
+
+```scss
+/* ============================================================================
+   THE RULERS AND PROPHETS OF HAGGAI’S TIME
+   ========================================================================== */
+
+570 BC ───560────550────540────530────520────510────500────490────480────470────460────450────440────430────420 BC
+|---------------------------------------------------------------------------------------------------------------|
+|                                      KINGS OF PERSIA                                                          |
+|---------------------------------------------------------------------------------------------------------------|
+|   Cyrus        Cambyses        Darius I (Hystaspes)        Ahasuerus (Xerxes)        Artaxerxes I               |
+|   539–530      530–521         521–486                     486–464                  464–423                    |
+|                                                                                                               |
+|   539 Fall of Babylon                                                                                          |
+|                                                                                                               |
+|   536 Zerubbabel returns                                                                                       |
+|       Temple work begins                                                                                       |
+|   534 Temple work stopped                                                                                      |
+|                                                                                                               |
+|                     520 Temple work resumed                                                                    |
+|                     516 Temple finished                                                                        |
+|                                                                                                               |
+|                                        483 Feast of Xerxes                                                     |
+|                                        482 Vashti deposed                                                      |
+|                                        478 Esther crowned queen                                                |
+|                                        473 Feast of Purim                                                      |
+|                                                                                                               |
+|                                                     458 Ezra returns                                           |
+|                                                                                                               |
+|                                                           445 Nehemiah returns                                 |
+|                                                           Jerusalem walls rebuilt in fifty-two days            |
+|---------------------------------------------------------------------------------------------------------------|
+|                                      THREE RETURNS FROM EXILE                                                  |
+|---------------------------------------------------------------------------------------------------------------|
+|   (1) 536 ─ Zerubbabel returns                                                                                 |
+|   (2) 458 ─ Ezra returns                                                                                       |
+|   (3) 445 ─ Nehemiah returns                                                                                   |
+|---------------------------------------------------------------------------------------------------------------|
+|                                      BIBLICAL BOOKS & PROPHETS                                                 |
+|---------------------------------------------------------------------------------------------------------------|
+|                                                                                                               |
+|   Daniel & 70-year Jewish Captivity                                                                             |
+|   605–536                                                                                                      |
+|                                                                                                               |
+|   Book of EZRA                                                                                                 |
+|   Chapters 1–6 (538–516)                                                                                       |
+|   Chapters 7–10 (457–?)                                                                                        |
+|                                                                                                               |
+|                     Haggai (520)                                                                               |
+|                     Zechariah (520–489)                                                                        |
+|                                                                                                               |
+|                                        Book of ESTHER (483–473)                                                |
+|                                                                                                               |
+|                                                           Book of NEHEMIAH (445–?)                              |
+|                                                                                                               |
+|                                                               Malachi (c. 437–415)                             |
+|---------------------------------------------------------------------------------------------------------------|
+```
