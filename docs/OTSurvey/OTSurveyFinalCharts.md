@@ -190,6 +190,8 @@ Quick division reminders:
 > *All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness;*
 > *so that the man of God may be adequate, equipped for every good work."*
 
+---
+
 ## **“According to the Scriptures” — 1 Corinthians 15**
 
 ## **Christ Died for Our Sins**

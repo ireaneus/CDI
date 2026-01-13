@@ -1,10 +1,10 @@
 ---
-title: Church History - Session 1 Part 1 - Introduction/Doctrine of Inspiration
+title: Church History Session 1 Part 1 - Introduction/Doctrine of Inspiration
 date: 33 - 2000 A.D.
 instructor: Russell Richardson
 course: Church History
 description: Know the importance of the study of Church History. Identify three lessons that will help keep you from repeating the mistakes of the past. (Keep Balanced; Not this way among you = not the way of the Gentiles. Mark 10:43; Contend for the faith = not our culture or traditions.)
-bibleReference: Ephesians 4:11-16
+bibleReference: Ephesians 4:11-16 - "And He gave some as apostles, and some as prophets, and some as evangelists, and some as pastors and teachers, for the equipping of the saints for the work of service, to the building up of the body of Christ; until we all attain to the unity of the faith, and of the knowledge of the Son of God, to a mature man, to the measure of the stature which belongs to the fullness of Christ. As a result, we are no longer to be children, tossed here and there by waves and carried about by every wind of doctrine, by the trickery of men, by craftiness in deceitful scheming; but speaking the truth in love, we are to grow up in all aspects into Him who is the head, even Christ, from whom the whole body, being fitted and held together by what every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love."
 ---
 
 # {{ page.meta.title }}
@@ -134,7 +134,7 @@ You will understand:
 
 - We will look at the use and meaning of the words: ekklesia and church.
 
-## **Session 1, Part 1 — Key Verses**
+## Key Verses
 
 | Reference | Christological Focus | Scripture (NASB 1995) |
 | --------- | -------------------- | --------------------- |
@@ -172,15 +172,23 @@ You will understand:
 
 ## Class Exercise
 
-**INSTRUCTOR’S NOTES: SEVEN CHURCHES CHART**
+**Review the schedule and the assignments for this course with your students.**
 
-Review the schedule and the assignments for this course with your students.
+*In class, or as an outside assignment, have your students write a summary of their current ideas, attitudes and understanding of the Church, so that, later they can compare them to their views at the end of this course. They need to be prepared to discuss how they may have changed at the end of the sessions on Ecclesiology (at the instructor’s discretion) and in their final paper.*
 
-In class, or as an outside assignment, have your students write a summary of their current ideas, attitudes and understanding of the Church, so that, later they can compare them to their views at the end of this course. They need to be prepared to discuss how they may have changed at the end of the sessions on Ecclesiology (at the instructor’s discretion) and in their final paper.
+**My Current Understanding of the Church**
 
-In class, or as an outside assignment, have your students put together a chart comparing the seven churches in Revelation 2-3. The purpose of the exercise is to realize that the Church has always needed reformation.
+> At this point in my walk and studies, I understand the Church to have begun at Pentecost and to exist within the broader Age of the Gentiles. I believe the Church is a distinct body in God’s plan, separate from Israel and not a replacement for it. Scripture presents the Church as the Body of Christ and also as His Bride, with a specific role in God’s redemptive work during this present age, which will one day conclude.
+>
+> I currently see the Church as existing in two ways. There is the visible church, made up of churches, denominations, and people who profess Christianity. These visible expressions vary greatly in faithfulness to Scripture and spiritual health. At the same time, I believe there is a true or “invisible” Church made up of those who genuinely belong to Christ by faith. This group is known fully only to God and is not perfectly represented by any one organization or tradition.
+>
+> For me, true membership in the Church is not defined simply by attendance, affiliation, or outward profession, but by a genuine relationship with Christ that produces spiritual fruit. Those who truly belong to Him desire to know Him, trust Him, and follow Him, even when that becomes difficult or costly. While outward structures and traditions can be helpful, they are secondary to the inward work of God in the heart.
+>
+> I recognize that this understanding reflects where I am right now, and I expect that my views on the Church will be challenged, clarified, and refined as we study Ecclesiology in more depth. This summary represents my current perspective and gives me a starting point to evaluate how my thinking may grow or change by the end of this course.
 
-Place on the Chart:
+*In class, or as an outside assignment, have your students put together a chart comparing the seven churches in Revelation 2-3. The purpose of the exercise is to realize that the Church has always needed reformation.*
+
+**Place on the Chart:**
 
 - How Jesus Christ is pictured?
 - What does He know about each church?
@@ -189,9 +197,9 @@ Place on the Chart:
 - What is the warning and/or promised blessing?
 - What is the one thing that is said to all the churches.
 
-By the end of the course: Memorize **Ephesians 4:11-16** and recite it for 3 separate individuals or groups, on 3 separate occasions.
+*By the end of the course: Memorize **Ephesians 4:11-16** and recite it for 3 separate individuals or groups, on 3 separate occasions.*
 
-Reading assignments: **Students will want to begin work on these assignments right away.**
+**Reading assignments: Students will want to begin work on these assignments right away.**
 
 *“In Church History in Plain Language,”* students need to come to class having read the chapters to be covered and having written a summary of each chapter in the section. The lengths of the summaries are at the discretion of the student and they need to be ready to share their summaries in the class discussion.
 
@@ -209,5 +217,3 @@ In *“The History of Christian Doctrines,”* students need to come to class ha
 | Command | Remember Repent and do earlier works | Don’t fear, remain faithful even when facing prison, persecution or death | Repent | Repent, hold on to what you already have until I come Overcome & keep My deeds | Wake up Strengthen what little faith remains. Repent, be alert, remember | Keep on enduring, hold on to what you have | Turn from indifference and repent! Get what you need from Me Be zealous & repent |
 | Warning and/or promised blessing | Lampstand can be removed Given the right to eat from the tree of life | Be faithful to the death and receive the crown of life. Overcome and not hurt by the 2nd death | Or else I will come and make war vs. false teachers Overcome = hidden manna, white stone & new name | Judgment of false teachers & followers Receive authority over the nations & the morning star | I’ll come like a thief Those who = clean will walk w/Me in white Name not erased but confessed | Enemies will come and honor you Keep you from the hour of testing | Spit you out of My mouth Those I reprove & discipline Overcome & sit with Me on the throne |
 | Said to all the churches | He who has an ear, let him hear what the Spirit says to the churches. | | | | | | |
-
-**Below this is AI driven reference material**

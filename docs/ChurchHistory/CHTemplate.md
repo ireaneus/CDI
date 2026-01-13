@@ -1,5 +1,5 @@
 ---
-title: Church History - TEMPLATE
+title: Church History TEMPLATE
 date: 33 - 2000 A.D.
 instructor: Russell Richardson
 course: Church History
