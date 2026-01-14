@@ -158,26 +158,7 @@ Now I’d like you to spend some time surveying New Testament Scriptures include
 - **Matthew 28:18–20**
 - **John 15:8**
 
-### E. Discipleship Defined
-
-*(Key passages referenced in “For Further Study,” still prior to Instructor’s Notes)*
-
-- **Ephesians 1:5–6**
-- **Ephesians 1:12**
-- **Ephesians 1:13–14**
-- **Ephesians 3:8–10**
-- **1 Corinthians 10:31**
-- **John 15:8**
-- **Matthew 28:19–20**
-- **Mark 16:15**
-- **Acts 1:8**
-- **Ephesians 4:11–16**
-- **1 Corinthians 12:4–7**
-- **Ephesians 4:7**
-- **Ephesians 4:12**
-- **Ephesians 4:16**
-
-## **Memory Verse (Explicitly Identified)**
+## Memory Verse
 
 - **Ephesians 4:11–16**
 
