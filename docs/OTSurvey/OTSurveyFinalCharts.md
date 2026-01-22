@@ -351,7 +351,7 @@ Meaning:
 
 **Ezekiel** – One of the Bible’s major prophets. Taken into Babylonian captivity by King Nebuchadnezzar. Known for having visions of a *“wheel in the middle of a wheel”* (**Ezekiel 1, 10**) and a valley of dry bones (**Ezekiel 37**).
 
-**Ezra** – An Aaronic priest who led the effort, along with the Great Synagogue, to canonize the Old Testament.
+**Ezra** – An Aaronic priest who led the effort, along with the Great Synagogue, to canonize the Old Testament (458 BC).
 
 **Gibeonites** – A people group descended from the Amorites (**2 Samuel 21:2**). They are described in **Joshua 9** as people who deceived the Israelites in order to protect themselves. After the Israelites had defeated the cities of Jericho (**Joshua 6–7**) and Ai (**Joshua 8**), many of the nearby Canaanites united to form a large army to fight Israel (**Joshua 9:1–2**).
 
