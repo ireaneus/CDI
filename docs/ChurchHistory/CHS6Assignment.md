@@ -160,7 +160,7 @@ After Nicea, Constantine and his successors stepped in again and again to banish
 
 - Christians have often appealed to the natural realm to try to illustrate the concept and reality of the Trinity. The yolk, white and shell of an egg, the root, tree and fruit of a plant or even water in its three forms: ice, liquid and vapor. However, they all completely miss the personal element in the Christian doctrine of the Trinity. At some point in our process of trying to understand or explain the doctrine of the Trinity, we should accept the scriptural teaching and submit our understanding or comprehension to **Deut. 29:29** – *The secret things belong to God; the things revealed belong to us and to our sons forever.*
 
-Chapter 11 – Emmanuel! – Christ in The Creeds
+**Chapter 11 – Emmanuel! – Christ in The Creeds**
 
 - The Word Became Flesh is central to Christian worship
 
