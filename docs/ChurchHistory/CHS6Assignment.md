@@ -15,6 +15,8 @@ bibleReference: Ephesians 4:11-16 - "And He gave some as apostles, and some as p
 **Description:** {{ page.meta.description }}  
 **BibleReference:** {{ page.meta.bibleReference }}
 
+[Church History in Plain Language Chapter summary assignment](ChurchHistoryPlainLanguage.md)
+
 ## CDI Notes
 
 **Instructors Guide** *(pg.82-96)*
@@ -114,51 +116,34 @@ The movement started the fourth century as a persecuted minority; it ended the c
 
 **Chapter 10 – Laying Her Scepter Down – The Conversion of the Empire**
 
-With the Christianization of the empire, the imperial interference in the affairs of the church begins. Even today we can detect the fallout of these two developments.
+## Question 1
 
-**Turning Around an Empire**
+1. **Discuss the parallels between the situation that Christians faced in Rome and those that we face in our culture today. See “Care for the Dying” (page 101). What were the advantages and disadvantages of Christianity becoming the State Church?**
 
-The Roman Empire was crumbling. Thirty emperors had claimed the throne in the 3rd Century and many others had tried. Most thoughtful Romans were in despair.
+**How are we to live in a culture increasingly doing what is right in its own eyes?**
 
-**Christians To the Flames (see chart 20)**
-
-As emperor, Diocletian (284-305) inherited anarchy, instability and chaos. At the end of his 20-year reign he passed on a revived empire to his successors. For some unknown reason, after 18 years of ignoring Christians, he suddenly ordered the most vicious of all persecutions against them – even though his wife and daughter were considered Christian.
-
-He purged his court and army of Christians, ordered church buildings destroyed, prohibited Christian worship and had the Christian Scriptures burned. Bishops were rounded up, imprisoned and many were executed.
-
-In 305, according to his plan, Diocletian abdicated the throne. His replacement, Galerius pushed ahead with the goal of exterminating Christianity. Many Christians believed that Galerius had been the instigator of the purge from the beginning.
-
-Thousands of terrified Christians had recanted but thousands of others stood fast. The Bishop of Carthage demanded that those who needlessly rushed into martyrdom should not be considered martyrs.
-
-Eventually, public opinion throughout the empire turned against the torture, maiming and killing. As one of his last official acts, Galerius reluctantly issued an edict of toleration, and for all practical purposes, the last and worst persecution of Christians by the Roman State came to an end.
-
-Constantine (312-337) became the emperor after defeating his rival, in what he considered the power of Christ. From that day on he favored Christianity and brought about many positive reforms. The advantage for the Church was real, but there was a price to pay. Prior to Constantine’s conversion, the Church had consisted of converted believers, willing to risk being identified as Christians. Now, many came who were politically ambitious, religiously disinterested and still half-rooted in paganism.
-
-By 380, rewards for Christians had given way to penalties for non-Christians. Emperor Theodosius made belief in Christianity a matter of imperial command.
-
-**1. Discuss the parallels between the situation that Christians faced in Rome and those that we face in our culture today. See “Care for the Dying” (page 101). What were the advantages and disadvantages of Christianity becoming the State Church?**
-
-There are few of us who face physical persecution in the West but we are certainly out of sync with our culture and face a certain hostility and rejection. The Roman culture was certainly as depraved, if not more so than our own. – Perhaps we should consider how we can care for those that our culture rejects and abandons – Care for the Dying. – The main advantage for the church was no more martyrdom! Being favored brought more people to at least hear the Gospel. Becoming the State Church though, sowed tares in abundance and with the Emperor as the head of the Church, it seems as if resistance was futile.
+> Chapter 10 reminds us that the Church has lived faithfully in both persecution and cultural favor, and that neither condition guarantees spiritual health. Like believers during the reigns of Diocletian and Galerius, Christians today may feel pressure to conform or to retreat when culture turns hostile. Yet history shows that fear-driven compromise does not nullify genuine faith, just as Peter’s threefold denial did not disqualify him from restoration and service **(Luke 22:31–32; John 21:15–17)**. We are therefore called to live contrary to our culture not out of rebellion or self-righteousness, but out of love for Christ and a desire to please Him (2 Corinthians 5:9). Our response to injustice, moral confusion, and open hostility toward God is not retaliation, but faithful obedience, humility, and prayer—kneeling before the Lord and entrusting our fears to Him (**Philippians 4:6–7**). Chapter 10 warns that cultural approval can be as dangerous as persecution, reminding us that the Church’s strength is not found in power or protection, but in steadfast devotion to Christ, compassionate witness, and trust in God’s sovereignty even when society openly does what is right in its own eyes.
 
 **Chapter 11 – Splitting Important Hairs – The Doctrine of the Trinity**
 
-Constantine was troubled by reports from all quarters, of the bitterness Christians were displaying over theological issues. A divided, quarreling Christianity could not hold the crumbling empire together. (Consider **1 Corinthians 11:19**)
+## Question 2
 
-**Making Sense of the Mystery**
+**2. Read and discuss this statement: Rejected Trinitarian Schemes (Pages 106-107) and Why is the Trinity Important? (Pages 111-112) (See also chart 28 and page 123 in textbook)**
 
-Progress toward appreciating the doctrine of the Trinity can be made by understanding what it is not. The early Church typically believed the Trinity to be a mystery that was to be honored or respected and not simply a riddle to be solved or explained by some logical exercise.
-
-However, everyone was not on board. Arius openly challenged the teachers in Alexandria, asserting that the Logos was a lesser god and had a different nature than God (The Father). This teaching appealed to many *“pagan Christians,”* since it was like the religion of their youth. Bishop Alexander called for a synod (320), assembled churchmen and together they condemned Arius’ teachings and excommunicated him.
-
-Constantine called for the Council of Nicea in 325, opening the council with the declaration, *“division in the Church is worse than war.”* Having made his point, he committed the resolution of the conflict into the hands of the church leaders.
-
-Arius’ teachings were loudly rejected. All but two Bishops signed on to the Nicene Creed. They, along with Arius, were sent into exile.
-
-After Nicea, Constantine and his successors stepped in again and again to banish churchmen, depending on which group of advisors had the upper hand in the palace or
-
-2. Read and discuss this statement: Rejected Trinitarian Schemes (Pages 106-107) and Why is the Trinity Important? (Pages 111-112) (See also chart 28 and page 123 in textbook)
-
-- Christians have often appealed to the natural realm to try to illustrate the concept and reality of the Trinity. The yolk, white and shell of an egg, the root, tree and fruit of a plant or even water in its three forms: ice, liquid and vapor. However, they all completely miss the personal element in the Christian doctrine of the Trinity. At some point in our process of trying to understand or explain the doctrine of the Trinity, we should accept the scriptural teaching and submit our understanding or comprehension to **Deut. 29:29** – *The secret things belong to God; the things revealed belong to us and to our sons forever.*
+> Attempts to explain the Trinity through natural analogies—such as an egg, water, or a plant—ultimately fail because they remove the personal nature of God and tend to slide into old heresies. These illustrations may help conceptually, but they distort the biblical teaching by reducing the Father, Son, and Holy Spirit to parts, modes, or impersonal forms. Chapter 11 shows that the Trinity is not a human invention but a doctrine drawn from Scripture, preserving both God’s oneness and the full personhood of each member of the Godhead. The Trinity is essential because it protects the gospel itself: the Father sends, the Son redeems, and the Spirit applies salvation. As **Deuteronomy 29:29** reminds us, there is a point where faithful theology submits to revelation, accepting mystery rather than reshaping God into something more understandable.
+>
+> As **Deuteronomy 29:29** teaches, God has revealed what we need to know about Himself, and those revealed truths belong to us. Scripture affirms that God is not partially known, since *“in Christ all the fullness of Deity dwells bodily”* (**Colossians 2:9**). The Trinity, therefore, is not a retreat into mystery but a faithful confession of what God has revealed—fully true, though not exhaustively comprehended.
+>
+> At the same time, Scripture also affirms that God has fully revealed Himself in Christ. Paul states clearly that *“in Him all the fullness of Deity dwells bodily”* (**Colossians 2:9**), and that Christ is *“the image of the invisible God”* (**Colossians 1:15**). This means God is not partially revealed or obscured—He is truly and savingly known in Jesus.
+>
+> The tension, then, is not between revelation and mystery, but between revelation and exhaustion. God is fully revealed, but not exhaustively comprehended. We truly know God as He has made Himself known, yet we do not master or reduce Him to human categories. This is why the Church insisted on precise language in Trinitarian doctrine: not to explain God away, but to protect what has been revealed from distortion.
+>
+> So a stronger way to say it might be:
+>
+> God has revealed Himself fully and truly in Christ, but He has not revealed Himself exhaustively. What He has made known belongs to us—and it is enough.
+>
+> That keeps you grounded in biblical revelation, not philosophical mystery, and it aligns cleanly with the creeds without surrendering clarity.
+>
 
 **Chapter 12 – Emmanuel! – Christ in The Creeds**
 
@@ -166,11 +151,13 @@ After Nicea, Constantine and his successors stepped in again and again to banish
 
 - J.S. Whale: *“A deep instinct has always told the Church that our safest eloquence concerning the mystery of Christ is in our praise. A living Church is a worshiping, singing Church; not a school of people holding all the correct doctrines.”*
 
-3. Is it “Either/Or?” Or “Both/And?”
+## Question 3
 
-- Why does it have to be one or the other? Why can’t we sing and worship AND hold to true doctrine at the same time?
+**Question 3 — Is it “Either/Or” or “Both/And”?**
 
-4. Discuss the major heresies about Christ – page 123 in textbook & Chart 26.
+> The history of the creeds shows that the Church never viewed worship and doctrine as an either/or choice, but as a necessary both/and. True worship flows from a right understanding of who Christ is, and sound doctrine naturally leads believers to praise, not pride. As J. S. Whale observed, the Church’s safest language about Christ is often found in worship, yet this worship must be anchored in truth or it easily drifts into sentimentality or error. The Christological heresies forced the Church to clarify doctrine not to suppress worship, but to protect it—because a Christ who is less than fully God cannot save, and a Christ who is less than fully human cannot redeem humanity (**John 1:14; Colossians 2:9**). The creeds preserved this balance by setting boundaries rather than explaining away the mystery, allowing believers to sing, confess, and adore the true Christ while remaining faithful to apostolic teaching (**1 Corinthians 11:19; Deuteronomy 29:29**). Therefore, Christian faith is strongest when worship and doctrine remain united, as loving God with heart and mind together guards the Church from error and deepens devotion to Christ.
+
+**4. Discuss the major heresies about Christ – page 123 in textbook & Chart 26.**
 
 Major heresies about Christ forced the churches to clarify: *“Who is Jesus Christ?”* (**1 Corinthians 11:19**) They also forced the churches to establish the boundaries of truth!
 
@@ -192,63 +179,27 @@ Fifteen hundred years after the event we may wish for more understandable terms,
 
 **Chapter 13 – Exiles from Life – The Beginnings of Monasticism**
 
-There is a Jewish saying: *“If you seek wisdom, go into the wilderness.”* This advice was most certainly meant as a temporary retreat, rather than a lifestyle.
-
-*Monasticism (monks and nuns)*Ok,  is a religious way of life in which one renounces worldly pursuits to devote oneself fully to spiritual work. Monastic life plays an important role in the Catholic and Orthodox traditions, as well as in many non-Christian religions. The word comes from the Greek word for *“alone”* and describes those who live alone, completely isolated from others and the world. It also describes those who would live alone together, with a wide variety of rules and regulations. They were generally seeking spiritual perfection and perceived physical comforts, as well as other people, to be hindrances to that spiritual perfection.
-
-Catholics and Protestants generally disagree over the *“Monastic Ideal.”* Catholics say that the church has to make room for the ascetics, who strive for spiritual perfection through self-denial, isolation, prayer and self-abasement; as well as make room for weak, sinful members who show few signs of grace.
-
-It is true that we are all in process of becoming more like Christ (**Romans 8:28-29**). However, Martin Luther, who himself had lived as a cloistered (isolated) monk, realized that Monasticism encourages the idea of two roads to God, a higher and a lower.
-
-One form of the Monastic Ideal was the lonely hermit, who fled to the desert or wilderness to protest the corruption of the Church and the corruption of the world.
-
-Yet, somehow, temptations followed them into the desert and behind the walls. They were led into the dangers of pronounced individualism and the temptations of pride, rivalry and eccentricity.
-
-The Monastic Ideal eventually moved from hermits to communal life with fixed hours of manual labor, uniform garb and strict discipline. This addressed the hermits dangers of idleness and eccentricity. It also brought some restraint to the excesses of the Monastic Ideal and provided a realistic opportunity for women to pursue this ideal.
-
-Pachomius instituted the 1st Christian monastery about 320 AD. He had the right idea: *“To save souls you must bring them together.”* The process of sanctification happens best in community. This was another example of an attempt to reform the Church, which was not providing the community that would move us along in our becoming more like Christ.
-
-In the 3rd and 4th Centuries the Monastic Ideal swelled into a movement that affected all levels of the Christian population. Many found the *ascetic way* (*the practice of severe self-discipline and abstaining from all forms of indulgence*) to be an acceptable substitute for the spiritual heroism of the days of persecution.
-
-Monks and nuns transformed the spirit of martyrdom into the full commitment to God and the imitation of the sufferings of Christ. They pursued this full commitment to God with vows of poverty, chastity and obedience to the rules of the monastery and the monastery leaders.
-
-In the 5th and 6th Centuries, practically every leader in the church was either a monk or closely linked to monasticism. The monastic cell became a study and the monks became scholars.
-
-Benedict of Nursia (Italy – 480-543) was no scholar but he had a genius for administration and a profound knowledge of people. He made discipline a fundamental, yet he saw that it must not be too heavy a yoke. Benedictine Rules showed a remarkable restraint with some degree of freedom. A Benedictine monastery was a little world in itself. They had a strenuous life of worship, vigorous labor and serious reading.
-
-**The Monastic Ideal**
-
-- The monasteries helped provide stability during the collapse of the old Roman civilization.
-- They provided an opportunity for the Scriptures to be copied and studied.
-- They eventually sent out a large number of missionaries into often hostile countries.
-
-However, the vow of poverty did not extend to the monastery itself. Eventually the original rigor of the monasteries declined and there were constant efforts to reform the local church substitute. Above all, the Monastic Ideal and the monastery system had an unnatural conception of the Christian life and an erroneous, unbiblical view of humanity.
+## Question 5
 
 **5. What are some ways that the church today may be exiles from life? What are our motivations? What do we hope to gain? What are the pitfalls?**
 
-- Consider **Col 2:18-23** in connection with the Monastic Ideal. Perhaps, many of us can identify with being frustrated with the church, or those in the church who do not seem to be as committed to the Lord as we think they should be. I, for one, experienced a severe case of spiritual pride in my high school days. I saw myself as superior to most of my fellow youth group members and many adults in our church as well. Thankfully the Lord exposed my hypocrisy and many of my fellow church members were very gracious and forgiving.
+> In many ways, the church today has become increasingly *exiled from life*, especially since COVID, by retreating into safe and controlled spaces rather than engaging the world with the gospel. Church life is often confined to a building and limited to scheduled gatherings, with worship and the interpretation of Scripture centered almost exclusively on Sundays. While corporate worship and teaching are essential, the Church was commissioned to *“go into all the world and preach the gospel”* (**Matthew 28:19–20**), not to remain contained within its own walls. When the Church becomes inward-focused, it risks functioning more as a refuge from the world than as a witness to it.
+>
+>The motivation behind this exile is often rooted in fear and deception. There is a desire to feel safe, protected, and affirmed, and the enemy exploits this by encouraging exclusivity that quietly sidelines the Great Commission. While community, love, peace, and the practice of the biblical *“one anothers”* are genuine goods the Church hopes to gain, they can become substitutes for mission rather than fuel for it. As **Colossians 2:18–23** warns, practices that appear spiritual can lose their power when they are detached from Christ’s purpose, becoming inward, self-protective, and ultimately ineffective.
+>
+>The primary pitfall is that disciple-making is replaced with information-sharing. We trade the joy of making disciples for the comfort of *rightly dividing the word* in isolation, forgetting that Scripture was given to be lived out and proclaimed. A proper balance is needed: the gospel must be presented accurately to avoid cheap grace and easy believism, yet it must also be carried outward in obedience to Christ. We are not called merely to make converts, but disciples—people whom God is already drawing to Himself—training them both in faithful living and in correctly handling the Word of truth. True maturity is found not in exile from life, but in faithful engagement with it for the glory of God.
 
 **Chapter 14 – The Sage of The Ages – Augustine**
 
-Aurelius Augustinus (Augustine) from Algeria born 11/13/354 – 430. His father was an easy-going heathen and his mother was an eager Christian. They determined to provide him with the best education available. This ultimately took him to Carthage, the North African capital. (Today it is in Tunisia).
+## Modern Semi-Pelagianism
 
-Augustine struggled, but consistently lost, with sexual temptation. He considered this to be his defiling passion. It marked his conception of sin and the depravity from which he later felt himself rescued by God’s grace.
+Modern *semi-Pelagianism* is widespread in the contemporary church, often affirming the language of human fallenness while quietly preserving human autonomy at the decisive moment of salvation. While Scripture teaches that all humanity is truly *“in Adam”* and spiritually dead apart from grace (**Romans 5:12; Ephesians 2:1–3**), semi-Pelagianism reframes this condition as moral weakness rather than total inability, allowing faith to function as an unfallen human capacity. God’s grace is said to enable salvation, yet the final determination is placed in the human will, with election reduced to divine foreknowledge of human choice. This stands in contrast to the consistent biblical pattern in which God initiates, calls, and appoints—Abraham is called (**Genesis 12:1**), Mary is chosen (**Luke 1:30**), the disciples are commanded (*“You did not choose Me, but I chose you”* — **John 15:16**), Paul is confronted and sent (**Acts 9:5–6**), and even rulers act within God’s sovereign purpose (**Romans 9:16–18**). Scripture repeatedly denies that salvation originates in human will or effort, insisting instead that it depends on God who shows mercy (*“No one can come to Me unless the Father… draws him”* — **John 6:44**). Semi-Pelagianism ultimately diminishes the depth of sin, weakens the necessity of grace, and shifts assurance from God’s saving action to human decision, whereas the gospel proclaims that salvation from beginning to end is the work of God alone (*“by grace… not of yourselves”* — **Ephesians 2:8–9**), producing humble gratitude rather than confidence in the flesh (**1 Corinthians 1:26–31**).
 
-Augustine, in his search for deliverance, tried Manicheanism for several years. The fundamental belief of the religion pictured an eternal conflict between two powers: good and evil, with the spiritual part of humanity being the good and the physical part being evil. Victory can be attained by prayer and abstinence from all enjoyments of evil: riches, lust, wine, luxurious houses, among other physically pleasing things. Like Gnosticism, it taught that Jesus had no material body and did not actually die. They held that much of the New Testament was true, but rejected all of it that suggested that Christ’s sufferings were real. They also rejected all the Old Testament.
+### **Total Depravity: Fallen, Not Autonomous**
 
-When Augustine was 30, he began teaching at the University of Milan where he was moved by the powerful preaching of Bishop Ambrose and the personal example of the monks. His sense of sin and powerlessness were stirred. One day, as he walked through his garden, he heard a child sing: *“Take up and read.”* He picked up a New Testament and read **Romans 13:13-14** – *“…put on the Lord Jesus Christ and make no provision for the flesh, to fulfill its lusts.”* Instantly he experienced the light of peace poured into his heart and all shadows of doubt faded away.
+The doctrine of *total depravity* teaches that every part of human nature is affected by sin as a result of Adam’s fall, not that humans always sin to their fullest possible extent. Scripture makes clear that all humanity is *“in Adam”* and therefore spiritually dead apart from grace (**Romans 5:12; Ephesians 2:1–3**), meaning no one possesses the natural ability to seek God or initiate salvation (*“There is none who seeks for God”* — **Romans 3:10–12**). At the same time, the Bible affirms that evil is restrained by God through *common grace* and sovereign intervention. God prevented Abimelech from sinning (*“I kept you from sinning against Me”* — **Genesis 20:6**), governs rulers and hearts (**Proverbs 21:1; Romans 13:1**), and even directs hardened hearts to fulfill His purposes (**Exodus 9:12; Romans 9:17–18**).
 
-He was baptized in 387 by Ambrose in Milan and then returned to Africa. In three years later at Hippo, he was ordained a priest, against his will, and was assigned to be the assistant Bishop. Then one year later he became the Bishop at the age of 43.
-
-North Africa was during a conflict between the Catholic Church and the 100-year-old Donatist Movement. Donatus (313-355) had been the Bishop of Carthage. The movement stood for a holy church, church discipline and resistance of unworthy bishops. He felt those who had surrendered the Scriptures to be burned during the Diocletian persecution (303-311) were guilty of apostasy and should be disqualified as bishops, as well as those who ordained them. He believed that the validity of the sacrament depends upon the moral standing of the minister.
-
-Augustine rejected the Donatist’s views of a pure church. He believed that the church would be a mixed-multitude until the day of judgment. He supported this view with Jesus’ parable of the Wheat and The Tares – **Matthew 13:24-30**. He also viewed the sacraments as belonging to Christ, not the priests. All that is required of the priest is an awareness that he administers God’s grace for the whole church. This controversy led Augustine to support the use of force in the suppression of rivals and was used later to justify the Inquisition.
-
-Augustine also stood against the British monk Pelagius and his teachings. Pelagian teaching denied the doctrine of inherited sin from Adam. They taught instead, that humans are free to act righteously or sinfully. He also taught that death is not a consequence of Adam’s sin. Adam’s introduction of sin into the world was just a corrupting example. He also taught that God predestinates no one – He foresees their choices. He also taught that forgiveness is by faith alone; once forgiven man has the power of himself to live pleasing to God.
-
-**The City of God on the Ruins of Rome**
-
-Augustine wrote: The City of God – dealing with the relationship between earthly cities that are temporary and the Heavenly City which is everlasting. This influenced, directly or indirectly, the thought of Christians on what they owed to God and what to Caesar over the next 15 centuries.
+In addition, Scripture teaches that the **Holy Spirit actively restrains evil**, both in the world and within believers. Paul speaks of a present restraint holding back lawlessness until God’s appointed time (**2 Thessalonians 2:6–7**), and believers are exhorted to *“walk by the Spirit”* so that they do not carry out the desires of the flesh (**Galatians 5:16**). This inner restraint does not originate from human willpower but from God’s indwelling presence, further demonstrating that human obedience flows from divine action. Human beings therefore act willingly, yet never autonomously, choosing according to their fallen nature while being restrained and governed by God. Total depravity does not deny moral responsibility; it explains why salvation and sanctification must originate in God’s mercy rather than human ability (*“It does not depend on the one who wills… but on God who shows mercy”* — **Romans 9:16**), preserving the biblical truth that grace is both necessary and decisive in redemption.
 
 **Chapter 15 – Peter As “Pontifex Maximus” – The Beginnings of the Papacy**
 
