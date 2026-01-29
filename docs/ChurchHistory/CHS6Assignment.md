@@ -112,7 +112,7 @@ You can lead these discussions yourself or assign some of them to individuals or
 
 The movement started the fourth century as a persecuted minority; it ended the century as the established religion of the empire. Thus, the Christian Church was joined to the power of the state and assumed a moral responsibility for the whole society.
 
-**Chapter 9 – Laying Her Scepter Down – The Conversion of the Empire**
+**Chapter 10 – Laying Her Scepter Down – The Conversion of the Empire**
 
 With the Christianization of the empire, the imperial interference in the affairs of the church begins. Even today we can detect the fallout of these two developments.
 
@@ -140,7 +140,7 @@ By 380, rewards for Christians had given way to penalties for non-Christians. Em
 
 There are few of us who face physical persecution in the West but we are certainly out of sync with our culture and face a certain hostility and rejection. The Roman culture was certainly as depraved, if not more so than our own. – Perhaps we should consider how we can care for those that our culture rejects and abandons – Care for the Dying. – The main advantage for the church was no more martyrdom! Being favored brought more people to at least hear the Gospel. Becoming the State Church though, sowed tares in abundance and with the Emperor as the head of the Church, it seems as if resistance was futile.
 
-**Chapter 10 – Splitting Important Hairs – The Doctrine of the Trinity**
+**Chapter 11 – Splitting Important Hairs – The Doctrine of the Trinity**
 
 Constantine was troubled by reports from all quarters, of the bitterness Christians were displaying over theological issues. A divided, quarreling Christianity could not hold the crumbling empire together. (Consider **1 Corinthians 11:19**)
 
@@ -160,7 +160,7 @@ After Nicea, Constantine and his successors stepped in again and again to banish
 
 - Christians have often appealed to the natural realm to try to illustrate the concept and reality of the Trinity. The yolk, white and shell of an egg, the root, tree and fruit of a plant or even water in its three forms: ice, liquid and vapor. However, they all completely miss the personal element in the Christian doctrine of the Trinity. At some point in our process of trying to understand or explain the doctrine of the Trinity, we should accept the scriptural teaching and submit our understanding or comprehension to **Deut. 29:29** – *The secret things belong to God; the things revealed belong to us and to our sons forever.*
 
-**Chapter 11 – Emmanuel! – Christ in The Creeds**
+**Chapter 12 – Emmanuel! – Christ in The Creeds**
 
 - The Word Became Flesh is central to Christian worship
 
@@ -190,11 +190,11 @@ The merit of the Chalcedonian statement lies in the boundaries it established. I
 
 Fifteen hundred years after the event we may wish for more understandable terms, but we dare not say less than the church said then.
 
-Chapter 12 – Exiles from Life – The Beginnings of Monasticism
+**Chapter 13 – Exiles from Life – The Beginnings of Monasticism**
 
 There is a Jewish saying: *“If you seek wisdom, go into the wilderness.”* This advice was most certainly meant as a temporary retreat, rather than a lifestyle.
 
-Monasticism (monks and nuns) is a religious way of life in which one renounces worldly pursuits to devote oneself fully to spiritual work. Monastic life plays an important role in the Catholic and Orthodox traditions, as well as in many non-Christian religions. The word comes from the Greek word for *“alone”* and describes those who live alone, completely isolated from others and the world. It also describes those who would live alone together, with a wide variety of rules and regulations. They were generally seeking spiritual perfection and perceived physical comforts, as well as other people, to be hindrances to that spiritual perfection.
+*Monasticism (monks and nuns)*Ok,  is a religious way of life in which one renounces worldly pursuits to devote oneself fully to spiritual work. Monastic life plays an important role in the Catholic and Orthodox traditions, as well as in many non-Christian religions. The word comes from the Greek word for *“alone”* and describes those who live alone, completely isolated from others and the world. It also describes those who would live alone together, with a wide variety of rules and regulations. They were generally seeking spiritual perfection and perceived physical comforts, as well as other people, to be hindrances to that spiritual perfection.
 
 Catholics and Protestants generally disagree over the *“Monastic Ideal.”* Catholics say that the church has to make room for the ascetics, who strive for spiritual perfection through self-denial, isolation, prayer and self-abasement; as well as make room for weak, sinful members who show few signs of grace.
 
@@ -228,7 +228,7 @@ However, the vow of poverty did not extend to the monastery itself. Eventually t
 
 - Consider **Col 2:18-23** in connection with the Monastic Ideal. Perhaps, many of us can identify with being frustrated with the church, or those in the church who do not seem to be as committed to the Lord as we think they should be. I, for one, experienced a severe case of spiritual pride in my high school days. I saw myself as superior to most of my fellow youth group members and many adults in our church as well. Thankfully the Lord exposed my hypocrisy and many of my fellow church members were very gracious and forgiving.
 
-**Chapter 13 – The Sage of The Ages – Augustine**
+**Chapter 14 – The Sage of The Ages – Augustine**
 
 Aurelius Augustinus (Augustine) from Algeria born 11/13/354 – 430. His father was an easy-going heathen and his mother was an eager Christian. They determined to provide him with the best education available. This ultimately took him to Carthage, the North African capital. (Today it is in Tunisia).
 
@@ -250,7 +250,7 @@ Augustine also stood against the British monk Pelagius and his teachings. Pelagi
 
 Augustine wrote: The City of God – dealing with the relationship between earthly cities that are temporary and the Heavenly City which is everlasting. This influenced, directly or indirectly, the thought of Christians on what they owed to God and what to Caesar over the next 15 centuries.
 
-**Chapter 14 – Peter As “Pontifex Maximus” – The Beginnings of the Papacy**
+**Chapter 15 – Peter As “Pontifex Maximus” – The Beginnings of the Papacy**
 
 Attila the Hun, *“The Scourge of God”* came to attack Rome June of 452 and Bishop Leo was sent to ask that Rome might be spared. His success, which had more to do with the fact that Attila had already decided to abandon further invasion and to return home, resulted in the Bishop of Rome assuming a new role as a world leader.
 
@@ -274,7 +274,7 @@ Just three years after Leo had successfully negotiated with the Huns, he stood a
 
 **6. Read “Important Events in Early Orthodoxy” (page 151) to refresh your understanding of the Orthodox Church.**
 
-**Chapter 15 – Somewhere Between Heaven and Earth – Eastern Orthodox**
+**Chapter 16 – Somewhere Between Heaven and Earth – Eastern Orthodox**
 
 The key to understanding Eastern Orthodoxy (and all the varieties of this branch of the church) is found in its holy images, called icons.
 
@@ -298,7 +298,7 @@ The differences of doctrine and practice between the Orthodox Church in the East
 
 In 1054, Pope Leo IX sent Cardinal Humbert to the Patriarch of Constantinople, Michael Cerularius, with the Pope’s Bull of Excommunication (Bull = an official statement from the Pope) and the Great Schism was complete. Now there were two Churches, the Greek Eastern Church (Orthodox) and the Latin Western Church (Catholic).
 
-**Chapter 16 – Bending the Necks of Victors – Mission to the Barbarians**
+**Chapter 17 – Bending the Necks of Victors – Mission to the Barbarians**
 
 The year 476 usually marks the end of the Christian Roman Empire in the West. This was the year that rule by German leaders began, after 150 years of chaos.
 
