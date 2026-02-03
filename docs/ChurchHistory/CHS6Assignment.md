@@ -112,21 +112,21 @@ You can lead these discussions yourself or assign some of them to individuals or
 
 ## Question 1
 
-1. *Discuss the parallels between the situation that Christians faced in Rome and those that we face in our culture today. See “Care for the Dying” (page 101). What were the advantages and disadvantages of Christianity becoming the State Church?*
+*Discuss the parallels between the situation that Christians faced in Rome and those that we face in our culture today. See “Care for the Dying” (page 101). What were the advantages and disadvantages of Christianity becoming the State Church?*
 
-    **How are we to live in a culture increasingly doing what is right in its own eyes?**
+**How are we to live in a culture increasingly doing what is right in its own eyes?**
 
-    > Chapter 10 reminds us that the Church has lived faithfully in both persecution and cultural favor, and that neither condition guarantees spiritual health. Like believers during the reigns of Diocletian and Galerius, Christians today may feel pressure to conform or to retreat when culture turns hostile. Yet history shows that fear-driven compromise does not nullify genuine faith, just as Peter’s threefold denial did not disqualify him from restoration and service **(Luke 22:31–32; John 21:15–17)**. We are therefore called to live contrary to our culture not out of rebellion or self-righteousness, but out of love for Christ and a desire to please Him (2 Corinthians 5:9). Our response to injustice, moral confusion, and open hostility toward God is not retaliation, but faithful obedience, humility, and prayer—kneeling before the Lord and entrusting our fears to Him (**Philippians 4:6–7**). Chapter 10 warns that cultural approval can be as dangerous as persecution, reminding us that the Church’s strength is not found in power or protection, but in steadfast devotion to Christ, compassionate witness, and trust in God’s sovereignty even when society openly does what is right in its own eyes.
+> Chapter 10 reminds us that the Church has lived faithfully in both persecution and cultural favor, and that neither condition guarantees spiritual health. Like believers during the reigns of Diocletian and Galerius, Christians today may feel pressure to conform or to retreat when culture turns hostile. Yet history shows that fear-driven compromise does not nullify genuine faith, just as Peter’s threefold denial did not disqualify him from restoration and service **(Luke 22:31–32; John 21:15–17)**. We are therefore called to live contrary to our culture not out of rebellion or self-righteousness, but out of love for Christ and a desire to please Him (2 Corinthians 5:9). Our response to injustice, moral confusion, and open hostility toward God is not retaliation, but faithful obedience, humility, and prayer—kneeling before the Lord and entrusting our fears to Him (**Philippians 4:6–7**). Chapter 10 warns that cultural approval can be as dangerous as persecution, reminding us that the Church’s strength is not found in power or protection, but in steadfast devotion to Christ, compassionate witness, and trust in God’s sovereignty even when society openly does what is right in its own eyes.
 
 ## Question 2
 
-2. *Read and discuss this statement: Rejected Trinitarian Schemes (Pages 106-107) and Why is the Trinity Important? (Pages 111-112) (See also chart 28 and page 123 in textbook)*
+*Read and discuss this statement: Rejected Trinitarian Schemes (Pages 106-107) and Why is the Trinity Important? (Pages 111-112) (See also chart 28 and page 123 in textbook)*
 
-    > Attempts to explain the Trinity through natural analogies—such as an egg, water, or a plant—ultimately fail because they remove the personal nature of God and tend to slide into old heresies. These illustrations may help conceptually, but they distort the biblical teaching by reducing the Father, Son, and Holy Spirit to parts, modes, or impersonal forms. Chapter 11 shows that the Trinity is not a human invention but a doctrine drawn from Scripture, preserving both God’s oneness and the full personhood of each member of the Godhead. The Trinity is essential because it protects the gospel itself: the Father sends, the Son redeems, and the Spirit applies salvation. As **Deuteronomy 29:29** reminds us, there is a point where faithful theology submits to revelation, accepting mystery rather than reshaping God into something more understandable.
-    >
-    > As **Deuteronomy 29:29** teaches, God has revealed what we need to know about Himself, and those revealed truths belong to us. Scripture affirms that God is not partially known, since *“in Christ all the fullness of Deity dwells bodily”* (**Colossians 2:9**). The Trinity, therefore, is not a retreat into mystery but a faithful confession of what God has revealed—fully true, though not exhaustively comprehended.
-    >
-    > At the same time, Scripture also affirms that God has fully revealed Himself in Christ. Paul states clearly that *“in Him all the fullness of Deity dwells bodily”* (**Colossians 2:9**), and that Christ is *“the image of the invisible God”* (**Colossians 1:15**). This means God is not partially revealed or obscured—He is truly and savingly known in Jesus.
+> Attempts to explain the Trinity through natural analogies—such as an egg, water, or a plant—ultimately fail because they remove the personal nature of God and tend to slide into old heresies. These illustrations may help conceptually, but they distort the biblical teaching by reducing the Father, Son, and Holy Spirit to parts, modes, or impersonal forms. Chapter 11 shows that the Trinity is not a human invention but a doctrine drawn from Scripture, preserving both God’s oneness and the full personhood of each member of the Godhead. The Trinity is essential because it protects the gospel itself: the Father sends, the Son redeems, and the Spirit applies salvation. As **Deuteronomy 29:29** reminds us, there is a point where faithful theology submits to revelation, accepting mystery rather than reshaping God into something more understandable.
+>
+> As **Deuteronomy 29:29** teaches, God has revealed what we need to know about Himself, and those revealed truths belong to us. Scripture affirms that God is not partially known, since *“in Christ all the fullness of Deity dwells bodily”* (**Colossians 2:9**). The Trinity, therefore, is not a retreat into mystery but a faithful confession of what God has revealed—fully true, though not exhaustively comprehended.
+>
+> At the same time, Scripture also affirms that God has fully revealed Himself in Christ. Paul states clearly that *“in Him all the fullness of Deity dwells bodily”* (**Colossians 2:9**), and that Christ is *“the image of the invisible God”* (**Colossians 1:15**). This means God is not partially revealed or obscured—He is truly and savingly known in Jesus.
 >
 > The tension, then, is not between revelation and mystery, but between revelation and exhaustion. God is fully revealed, but not exhaustively comprehended. We truly know God as He has made Himself known, yet we do not master or reduce Him to human categories. This is why the Church insisted on precise language in Trinitarian doctrine: not to explain God away, but to protect what has been revealed from distortion.
 >
@@ -139,11 +139,15 @@ You can lead these discussions yourself or assign some of them to individuals or
 
 ## Question 3
 
-3. *Is it “Either/Or” or “Both/And”?*
+*Is it “Either/Or” or “Both/And”?*
 
 > The history of the creeds shows that the Church never viewed worship and doctrine as an either/or choice, but as a necessary both/and. True worship flows from a right understanding of who Christ is, and sound doctrine naturally leads believers to praise, not pride. As J. S. Whale observed, the Church’s safest language about Christ is often found in worship, yet this worship must be anchored in truth or it easily drifts into sentimentality or error. The Christological heresies forced the Church to clarify doctrine not to suppress worship, but to protect it—because a Christ who is less than fully God cannot save, and a Christ who is less than fully human cannot redeem humanity (**John 1:14; Colossians 2:9**). The creeds preserved this balance by setting boundaries rather than explaining away the mystery, allowing believers to sing, confess, and adore the true Christ while remaining faithful to apostolic teaching (**1 Corinthians 11:19; Deuteronomy 29:29**). Therefore, Christian faith is strongest when worship and doctrine remain united, as loving God with heart and mind together guards the Church from error and deepens devotion to Christ.
 
-4. *Discuss the major heresies about Christ – page 123 in textbook & Chart 26.*
+## Question 4
+
+*Discuss the major heresies about Christ – page 123 in textbook & Chart 26.*
+
+The major heresies about Christ in the early church all revolved around who Jesus is—specifically His divinity, humanity, and the relationship between the two. Some denied His full deity, others His full humanity, and still others confused or divided His natures. *Arianism* taught that Christ was a created being, not fully God, directly contradicting Scripture that presents Him as eternal and divine (e.g., **John 1:1, Colossians 1:15–17**). *Docetism* denied Christ’s true humanity, claiming He only appeared to be human, undermining the reality of the incarnation and the atonement (**1 John 4:2–3**). *Apollinarianism* affirmed Christ’s deity but denied a full human nature by claiming He lacked a human mind, which compromised His ability to fully represent humanity. *Nestorianism* divided Christ into two persons—one divine and one human—rather than one person with two natures, while *Eutychianism (Monophysitism)* blended His natures into one, confusing deity and humanity. In response, the church carefully articulated orthodox Christology through councils, especially Chalcedon (AD 451), confessing that Jesus Christ is one person in two natures, fully God and fully man, without confusion, change, division, or separation. These heresies mattered because any distortion of Christ’s person ultimately distorts the gospel itself—only a Savior who is truly God and truly man can accomplish true redemption.
 
 ## Question 5
 
@@ -212,3 +216,48 @@ SUMMARY THREAD ─────────────────────�
 │    - Creeds (Nicene / Nicene-Constantinopolitan; Chalcedonian Definition)
 │    - Conciliar authority (doctrine guarded by the gathered bishops of the Church)
 ```
+
+## Pergamum 3rd Church period in Revelation 2 (313-600AD)
+
+**AD 313 – The Edict of Milan**
+
+- Issued by **Constantine**
+- Legalized Christianity after nearly three centuries of persecution
+- Returned confiscated church property
+- Marked the **end of the persecuted church** and the beginning of the **imperial church**
+
+This moment aligns closely with **Pergamum** in **Revelation 2:12–17**, where Christ says:
+
+> *“I know where you dwell, where Satan’s throne is… and you hold fast My name.”*
+
+Pergamum represents a church that **dwells where power is**, no longer hunted, but **entangled with the state**. Christianity moves from the catacombs to the palace. The danger is no longer martyrdom, but **compromise**.
+
+By **AD 600**, several developments closed the Pergamum era and transitioned toward Thyatira:
+
+- The **Western Roman Empire** had fully collapsed (**476**)
+- The **Justinianic Plague (AD 541–549)** had devastated population and stability
+- The papacy, especially under **Gregory the Great (590–604)**, had assumed civil authority
+- The Church was no longer merely aligned with empire — it was **replacing it**
+
+This marks a shift from *church alongside empire* (Pergamum) to *church ruling society* (Thyatira).
+
+### **The Two Stages of the Black Plague**
+
+1. **Justinianic Plague** — **AD 541–549**
+
+   - Occurred during the Pergamum period
+   - Weakened both empire and society
+   - Accelerated the Church’s rise as caretaker and authority
+
+2. **Later Black Death** — **AD 1347–1351**
+
+   - Occurred much later, during the Thyatira period (High Middle Ages)
+
+> The period from **AD 313 to 600** corresponds closely with the **Pergamum church age** described in **Revelation 2**, often called the *Roman Empire Church*. This era began with the **Edict of Milan (313)**, when Christianity was legalized and brought into partnership with imperial power under Constantine. While persecution ceased, the Church now dwelt *“where Satan’s throne is,”* facing the new danger of compromise rather than oppression. As the empire weakened through barbarian invasions and the **Justinianic Plague (541–549)**, the Church increasingly assumed civic and moral responsibility. By the time of **Gregory the Great (590–604)**, the bishop of Rome had become a stabilizing force amid collapse, signaling the close of the Pergamum era. By **600 AD**, the Church had moved beyond coexistence with empire into a position of social authority, paving the way for the next church age.
+
+**Revelation 2:12-17**
+
+> *Message to Pergamum*  
+> 12 *“And to the angel of the church in Pergamum write:*  
+> *The One who has the sharp two-edged sword says this:*  
+> 13 *‘I know where you dwell, where Satan’s throne is; and you hold fast My name, and did not deny My faith even in the days of Antipas, My witness, My faithful one, who was killed among you, where Satan dwells. 14But I have a few things against you, because you have there some who hold the teaching of Balaam, who kept teaching Balak to put a stumbling block before the sons of Israel, to eat things sacrificed to idols and to commit acts of immorality. 15So you also have some who in the same way hold the teaching of the Nicolaitans. 16Therefore repent; or else I am coming to you quickly, and I will make war against them with the sword of My mouth. 17He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, to him I will give some of the hidden manna, and I will give him a white stone, and a new name written on the stone which no one knows but he who receives it.’*

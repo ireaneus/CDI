@@ -4,7 +4,7 @@ date: 56 A.D
 writer: Paul, a bond-servant of Christ Jesus
 category: Prison Epistle
 description: Edmond Heibert says of Romans, “The epistle to the Romans is acknowledged to be one of the most profound books in existence. Its impressive grandeur and impenetrable depths make it one of the most highly prized parts of the Holy Scripture. It has very appropriately been termed the Cathedral of the Christian faith. It was not without adequate reason that this epistle was assigned first position among the Pauline writings…”
-bibleReference: Romans
+bibleReference: Book of Romans
 ---
 
 # {{ page.meta.title }}
@@ -18,11 +18,11 @@ bibleReference: Romans
 ## Table of Contents
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
-    - [Table of Contents](#table-of-contents)
-    - [CDI Notes - Content of Romans](#cdi-notes---content-of-romans)
-    - [Chapter Headings of Romans (NASB1995)](#chapter-headings-of-romans-nasb1995)
-    - [Survey of New Testament](#survey-of-new-testament)
-    - [Romans Summary](#romans-summary)
+  - [Table of Contents](#table-of-contents)
+  - [CDI Notes - Content of Romans](#cdi-notes---content-of-romans)
+  - [Chapter Headings of Romans (NASB1995)](#chapter-headings-of-romans-nasb1995)
+  - [Survey of New Testament](#survey-of-new-testament)
+  - [Romans Summary](#romans-summary)
 
 ## CDI Notes - Content of Romans
 
