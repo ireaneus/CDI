@@ -1,5 +1,5 @@
 ---
-title: Church History Session 7 – THE CHRISTIAN MIDDLE AGES 590–1517 AD
+title: Church History Session 7 – The Christian Middle Ages 590–1517 AD
 date: 33 - 2000 A.D.
 instructor: Russell Richardson
 course: Church History
@@ -236,6 +236,8 @@ When I consider the examples of **John Wyclif** and **Jan Hus**, I am struck by 
 In the West, Christians are rarely persecuted through violence or imprisonment, but rather through **cultural pressure**, ridicule, loss of influence, and social or professional consequences for holding biblical convictions. Faith is often tolerated only as long as it remains private and non-confrontational. In contrast, Christians in many parts of the world face **imprisonment, loss of property, beatings, and even death** for openly confessing Christ. The difference is not in the call to faithfulness, but in the cost attached to it.
 
 The examples of Wyclif and Hus remind me that boldness flows from a settled conviction that truth is worth suffering for. Their courage was rooted in Scripture and a clear conscience before God, not in political power or personal rights. The challenge for believers today—especially in the West—is to recover that same eternal perspective, valuing obedience to Christ above comfort, safety, and cultural approval, even when the cost is social rather than physical.
+
+**Below this is AI driven reference material**
 
 ## **The Church at Thyatira — Revelation 2:18–29**  
 

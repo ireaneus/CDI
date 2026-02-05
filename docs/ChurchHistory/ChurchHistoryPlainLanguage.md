@@ -17,16 +17,16 @@ description: For years I kept a cartoon on my study door. Students who stopped t
 
 - [{{ page.meta.title }}](#-pagemetatitle-)
   - [Table of Contents](#table-of-contents)
-  - [Chapter 1 "Away with the King!"](#chapter-1-away-with-the-king)
+  - [Chapter 1 "Away with the King! - **The Jesus Movement**"](#chapter-1-away-with-the-king---the-jesus-movement)
   - [Part 1: The Age of Jesus and the Apostles, 6 BC-AD 70](#part-1-the-age-of-jesus-and-the-apostles-6-bc-ad-70)
   - [Part 2: The Age of Catholic Christianity, 70-312 AD](#part-2-the-age-of-catholic-christianity-70-312-ad)
   - [The Apostles’ Creed — Line-by-Line Response to Gnosticism](#the-apostles-creed--line-by-line-response-to-gnosticism)
   - [Part 3: The Age of the Christian Roman Empire, 312-590](#part-3-the-age-of-the-christian-roman-empire-312-590)
   - [Part 4: The Christian Middle Ages, 590-1517 AD](#part-4-the-christian-middle-ages-590-1517-ad)
+  - [Part 5 – The Age of the Reformation (1517–1698 AD)](#part-5--the-age-of-the-reformation-15171698-ad)
+  - [The Four Reform Questions and Their Answers](#the-four-reform-questions-and-their-answers)
 
-## Chapter 1 "Away with the King!"
-
-**The Jesus Movement**
+## Chapter 1 "Away with the King! - **The Jesus Movement**"
 
 ### Paragraph 1 - The Cross as the Center
 
@@ -436,3 +436,57 @@ In this chapter, the papacy entered a period of serious decline between **1300 a
 ### **Chapter 24 — “Judgment in the Process of Time”**
 
 In this chapter, history itself became a form of judgment on the institutions, ideas, and practices of the late medieval church. Over time, systems that were once intended to serve God and His people hardened into abuses, revealing the tendency of human nature to turn good gifts into tools of control. As papal authority weakened and corruption increased, thoughtful believers began to measure church teaching and practice against *Scripture*, rather than tradition or institutional power. Figures such as **John Wyclif** and later **Jan Hus** emerged as early reformers who challenged the authority of the papacy, emphasized the supremacy of God’s Word, and called for moral and doctrinal reform within the church. Their willingness to suffer persecution exposed the growing gap between biblical Christianity and medieval church practice. This chapter shows that judgment does not always come suddenly, but unfolds gradually through history, as God allows truth to surface and human systems to be tested. By the end of the Middle Ages, the failures of the papacy and the courage of these reformers made it clear that significant change was necessary, setting the stage for the coming **Reformation**.
+
+## Part 5 – The Age of the Reformation (1517–1698 AD)
+
+### **Chapter 25 – A Wild Boar in the Vineyard – Martin Luther & Protestantism (Germany)**
+
+Martin Luther sparked the Protestant Reformation by challenging the Roman Catholic Church’s authority, especially through his opposition to the sale of indulgences. His posting of the *95 Theses* in 1517 questioned the Church’s teaching on salvation, authority, and forgiveness of sins. Luther argued that salvation comes by faith alone, that Scripture is the final authority, and that all believers stand equally before God.
+
+Though Luther intended reform rather than separation, his refusal to recant his teachings before imperial and church authorities led to his condemnation as a heretic. His stand bound his conscience to the Word of God and made the division between Catholicism and Protestantism unavoidable, giving rise to Lutheranism and shaping the course of Western Christianity.
+
+### **Important Dates & Events**
+
+- **1483** – Martin Luther is born in Eisleben, Germany
+- **1505** – Luther enters an Augustinian monastery after a personal encounter with the living God.
+- **1510–1511** – Visit to Rome deepens Luther’s concern over church corruption
+- **October 31, 1517** – Luther posts the *95 Theses* on the Castle Church door in Wittenberg, challenging indulgences
+- **1520** – Luther publicly burns the papal bull of condemnation and Church law
+- **1521** – Luther appears before Emperor Charles V at the **Diet of Worms** and refuses to recant
+- **1521** – Luther is declared an outlaw and heretic
+- **1522** – Luther begins translating the New Testament into German
+- **1534** – Completion of the German Bible, making Scripture accessible to the common people
+- **1546** – Death of Martin Luther
+
+## The Four Reform Questions and Their Answers
+
+1. **How is a person saved?**
+   A person is saved **by faith alone**, not by works or church rituals.
+
+2. **Where does religious authority lie?**
+   Religious authority does **not** reside in the Roman Church or the pope, but in the **Word of God as found in Scripture**.
+
+3. **What is the Church?**
+   The Church is the **whole community of Christian believers**, since **all believers are priests before God**.
+
+4. **What is the essence of Christian living?**
+   Christian living is **serving God in any useful calling**, whether one is ordained clergy or a layperson.
+
+### **Chapter 26 – Radical Discipleship: The Anabaptists (In Switzerland)**
+
+The Anabaptists represented the most radical wing of the Protestant Reformation, emphasizing personal faith, disciplined discipleship, and a clear separation between the Church and the state. They believed that baptism and church membership were only valid for individuals who could make a conscious, personal confession of faith in Jesus Christ. For this reason, they rejected infant baptism and taught that those baptized as infants should be baptized as believing adults.
+
+Because they did not view infant sprinkling as true baptism, the Anabaptists rejected the label *“rebaptism”* and preferred to be called *“Baptists.”* Their understanding of the Church rejected the concept of Christendom, insisting that the Church should be a voluntary community of true believers rather than a state-supported institution. As a result, most Anabaptists were pacifists, refused to swear oaths, and avoided holding political office.
+
+Ulrich Zwingli led this radical movement in Switzerland as part of an effort to “reform the Reformation.” The Anabaptist movement began through the preaching of Scripture and applied biblical teaching rigorously to daily life. Zwingli differed sharply from Martin Luther in his approach to Scripture: Luther permitted practices not explicitly forbidden in the Bible, while Zwingli rejected anything not explicitly prescribed by Scripture. This strict biblical approach strongly influenced later Puritan thought in England.
+
+Although often persecuted and misunderstood, the Anabaptists demonstrated that a deep focus on the world to come could produce meaningful change in the present through lives marked by obedience, sacrifice, and visible faith.
+
+**Important Names & Dates**
+
+- 1484 – Birth of Ulrich Zwingli, leader of the Swiss Reformation
+- 1520s – Emergence of the Anabaptist movement in Switzerland
+- 1525 – First known Anabaptist adult baptisms in Zurich
+- 1527 – Schleitheim Confession produced, outlining core Anabaptist beliefs
+- 1528 – Death of Ulrich Zwingli
+- 16th century – Widespread persecution of Anabaptists by both Catholic and Protestant authorities
