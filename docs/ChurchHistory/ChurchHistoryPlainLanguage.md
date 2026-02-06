@@ -490,3 +490,23 @@ Although often persecuted and misunderstood, the Anabaptists demonstrated that a
 - 1527 – Schleitheim Confession produced, outlining core Anabaptist beliefs
 - 1528 – Death of Ulrich Zwingli
 - 16th century – Widespread persecution of Anabaptists by both Catholic and Protestant authorities
+
+### **Chapter 27 – Thrust into the Game: John Calvin (1509–1564)**
+
+John Calvin shaped the third major tradition of the Protestant Reformation, known as Reformed or Calvinistic Christianity. While Calvin shared the core Protestant convictions of Martin Luther, he emphasized different theological concerns. Where Luther focused primarily on justification by faith, Calvin centered his theology on the sovereignty of God. His work built upon the reforms of Ulrich Zwingli and sought to bring balance and structure to the more radical elements of the Reformation.
+
+In 1536, Calvin published the first edition of *Institutes of the Christian Religion*, a systematic presentation of Protestant theology that became one of the most influential works of the Reformation. Calvin’s ideas found their practical expression in Geneva, where he accepted a position as Professor of Sacred Scriptures and helped establish a church order that closely connected religious belief with civic life. Although Calvin and William Farel were initially expelled from the city, they returned three years later, and Geneva adopted a church constitution reflecting Calvin’s reforms.
+
+Calvin emphasized God’s sovereignty in salvation while acknowledging that humans could not fully know who were among the elect. He proposed three outward indicators of genuine faith: participation in the sacraments, a morally upright life, and a public profession of faith. Calvin believed that true faith should result in disciplined Christian living and active efforts to bring society under God’s rule. His views on the Church’s role in guiding secular authorities influenced reform movements across Europe.
+
+Calvin’s influence extended beyond Geneva, particularly through John Knox in Scotland. Knox pushed Calvinist ideas further by arguing that Protestants had the right to resist, even by force, rulers who opposed true worship. Together, Calvin and his followers significantly shaped the political, theological, and social direction of Protestant Christianity.
+
+### **Chapter 28 – The Curse Upon the Crown: The Church of England**
+
+The English Reformation differed from other Reformation movements in that it began primarily as a political matter rather than a theological one. While the Lutheran Reformation began in a monastery, the Anabaptist movement in prayer meetings, and the Calvinistic Reformation at a scholar’s desk, the English Reformation began in the affairs of state, centered on the issue of royal succession.
+
+England experienced two reformations. The first was a **constitutional reformation** under King Henry VIII, who broke from Rome after Pope Clement VII refused to annul his marriage to Catherine of Aragon. In 1534, the Act of Supremacy declared Henry the supreme head of the Church of England, establishing the Anglican Church. This break was not driven by doctrinal reform but by the rejection of papal authority. Henry retained much of Catholic doctrine, suppressed the monasteries, and authorized the English Bible for church use.
+
+A second, more **theological reformation** followed under Henry’s successors. During the reign of Edward VI, England moved toward Protestantism, allowing clergy to marry and replacing Latin services with Thomas Cranmer’s *Book of Common Prayer*. This progress was reversed under Mary I, who attempted to restore Roman Catholicism and persecuted Protestants, executing hundreds during her reign.
+
+Under Elizabeth I, a political compromise sought to stabilize the nation by crafting a church that appeared Protestant while retaining elements acceptable to Catholics. This settlement satisfied neither side fully and provoked opposition from the Puritans, who called for deeper spiritual and moral reform. Through these developments, the English Reformation revealed the lasting tension between political authority and genuine religious reform.

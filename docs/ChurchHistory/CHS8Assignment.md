@@ -230,71 +230,23 @@ These dangers are seen within the **Anabaptist movement**. While many Anabaptist
 
 At the same time, the **Schleitheim Confession (1527)** reflects a healthier balance, emphasizing discipleship, love, and a voluntary church. This contrast shows me that strong conviction must always be tempered with humility, or biblical faithfulness can quickly turn into either compromise or extremism.
 
-**Chapter 27: Thrust into the Game – John Calvin (1509-1564)**
-
-John Calvin’s leadership in *“the game”* shaped a third reformation tradition. Today we call it Reformed or Calvinistic Christianity.
-
-**The Meaning of Reformed Christianity**
-
-Calvin and Luther shared the core Protestant beliefs but Calvin was 25 years younger, from a different land and had a distinctly different personality. They were impressed by different needs and emphasized different Christian solutions, built on the same foundation with different structures of doctrine & practice. Where Luther’s central doctrine was justification by faith, Calvin’s was the sovereignty of God.
-
-Calvin built upon the work of Zwingli, seeking to bring some balance to the more radical elements of the movement. In March of 1536, Calvin published the first edition of his highly influential *Institutes of the Christian Religion.*
-
-**Geneva: Home of Calvinism**
-
-Christendom was still in play for Calvin. When he was offered (and he accepted) the position as Professor of Sacred Scriptures in Geneva, he prepared a confession of faith to be accepted by everyone who wished to be a citizen.
-
-Eventually, he & William Farel were asked to leave Geneva but they returned 3 years later and the city accepted the church constitution that put many of Calvin’s leading ideas into practice.
-
-**The Sovereignty of God**
-
-Calvin did not profess to know absolutely who were God’s elect, but believed that three tests provided a good yardstick to judge who might be saved:
-
-- Participation in the two sacraments of baptism & the Lord’s Supper
-- An upright moral life
-- A public profession of the faith
-
-The consequence of faith to Calvin is the strenuous effort to introduce the kingdom of God on earth. His views that the church is not subject to secular government, except in obviously secular matters and the church’s obligation to guide the secular authorities in spiritual matters, led many of his followers throughout Europe in a spiritual conspiracy seeking the overthrow of false religion and restrictive governments.
-
-**John Knox’s Scotland**
-
-Meanwhile in England, John Knox (1514-1572) was a restless activist who had tried earlier to point England in the direction of Calvinism. He escaped the persecution led by Mary Queen of Scots (AKA *“Bloody Mary”*) and developed the theory that Protestants had the right to resist, by force if necessary, any Roman Catholic ruler who tried to prevent their worship and mission. (Further than Calvin was willing to go.)
-
 ## Question 4
 
 **Calvin, and others, sought to establish the Kingdom of God by political means, by establishing laws and some even by the violent overthrow of existing governments. What influenced this thinking? Is it a biblical approach? Do we see this concept used in our present day? Is there a balanced approach?**
 
-**Chapter 28 - The Curse Upon the Crown – The Church of England**
+Calvin’s desire to establish the Kingdom of God through laws and civic reform was shaped by both theology and historical context. Living in a time when Church and State were closely intertwined, Calvin and others assumed that a godly society required godly rulers and laws. His strong emphasis on the **sovereignty of God** led to the conviction that all areas of life—including government—fell under God’s authority. If rulers opposed true worship, some concluded that resistance was justified in order to protect the gospel.
 
-If the Lutheran reformation began in a monastic cell, the Anabaptist reformation in a prayer meeting and the Calvinistic reformation at a scholar’s desk, then the English reformation began in the affairs of state, specifically with the problem of succession to the royal throne.
+This thinking was also influenced by Scripture. Passages such as **Acts 4:19–20**, where Peter declares, *“We must speak of what we have seen and heard,”* showed that obedience to God takes precedence over obedience to men when the two conflict. In addition, the Old Testament examples of God appointing rulers (**Daniel 2:21**) and the anointing of kings such as Saul and David reinforced the belief that God actively works through political authority. If God establishes rulers, some reasoned that God’s kingdom could—and should—be advanced through them.
 
-England had two reformations: A constitutional one under King Henry VIII (1509-1547) and a theological one under the Puritans almost a century later.
+However, the Bible also teaches submission to governing authorities (**Romans 13:1–7**) and respect for those God has placed in power, even when they are flawed. David’s refusal to harm Saul, *“the Lord’s anointed”* (**1 Samuel 24:6**), demonstrates restraint and trust in God’s timing rather than political force. These passages suggest that while believers must obey God above all, they are not called to establish God’s kingdom through coercion or violence.
 
-**England’s Break with Rome**
+This tension shows that establishing the Kingdom of God by political force is not a fully biblical approach. Jesus clearly taught that His kingdom is *“not of this world”* (**John 18:36**) and modeled influence through teaching, sacrifice, and servanthood rather than domination. When Christians attempt to usher in the kingdom through power or force, the gospel is often distorted.
 
-Henry VIII – King of England – revolted against the pope because he passionately desired Anne Boleyn, to replace Catherine his wife of 18 years, who had failed to provide him with a son, which he also desired. Pope Clement VII refused to declare the marriage invalid, to allow Henry to re-marry.
+We still see this concept today when Christians equate political success with spiritual faithfulness, or believe that passing laws or controlling institutions will produce righteousness. While political engagement is not wrong, confusing political power with kingdom advancement repeats the same imbalance seen in Calvin’s era.
 
-In 1534, in the Act of Supremacy, Henry declared:
+A balanced approach recognizes that God is sovereign over governments, calls believers to submit to authority, and also calls them to obey God when obedience is costly. Being *heavenly minded* does not mean withdrawal from society, but it does mean refusing to confuse earthly power with spiritual transformation. As the Anabaptists demonstrated, lives shaped by faithful discipleship often have the greatest impact on the present without relying on political control.
 
-*“The King’s, majesty justly and rightly is and ought to be and shall be reputed the only supreme head in earth of the Church of England called ‘Anglican Ecclesia.’”*
-
-The establishment of the Anglican Church, the 4th Reformation Church was not primarily doctrinal, but political.
-
-**Henry’s Dual Policy**
-
-The sole religious issue in England’s constitutional reformation was papal supremacy. He intended no break with the old faith, for he still considered himself to be the *“Defender of the Faith.”* The two serious changes within the Church of England were the suppression of the monasteries and the publication of the English Bible for use in the churches’.
-
-**William Tyndale’s Bible**
-
-William Tyndale was a pioneer in the translation of the English Bible with a zeal to place the English Scripture into the hands of the common man. After 17 months in prison he was burned at the stake. His dying prayer: *“Lord, open the king of England’s eyes.”*
-
-**The Swing to Protestantism**
-
-When Henry’s son, Edward, took the throne there was a swing towards Protestantism. Priests could marry and the old Latin service was replaced by Crammer’s *“Book of Common Prayer”* in English.
-
-Mary, Queen of Scots tried to lead England back to the ways of Rome. During her four-year reign, she sent nearly 300 protestants to the burning stake.
-
-Later, John Foxe’s, *Book of Christian Martyrs* (1571), incited the English people to a longstanding horror of Catholicism. Eventually, Elizabeth’s compromise for peace tried to sound Protestant enough to satisfy the Protestants but worded in such a way that would satisfy both Catholics & Protestants. This did not set well with the returning reformers: Puritans – preachers of personal and national righteousness.
+In the end, the Kingdom of God advances most clearly through transformed lives, faithful witness, and obedience to Christ—not through force, law, or political dominance.
 
 **Chapter 29 - “Another Man” At Manresa – The Catholic Reformation (See chart 68)**
 
@@ -390,7 +342,7 @@ The government called scores of Puritan theologians to Westminster and assigned 
 
 In the English Civil War, Oliver Cromwell (1559-1658) became a towering figure in Christian history. He led Parliamentary armies to victory over the King’s forces and then filled the office of Lord Protector (Military Dictator). Cromwell’s rule lasted about 9 years. Just 2 years after his death, the country welcomed the return of the monarchy to England and the rule of the saints was at an end. However, tens of thousands of the saints were happily settled in New England where they were devoutly trying to erect the Kingdom of God in the American wilderness.
 
-**Chapter 32Based  - Unwilling to Die for An Old Idea Denominations**
+**Chapter 32 Based  - Unwilling to Die for An Old Idea Denominations**
 
 **Suppression of The Nonconformist**
 
@@ -440,5 +392,3 @@ In the end, the denominational form of the church has marked the recent centurie
 ## Question 9
 
 **A group of pastors from a variety of denominations and independent churches who prayed together regularly, described their differences as flavors of Christianity – like Baskin-Robins 31 flavors of ice cream. Is this a fair comparison? Discuss the information above regarding denominations. What are some of your agreements or disagreements with this approach? Does your Church Doctrinal Statement reflect the core beliefs of Christianity? Are there distinctive doctrines in your church doctrinal statement, that might not appear in those of other churches?**
-
-**Below this is AI driven reference material**
