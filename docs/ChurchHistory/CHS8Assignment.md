@@ -248,39 +248,13 @@ A balanced approach recognizes that God is sovereign over governments, calls bel
 
 In the end, the Kingdom of God advances most clearly through transformed lives, faithful witness, and obedience to Christ—not through force, law, or political dominance.
 
-**Chapter 29 - “Another Man” At Manresa – The Catholic Reformation (See chart 68)**
-
-Meanwhile, back at the Catholic Church, a counter-reformation was taking place. Ignatius Loyola (1491-1556) with an immense breakthrough to spiritual enlightenment in a wave of ecstatic illumination he became *“another man.”* Eventually, he founded the Jesuits, who became both a Counter Reformation movement and a Catholic Reformation movement.
-
 ## Question 5
 
 **Read: Facets of the Counter Reformation (page 283 in textbook) discuss briefly: what was positive in this movement and what was negative.**
 
-**Return to the Spiritual**
+The Counter Reformation included both genuine spiritual renewal and firm institutional resistance to change. On the positive side, it addressed real moral and spiritual problems within the Catholic Church. Reform-minded leaders recognized corruption in the papacy, the worldliness of church leadership, the abuse of indulgences, and widespread moral failure. The Reform Commission appointed under Pope Paul III acknowledged these issues openly and called for a return to spiritual seriousness. Figures such as Ignatius Loyola embodied this renewed devotion, emphasizing discipline, prayer, education, and missionary effort through the Jesuits. In this sense, the Counter Reformation produced sincere reform and strengthened Catholic spirituality.
 
-Even before Luther posted his thesis on the church door, there were those who sought reform within the Catholic Church but the church was slow to respond because of politics.
-
-The initial push for reform gained traction after Emperor Charles attacked Rome (1527) and imprisoned Pope Clement VII. When Pope Paul III (1534-1549) took office, he did exactly what politically minded leaders do; he started appointing several champions of reform to the College of Cardinals. Then he appointed 9 of the new Cardinals to a Reform Commission.
-
-After a wide-ranging study, the Reform Commission presented some solid *“advice…concerning the reform of the Church.”* This report included the revelations that: the papal office was too secular, both popes and cardinals needed to give more attention to spiritual matters and stop flirting with the world, there was bribery in high places, there was abuse of indulgence and evasions of church law and there was prostitution in Rome.
-
-**Call for A General Council**
-
-Pope Paul called for a General Council of the Church in Trent, Italy. The Council of Trent was delayed for 8 years by Pope Francis I – not wanting Charles V to strengthen his authority. However, some steps were taken that produced a new austerity and built new walls around Fortress Roman Catholic Church.
-
-**Ignatius Loyola and The Society of Jesus**
-
-Ignatius survived imprisonment and the Inquisition, and in 1540, the Pope approved the Society of Jesus – the Jesuits, as a new religious order. Their aim was simple: Restore the Roman Church to the position of spiritual power and worldly influence it had held 3 centuries earlier. *(Ah, the good old days!?)*
-
-**The Shape of Modern Catholicism**
-
-In 1545, the Council of Trent finally took place. Everything the Protestant Reformation stood for was vigorously and violently rejected at Trent (See chart 89). The decisions of this Council significantly shaped Roman Catholicism, even today.
-
-Ignatius is credited with a quote many Protestants (including Evangelicals) have used, in a modified form: *“Pray as though everything depended on God alone; but act as though it depended on you alone whether you will be saved.”* We usually leave that last phrase off the quote.
-
-**Chapter 30 - Opening the Rock – America and Asia**
-
-In the years of discovery and global expansion (1500-1650), the Catholic and Protestant missionaries had opportunities to take their gospels to the inhabitants of these new lands. Surprisingly, to us, they struggled with the question: Should the natives be won to the *“holy faith”* by love or by force?
+However, the movement also had clear negative aspects. Political interests delayed meaningful reform, as seen in the long postponement of the Council of Trent. When Trent finally convened, it rejected every core teaching of the Protestant Reformation and chose consolidation over correction. Instead of allowing Scripture to challenge tradition, the Church reinforced its authority, built institutional defenses, and closed itself off from reforming dialogue. This hardened division between Catholics and Protestants and ensured that reconciliation was no longer possible.
 
 ## Question 6
 
@@ -288,107 +262,56 @@ In the years of discovery and global expansion (1500-1650), the Catholic and Pro
 
 **The Gospel and Culture**
 
-The church is often in danger of identifying the gospel with some cultural form in which the faith has found a home. They felt constrained to insist upon the expression of the faith in only one way.
+The natives should be won to the “holy faith” by love, not force. While it may seem shocking that this was even a question, Scripture shows that the early Church itself had to work through how the gospel crosses cultural boundaries without being imposed by power.
+
+The apostles faced this issue directly when Gentiles began coming to faith. In Acts 10, Peter learned through God’s vision that Gentiles were no longer to be considered unclean. Yet even after this revelation, Peter struggled with cultural pressure and withdrew from eating with Gentile believers when Jewish Christians were present (Galatians 2:11–14). This shows that cultural habits can persist even after theological truth is understood.
+
+The issue was addressed formally in Acts 15 at the Jerusalem Council. The apostles agreed that Gentiles were not required to adopt Jewish law or culture in order to be saved. However, they asked Gentile believers to abstain from certain practices—such as food sacrificed to idols and blood—not as a condition of salvation, but to preserve unity and avoid unnecessary offense. This decision demonstrates a biblical balance: the gospel was not compromised, but cultural sensitivity was practiced in love.
+
+Paul later clarified this principle in 1 Corinthians 8–10, teaching that while idols have no real power, believers should limit their freedom when exercising it would harm another person’s conscience. The gospel was therefore never spread by force, nor was culture imposed as law. Instead, faith was invited through truth, patience, and love.
+
+This apostolic model exposes the error of missionary efforts that confused the gospel with European culture or political dominance. True conversion cannot be produced by coercion. Christianity transcends culture and must be communicated in ways that respect conscience while remaining faithful to Christ.
+
+In short, the answer is clear: the gospel advances through love and witness, not force, and the early Church itself provides the pattern for cultural adaptability without compromise.
 
 ## Question 7
 
 **Is this a danger that we also face in our culture? What cultural forms have been or currently are attached to the proper expression of faith?**
 
-Islam’s rise cut the Christian west from the Christian east and the crusades were Christian Europe’s attempt to batter down the barriers of Islam by military force. Conquest and evangelization were slowly intertwined and few recognized a difference.
-
-**Spaniards in The New World**
-
-Within 50 years of the first sighting of San Salvador, the Spaniards had plundered & conquered the New World from California to the tip of South America (In Martin Luther’s lifetime). Dominicans, Franciscans, Augustinians or Jesuits sailed on nearly every ship – eager to convert the heathen.
-
-**Champion of The Oppressed**
-
-Bartholomew de Las Casas was one champion of the oppressed Indians in the New World. He met resistance and was considered a danger, a menace to New Spain. He subscribed to the philosophy of ministry that said: The only way to convert them was by peaceful preaching of the Word and by example of holy living. *(Sounds a little like the motto of Village Missions: Preach the Word & Love the People.)*
-
-**Francis Xavier (1506-1552) and The Door to China**
-
-Francis Xavier was praised for his missionary zeal and personal charm but was a man of his time, in that he shared the religious intolerance of his age. His years in Japan changed his views regarding Christian missions and he developed a quality of compromise in religious matters – adapting to local customs and values in every way they could.
-
-In the East, Japan and China, the Roman Catholic missionaries often sought to compromise and adapt to local customs and values in every way they could. Too often this led to including customs, ideals and teachings that were contrary to biblical teaching. At one time, there were almost 270,000 Catholic Christians in China but the work was mostly abandoned because of disagreement as to whether the adaptations had gone too far.
-
-**Chapter 31 - The Rule of The Saints – Puritanism**
-
-To the Puritans, spiritual conversion was essential to Christianity. They saw themselves as the covenanted people of God and their divine mission in the world was to establish God’s Kingdom in the New World.
-
-**Puritanism: New Life and New World**
-
-In England the Puritans had, under Queen Elizabeth (1558-1603), tried to purify the Church of England along the lines of Calvin’s work in Geneva. Under James I and Charles I (1603-1642), they had also suffered for resisting the pressure from the monarchy to conform their worship to a *“High-Church”* style. Finally, during England’s civil war & Oliver Cromwell’s rule (1642-1660) they had a chance to shape the national church in England but failed because of their own internal dissensions.
-
-**The People of the Book**
-
-The Puritans were certainly influenced by John Foxe’s *“Book of Christian Martyrs.”* However, the book they were most passionate about was the Bible. They were especially passionate about the English version of the Geneva Bible. They also had a new style of preaching – a message that aimed at the heart, not at the head.
+Yes, this is still a danger we face today. History shows that the gospel is easily distorted when it becomes tied to cultural, political, or military power. During the Crusades and the Spanish conquest of the New World, evangelization was often intertwined with force and domination, making conversion appear as submission to a culture rather than faith in Christ. At the same time, missionaries such as Francis Xavier illustrate the opposite danger, where adapting too closely to local customs led to the inclusion of unbiblical beliefs and practices, weakening the clarity of the gospel. Bartholomew de Las Casas provides a corrective example by insisting that conversion must come through peaceful preaching and holy living rather than coercion. These same risks remain today when Christianity is identified with nationalism, politics, worship style, or social status. The gospel must neither be enforced by power nor reshaped by culture, but faithfully proclaimed in love while remaining distinct from every cultural form.
 
 ## Question 8
 
 **Does it have to be one or the other? Can it be both?**
 
-**Conflicts with The King**
+It does not have to be one or the other—it can be both. The Puritans were known for preaching that aimed at the heart, not just the head, but that does not mean doctrine and emotion are opposed. True biblical faith involves both understanding truth and being personally transformed by it. The Westminster Confession and Catechisms show that the Puritans cared deeply about sound theology, while their preaching and emphasis on conversion show they also wanted inward change.
 
-When James I became King, the only demand he consented to with the Puritans was to have a new translation of the Scriptures made in English. Thus, the King James Bible, the Authorized Version, was produced.
-
-Some Puritans became impatient for change in the Church of England and began to meet for worship as they felt the Bible taught them, not according to bishops and prayer books. This move, to build a separate Church in England, gained them the name Separatists. The Separatists eventually moved to Holland for safety and freedom of worship. After 10 years in Holland, they heard there was an English colony in Virginia. Out of concern for their children growing up out of touch with their homeland and forgetting their native language, the group headed for the New England on the Mayflower. Perhaps, the new American Continent would be their solution?
-
-**Attack Upon the Lord’s Anointed**
-
-Most Puritans saw separation from the Church of England was too drastic. They hoped for some alternative to division. However, civil war broke out (1642-1648) after Charles I tried to enforce his version of the *“divine right of kings”* and his *“High-Church”* brand of Anglican religion upon the Scots. The Parliament fought his reforms and eventually he fled, to gather his army.
-
-The government called scores of Puritan theologians to Westminster and assigned them the task of creating a new form of worship and church government for the Church of England. The Westminster Assembly met from 1643-1649 and produced the Westminster Confession of Faith, as well as the Larger and Shorter Catechisms.
-
-**The Rule of the Saints**
-
-In the English Civil War, Oliver Cromwell (1559-1658) became a towering figure in Christian history. He led Parliamentary armies to victory over the King’s forces and then filled the office of Lord Protector (Military Dictator). Cromwell’s rule lasted about 9 years. Just 2 years after his death, the country welcomed the return of the monarchy to England and the rule of the saints was at an end. However, tens of thousands of the saints were happily settled in New England where they were devoutly trying to erect the Kingdom of God in the American wilderness.
-
-**Chapter 32 Based  - Unwilling to Die for An Old Idea Denominations**
-
-**Suppression of The Nonconformist**
-
-The simple fact is Christians are divided today, in part at least, because they have the freedom to differ. In earlier centuries, they did not. Considering the Reformation, dissent was neither a Christian virtue nor a human right. Unfortunately, the Reformers were as eager as Catholics to suppress nonconformity, because both camps believed that Christian truth held societies together.
-
-The first attempt to end religious wars, was to adopt the *“Territorial Principle”* in the Peace of Augsburg (1555). This principle simply gave the ruler in each region the power to decide the faith of his subjects, Lutheran or Catholic (Calvinism and others had not been considered).
-
-In some situations, *“The Territorial Compromise,”* in the Royal Edict of Nantes – 1598, allowed for the setting aside of certain parts of the ruler’s territory for the Huguenots (French Calvinists) while the rest of the country remained Roman Catholic.
-
-**The Thirty Years War (1618-1648)**
-
-This compromise proved to be unsatisfactory. All the previous conflicts were merely a bloody prelude to the most devastating of the so-called wars of religion. (See chart 69)
-
-What started as a religious struggle with political overtones ended as a barbarous political power struggle with religious overtones. Out of sheer futility, the religious zeal of Catholics and Calvinists cooled, and men began to question the religious-territorial idea. Eventually, denominationalism was considered as an alternative.
-
-In the Treaty of Westphalia (1648), the way was cleared for Calvinists, Lutherans and Catholics (recognized expressions of the Christian Faith) to exist within the territories of the Princes, if the Princes chose to allow it. This was to be decided without papal interference!
-
-**The New Way in America**
-
-The Lesson of the 30 Years War was that the price of enforced religious conformity is too high.
-
-Meanwhile, in America, the goal of building a holy city (State) that nurtures holy men, was amended to building a city (State) where people could be holy. The promise of religious toleration was a powerful incentive to brave the hazards of life in the American colonies.
-
-Waves of newcomers, the indifference of the 2nd generation and the wide-open frontier all weighed against a religious uniformity.
-
-The main exception to this general policy of religious toleration was the Congregational Puritans in Massachusetts Bay who were determined to establish a new Zion in the American wilderness: a *“due form of government both civil and ecclesiastical”* is the way Governor John Winthrop put it.
-
-**The Idea of Denominations - Denominationalism vs. Sectarian**
-
-The denominational theory of the Church uses the word *“denomination”* as an inclusive word. A Sect or those who are sectarian are exclusive. Denomination implies that the Christian group called or *“denominated”* by a name is but one member of a larger group, the church, to which all denominations belong.
-
-The Reformers had planted the seeds of the denominational theory of the church when they insisted that the True Church could never be identified in any exclusive sense, with a particular institution.
-
-The Dissenting Brethren of Westminster articulated the denominational theory of the church in several fundamental truths:
-
-- Considering man’s inability to always see the truth clearly; differences of opinion about the outward form of the church are inevitable.
-- Even though these differences do not involve fundamentals of the faith, they are not matters of indifference. Every Christian is obligated to practice what he believes the Bible teaches.
-- Since no church has a final and full grasp of divine truth, the true Church of Christ can never be fully represented by any single ecclesiastical structure.
-- The mere fact of separation does not of itself constitute schism. It is possible to be divided at many points and still be united in Christ.
-
-Thus, the denominational theory of the church looked for Christian unity in some inward religious experience and allowed diversity in the outward expressions of that personal faith.
-
-This tolerant attitude was not born of doctrinal indifference. The Independent had no intention of extending Christian unity to all professions. The identity of the *“one true church”* was restricted to those who shared a common understanding of the core of the Christian faith.
-
-In the end, the denominational form of the church has marked the recent centuries of Christian history; not because it is ideal, but because it is better than any alternative the years have offered.
+This chapter shows that faith must engage both mind and heart, and reform must combine biblical conviction with humility. When either is missing—whether emotional zeal without grounding or rigid structure without spiritual life—the Church becomes unbalanced.
 
 ## Question 9
 
 **A group of pastors from a variety of denominations and independent churches who prayed together regularly, described their differences as flavors of Christianity – like Baskin-Robins 31 flavors of ice cream. Is this a fair comparison? Discuss the information above regarding denominations. What are some of your agreements or disagreements with this approach? Does your Church Doctrinal Statement reflect the core beliefs of Christianity? Are there distinctive doctrines in your church doctrinal statement, that might not appear in those of other churches?**
+
+The comparison of denominations to “31 flavors” of ice cream captures part of the truth but oversimplifies the issue. It is helpful in the sense that denominations can reflect different emphases, worship styles, and church structures while still sharing core Christian beliefs. The denominational theory developed after the religious wars recognized that no single church has a complete grasp of divine truth and that unity can exist around essential doctrines even when secondary matters differ.
+
+However, the comparison can also be misleading. Ice cream flavors are merely preferences, while doctrinal differences are not trivial. Some differences are significant and affect how churches understand Scripture, salvation, and authority. Denominational diversity should not mean doctrinal indifference.
+
+I agree that unity should be based on shared core beliefs—such as the authority of Scripture, the deity of Christ, and salvation by grace through faith. At the same time, churches may hold distinctive doctrines that shape their identity and practice. My church’s doctrinal statement reflects these core Christian truths while also including certain distinctive positions that may not appear in every other church.
+
+## **The Church of Sardis and the Reformation Era (1517–1648)**
+
+The Church of Sardis prophetically corresponds well to the Reformation period, especially as it culminates in **1648 with the Peace of Westphalia**. The Reformation restored vital doctrines such as justification by faith and the authority of Scripture, giving Protestant Christianity a renewed “name” of life after centuries of medieval corruption. However, as the movement progressed, many Reformed churches became state-controlled, institutional, and spiritually formal rather than spiritually vibrant. By the end of the Thirty Years’ War in 1648, Protestantism had achieved political recognition but often lacked widespread spiritual renewal.
+
+Like Sardis, the Reformation church had a reputation for being alive—having recovered biblical truth—yet it struggled with incomplete reform and entanglement with political power. Still, there remained a faithful remnant, seen in movements such as the Puritans and later Pietists, who sought genuine spiritual awakening and personal holiness. Thus, Sardis fittingly reflects a church that had doctrinal recovery but required revival.
+
+---
+
+## **Revelation 3:1–6 (NASB1995)**
+
+> **1** “To the angel of the church in Sardis write:  
+> He who has the seven Spirits of God and the seven stars, says this: ‘I know your deeds, that you have a name that you are alive, but you are dead.  
+> **2** Wake up, and strengthen the things that remain, which were about to die; for I have not found your deeds completed in the sight of My God.  
+> **3** So remember what you have received and heard; and keep it, and repent. Therefore if you do not wake up, I will come like a thief, and you will not know at what hour I will come to you.  
+> **4** But you have a few people in Sardis who have not soiled their garments; and they will walk with Me in white, for they are worthy.  
+> **5** He who overcomes will thus be clothed in white garments; and I will not erase his name from the book of life, and I will confess his name before My Father and before His angels.  
+> **6** He who has an ear, let him hear what the Spirit says to the churches.’”

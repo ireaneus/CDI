@@ -510,3 +510,33 @@ England experienced two reformations. The first was a **constitutional reformati
 A second, more **theological reformation** followed under Henry’s successors. During the reign of Edward VI, England moved toward Protestantism, allowing clergy to marry and replacing Latin services with Thomas Cranmer’s *Book of Common Prayer*. This progress was reversed under Mary I, who attempted to restore Roman Catholicism and persecuted Protestants, executing hundreds during her reign.
 
 Under Elizabeth I, a political compromise sought to stabilize the nation by crafting a church that appeared Protestant while retaining elements acceptable to Catholics. This settlement satisfied neither side fully and provoked opposition from the Puritans, who called for deeper spiritual and moral reform. Through these developments, the English Reformation revealed the lasting tension between political authority and genuine religious reform.
+
+### **Chapter 29 – “Another Man” at Manresa: The Catholic Reformation**
+
+While the Protestant Reformation was reshaping Western Christianity, the Roman Catholic Church was also undergoing reform from within through what became known as the Catholic Reformation or Counter-Reformation. A central figure in this movement was Ignatius Loyola, whose spiritual transformation at Manresa marked a decisive turning point in his life and faith. Through an intense period of reflection and spiritual illumination, Loyola described himself as becoming “another man.”
+
+Out of this experience, Ignatius founded the Society of Jesus, commonly known as the Jesuits. The Jesuits became a powerful force within the Catholic Church, committed to renewing spiritual discipline, defending Catholic doctrine, and expanding Catholic influence through education and missionary work. Unlike earlier reforms, this movement combined sincere spiritual renewal with organized resistance to Protestantism.
+
+The Catholic Reformation sought to restore moral seriousness, reinforce church authority, and reclaim influence lost during the Reformation. Through leaders like Ignatius Loyola and the Jesuit order, the Roman Catholic Church regained structure, discipline, and renewed purpose, shaping Catholicism for generations to come.
+
+### **Chapter 30 – Opening the Rock: America and Asia**
+
+During the age of discovery and global expansion (1500–1650), both Catholic and Protestant missionaries encountered unprecedented opportunities to spread Christianity beyond Europe into the Americas and Asia. As European powers explored, conquered, and colonized new lands, the gospel traveled alongside explorers, traders, and armies. This expansion raised a critical and troubling question: should indigenous peoples be converted to the “holy faith” through love and persuasion, or through force and coercion?
+
+In many cases, conquest and evangelization became closely intertwined. Missionaries often operated within colonial systems that assumed European culture and authority were superior, leading to the identification of the gospel with Western customs and political control. This confusion between faith and culture resulted in forced conversions, compromised teachings, and the use of violence in the name of Christianity.
+
+At the same time, there were voices of conscience who opposed coercion and defended the dignity of native peoples. Some missionaries argued that true conversion could only occur through the peaceful preaching of the Word and the example of Christian living. These differing approaches revealed the danger of confusing the kingdom of God with political power and cultural dominance.
+
+### **Chapter 31 - The Rule of The Saints – Puritanism**
+
+The Puritans believed that true Christianity required genuine spiritual conversion and obedience to Scripture, not just participation in a national church. They saw themselves as a covenant people called by God to build a godly society, especially in the New World. Under Elizabeth I, they tried to further reform the Church of England along Calvinist lines. Under James I and Charles I, they resisted pressures to adopt a more ceremonial style of worship and suffered for it.
+
+During the English Civil War, the Puritans gained political influence under Oliver Cromwell and attempted to shape England into a Christian nation. However, internal disagreements weakened their efforts, and the monarchy was eventually restored. The Puritans were deeply devoted to the Bible—especially the Geneva Bible—and their preaching aimed at changing hearts, not just informing minds. Even though their political control was short-lived, their emphasis on conversion, Scripture, and disciplined living had a lasting impact on both England and early America.
+
+### **Chapter 32 – Unwilling to Die for an Old Idea: Denominations**
+
+Chapter 32 explains how the devastating religious wars of the Reformation era led to a major shift in how Christians understood unity and authority. For centuries, both Catholics and Protestants believed that religious unity had to be enforced by political power. However, the Thirty Years’ War (1618–1648) proved that enforced religious conformity caused more destruction than unity.
+
+After the Treaty of Westphalia (1648), it became increasingly clear that one state-enforced church was no longer workable. Out of this realization emerged the “denominational theory” of the Church. Instead of identifying the true Church with one institution, Christians began to accept that different groups could share core beliefs while differing on secondary matters.
+
+This shift was not based on doctrinal indifference, but on the understanding that no single church has a complete grasp of divine truth and that sincere believers may differ on non-essential issues. In America especially, religious toleration and freedom encouraged this development. Though denominationalism is not ideal, the chapter concludes that it proved to be a better alternative than religious coercion and state-controlled uniformity.
