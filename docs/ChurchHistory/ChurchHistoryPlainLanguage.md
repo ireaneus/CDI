@@ -20,11 +20,10 @@ description: For years I kept a cartoon on my study door. Students who stopped t
   - [Chapter 1 "Away with the King! - **The Jesus Movement**"](#chapter-1-away-with-the-king---the-jesus-movement)
   - [Part 1: The Age of Jesus and the Apostles, 6 BC-AD 70](#part-1-the-age-of-jesus-and-the-apostles-6-bc-ad-70)
   - [Part 2: The Age of Catholic Christianity, 70-312 AD](#part-2-the-age-of-catholic-christianity-70-312-ad)
-  - [The Apostles’ Creed — Line-by-Line Response to Gnosticism](#the-apostles-creed--line-by-line-response-to-gnosticism)
   - [Part 3: The Age of the Christian Roman Empire, 312-590](#part-3-the-age-of-the-christian-roman-empire-312-590)
   - [Part 4: The Christian Middle Ages, 590-1517 AD](#part-4-the-christian-middle-ages-590-1517-ad)
   - [Part 5 – The Age of the Reformation (1517–1698 AD)](#part-5--the-age-of-the-reformation-15171698-ad)
-  - [The Four Reform Questions and Their Answers](#the-four-reform-questions-and-their-answers)
+  - [Part 6 - The Age of Reason and Revival (1648-1789)](#part-6---the-age-of-reason-and-revival-1648-1789)
 
 ## Chapter 1 "Away with the King! - **The Jesus Movement**"
 
@@ -231,100 +230,100 @@ Chapter 5 explains how the early Church responded to **Gnosticism**, the most se
 
 ---
 
-## The Apostles’ Creed — Line-by-Line Response to Gnosticism
+### The Apostles’ Creed — Line-by-Line Response to Gnosticism
 
-### **“I believe in God the Father Almighty, Maker of heaven and earth”**
+#### **“I believe in God the Father Almighty, Maker of heaven and earth”**
 
 - **Refutes Gnosticism:**
   Gnostics taught that the material world was evil and created by a lesser or corrupt god (the *demiurge*).
 - **Orthodox response:**
   The one true God is the **Creator of all things**, and creation itself is good (**Genesis 1:31; John 1:3**).
 
-### **“And in Jesus Christ, His only Son, our Lord”**
+#### **“And in Jesus Christ, His only Son, our Lord”**
 
 - **Refutes Gnosticism:**
   Gnostics often separated *Jesus* from *Christ*, claiming the divine Christ merely used the human Jesus temporarily.
 - **Orthodox response:**
   Jesus *is* the Christ—one person, truly divine and truly human (**Colossians 2:9**).
 
-### **“Who was conceived by the Holy Spirit, born of the Virgin Mary”**
+#### **“Who was conceived by the Holy Spirit, born of the Virgin Mary”**
 
 - **Refutes Gnosticism:**
   Gnostics denied that the divine could truly enter physical flesh.
 - **Orthodox response:**
   Jesus was **truly born**, entering human history and real human existence (**Luke 1:35; John 1:14**).
 
-### **“Suffered under Pontius Pilate”**
+#### **“Suffered under Pontius Pilate”**
 
 - **Refutes Gnosticism:**
   Gnosticism treated salvation as spiritual knowledge, not rooted in historical events.
 - **Orthodox response:**
   Jesus’ suffering occurred at a **specific time**, under a known Roman governor—real history, not myth (**1 Timothy 6:13**).
 
-### **“Was crucified, dead, and buried”**
+#### **“Was crucified, dead, and buried”**
 
 - **Refutes Gnosticism:**
   Many Gnostics denied that Christ truly suffered or died (Docetism).
 - **Orthodox response:**
   Jesus truly **died physically**, confirming the reality of the incarnation and atonement (**1 Corinthians 15:3–4**).
 
-### **“He descended to the dead”**
+#### **“He descended to the dead”**
 
 - **Refutes Gnosticism:**
   Gnosticism denied that salvation involved the physical realm or death itself.
 - **Orthodox response:**
   Christ fully entered the human condition, even death, to redeem it (**Acts 2:31; Ephesians 4:9**).
 
-### **“On the third day He rose again from the dead”**
+#### **“On the third day He rose again from the dead”**
 
 - **Refutes Gnosticism:**
   Gnostics rejected bodily resurrection, viewing the body as disposable.
 - **Orthodox response:**
   Jesus rose **bodily**, proving God’s redemption includes creation itself (**Luke 24:39; 1 Corinthians 15:42–44**).
 
-### **“He ascended into heaven and is seated at the right hand of God the Father Almighty”**
+#### **“He ascended into heaven and is seated at the right hand of God the Father Almighty”**
 
 - **Refutes Gnosticism:**
   Gnosticism denied continuity between Jesus’ earthly body and His exaltation.
 - **Orthodox response:**
   The **same Jesus** who lived and suffered now reigns in glory (**Acts 1:9–11; Hebrews 1:3**).
 
-### **“From there He will come to judge the living and the dead”**
+#### **“From there He will come to judge the living and the dead”**
 
 - **Refutes Gnosticism:**
   Gnostics believed salvation was escape from judgment through secret knowledge.
 - **Orthodox response:**
   Christ will return as **judge**, holding all people accountable (**Acts 17:31; 2 Corinthians 5:10**).
 
-### **“I believe in the Holy Spirit”**
+#### **“I believe in the Holy Spirit”**
 
 - **Refutes Gnosticism:**
   Gnostics claimed private spiritual insight for an elite few.
 - **Orthodox response:**
   The Holy Spirit is given openly to the whole Church (**Acts 2:38–39; Romans 8:9**).
 
-### **“The holy catholic Church, the communion of saints”**
+#### **“The holy catholic Church, the communion of saints”**
 
 - **Refutes Gnosticism:**
   Gnosticism divided believers into spiritual elites and inferior Christians.
 - **Orthodox response:**
   The Church is **one universal body**, united in shared faith, not secret knowledge (**Ephesians 4:4–6**).
 
-### **“The forgiveness of sins”**
+#### **“The forgiveness of sins”**
 
 - **Refutes Gnosticism:**
   Gnostics emphasized enlightenment, not forgiveness.
 - **Orthodox response:**
   Salvation comes through Christ’s atoning work, bringing real forgiveness (**Ephesians 1:7; Acts 10:43**).
 
-### **“The resurrection of the body”**
+#### **“The resurrection of the body”**
 
 - **Refutes Gnosticism:**
   Gnosticism rejected bodily resurrection.
 - **Orthodox response:**
   God will redeem the body itself, not abandon it (**Romans 8:23; 1 Corinthians 15:52**).
 
-### **“And the life everlasting. Amen.”**
+#### **“And the life everlasting. Amen.”**
 
 - **Refutes Gnosticism:**
   Gnostics viewed salvation as escape from material existence.
@@ -458,7 +457,7 @@ Though Luther intended reform rather than separation, his refusal to recant his 
 - **1534** – Completion of the German Bible, making Scripture accessible to the common people
 - **1546** – Death of Martin Luther
 
-## The Four Reform Questions and Their Answers
+### The Four Reform Questions and Their Answers
 
 1. **How is a person saved?**
    A person is saved **by faith alone**, not by works or church rituals.
@@ -540,3 +539,41 @@ Chapter 32 explains how the devastating religious wars of the Reformation era le
 After the Treaty of Westphalia (1648), it became increasingly clear that one state-enforced church was no longer workable. Out of this realization emerged the “denominational theory” of the Church. Instead of identifying the true Church with one institution, Christians began to accept that different groups could share core beliefs while differing on secondary matters.
 
 This shift was not based on doctrinal indifference, but on the understanding that no single church has a complete grasp of divine truth and that sincere believers may differ on non-essential issues. In America especially, religious toleration and freedom encouraged this development. Though denominationalism is not ideal, the chapter concludes that it proved to be a better alternative than religious coercion and state-controlled uniformity.
+
+## Part 6 - The Age of Reason and Revival (1648-1789)
+
+### Chapter 33 Aiming at the Foundations: The Cult of Reason
+
+Chapter 33 really shows how dramatic the shift was from the Reformation to the Age of Reason. During the Reformation, Christians debated salvation and Scripture seriously. But in the Age of Reason, the focus shifted away from supernatural faith and toward human reason. Dogma started to seem unimportant. What mattered most was behavior, tolerance, and being “reasonable.”
+
+What stood out was how much the Enlightenment emphasized confidence in human reason. People believed that if we could just think clearly and scientifically enough, we could solve the problems of life without needing revelation. The discoveries of Copernicus, Kepler, Galileo, and Newton made the universe seem orderly and predictable—almost like a machine. That fed the idea that human reason alone could uncover truth.
+
+At the same time, wars and religious persecution (like the English Civil War and the Thirty Years’ War) made people suspicious of organized religion. Many concluded that religious passion was more dangerous than atheism. Some thinkers, like Voltaire and Diderot, openly attacked Christianity. Others embraced Deism—the belief that God created the world but no longer intervenes in it. God became more like a watchmaker than a Savior.
+
+What struck most was that Christianity wasn’t rejected simply because of its doctrines—but because of its failures. The Church often used political power to force conformity, and that backfired. Instead of responding humbly, many leaders tried to silence critics by censorship rather than addressing the real issues. That response was inadequate and probably strengthened the opposition.
+
+Overall, this chapter reveals that the Age of Reason was not simply an attack on Christianity—it was also, in part, a reaction to the Church’s misuse of power. It reminds us that we must respond to criticism not only with solid reasoning, but with humble confession, biblical clarity, and lives that reflect Christ.
+
+### Chapter 34 – The Heart and Its Reasons: Pascal and The Pietists
+
+Chapter 34 highlights the tension between the intellectual emphasis of the Age of Reason and the enduring spiritual needs of the human heart. While Enlightenment thinkers elevated human reason as the primary source of truth, this chapter demonstrates that reason alone could not satisfy the soul’s longing for certainty, forgiveness, and peace.
+
+Blaise Pascal represents a balanced response to the Enlightenment. He did not reject reason but challenged its supremacy. Through his *Provincial Letters*, Pascal exposed the moral compromises of Jesuit casuistry and defended the seriousness of sin and genuine repentance. His insight that “the heart has its reasons” emphasizes that Christian faith involves more than intellectual assent; it includes trust, humility, and personal transformation.
+
+At the same time, Pietism arose as a corrective to spiritual dryness within institutional Christianity. Leaders such as Philip Spener, August Francke, and Count Zinzendorf emphasized personal conversion, small group fellowship, practical discipleship, and social ministry. Their efforts shifted focus from doctrinal controversy to the care of souls and the cultivation of living faith.
+
+However, Pietism also illustrates the need for balance. While it restored warmth and devotion, there was always the risk of emotionalism overshadowing doctrinal clarity. The broader lesson of the chapter is that Christianity requires both head and heart. Faith must be grounded in biblical truth while also producing genuine spiritual life.
+
+Ultimately, Chapter 34 shows that the Age of Reason could not eliminate the spiritual hunger of humanity. Revival emerged not by abandoning doctrine, but by renewing personal faith and restoring experiential devotion within the framework of orthodox Christianity.
+
+### Chapter 35 - A Brand from The Burning - Wesley and Methodism
+
+Chapter 35 focuses on John Wesley and the rise of Methodism during the Great Awakening. Wesley’s life illustrates how revival is not merely emotional enthusiasm but the result of personal conversion, doctrinal conviction, and tireless proclamation.
+
+A turning point in Wesley’s life occurred at Aldersgate in 1738. Though he had long been disciplined and religious, he lacked assurance of salvation. It was there that he moved, as it has been described, “from virtual to personal faith, from hoping to having.” His own words reflect the transformation: *“preach faith till you have it and then because you have it, you will preach faith.”* Wesley had preached the message of faith before fully grasping its assurance; now he experienced it personally. What confirmed his faith even further was seeing the visible fruit in others. As noted, Edwards and Whitefield had shown him that the Word rightly preached bears visible fruit—and now he saw that harvest firsthand.
+
+Wesley’s preaching was relentless and methodical. Unlike most other leaders of the Great Awakening, he strongly emphasized what we now call Arminian theology. Though he did not claim special loyalty to Jacob Arminius, he firmly opposed Calvin’s doctrine of predestination. Wesley believed that strict predestination made God appear arbitrary and partial. Instead, he insisted that God willed the salvation of all people and that individuals possessed sufficient freedom to respond to divine grace.
+
+This theological conviction nearly ended his friendship with George Whitefield, who defended predestination as a necessary safeguard of God’s sovereignty. Whitefield feared that Wesley’s Arminianism weakened the seriousness of sin and diminished the majesty of God’s absolute authority. Yet despite deep disagreement, both men were used powerfully by God in the revival.
+
+Chapter 35 demonstrates that revival requires both personal assurance and faithful proclamation. It also shows that doctrinal differences, even significant ones, do not prevent God from working through those who are united in the proclamation of the Gospel. Wesley’s life reminds us that faith must be experienced personally, preached boldly, and nurtured intentionally within community.
