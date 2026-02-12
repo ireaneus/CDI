@@ -13,18 +13,6 @@ description: For years I kept a cartoon on my study door. Students who stopped t
 **Course:** {{ page.meta.course }}  
 **Description:** {{ page.meta.description }}  
 
-## Table of Contents
-
-- [{{ page.meta.title }}](#-pagemetatitle-)
-  - [Table of Contents](#table-of-contents)
-  - [Chapter 1 "Away with the King! - **The Jesus Movement**"](#chapter-1-away-with-the-king---the-jesus-movement)
-  - [Part 1: The Age of Jesus and the Apostles, 6 BC-AD 70](#part-1-the-age-of-jesus-and-the-apostles-6-bc-ad-70)
-  - [Part 2: The Age of Catholic Christianity, 70-312 AD](#part-2-the-age-of-catholic-christianity-70-312-ad)
-  - [Part 3: The Age of the Christian Roman Empire, 312-590](#part-3-the-age-of-the-christian-roman-empire-312-590)
-  - [Part 4: The Christian Middle Ages, 590-1517 AD](#part-4-the-christian-middle-ages-590-1517-ad)
-  - [Part 5 – The Age of the Reformation (1517–1698 AD)](#part-5--the-age-of-the-reformation-15171698-ad)
-  - [Part 6 - The Age of Reason and Revival (1648-1789)](#part-6---the-age-of-reason-and-revival-1648-1789)
-
 ## Chapter 1 "Away with the King! - **The Jesus Movement**"
 
 ### Paragraph 1 - The Cross as the Center
@@ -577,3 +565,37 @@ Wesley’s preaching was relentless and methodical. Unlike most other leaders of
 This theological conviction nearly ended his friendship with George Whitefield, who defended predestination as a necessary safeguard of God’s sovereignty. Whitefield feared that Wesley’s Arminianism weakened the seriousness of sin and diminished the majesty of God’s absolute authority. Yet despite deep disagreement, both men were used powerfully by God in the revival.
 
 Chapter 35 demonstrates that revival requires both personal assurance and faithful proclamation. It also shows that doctrinal differences, even significant ones, do not prevent God from working through those who are united in the proclamation of the Gospel. Wesley’s life reminds us that faith must be experienced personally, preached boldly, and nurtured intentionally within community.
+
+### **Chapter 36 - A New Order of the Ages – The Great Awakening – 1725-1760**
+
+Chapter 36 explains how the Great Awakening reshaped Christianity in America and marked a “new order” for the churches. Unlike earlier attempts to build a “holy commonwealth” through political structures, this movement focused on personal conversion and voluntary faith.
+
+In the American colonies, churches had struggled with spiritual decline. The Puritan vision of a unified Christian society had weakened over time, and measures like the Half-Way Covenant showed that many were maintaining church membership without genuine spiritual vitality. Into that setting came a wave of revival preaching.
+
+Jonathan Edwards described how “the Spirit of God began extraordinarily to set in,” and people were deeply convicted of eternal realities. Soon George Whitefield’s preaching stirred entire regions. What had begun as local awakenings became a widespread spiritual movement. The emphasis was clear: individuals must experience repentance and new birth.
+
+One of the most significant outcomes of the Great Awakening was the strengthening of “voluntarism.” Churches increasingly embraced the idea that faith must be freely chosen, not supported or enforced by the state. This helped shape the American understanding of religious liberty. Leaders like Isaac Backus argued that civil and ecclesiastical authority should remain distinct and that religion is “a voluntary obedience unto God which force cannot promote.”
+
+## Part 7 - The Age of Progress – 1789-1914 AD
+
+### **Chapter 37 – The Restoration of Fortresses – Catholicism in the Age of Progress**
+
+Chapter 37 describes how the Roman Catholic Church responded to the political and intellectual upheaval brought by the French Revolution and the rise of liberalism. The Revolution promoted “Liberty, Equality, and Fraternity,” rooted in confidence in human progress and autonomy rather than submission to God. While many Protestants were slow to recognize the deeper theological implications, the Catholic Church saw liberalism as a direct threat to its authority and doctrine.
+
+Rather than adapting to the changing world, the papacy responded defensively, building what Shelley calls a “fortress.” Throughout the 19th century, the popes resisted modern political movements and rejected liberal ideas. Key moments included the publication of *The Syllabus of Errors* (1864), which condemned modern trends such as rationalism and liberalism, and the declaration of papal infallibility at the First Vatican Council in 1870. Ironically, that same year marked the loss of the Papal States, ending the pope’s temporal political rule.
+
+The chapter highlights the tension between political liberty and ecclesiastical authority. While the Church feared the chaos of unchecked freedom, its defensive posture left it increasingly isolated from modern society. The “fortress mentality” preserved doctrinal clarity but limited engagement and adaptability.
+
+Overall, the chapter shows how Catholicism chose consolidation and centralization of authority in response to modern challenges, illustrating both the strength and weakness of a defensive response to cultural change.
+
+### **Chapter 38 – A New Social Frontier**
+
+Chapter 38 highlights two major Christian movements in 19th century England that helped believers respond to rapid cultural and social change: the Clapham Sect (Evangelicals) and the Oxford Movement (High Church Anglicans). Both movements sought to preserve Christian influence in society, but they approached the challenge differently.
+
+The Clapham Community represented a more “Low Church” evangelical emphasis. They believed the Church had a two-fold commission: to go INTO the world with the gospel and serve the needy, and to come FROM the world for worship and spiritual growth. They worked within the Church of England but also cooperated with others for the sake of mission. Under the leadership of William Wilberforce and guided spiritually by John Venn, they organized voluntary societies to address social issues. Their efforts included founding the Church Missionary Society, the British and Foreign Bible Society, and organizations to improve prison conditions and aid the poor. Their most significant accomplishment was the abolition of slavery in the British Empire. Their approach demonstrated that worship and mission must work together—faith expressed through both proclamation and social action.
+
+In contrast, the Oxford Movement reflected a “High Church” emphasis. They were concerned that modern reforms and government influence threatened the spiritual authority of the Church of England. Rather than focusing primarily on social reform, they emphasized the Church’s historic continuity as “one holy, catholic and apostolic Church.” Through their “Tracts for the Times,” they defended sacramental tradition and ecclesiastical authority. While they sought renewal, their response tended toward a more defensive or “fortress” mentality compared to the outward activism of the Clapham group.
+
+Overall, the chapter shows two different responses to modern cultural change—one emphasizing evangelical mission and social reform, the other emphasizing historical continuity and ecclesiastical identity. Both movements reveal the tension between engagement with the world and preservation of the Church’s identity.
+
+### Chapter 39 - To Earth’s Remotest People – Protestant Missions

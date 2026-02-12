@@ -286,12 +286,6 @@ We should approach Scripture with both **reverence and humility**. It is not mer
 
 If we treat Scripture only as an academic system, we risk spiritual dryness. If we ignore careful study, we risk error. **The balance is to study deeply, believe sincerely, and obey faithfully.**
 
-**5. Discuss the influence of Pietism on the Church today. Are their practices and ideas that we, perhaps take for granted in our churches?**
-
-Here is a clear, classroom-ready response written in a thoughtful but simple tone:
-
----
-
 ## Question 5
 
 **Discuss the influence of Pietism on the Church today. Are there practices and ideas we perhaps take for granted in our churches?**
@@ -306,49 +300,26 @@ However, Pietism also teaches us a caution. While it rightly emphasized heartfel
 
 In summary, many practices we consider normal—small groups, testimony sharing, discipleship emphasis, social ministries, and missions—owe much to Pietism. What began as a corrective to spiritual dryness became a shaping force in modern evangelical Christianity.
 
-## **6. What are the implications of the fact that God used both Whitefield and Wesley and blessed their ministries greatly – though they held firmly opposing doctrines? What does their example of friendship and ministry tell us?**
+## Question 6
 
-Here are some suggestions: That God’s blessing is not tied directly or exclusively to either of these two doctrinal positions. (?) That God’s blessing is tied to the Gospel. That we can and should work together with others, if we hold to the core doctrines of Christianity. That it is okay for us to have opposing doctrinal views if we share the core doctrines. That God is gracious!
+**What are the implications of the fact that God used both Whitefield and Wesley and blessed their ministries greatly – though they held firmly opposing doctrines? What does their example of friendship and ministry tell us?**
 
-**The Methodist Structure**
+The fact that God used both Whitefield and Wesley so powerfully—even though they strongly disagreed on predestination—shows that God’s blessing is not limited to one detailed theological system. Whitefield emphasized God’s sovereignty through Calvinism, while Wesley stressed human responsibility through Arminianism. Yet both preached Christ, repentance, and new birth—and God used both.
 
-Whitefield had no real taste for organization, but Wesley was an administrative genius. John, and his brother Charles, founded Methodist societies which became the center of Christian experience for those who attended.
+This tells me that the power of revival was not rooted in perfect agreement on every doctrine, but in faithful proclamation of the Gospel. They shared the core truths of Christianity, even if they differed on secondary issues.
 
-Societies were divided into smaller groups of 12 or so members called classes, where they would confess their sins to one another, submit to the discipline of their leader, share testimonies and join in prayer and song. They would also donate a penny a week for financial support of the ministry.
+Their friendship also teaches humility. They disagreed seriously, but they did not treat each other as enemies. They continued to respect one another and serve the same Lord. That example reminds us that unity in the Gospel is more important than uniformity in every doctrinal detail.
 
-The Methodists became a church within the Anglican Church until the establishment of the Methodist Church in America in Baltimore, Maryland in 1784. The Methodists became a separate church in England after Wesley’s death in 1791.
+Ultimately, their lives show that God is bigger than our systems—and that faithful preaching of Christ is what truly bears fruit.
 
-**Chapter 36 - A New Order of the Ages – The Great Awakening – 1725-1760**
+## Question 7
 
-No event marked the new order for Christianity more clearly than the religious explosion, we call the Great Awakening, the first in the long history of American Revivals. What was the Great Awakening and why was it crucial to the development of Christianity in America?
+**“A spiritual body, existing for spiritual purposes and moving along spiritual paths.” Does this idea preclude or exclude practical involvement in the culture or society? Does this concept exclude churches from proclaiming God’s Word outside of churches?**
 
-**New Order for the Churches**
+The idea that the Church is *“a spiritual body, existing for spiritual purposes and moving along spiritual paths”* does not mean the Church should withdraw from society. It simply means that the Church’s primary mission is spiritual—not political or coercive.
 
-In the American colonies, the Christian churches were unanimous on one thing, each wanted the complete freedom to proclaim its own view. It became obvious that the only way each group could get such freedom for themselves was to grant it to all the others.
+The Great Awakening showed that faith must be voluntary. The Church does not depend on government power to accomplish its mission. However, being spiritual does not mean being silent. Christians still live in communities, care for the poor, pursue justice, and influence culture through their lives and witness.
 
-“Voluntarism” was the name given to this idea, because the churches were deprived of state support and were compelled to maintain their mission of preaching and teaching on a voluntary basis. The Great Awakening proved it could work.
-**God’s Will in Society**
+This concept also does not limit proclamation to church buildings. Wesley and Whitefield preached in fields, mines, and public spaces. If the Church is truly spiritual, it should carry the Gospel wherever people are willing to listen.
 
-The Puritans in Massachusetts aimed to knit together the whole community according to God’s design – through their civil covenant. Their experiment blended belief in a church of the truly converted with the idea of a Christian state. God’s will was embodied in “wholesome laws,” drawn from Scripture and that which advances the public good. It seemed destined to fail almost from the start. (Wheat and tares? Mt 13:24-30, 36-43)
-
-As the zeal of the founders faded over the years, fewer men and women could boldly testify of experienced grace. To keep membership from shrinking drastically, many churches in 1662 had to settle for the “Half-Way Covenant.” The “unawaken” could enjoy partial membership – for political and social purposes; at least until church membership was no longer required to be able to vote. (Was it a Calvinism that was out of balance with itself that had left people without hope of assurance?)
-
-The Great Awakening knew both the frown and the smile of God. It restored both the tears of repentance to colonial Christianity and the joy of salvation. For twenty years (1720-1740) the awakening appeared as a series of regional breezes. These breezes moved through the ministry of preachers in many different churches and many different denominations. In December 1734 – Northampton, Massachusetts – Jonathan Edwards records, that “the Spirit of God began extraordinarily to set in. There was a great and earnest concern about the great things of the eternal world that swept the town. The work of conversion was carried on in a most astonishing manner; souls did, as it were, come by flocks to Jesus Christ.”
-
-Believe it or not, there were those who opposed the revival!
-
-**The Great Revivalist**
-
-George Whitefield added his voice with other faithful preachers throughout all New England. Whitefield left New England after a month, but the regional awakenings were no longer refreshing breezes. They had churned up a spiritual hurricane called the Great Awakening. The faithful proclamation of God’s Word brought results as God’s Spirit brought light and life to multitudes, as well as great changes to churches, families and communities.
-
-**Advocate of Religious Freedom**
-
-Isaac Backus eventually joined the ranks of faithful preachers in the Great Awakening. He, with a handful of others, formed the 1st Baptist Church of Middleborough, Massachusetts. He played a significant role in American history as an advocate for religious freedom; formulating and publicizing the evangelical position of church and state that was ultimately to prevail throughout America.
-
-His fundamental assumption was that “God has appointed two different kinds of government in the world which are different in their nature and ought never to be confounded”; one is civil the other ecclesiastical. “Religion is a voluntary obedience unto God which force cannot promote.” The kingdom of God would come to America if a majority of the citizens could be persuaded to submit voluntarily to the laws of God. Revivals were God’s means to that end. Whosoever will, may come and whosoever won’t may not.
-
-The depth of the Awakening’s break with the past lies in the revivalists’ message. Concentrating on the individual’s need for salvation, they tended to neglect the political and social implications of the gospel. The perspective shifted from a “holy commonwealth” to the American people’s struggle for “liberty.”
-
-The American view of church and state is rooted in the conception of the Church as a spiritual body, existing for spiritual purposes and moving along spiritual paths. It never occurred to the average American that there is any reason why state churches should exist. Compulsion of any kind is contrary to the nature of such a body. It desires no state help. It does not seek for exclusive privileges. Nothing in the new order of the ages was newer than that!
-
-**7. “A spiritual body, existing for spiritual purposes and moving along spiritual paths.” Does this idea preclude or exclude practical involvement in the culture or society? Does this concept exclude churches from proclaiming God’s Word outside of churches?**
+So the phrase does not exclude involvement—it clarifies priority. The Church’s power is not in political control, but in faithful preaching, transformed lives, and visible good works that point people to Christ.
