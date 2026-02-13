@@ -222,21 +222,11 @@ We also confuse the two when we assume that being busy equals being faithful. Se
 
 I don’t think they are two separate issues. They are connected. Worship fuels mission, and mission expresses worship. Loving God and loving people go together (**Matthew 22:37-39**). The Church needs both to remain healthy and faithful.
 
-**Chapter 39 - To Earth’s Remotest People – Protestant Missions**  
-At the beginning of the 19th Century, Protestant Christianity scarcely existed outside of Europe and America. However, the 19th Century was the era of the greatest expansion of Christianity.
-
-“Never had any other set of ideas, religious or secular, been propagated over so wide an area by so many professional agents maintained by the unconstrained donations of so many millions of individuals.” Kenneth Scott Latourette
-
-How do we explain this sudden explosion of Protestant energy aimed at winning the world for Christ?
-
-**The Pioneer in Modern Missions**  
-William Carey (1761-1834) thought in terms of the evangelization of whole countries. He believed that the foreign missionary can never make more than a small contribution to the accomplishment of the work that has to be done, and that therefore the development of the local ministry (church) is the first and greatest of all missionary considerations. Above all, he saw that Christianity must be firmly rooted in the culture and traditions of the land in which it is planted.
-
 ## Question 5
 
 **Why should we agree with William Carey’s philosophy, that the development of the local ministry (church) is the first and greatest of all missionary considerations? What other things do we sometimes make the priority? How do we reconcile this idea (of the local church as the priority) with the need to learn the language and culture, the need to translate the Bible and the need to provide for other needs?**
 
-We should agree with William Carey’s philosophy because the local church is God’s primary instrument for making disciples. Mission work is not simply about individual conversions, but about establishing lasting, biblically grounded communities of believers. The Great Commission (Matthew 28:19-20) includes not only evangelizing but teaching and discipling. That happens most effectively through the local church. Carey understood that a foreign missionary can only do so much; the long-term strength of Christianity in any culture depends on trained local leaders and a healthy, self-sustaining church.
+We agree with William Carey’s philosophy because the local church is God’s primary instrument for making disciples. Mission work is not simply about individual conversions, but about establishing lasting, biblically grounded communities of believers. The Great Commission (Matthew 28:19-20) includes not only evangelizing but teaching and discipling. That happens most effectively through the local church. Carey understood that a foreign missionary can only do so much; the long-term strength of Christianity in any culture depends on trained local leaders and a healthy, self-sustaining church.
 
 Sometimes we make other things the priority. We may focus primarily on statistics (number of converts), humanitarian aid, building institutions, or even the missionary personality itself. While those things can be important, they are not the end goal. If the local church is not established and strengthened, the work may not endure.
 
@@ -248,135 +238,104 @@ Carey’s confidence rested in the belief that if all people are commanded to re
 
 **Discuss the objections raised against missions to heathen lands, as well as William Carey’s response. How does this challenge relate to us? How does it relate to “home” missions, as well as “foreign” missions?**
 
-October 1792 – Carey, Fuller and eleven Baptist colleagues formed the Baptist Missionary Society, and within a year Carey and his family were on their way to India. The British East India Company and many of their representatives were not enthusiastic about missions. They were interested in profits and maintaining their free and easy lives, as well as their sense of racial superiority. They protested:
+The objections to missions were that the distance was too far, the people too “barbaric,” the dangers too great, the cost too high, and the languages too difficult. Some also believed that if God wanted to save the lost, He would do it without human effort. Even the British East India Company mocked missions as reckless and unnecessary.
 
-“(We consider) The sending out of missionaries into our Eastern possessions to be the maddest, most extravagant, most costly, most indefensible project which has ever been suggested by a moonstruck fanatic. Such a scheme is pernicious, imprudent, useless, harmful, dangerous, profitless, fantastic.” (Not meant in a good way).
+William Carey responded that obstacles did not remove responsibility. If merchants would cross oceans for profit, Christians should cross oceans for souls. Because God commands all people to repent (**Acts 17:30**), the Church must go. Carey proved his conviction by learning languages, translating Scripture, and planting lasting ministry in India.
 
-Carey, Joshua Marshman, William Ward and their families labored for 25 years to organize a growing network of mission stations in India. They labored to understand all the intricacies of Hindu thought, this being one of the realms that are to be taken captive and brought into subjection to Christ. By 1824, Carey had supervised six complete and twenty-four partial translations of the Bible as well as publishing several grammars, dictionaries and translations of Eastern books.
-
-**The Contagion of Missionary Service**  
-The example of these men and their families prove to be contagious and stirred a multitude of others to follow in their example. In a large part, this passion to preach the gospel to the “heathen” sprang from the portions of Protestantism deeply influenced by the 18th Century evangelical revivals in England and America which revolutionized preaching and its objectives.
-
-Two emphases led to the new Protestant world vision. The first was Evangelical, the belief that men are lost without faith in Christ and that the Lord commands believers in every age to make salvation known in the entire world. The second was Prophetic, the belief that the knowledge of the Lord would fill the earth and was preparation for the coming reign of Christ upon the earth, “millennialism.”
-
-**Livingstone in Africa**  
-David Livingstone arrived in South Africa in 1841 and served there for ten years but was drawn on by “the smoke of a thousand villages” that had never seen a missionary. His first journey, that made him famous, was through the jungles to the west coast in Angola and then, unwilling to desert the African carriers who had accompanied him – right across the continent to Quelimane (a seaport in Mozambique) on the east coast.
-
-He sought to bring legitimate commerce (economic profit) to Africa along with Christianity, in order to help stamp out the slave trade as a means of obtaining wealth for Africans.
-
-**Creation of the Voluntary Society**  
-It became clear to British and American Christians that none of the traditional forms of church government would enable the church to embark on a world mission. Supporters of global evangelism were driven to find another form of cooperation. The voluntary society was created to meet a need rather than for theological reasons, but in effect it undermined the established forms of church government. They also made interdenominational action possible.
-
-These Societies were based in various countries and focused on specific countries for outreach. One of the big issues that had to be addressed in this new method was: “What is the church supposed to look like?” To many, Christianity, in its Western form was Christianity. Too often what was exported was Western (British or American) culture, more than biblical mandates.
-
-The London Missionary Society (1795) had as its fundamental principle: that our design is not to send Presbyterianism, Independency, Episcopacy or any other form of church government…but the glorious gospel of the blessed God to the heathen.
+This challenge applies to us today. We often use similar excuses—cost, fear, inconvenience—whether in foreign missions or “home” missions. James reminds us that *“faith without works is dead”* (**James 2:17, 26**). If we truly believe the gospel is necessary for salvation, we must act on that belief. Missions, whether across the world or across the street, require faith expressed through obedience.
 
 ## Question 7
 
 **Question: How much of our Christianity is cultural?**
 
-**The Marks of Modern Christianity**  
-Several key characteristics mark the expansion of modern Christianity. They would be that the worldwide expansion usually came by voluntarism not by compulsion, that the missionary movement tapped the wealth and talents of rank and file Protestants and that a wide variety of humanitarian ministries accompanied the widespread preaching of the gospel.
+Some parts of our Christianity are biblical and unchanging, but other parts are clearly cultural. The gospel itself—Christ’s death and resurrection, repentance and faith—is not cultural. However, the way we worship, structure services, dress, use music, or organize church life is often shaped by our culture.
 
-**Chapter 40 - The Destiny of a Nation – A Christian America**  
-The vision of a Christian America was a dominant theme in 19th Century American Protestantism. The missionary zeal for foreign lands applied to their own.
+The expansion of modern Christianity showed this tension. Missions were carried out voluntarily, supported by ordinary believers, and often accompanied by humanitarian ministries. While this demonstrated compassion and obedience, it also sometimes exported Western culture along with the gospel. What was assumed to be “Christian” was sometimes simply British or American custom.
 
-The call was that Christians should seize the opportunity to shape the religious and political destiny of the nation. By the preaching of the gospel, the distribution of Bibles, the planting of churches, the establishing of schools, and the reform of American morals. A free society needed just laws, and in a democracy just laws required popular support informed by Christianity.
-
-**The Challenge of the American West**  
-At the birth of the United States of America, only five or ten percent of the American people were church members. By mid-century (1800s) half of the American people were west of the Appalachians. Evangelicals had two instruments available, the voluntary society and revival.
-
-The voluntary society was used to exert influence upon public opinion, provide support for far-reaching missionary and educational activities and to spread reform ideals in the youthful nation.
-
-God provided, in the Second Great Awakening (1790-1820) the next generation with skilled and dedicated leaders to regain the East and win the West.
-
-**The Inflammable James McGready**  
-July 1800 James McGready had his Pentecost and changed the course of American history, through “camp-meetings” (revivals).
-
-By 1830 – Alexis de Tocqueville: “There is no country in the world in which the Christian religion retains a greater influence over the souls of men.”
-
-The Lutherans & Presbyterians felt that revivals slighted sound doctrine. Roman Catholics and Episcopalians considered them emotional eruptions, not true worship.
-
-**Christianity Among the Slaves**  
-At first, some owners strongly opposed teaching the Scriptures to the Negro. They feared that the slave might find in the Bible ideas of human equality that could incite him to rebellion. However, opposition declined as masters became convinced that the New Testament itself offered arguments in support of slavery.
-
-During the first three decades of the nineteenth century the antislavery movement was stronger in the South than in the North. Evangelical sentiment against slavery in the North can be traced to the influence of the preaching of Charles G. Finney, the writings of Theodore Weld and Lyman Beecher’s daughter, Harriet Beecher Stowe in *Uncle Tom’s Cabin.*
-
-**Cultural Shocks for Evangelical America**  
-The counter-offensive against the Church, as it reached throughout the land, came in three shock waves. The First Shock was Charles Darwin’s *The Origin of Species.* If Darwin is right, how could the Bible be true? The second Shock was the increasing industrialization of American society and the rush to the cities. The Third Shock was the Higher Criticism of the Bible.
-
-Taken together these were a part of the general shift in Western Culture from Christian to secular forms of thought and behavior. Christians disagreed about what actions they should take to meet the new challenges. “Public Protestants” chose to embrace the change as blessings sent from God and focus on Social Christianity, a Social Gospel and Social Service. However, “Private Protestants” chose to resist the changes as threats to the biblical message. Using the term evangelical, they stressed the need for individual salvation. The major urban revivalist during the generation following the Civil War was Dwight L. Moody.
-
-**Chapter 41 - A Bridge for “Intelligent” Moderns – Protestant Liberalism**  
-Lyman Abbott had been an influential minister in the 1890’s. Long before his 85th birthday in 1920, he had ceased to think of God as an “omnipresent policeman” and man as a “scared culprit.” The Western world had undergone too many changes and adopted too many ideas in the last quarter of the nineteenth century.
-
-**The Aims of Protestant Liberalism**  
-Liberalism tries to make their faith meaningful in a new world of thought without distorting or destroying the gospel. Yet, in Liberalism, we have a God without wrath, who brought men without sin, into a kingdom without judgment, through the ministrations of a Christ without a cross.
-
-Evangelical Liberalism and Modernistic Liberalism are like two ends of a suspension bridge; with the footing of one tower planted upon “modern thought” and the foundation of the other rests on “Christian experience.” The ground around both towers is shifting soil.
+This challenges us to examine what is truly biblical and what is preference or tradition. The message of Christ must remain central, but it can take root in different cultures without losing its truth. The goal is not to spread our culture, but to spread the gospel.
 
 ## Question 8
 
 **Which is the safer side? It may seem like a dumb question, but it needs to be asked and it needs to be answered.**
 
-Two technical theological terms are crucial. The first is “Immanence” which carries the idea of God dwelling in the world and working through nature. Extreme immanence is pantheism, which says that God is the world and the world is God. The second is “Transcendence” which implies the reality of God apart from the world. Extreme transcendence is found in the faith of the deists, for whom God is as separate from the world as a watchmaker from his watch.
+The safer side is not choosing either extreme, but holding both truths in biblical balance. God is both immanent and transcendent.
 
-**Enter Charles Darwin (1809-1882)**  
-Too many wrestled with Charles Darwin’s books – *The Origin of Species,* was and *Descent of Man* trying to reconcile Biblical teachings with this new science. Liberals eventually sought to blend the Bible’s teachings, rejecting what did not agree with Darwin’s theories.
+Scripture presents both realities. God is transcendent—He is eternal, infinite, Creator of time and space (**Isaiah 57:15; Psalm 90:2**). He stands above history and is not bound by it. Yet He is also immanent—He sustains all things (**Colossians 1:17**), knows the details of our lives (**Matthew 10:29-31**), and draws near to the brokenhearted (**Psalm 34:18**). He is not part of creation, yet He is actively involved in it.
 
-Biblical criticism comes in several forms. Lower criticism deals with problems of the text and tries to weigh the merits of many manuscripts of the Bible to find the earliest and most reliable text of Scripture. While Higher Criticism is not primarily interested in the accuracy of the text, it is interested in the meaning of the words and seeking to read between the lines to discover what really happened. They question who wrote it, when and what were their motives.
+The danger of modern liberalism was overemphasizing *immanence*, making God almost synonymous with human experience. The danger of rigid reaction against it can be overemphasizing transcendence, making God distant and abstract.
 
-**The Impact of Biblical Criticism**  
-More important than any of the details of biblical criticism was the fact that criticism threw doubt upon the belief the Bible is an infallible authority for Christian faith and practice.
-
-Liberals welcomed higher criticism because they recognized a radically different view of the Bible was necessary for “intelligent moderns.” When liberals could no longer rest in the traditional doctrines of orthodoxy, which they felt science and history had destroyed, they found their needed assurance in the other pillar of their bridge: Christian Experience.
-
-**Influential Spokesmen for Liberalism**  
-Friedrich Schleiermacher (1768-1834) was a product of a pious Moravian home. He debated that the heart of religion was and always had been feeling, not rational proofs. He is considered the father of modern theology because he shifted the basis of the Christian faith from the Bible to religious experience.
-
-Albert Ritschl (1822-1889) focused religious experience upon the historical Jesus. He maintained that the divinity of Jesus does not rest on the “questionable” things in the Bible, it rests on the fact that He is the source of a value-creating movement.
-
-**An Example of Liberal Change**  
-The New Theology was a protest in the interests of modern thought against the old theology of evangelical Puritanism (aka: New England Theology). Prior to 1880 most New England ministers held to the sovereignty of God, the depravity of mankind, the atonement of Jesus Christ, the ground of man’s forgiveness of sin; to the Holy Spirit as essential to conversion; and to the eternal separation of the saved and lost in heaven or hell.
-
-After 1880, every one of these beliefs came under heated fire from the Liberals.
-
-**Chapter 42 - Nothing to Lose but Chains – The Social Crisis**  
-The Industrial Revolution is a term historians use for the rapid changes in European and American societies in the nineteenth century. Even in the so-called Christian West, few people see any connection between their religion and their employment.
-
-**The New World of Factories**  
-With the invention of the steam engine by James Watt (1736-1819) there was a breakthrough in productivity that helped drive the Industrial Revolution.
-
-Life changed and relatively quickly. Gone was the rural or small-town life and pace. Working and living conditions in the city were harsh.
-
-The Industrial Revolution greatly increased the wealth of mankind, but brought a host of evils for the workers massed together in the ever-expanding factories of European and American cities.
-
-Men inside and outside the churches came to think of Christianity in narrower and narrower terms. Almost everything not obviously spiritual was left free from criticism. Thus, a growing body of industrial workers regarded the churches and the Christian message as largely irrelevant or powerless to speak to the difficulties they suffered in the age of the machine.
+So the safer side is not a compromise, but a biblical definition: *God is both above creation and actively present within it. He is infinite and eternal, yet personal and near.* Christianity collapses if we lose either truth.
 
 ## Question 9
 
 **Everything not obviously spiritual was left free from criticism, which means anything obviously spiritual was open to criticism. Why would that be the case? Because it wasn’t practical? It was not objective truth? It could not be “proven”? Are religious ideas the only ideas that should be open to criticism, questioned? Is this still true in our culture today?**
 
-**Marx, the Prophet of the New Age**  
-Into this era, Karl Marx (1818-1883) was born in the Rhineland of German-Jewish parents who had been converted to Christianity. He and his life-long friend, Friedrich Engles (1820-1895) published the famous *Communist Manifesto* in January 1848 and *Das Kapital* (1867-1894) which is said to be one of the most influential books of modern times. They were attempting to answer the great social ills associated with factories, oppressed workers, crowded living conditions and economic inequity.
+I think religion became easier to criticize during the Industrial Revolution because society began to value what was practical, measurable, and productive. Factories and science seemed “real” and useful, while spiritual truths were viewed as private opinions that could not be proven. Christianity was pushed into the personal sphere, while economics and industry were treated as neutral and unquestionable.
 
-After the middle of the 19th century, an increasing number of Christians worked zealously for improved conditions for laborers, through four avenues. They challenged the laissez faire philosophy in the name of Christian principles. They established Christian institutions to relieve the suffering of the poor and powerless. They supported the formation of labor unions and they appealed to the state for legislation aimed at the improvement of working conditions.
+But religious ideas should not be the only ones examined. Every system—whether economic, political, or scientific—rests on assumptions about truth and morality. It seems unfair that faith is often singled out for criticism while other belief systems go unchallenged.
 
-**Laboring Men in England**  
-Nonconformists (such as the Methodists) were the main support for the laboring men in England, as well as the leaders in the temperance crusade and the founding of orphanages.
-
-**Onward, Christian Soldiers!**  
-William Booth (1829-1912) left the Methodist ministry to work with London’s poor. He preached in London’s streets in 1864 and met with phenomenal success. Within eleven years, he had thirty-two stations promoting evangelism and social service among London’s destitute.
-
-No such ministry came from the Church of England. It was so wed to the past that it had great difficulty adjusting to the social crisis.
+I see this same pattern today. Faith is often treated as subjective and outdated, while cultural values like success, autonomy, or progress are assumed to be objective. The challenge for the Church is to show that the gospel speaks to all of life, not just what we label as *“spiritual.”*
 
 ## Question 10
 
 **Are we in danger of being “so wed to the past” that we are unable to minister in the midst of a social crisis? Do we have answers that are relevant, biblical and compassionate? What issues should we as the Church be addressing?**
 
-**Social Gospel in America**  
-The Liberals formed no organizations but chose to work through established denominations and political agencies.
+There are many current crises—cultural confusion about identity and morality, political division, global instability, persecution of Christians, economic pressure, natural disasters, and widespread anxiety about the future. Many people without faith either ignore these realities or feel overwhelmed and hopeless. The Church cannot pretend these issues do not exist, nor can we retreat into a fortress.
 
-The primary sign of change came in 1908 with the formation of The Federal Council of Churches. They adopted a “Social Creed of the Churches” that called for many benefits later American workers considered basics, such as, occupational safety, old age security, minimum wage and the rights of arbitration.
+At the same time, our answers must remain biblical and compassionate. Our hope is not in political alignment or cultural dominance, but in Christ. He is our rock, and our faith stretches back through history to the promises made to Abraham. That heritage gives stability, but it must also move us toward action. We are called to care for the suffering, speak truth about sin and redemption, defend the persecuted, and offer hope in uncertain times.
 
-It was always possible to concentrate on the next life so much that Christians appeared insensitive to the pain of the present. The various Christian movements for social concerns always faced the danger of losing the church’s true mission. However, Christians cannot show their concern for people’s eternal destiny unless they also demonstrate their concern for people’s earthly needs. People do not care how much we know, until they know how much we care. If we are truly “heavenly minded” we will most certainly do earthly good. (**Matthew 5:16**)
+Looking to the past helps us avoid repeating mistakes, but we cannot live in it. The Church must hold firmly to timeless truth while applying it wisely and lovingly to present realities. If we do that, we will not be irrelevant—we will be faithful.
+
+## **The Prophetic Viewpoint of the Church in Philadelphia 1648-1900AD (Revelation 3:7–13)**
+
+In the prophetic (historicist) interpretation of the seven churches in Revelation, the church of Philadelphia represents a faithful, missionary era of church history—commonly associated with the period roughly between the 17th and 19th centuries. Notably, like Smyrna, Philadelphia receives no condemnation from Christ—only commendation and promise. Many interpreters observe a chiastic symmetry in the seven letters, with Smyrna and Philadelphia forming corresponding faithful churches in the pattern.
+
+### **1. A Church Without Condemnation**
+
+Unlike most of the seven churches, Philadelphia receives no rebuke. Christ offers only affirmation:
+
+> “You have a little power, and have kept My word, and have not denied My name.” (Rev. 3:8)
+
+This parallels Smyrna (Rev. 2:8–11), another persecuted and faithful church. In the proposed chiastic structure of Revelation 2–3, these two churches stand as models of endurance and faithfulness amid opposition.
+
+### **2. “An Open Door” – A Missionary Era**
+
+One of the most significant statements in the letter is:
+
+> “Behold, I have put before you an open door which no one can shut.” (Rev. 3:8)
+
+Prophetically, this has been understood to describe the unprecedented expansion of global missions during the 18th and 19th centuries. The rise of voluntary missionary societies, Bible translation efforts, and the spread of Protestant Christianity across Africa, Asia, and the Pacific closely resemble this imagery of divine opportunity. The missionary movement advanced not by political power, but by faith, prayer, and perseverance—“a little power.”
+
+### **3. Faithfulness to the Word**
+
+Christ commends them for keeping His word and not denying His name (Rev. 3:8). During the great missionary era, there was strong emphasis on biblical authority and evangelistic conviction. This was especially evident before the rise of theological liberalism in the late 19th century.
+
+### **4. Endurance Under Opposition**
+
+Philadelphia faced opposition from those who claimed religious authority but opposed the truth (Rev. 3:9). Though not described as undergoing intense martyrdom like Smyrna, they endured resistance and hostility. Missionaries of the 18th and 19th centuries often faced disease, cultural resistance, governmental obstruction, and personal sacrifice.
+
+### **5. Promise of Preservation**
+
+> “Because you have kept My word of perseverance, I also will keep you from the hour of testing…” (Rev. 3:10)
+
+This verse is central in prophetic discussions. Some interpret it as a promise of spiritual preservation; others see it as foreshadowing deliverance from a future global trial. In either case, it underscores divine approval and protection.
+
+### **6. Stability and Identity in Christ**
+
+Christ promises:
+
+> “I will make him a pillar in the temple of My God…” (Rev. 3:12)
+
+To a church with “little power,” this promise of permanence, identity, and eternal security stands in contrast to the instability of earthly institutions.
+
+### **Conclusion**
+
+From a prophetic perspective, the church of Philadelphia represents a faithful, mission-oriented period of church history marked by:
+
+- **Biblical fidelity**
+- **Limited worldly power**
+- **Global opportunity (“open door”)**
+- **Perseverance under opposition**
+- **No condemnation from Christ**
+
+When compared to Smyrna in the chiastic structure of Revelation 2–3, both churches model endurance and faithfulness. Philadelphia especially reflects the great missionary expansion of 1648–1900, where the Church, though politically weak, was spiritually active and globally engaged.
