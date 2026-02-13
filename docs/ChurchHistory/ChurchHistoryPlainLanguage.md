@@ -645,3 +645,7 @@ The chapter highlights figures like Karl Marx, who offered a political solution 
 Shelley stresses the need for balance. Christians cannot neglect eternal truth, but neither can they ignore present suffering. If believers are truly “heavenly minded,” they will demonstrate visible compassion and justice in this life (Matthew 5:16). The Church’s mission includes both proclaiming salvation and showing Christ’s love through action.
 
 Overall, the chapter underscores the tension between preserving the gospel and addressing social crisis, calling the Church to remain both doctrinally faithful and practically compassionate.
+
+## Part 8: The Age of Ideologies - 1914-1989
+
+### **Chapter 43 Graffiti On a Wall of Shame: Twentieth-Century Ideologies

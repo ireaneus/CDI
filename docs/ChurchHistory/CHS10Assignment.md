@@ -4,7 +4,7 @@ date: 33 - 2000 A.D.
 instructor: Russell Richardson
 course: Church History
 description: Know the impact of the French Revolution on the Church and the West. Be able to understand how the Protestant Church was able to experience a great era of worldwide expansion. See again the marriage between good works and the good news.
-bibleReference: Ephesians 4:11-16 - "And He gave some as apostles, and some as prophets, and some as evangelists, and some as pastors and teachers, for the equipping of the saints for the work of service, to the building up of the body of Christ; until we all attain to the unity of the faith, and of the knowledge of the Son of God, to a mature man, to the measure of the stature which belongs to the fullness of Christ. As a result, we are no longer to be children, tossed here and there by waves and carried about by every wind of doctrine, by the trickery of men, by craftiness in deceitful scheming; but speaking the truth in love, we are to grow up in all aspects into Him who is the head, even Christ, from whom the whole body, being fitted and held together by what every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love."
+bibleReference: Ephesians 4(11-16) - "And He gave some as apostles, and some as prophets, and some as evangelists, and some as pastors and teachers, for the equipping of the saints for the work of service, to the building up of the body of Christ; until we all attain to the unity of the faith, and of the knowledge of the Son of God, to a mature man, to the measure of the stature which belongs to the fullness of Christ. As a result, we are no longer to be children, tossed here and there by waves and carried about by every wind of doctrine, by the trickery of men, by craftiness in deceitful scheming; but speaking the truth in love, we are to grow up in all aspects into Him who is the head, even Christ, from whom the whole body, being fitted and held together by what every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love."
 ---
 
 # {{ page.meta.title }}
@@ -285,6 +285,8 @@ There are many current crises—cultural confusion about identity and morality, 
 At the same time, our answers must remain biblical and compassionate. Our hope is not in political alignment or cultural dominance, but in Christ. He is our rock, and our faith stretches back through history to the promises made to Abraham. That heritage gives stability, but it must also move us toward action. We are called to care for the suffering, speak truth about sin and redemption, defend the persecuted, and offer hope in uncertain times.
 
 Looking to the past helps us avoid repeating mistakes, but we cannot live in it. The Church must hold firmly to timeless truth while applying it wisely and lovingly to present realities. If we do that, we will not be irrelevant—we will be faithful.
+
+**Below this is AI driven reference material**
 
 ## **The Prophetic Viewpoint of the Church in Philadelphia 1648-1900AD (Revelation 3:7–13)**
 
