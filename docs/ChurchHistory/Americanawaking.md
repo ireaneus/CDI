@@ -1,5 +1,5 @@
 ---
-title: Church History American awakening
+title: Church History American Awakening
 date: 33 - 2000 A.D.
 instructor: Russell Richardson
 course: Church History
@@ -72,4 +72,30 @@ flowchart TB
   E1 --> GA2
   E2 --> GA2
   GA2 --> GA1
+```
+
+### gantt chart
+
+```mermaid
+gantt
+  title Timeline (Reformation → First Great Awakening)
+  dateFormat  YYYY
+  axisFormat  %Y
+
+  section Reformation Foundations
+  Luther’s public reform surge (Luther)            :milestone, l1, 1517, 1y
+  Calvin’s Geneva leadership (Calvin)              :c1, 1536, 1564
+
+  section Reformed / Calvin-linked Developments
+  Scottish Reformation influence (Knox → Presby.)  :k1, 1559, 1572
+  English Puritan movement (broad period)          :p1, 1560, 1662
+  Dutch Reformed consolidation (broad period)      :d1, 1568, 1648
+
+  section Other Protestant Streams
+  Anglican Reformation consolidation (broad period):a1, 1534, 1603
+  Arminius ministry (Arminius)                     :ar1, 1588, 1609
+
+  section American Revival Marker
+  First Great Awakening (American)                 :milestone, ga, 1735, 1y
+  Revival preaching wave (Edwards/Whitefield era)  :ga2, 1735, 1745
 ```

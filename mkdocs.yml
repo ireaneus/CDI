@@ -5,3 +5,7 @@ plugins:
   - macros
 markdown_extensions:
   - footnotes
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
