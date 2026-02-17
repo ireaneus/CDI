@@ -3,8 +3,8 @@ title: Church History American awakening
 date: 33 - 2000 A.D.
 instructor: Russell Richardson
 course: Church History
-description: 
-bibleReference: 
+description: ttt
+bibleReference: ggg
 ---
 
 # {{ page.meta.title }}
