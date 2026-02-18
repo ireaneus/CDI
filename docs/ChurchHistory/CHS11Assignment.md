@@ -200,7 +200,7 @@ by Bruce Shelley
 
 The twentieth century brought the colossal struggles of political and military giants: Communism, Nazism and Americanism. A new paganism appeared in appeals to the laws of economics, the passions of race and the inviolable rights of individuals. Christians were forced to suffer, to think and to unite in new ways. Protestants reached out to each other in the movements of unity. Roman Catholics struggled to update their Church. The fall of the Berlin Wall signaled a decline in the power of ideologies. In addition, the “new” Christianity in the Third World and beyond emerges and expands at an astounding rate. This new Christianity eclipses inflamed Muslim voices in which it discerns both danger and call to mission.
 
-[The Great Awakening diagram rendered](https://github.com/ireaneus/CDI/blob/main/docs/ChurchHistory/Americanawaking.md)
+([The Great Awakening diagram rendered](https://github.com/ireaneus/CDI/blob/main/staging/Americanawaking.md))
 
 ## Question 1
 
