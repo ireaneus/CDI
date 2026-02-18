@@ -1,9 +1,13 @@
 site_name: CDI Course - Student David Haines
+theme:
+  name: material
 extra_css:
   - styles.css
 plugins:
   - macros
 markdown_extensions:
+  - toc:
+      toc_depth: 1-2
   - footnotes
   - pymdownx.superfences:
       custom_fences:
