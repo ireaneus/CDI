@@ -180,6 +180,10 @@ You will THINK ABOUT:
 
 ## Key Verses
 
+1 Corinthians 9:22
+Acts 20:7; 1 Corinthians 16:2
+Hebrews 10:25
+
 ## Class Exercise
 
 **INSTRUCTOR’S NOTES: AGE OF GLOBAL EXPANSION & RELOCATION**
@@ -260,61 +264,51 @@ In short, we must be conservative in doctrine and responsive in mission.
 
 **5. Which is more disturbing: our culture’s hostility to the Christian faith, its indifference to Christianity or the indifference to Christianity (& the Church) by those who claim Christ? How many people do you know, who claim Christ but not His Church?**
 
-Collectively, conservative churches have responded in three ways to the increasing secularism. The first approach was a speculative anticipation of the end of time, or at least the beginning of the end times. This led some to a conclusion that redeeming the fallen world was futile. Evangelicals have not abandoned this approach to the future, but they generally came to a sense that they had at least applied it in a dubious fashion.
+In my experience, the most disturbing issue is not cultural hostility, but the indifference of those who claim Christ yet distance themselves from His Church. Scripture teaches that believers are not merely saved individuals but members of one body (1 Corinthians 12:12–27). To separate Christ from His Church is to misunderstand the nature of salvation.
 
-The next approach was to battle secular forces on political and cultural turfs. Jerry Falwell, pastor of the Thomas Road Baptist Church in Lynchburg, Virginia, established a political action group called: “The Moral Majority” and began to battle the influence of secular humanism. The battle lines were drawn primarily around three issues: abortion, homosexual rights and feminism. However, the control of the Panama Canal by the United States was somehow, included in the skirmishes.
+Jesus’ parable of the soils (Matthew 13:20–21) describes seed sown on rocky ground—initially received with joy but lacking depth, with no root. I often see parallels in those who claim Christ but resist commitment, accountability, or participation in the Church. Their faith appears personal but not covenantal. It can become shaped more by personal preference than by obedience or gratitude for the cost Christ paid for their sin.
 
-The third approach involved another change of course or strategy. Many evangelicals sought to be less confrontational and more engaging with our changing culture, on its own terms. They created user-friendly churches that made religion almost totally a matter of personal choice, sort of a “smorgasbord” of truths where you can take what you like. A great variety of churches adopted a practical self-help approach, embracing a special version of allegory to extract techniques from the Bible, which suddenly became a manual for success in life. (Keep Balanced) The megachurch phenomenon, has at times, illustrated this approach of seeking relevance. Historians tend to view this development as another example of Americans’ privatization of faith.
+Western individualism reinforces this mindset. Many want Jesus as Savior but not as Lord within a community of believers. Yet Scripture presents the Christian life as corporate, not isolated. Christ “loved the church and gave Himself up for her” (Ephesians 5:25). To love Christ while neglecting His Church reveals a disconnect.
 
-Conservative evangelical efforts have not stemmed the tide of secularization. Conservatives could no longer look at church decline as a mainline or liberal church problem. Religious affiliation is at its lowest since 1930. Now one in five Americans claims to have no religious affiliation and for adults under the age of thirty, the number jumps to one in three.
+Cultural hostility may refine and clarify faith. Indifference within the Church, however, weakens its witness from the inside. Chapter 47 suggests that reconstruction in the West will require renewed commitment—not just to belief, but to belonging and faithful participation in the body of Christ.
 
-Christians will face a still greater danger of infidelity to Christ if Muslims do not encounter the love of Christ in tangible witness and care.
-
-As missions were exploding around the globe, Western Christians were beginning to struggle with the practice. Evangelical denominations and mission-sending organizations were facing budget cuts as churches and their members were not supporting these missions and missionaries.
-
-**Chapter 48 - Shift to the Global South - What is the New Christianity?**
-
-In 1900, only 10% of the world’s Christians lived in the continents of the south and east, but a century later at least 70% of the world’s Christians lived there.
-
-More Christians worshiped in Anglican churches in Nigeria each week than in all the Episcopal and Anglican churches of Britain, Europe and North America combined.
-
-There were ten times more Assembly of God members in Latin America than in the United States.
-
-There were more Baptists in Congo than in Great Britain and more people in church every Sunday in communist China than in all Western Europe or North America.
-
-The unmistakable first observation about the churches below the equator is that they are charismatic. (See chart page 498)
-
-The “third blessing” approach acknowledged the first blessing of conversion and a second blessing whereby the believers were stirred and moved to sanctification or holiness. Additionally, they acknowledged a third blessing, which is Spirit baptism, which includes a special empowerment for service.
-
-The first wave began through international revivals in Wales, India and Korea, then moved around the world including the United States in Azuza, California. This prompted the emergence of the major Pentecostal denominations that followed.
-
-The second wave denotes a sweeping encounter and embrace of charismatic life spilling over into mainline Protestant denominations and Catholicism in the 1960’s and early 1970’s.
-
-The third wave saw the embrace of signs and wonders by charismatics and some conservatives in the 1980’s.
-
-The issue of attaching our culture to the gospel as we take it to the nations has always been an issue. The distinct character of North American Christianity is that it is a voluntary Christianity and less an expression of Christendom; though we certainly started out trying to establish a Christian nation.
+## Question 6
 
 **6. What are some of the things from our “Christian” culture that we might need to strip away before we pass it on to others? Style of music, clothing, schedule for church, etc.?**
 
-The missionary vision usually included a vigorous effort to translate the Bible into the language of the nationals. Granted, the act of translation holds many opportunities to import cultural bias but the effect of translation was not cultural manipulation but became a boost for cultural independence. Several scholars have noted the centrality of biblical translation to the emergence of independent thinking.
+When we take the gospel to other cultures, we must carefully separate eternal truth from Western preferences. Chapter 48 shows that biblical translation strengthened indigenous Christianity because it allowed believers to encounter Scripture directly rather than through imported cultural forms.
 
-Christians in the Global south seem to appropriate the Bible in a direct manner; they read with a sense of immediacy as though the Bible was written directly to them. Western readers, by contrast, often observe a historical distance between the world as they see it and the world of the Bible.
+Some elements of Western “Christian culture” that may need to be stripped away include:
 
-The Church has used three major approaches to understand what Jesus did for the human family to accomplish salvation:
+- Worship styles tied to Western music traditions
+- Dress codes that equate formality with holiness
+- Specific service structures or schedules
+- Political associations that confuse nationalism with Christianity
+- Individualistic expressions of faith that minimize community
 
-- Evangelicals typically see Christ as our representative or substitute who died on the cross to accomplish salvation.
-- Liberal Christians see the cross as a dramatic demonstration of God’s love, that when understood, overwhelms our reluctance to believe God loves us and awakens a response of love to God.
-- The Eastern Church sees the atoning work of Jesus as addressing the bondage we experience as we face the oppressive evil of Satan and his demons, which we cannot defeat in our own strength.
+These are not biblical absolutes but cultural expressions.
+
+Jesus Himself lived fully within His Jewish culture. He kept the Law, attended festivals, and spoke in culturally rooted parables. His teaching was steeped in imagery His audience understood. Likewise, Paul said he became “all things to all people” so that by all means he might save some (**1 Corinthians 9:22**). That principle applies today.
+
+Culture provides common ground for evangelism. Wearing a Christian T-shirt or having a Bible app on a phone may communicate in one context, but in another culture different expressions may be more appropriate. We must be willing to adapt non-essential forms in order to communicate eternal truth.
+
+One area that requires careful balance is the question of worship gathering on Sunday. The early church clearly gathered on the first day of the week (**Acts 20:7; 1 Corinthians 16:2**), and Sunday became a historic and meaningful pattern for Christian worship, celebrating the resurrection of Christ. That tradition carries theological significance and should not be dismissed lightly.
+
+However, the New Testament does not present Sunday worship as a legal requirement in the same way the Sabbath was under the Old Covenant. The emphasis is on faithful gathering (**Hebrews 10:25**), teaching, fellowship, prayer, and breaking bread—not on a rigid time structure. In missionary contexts or in cultures with different work patterns, believers may need to gather at different times—midweek, evenings, or even in small house settings.
+
+The principle, then, is not abandoning the historic pattern of Sunday worship, but recognizing that the Church is defined by its devotion to Christ and to one another, not by a fixed cultural schedule. When reaching other cultures, we must distinguish between honoring meaningful Christian tradition and elevating it to the level of biblical command.
+
+In other words, Sunday worship is a rich and historic practice — but it is the gathering of the saints around Christ that is essential.
+
+The gospel must never change. But the forms through which we express worship and community may, and often should, adapt to the culture we are seeking to reach.
+
+The danger is not contextualization — it is confusing our culture with Christianity itself.
+
+## Question 7
 
 **7. Which of these three approaches are true? Which of these three approaches should affect how we seek to reach people?**
 
-All of them together. Consider the radical nature of our redemption.
-
-Churches outside the West have a sense of solidarity that is hard for Westerners to grasp. We come from the most radically individualistic culture in history. (Even though we have a strong self-identification with sports teams.)
-
-For most people in the world, the opposite is true: they believe their genuine identity is conveyed when they tell you the groups to which they belong. Certainly, this basic human need is perhaps a great opportunity for the church in the West.
-
-Solidarity is visible at the gathered worship of the Church. There is a more vivid sense of encounter with evil for believers beyond the West. Christians in the Global South tend to embrace missions from their earliest days.
+All three approaches express biblical truth and together show the fullness of redemption. Evangelicals rightly emphasize substitution—Christ bore our sin in our place (**2 Corinthians 5:21**). The moral influence view reflects the truth that the cross reveals God’s love and awakens our response (**Romans 5:8**). The Eastern emphasis highlights Christ’s victory over sin, death, and Satan (**Colossians 2:15**). None alone is sufficient, but together they reveal that salvation is legal, relational, and victorious. In reaching others, we must discern which aspect speaks most clearly within a given culture—whether guilt and forgiveness, belonging and love, or deliverance from spiritual bondage—while faithfully proclaiming the whole gospel.
 
 **Chapter 49 - Windows to the Christian World - Places and Persons of Faith**
 
@@ -367,7 +361,9 @@ We rightly should also ask similar question of ourselves:
 
 Reading church history rightly helps us read the Bible rightly; and reading the Bible rightly helps us read church history rightly.
 
-- **8. Have you had any experience with the Church, or Christians, in (from) other countries? What did you see as their strengths and their needs?**
+## Question 8
+
+**8. Have you had any experience with the Church, or Christians, in (from) other countries? What did you see as their strengths and their needs?**
 
 *Physically, Financially, Educationally, Spiritually, etc.*
 
@@ -389,13 +385,15 @@ The way forward usually meant a studied look backward, back to the image of God 
 - Give a reasoned, biblical and humble response!  
 - Keep Balanced!  
 
+## AI Questions asked
+
 **Below this is AI driven reference material**
 
-## **Should the list of doctrines come from the "Apostles Creed"**
+### **Should the list of doctrines come from the "Apostles Creed"**
 
 Short answer: **Yes — the Apostles’ Creed is an excellent starting framework**, but it may not be sufficient by itself.
 
-### 1️⃣ Why the Apostles’ Creed Is a Good Foundation
+#### 1️⃣ Why the Apostles’ Creed Is a Good Foundation
 
 The Apostles’ Creed summarizes the core doctrines that historically defined Christian orthodoxy:
 
@@ -413,7 +411,7 @@ It represents the early church’s consensus on what must be believed to be cons
 
 ---
 
-### 2️⃣ Why It May Not Be Sufficient Alone
+#### 2️⃣ Why It May Not Be Sufficient Alone
 
 The Apostles’ Creed does not explicitly articulate:
 
@@ -432,7 +430,7 @@ Both sets matter.
 
 ---
 
-### 3️⃣ So How Should You Answer Question 3?
+#### 3️⃣ So How Should You Answer Question 3?
 
 A strong answer would say:
 
@@ -442,7 +440,7 @@ That keeps you historically grounded while reflecting Reformation clarity.
 
 ---
 
-### 4️⃣ The Principle Behind the Question
+#### 4️⃣ The Principle Behind the Question
 
 Chapter 45 is really asking:
 
@@ -459,9 +457,9 @@ Everything else, while important, is secondary.
 
 ---
 
-## Chapter 46 presents two instincts
+### Chapter 46 presents two instincts
 
-### 1️⃣ The Conservative Instinct
+#### 1️⃣ The Conservative Instinct
 
 - The future threatens the past.
 - Reform risks losing doctrinal clarity.
@@ -473,7 +471,7 @@ At Vatican II, many conservatives feared that updating liturgy, religious freedo
 
 ---
 
-### 2️⃣ The Progressive Instinct
+#### 2️⃣ The Progressive Instinct
 
 - The future holds promise.
 - The Church must engage modern culture.
@@ -485,7 +483,7 @@ He did not intend to change doctrine, but he did want to change tone, posture, a
 
 ---
 
-### ⚖️ What Actually Happened at Vatican II?
+#### ⚖️ What Actually Happened at Vatican II?
 
 The council:
 
@@ -504,7 +502,7 @@ But the aftermath included:
 
 So the chapter shows that **neither blind preservation nor unchecked innovation guarantees health**.
 
-### 🔥 The Key Principle From Chapter 46
+#### 🔥 The Key Principle From Chapter 46
 
 - Truth must not change.
 - Tone, posture, and method may change.

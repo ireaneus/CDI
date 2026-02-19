@@ -726,3 +726,18 @@ Yet perhaps more troubling than hostility is indifference. Many who claim Christ
 
 **Citation:**
 Shelley, Bruce L. *Church History in Plain Language*, 5th ed., Chapter 47.
+
+### **Chapter 48 – Shift to the Global South: What Is the New Christianity?**
+
+Chapter 48 describes the dramatic geographic shift of Christianity from the Western world to the Global South. In 1900, only about 10% of the world’s Christians lived in Africa, Asia, and Latin America. By the end of the twentieth century, at least 70% resided there, marking one of the most significant demographic changes in church history (Shelley, ch. 48). Vibrant Christian communities now flourish in places such as Nigeria, Latin America, Congo, Korea, and China—often surpassing Western nations in attendance and growth.
+
+A defining characteristic of this “new Christianity” is its charismatic vitality. The influence of Pentecostal and charismatic movements—often described in three waves—has shaped much of the Global South. The first wave emerged from early twentieth-century revivals, including Wales (1904) and Azusa Street (1906), leading to the formation of Pentecostal denominations. The second wave extended charismatic renewal into mainline Protestant and Catholic churches during the 1960s–70s. The third wave in the 1980s emphasized signs and wonders within broader evangelical circles (Shelley, ch. 48).
+
+This global shift also raises questions about culture and mission. Christianity in North America developed largely as a voluntary faith within a post-Christendom society. In contrast, churches in the Global South often read Scripture with immediacy and expectancy, embracing communal solidarity and missionary zeal.
+
+Chapter 48 highlights that the future of Christianity is no longer centered in the West. The faith is growing most rapidly in regions once considered mission fields, reshaping the global character of the Church.
+
+---
+
+**Citation:**
+Shelley, Bruce L. *Church History in Plain Language*, 5th ed., Chapter 48.
