@@ -184,6 +184,18 @@ You will THINK ABOUT:
 
 > *"Beloved, while I was making every effort to write you about our common salvation, I felt the necessity to write to you appealing that you contend earnestly for the faith which was once for all handed down to the saints."*
 
+**1 Corinthians 4:6**
+
+> *"Now these things, brethren, I have figuratively applied to myself and Apollos for your sakes, so that in us you may learn not to exceed what is written, so that no one of you will become arrogant in behalf of one against the other."*
+
+**2 Corinthians 10:3-5**
+
+> *"For though we walk in the flesh, we do not war according to the flesh, 4for the weapons of our warfare are not of the flesh, but divinely powerful for the destruction of fortresses. 5We are destroying speculations and every lofty thing raised up against the knowledge of God, and we are taking every thought captive to the obedience of Christ,"*
+
+**Colossians 2:8**
+
+> *See to it that no one takes you captive through philosophy and empty deception, according to the tradition of men, according to the elementary principles of the world, rather than according to Christ.*
+
 ## Class Exercise
 
 **INSTRUCTOR’S NOTES: PREPARATORY DOCTRINAL DEVELOPMENTS**
@@ -218,11 +230,15 @@ It is the designation of a firm, and especially a public or official resolution 
 
 Religious Dogma is a religious truth based on authority and officially formulated by some ecclesiastical assembly. Our textbook uses the word dogma to describe officially formulated religious tenets. Our culture usually sees those who are dogmatic as people who assert opinions or doctrines in an arrogant manner. Words do matter, especially concerning the truth. We need to hold to the truth of God’s Word, live it and proclaim it with accuracy, confidence, perseverance, gentleness, love and humility.
 
+## Question 1
+
 **1. Consider the balance we see in 2 Tim 2:14-17, 23-26** (using various forms of the word *"macho"* for *"wrangle"* or *"quarrels"* or *"quarrelsome"*) and **Jude vs 3** (using a form of the word *"agonize"* for *"to contend."*) The need to *"agonize"* and *"contend"* is because words do matter. However, we do not need to get all *"macho"* and wrangle or quarrel. How do we keep contending separate from quarreling?
 
 This issue would deal with our hearts. Are we responding or reacting? Are we speaking the truth in love or in arrogance? Are there any tears of compassion for those we are contending with?
 
 Religious doctrines are found in Scripture, though not in finished form, but dogmas in the current sense of the word are not found there. They are the fruit of human reflection, the reflection of the Church, often occasioned or intensified by theological controversies.
+
+## Question 2
 
 **2. Consider 1 Corinthians 11:19** – *"For there must also be factions among you, so that those who are approved may become evident among you."* What does it mean, *"so that those who are approved may become evident among you?"* What is the benefit gained from dealing with factions or divisions?
 
@@ -250,13 +266,13 @@ The development of the dogma of the Church moved along organic lines and was the
 
 God’s special revelation is the progressive unfolding of the knowledge of God and the redemptive idea in Christ Jesus; presupposing a continuous development and continuity of thought.
 
+## Question 3
+
 **3. What is the problem of taking the stand that our Dogma, or Doctrinal Statements, cannot and should not ever change? Are we declaring that we absolutely know all there is to know about a certain doctrine and that we have expressed it in the clearest and most understandable way? Is there a legitimate reason for us to make it difficult to change the doctrinal statements in our Church constitutions?**
 
-The Roman Catholic Church has mixed unchangeable Scripture with mutable tradition to arrive at its dogma and that has evidenced change over time. The Protestant Church supposedly deriving its doctrine Sola Scriptura should have had a dogma as immutable as the Scriptures themselves. However, that too has not been the case. Some churches have made it nearly impossible to change their doctrinal statements as a way to help insure that “liberals or heretics or other undesirables” cannot take over their churches or identify who gets to maintain ownership of the property. Sometimes this has left a church with language that does not communicate well over time. Consider also, that because of a failure to clarify the “essentials” and perhaps “major of the minors,” some doctrinal statements may be hard to defend. Consider also Paul’s instructions to the church at Corinth in **1 Corinthians 4:6**.
+The danger of saying doctrinal statements can never change is that it may confuse our wording with the authority of Scripture itself. Scripture is unchangeable, but our summaries of it are human formulations. To claim they should never be revised can imply that we fully understand and have perfectly expressed every doctrine. History shows that doctrinal clarity often developed through controversy, not because truth changed, but because the Church refined its language.
 
-It would be a mistake to assume that the history of dogma can begin with the Council of Nicaea and end with the adoption of the last of the historical Confessions. It must take its starting point at the close of the period of special revelation, in the study of the Apostolic Fathers.
-
-The doctrinal controversies of the Church were the birth pangs of new dogmas. Though not edifying, it is essential that we gain a proper understanding of the genesis of ecclesiastical dogmas.
+There is a legitimate reason to make doctrinal change careful and difficult—to guard against heresy and protect essential truths. However, making change nearly impossible can preserve unclear or outdated language. As Paul warns in **1 Corinthians 4:6**, we must *“not exceed what is written.”* Our confessions must serve Scripture, not replace it, remaining stable yet humbly open to biblical clarification.
 
 ## III. **Method and Divisions of the History of Dogma**
 
@@ -266,15 +282,15 @@ There is a distinction between the horizontal and vertical methods.
 
 The Horizontal method takes up the study as a whole, studying all of the doctrines in particular periods of time. The vertical method picks up each doctrine as it becomes the center of attention in a particular period and traces its development until it reaches its final form.
 
+## Question 4
+
 **4. This (the vertical method) is the method used in this book – See Chart 2 in Charts book. Discuss your understanding of this method.**
 
-The danger lies in the tendency to view the doctrines as detached from their historical setting and from their logical connection in the systems of thought of the theologians of that era.
+In **The History of Church Doctrine**, Louis Berkhof uses the “vertical method,” which traces one doctrine at a time through history rather than moving strictly period by period. This helps us see how specific doctrines developed, were challenged, and clarified over time.
 
-There are distinctions between a purely objective and the confessional methods.
+The strength of this method is clarity and focus on doctrinal development. The danger is that doctrines may seem detached from their historical setting or from the broader theological systems of their time.
 
-The objective method is to be without prepossessions, sympathy or antipathy; without determination of the truth or validity of any formulation.
-
-The confessional method judges the doctrinal development against the student’s beliefs and especially against the standard of the Scriptures.
+Unlike a purely objective method that avoids judging truth claims, Berkhof writes confessionally, evaluating doctrinal development in light of Scripture. The vertical method is helpful, but it must be balanced with historical awareness.
 
 ## IV. **History of the History of Dogma**
 
@@ -314,27 +330,45 @@ The Roman government launched a series of persecutions, which threatened the ver
 
 The greatest dangers came from within, consisting in different types of perversions of the Gospel.
 
+## Question 5
+
 **5. What is Paul’s warning to the Ephesian elders in Acts 20:28-30?**
 
-There were a variety of Jewish Perversions of the Gospel. The Nazarenes – were Jewish Christians, who believed in the deity and virgin birth of Jesus and bound themselves to a strict observance of the law – though they did not require this of Gentile Christians.
+Below is an AI response to the question asked, it provides me as the student clarification as well expounds on the prophetic realization to these scripture references.
 
-The Ebionites – who were a continuation of the Judaistic opponents of the Apostle Paul, who refused to recognize his apostleship and demanded that all Christians submit to the rite of circumcision. They denied the deity and virgin birth of Christ.
+**AI generated response**
 
-The Elkesaites – were a type of Jewish Christianity marked by theosophical (*any of the various forms of philosophical or religious thought based on a mystical insight into the divine nature*) speculations and strict asceticism. They rejected the virgin birth and deity of Christ and included magic and astrology in their practices.
+Paul’s warning to the Ephesian elders in **Acts of the Apostles 20:28–30** comes at the close of his farewell address at Miletus (Acts 20:17–38). He is speaking directly to the leaders of the church at Ephesus, knowing they will not see him again (20:25).
 
-There was also a host of Gentile perversions. The primary perversion was known as Gnosticism.
+### The Full Scripture (Acts 20:28–30, NASB)
 
-The origin of Gnosticism is seen in its early form in the days of the Apostles, attaching itself to Judaism and engaging in speculations that lead to both asceticism on one hand and an immoral libertinism of the other.
+> **28** “Be on guard for yourselves and for all the flock, among which the Holy Spirit has made you overseers, to shepherd the church of God which He purchased with His own blood.
+> **29** I know that after my departure savage wolves will come in among you, not sparing the flock;
+> **30** and from among your own selves men will arise, speaking perverse things, to draw away the disciples after them.”
 
-Philosophical speculation also fed into Gnostic teaching. There was a general tendency toward syncretism (*syncretism - The attempted reconciliation or union of different or opposing principles, practices, or parties, as in philosophy or religion*) in the early part of the 2ⁿᵈ century; an eagerness to absorb all possible religious ideas, generalize them and then harmonize them, in order to gain a deeper, mystical knowledge and experience of God.
+### Context of the Letter and Chapter
 
-The essential character of Gnosticism is that it was primarily a speculative movement that laid claim to a deeper knowledge of divine things that could be obtained by common believers. It became a popular movement as it added symbolic rites, mystic ceremonies and the teaching of magic formulas along with its initiation into special associations.
+In Acts 20, Paul reviews his ministry in Ephesus (20:18–21), affirms that he declared “the whole purpose of God” (20:27), and then charges the elders to guard both themselves and the flock. The church belongs to God and was “purchased with His own blood” (20:28), highlighting the seriousness of their responsibility.
 
-Gnosticism claimed to be Christian in character and often appealed to the words of Jesus explained in an allegorical way; as well as to secret traditions and teachings handed down from the times of the Apostles.
+His warning has two parts:
 
-The main teachings of Gnosticism revolved around a trait of dualism that runs through the whole system: two original gods – higher and lower, good and bad – opposed to each other.
+1. **External danger** – “savage wolves will come in among you” (20:29).
+2. **Internal danger** – “from among your own selves men will arise” (20:30).
 
-The historical significance of Gnosticism is seen in its inability to sidetrack Christianity as it was overcome by the direct refutations of the Church Fathers – especially through the “Rules of Faith,” by a rational interpretation of the New Testament and a limitation of its canon (accepted writings) with the exclusion of all the false books in circulation. The Church also profited by learning to mark off clearly the limits of Divine revelation and determine the relation of the Old Testament to the New.
+These false teachers would distort truth (“speaking perverse things”) and seek followers for themselves.
+
+### Historical Significance
+
+Paul’s warning proved prophetic. In the early centuries, the Church faced:
+
+- **Jewish perversions** such as the Nazarenes, Ebionites, and Elkesaites, who either bound Christians to the Law or denied Christ’s deity and virgin birth.
+- **Gentile perversions**, especially Gnosticism, which claimed secret knowledge, embraced dualism, and distorted apostolic teaching through speculation and syncretism.
+
+Gnosticism in particular reflects Paul’s concern—teachers arising, claiming deeper knowledge, drawing disciples after themselves.
+
+### Summary Answer
+
+Paul warns the Ephesian elders to guard themselves and the church because false teachers would arise both from outside and within the church, distorting the truth and leading believers astray (Acts 20:28–30). Historically, this warning was fulfilled in early Jewish-Christian distortions and especially in Gnosticism. His charge underscores the necessity of doctrinal vigilance and faithful shepherding to protect the church purchased by Christ’s blood.
 
 ## III. **The Reform Movements in the Church**
 
@@ -446,5 +480,3 @@ The names: Father, Son and Holy Spirit are said to be simply designations of thr
 God reveals Himself as the Father in creation and in the giving of the law, as the Son in the incarnation and as the Holy Spirit in regeneration and sanctification.
 
 6. Remember that all of this is preparatory doctrinal development and that the New Testament Canon of Scripture had not yet been established. Just because some of the *“Church Fathers,”* in whatever era, taught certain doctrines, that does not necessarily validate the teaching. Discuss this after reading **1 Corinthians 4:6**; **2 Corinthians 10:3-5** and **Colossians 2:8**.
-
-**Below this is AI driven reference material**
