@@ -159,6 +159,53 @@ In the Last Session
 
 ## Key Verses
 
+**Ephesians 1:4-5 (NASB1995)**
+
+> vs. 4 *just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love*  
+> vs. 5 *He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,*
+
+**Ephesians 2:1–5 (NASB1995)**
+
+> vs. 1 *And you were dead in your trespasses and sins,*  
+> vs. 2 *in which you formerly walked according to the course of this world, according to the prince of the power of the air, of the spirit that is now working in the sons of disobedience.*  
+> vs. 3 *Among them we too all formerly lived in the lusts of our flesh, indulging the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest.*  
+> vs. 4 *But God, being rich in mercy, because of His great love with which He loved us,*  
+> vs. 5 *even when we were dead in our transgressions, made us alive together with Christ (by grace you have been saved),*
+
+**Romans 5:12–19 (NASB1995)**
+
+> vs. 12 *Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned—*  
+> vs. 13 *for until the Law sin was in the world, but sin is not imputed when there is no law.*  
+> vs. 14 *Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the offense of Adam, who is a type of Him who was to come.*  
+> vs. 15 *But the free gift is not like the transgression. For if by the transgression of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, abound to the many.*  
+> vs. 16 *The gift is not like that which came through the one who sinned; for on the one hand the judgment arose from one transgression resulting in condemnation, but on the other hand the free gift arose from many transgressions resulting in justification.*  
+> vs. 17 *For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.*  
+> vs. 18 *So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men.*  
+> vs. 19 *For as through the one man’s disobedience the many were made sinners, even so through the obedience of the One the many will be made righteous.*
+
+**Romans 8:28-30**
+
+> vs. 28 *And we know that God causes all things to work together for good to those who love God, to those who are called according to His purpose.*  
+> vs. 29 *For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren;*  
+> vs. 30 *and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.*
+
+**Romans 9:15–16 (NASB1995)**
+
+> vs. 15 *For He says to Moses, ‘I WILL HAVE MERCY ON WHOM I HAVE MERCY, AND I WILL HAVE COMPASSION ON WHOM I HAVE COMPASSION.’*  
+> vs. 16 *So then it does not depend on the man who wills or the man who runs, but on God who has mercy.*
+
+**John 6:44–45 (NASB1995)**
+
+> vs. 44 *No one can come to Me unless the Father who sent Me draws him; and I will raise him up on the last day.*  
+> vs. 45 *It is written in the prophets, ‘AND THEY SHALL ALL BE TAUGHT OF GOD.’ Everyone who has heard and learned from the Father, comes to Me.*
+
+**Titus 3:4–7 (NASB1995)**
+
+> vs. 4 *But when the kindness of God our Savior and His love for mankind appeared,*  
+> vs. 5 *He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,*  
+> vs. 6 *whom He poured out upon us richly through Jesus Christ our Savior,*  
+> vs. 7 *so that being justified by His grace we would be made heirs according to the hope of eternal life.*
+
 ## Class Exercise
 
 **INSTRUCTOR’S NOTES: DOCTRINE OF MAN, SIN AND GRACE**
@@ -195,7 +242,7 @@ They rarely distinguished between the good the natural man was able to do and th
 
 ## Question 1
 
-1. Most of the Greek Fathers scrupulously avoided the issue of free will versus predestination. I am certain that we all face this same temptation. What kind of consequences will we face if we refuse to establish a biblical view of man, sin, grace and free will?
+**1. Most of the Greek Fathers scrupulously avoided the issue of free will versus predestination. I am certain that we all face this same temptation. What kind of consequences will we face if we refuse to establish a biblical view of man, sin, grace and free will?**
 
 > If we refuse to establish a biblical view of man, sin, grace, and free will, we will not remain neutral — we will drift. Avoiding the tension does not protect the Church; it weakens it.
 >
@@ -220,7 +267,7 @@ Pelagius was a British monk, who led an austere life, with a blameless character
 
 Their teachings developed independently of each other, before they became acquainted with each other’s teachings. They both represented elements that were already present in the writing of the early Church Fathers.
 
-2. See Chart 19 re: Manichaeism. See chart 21 re: Augustine for background information.
+**2. See Chart 19 re: Manichaeism. See chart 21 re: Augustine for background information.**
 
 **The Pelagian View of Sin and Grace**
 
@@ -258,9 +305,9 @@ His view of regeneration is entirely monergistic e.g., solely from God. The Holy
 
 Augustine distinguishes several stages in the work of divine grace:
 
-- “Prevenient Grace” where the Holy Spirit employs the law to produce the sense of sin and guilt.
-- “Operative Grace” where the Holy Spirit employs the Gospel for the production of that faith in Christ and His atoning work which issues in justification and peace with God.
-- “Co-Operative Grace” where the renewed will of man co-operates with Him in the life-long work of sanctification.
+- *“Prevenient Grace”* where the Holy Spirit employs the law to produce the sense of sin and guilt.
+- *“Operative Grace”* where the Holy Spirit employs the Gospel for the production of that faith in Christ and His atoning work which issues in justification and peace with God.
+- *“Co-Operative Grace”* where the renewed will of man co-operates with Him in the life-long work of sanctification.
 
 The work of grace includes the entire renewal of man in the image of God and the spiritual transformation of the sinner into a saint. Yet, he represents the Church as the (mostly) independent dispenser of divine grace and speaks of baptismal regeneration.
 
@@ -269,11 +316,12 @@ His teachings regarding the doctrine of predestination said, that what God does 
 He saw predestination, in relation to the non-elect, as one of pretermission e.g., the passing over by God of those not elect. Reprobation differs from election in this that it is not accompanied with any direct divine efficiency (working) to secure the result intended.
 
 One idea that he held, foreign to his main thought, was that the grace of regeneration could again be lost. Only those who are regenerated and persevere, or in whom, after loss, the grace of regeneration is restored, are finally saved. Fortunately, he taught, the elect never die in an unregenerate condition.
-Pelagian and Semi-Pelagian Controversies
 
-3. See chart #27 for a summary of the Pelagian Controversy. Does the fact that a person has not experienced the “depths of sin” that others have, mean that their sin is “not as bad” as the sin of others?
+**Pelagian and Semi-Pelagian Controversies**
 
-1 Corinthians 6:9-11 – …Such were some of you… - but we are all in need of being “washed, sanctified and justified….” This view is one of the consequences of an unbiblical view of man, sin, grace and freewill.
+**3. See chart #27 for a summary of the Pelagian Controversy. Does the fact that a person has not experienced the “depths of sin” that others have, mean that their sin is “not as bad” as the sin of others?**
+
+1 Corinthians 6:9-11 – …Such were some of you… - but we are all in need of being *“washed, sanctified and justified….”* This view is one of the consequences of an unbiblical view of man, sin, grace and freewill.
 
 Augustine’s views of sin and grace met with opposition, since the problems involved had never yet been discussed in a thorough manner.
 
@@ -399,7 +447,9 @@ Some developed the theory that sin was present from birth because of sin in some
 
 Some see sin as arising from ignorance – and is a necessary stage in man’s moral development. The idea that sin is just left over in our nature before the evolutionary process brought us knowledge or enlightenment and is primarily contrary to the individual’s conscience.
 
-The Five Articles of Remonstrance refers to the document drawn up in 1610 by the followers of Jacobus Arminius (1560-1609). A *"remonstrance"* is literally *"an expression of opposition or protest,"* which in this case was a protest against the Calvinist doctrine of predestination contained in the Belgic Confession. This document was condemned as heresy by the reformed churches at the Synod of Dort, 1618-1619.
+## **The Five Articles of Remonstrance**
+
+refers to the document drawn up in 1610 by the followers of *Jacobus Arminius (1560-1609)*. A *"remonstrance"* is literally *"an expression of opposition or protest,"* which in this case was a protest against the Calvinist doctrine of predestination contained in the Belgic Confession. This document was condemned as heresy by the reformed churches at the Synod of Dort, 1618-1619.
 
 **Article 1**
 That God, by an eternal and unchangeable purpose in Jesus Christ his Son, before the foundation of the world, hath determined, out of the fallen, sinful race of men, to save in Christ, for Christ’s sake, and through Christ, those who, through the grace of the Holy Ghost, shall believe on this His Son Jesus, and shall persevere in this faith and obedience
@@ -417,4 +467,783 @@ That this grace of God is the beginning, continuance, and accomplishment of all 
 **Article 5**  
 That those who are incorporated into Christ by true faith, and have thereby become partakers of his life-giving Spirit, have thereby full power to strive against Satan, sin, the world, and their own flesh, and to win the victory; it being well understood that it is ever through the assisting grace of the Holy Ghost; and that Jesus Christ assists them through His Spirit in all temptations, extends to them His hand, and if only they are ready for the conflict, and desire His help, and are not inactive, keeps them from falling, so that they, by no craft or power of Satan, can be misled nor plucked out of Christ’s hands, according to the Word of Christ, John 10:28: “Neither shall any man pluck them out of my hand.” But whether they are capable, through negligence, of forsaking again the first beginning of their life in Christ, of again returning to this present evil world, of turning away from the holy doctrine which was delivered them, of losing a good conscience, of becoming devoid of grace, that must be more particularly determined out of the Holy Scripture, before we ourselves can teach it with the full persuasion of our mind.
 
-**Below this is AI driven reference material**
+## Summary of this session
+
+- Know the doctrinal distinctions between Augustine and Pelagius.
+- Be able to understand the importance of having a proper view of man, sin and grace.
+- Think about and discuss the consequences of a low view of sin and a high view of humanity.
+- See the great need for God’s generous grace.
+
+### 1️⃣ Know the doctrinal distinctions between Augustine and Pelagius
+
+The central difference between Augustine and Pelagius concerns the condition of man after the Fall and the necessity of grace.
+
+Pelagius taught that Adam’s sin affected only himself. Humanity is born morally neutral, capable of choosing good or evil. Grace is primarily external—law, instruction, and the example of Christ. Man can initiate his return to God.
+
+Augustine taught that all humanity sinned in Adam and inherits both guilt and corruption. Man is spiritually dead and unable to choose God apart from regenerating grace. Grace is not assistance but resurrection. Faith itself is a gift of God. Salvation is monergistic—God alone renews the will.
+
+In short:
+Pelagius = ability preserved.
+Augustine = ability lost; grace restores.
+
+### 2️⃣ Understand the importance of a proper view of man, sin, and grace
+
+Your doctrine of sin determines your doctrine of salvation.
+
+If man is only weakened, grace becomes cooperative.
+If man is spiritually dead, grace must be sovereign and life-giving.
+
+A correct anthropology protects the gospel. If we misunderstand the depth of sin, we will misunderstand the necessity and power of grace. Right doctrine produces humility, gratitude, and worship. Wrong doctrine inflates man and diminishes God.
+
+### 3️⃣ Consequences of a low view of sin and a high view of humanity
+
+A low view of sin leads to:
+
+- Minimizing guilt
+- Redefining moral failure
+- Excusing behavior
+- Turning grace into mere assistance
+
+A high view of humanity leads to:
+
+- Pride in moral effort
+- Trust in human ability
+- Resistance to doctrines like election and sovereign grace
+
+Practically, this results in either moral softness (“it’s not that serious”) or religious pride (“I can fix myself”). Both distort the Christian life.
+
+### 4️⃣ See the great need for God’s generous grace
+
+If man is spiritually dead, grace is not optional—it is everything.
+
+Grace must:
+
+- Awaken the dead heart
+- Grant faith
+- Justify the sinner
+- Transform the will
+- Sustain perseverance
+
+The doctrine of grace magnifies God’s mercy and eliminates boasting. It produces dependence, assurance, and worship.
+
+The deeper our understanding of sin, the more glorious grace becomes.
+
+## **Below this is AI driven reference material**
+
+## **Five Points (TULIP) of Calvin**
+
+- **Total Depravity** — In Adam, people are spiritually dead in sin and unable to come to God apart from regenerating grace.
+- **Unconditional Election** — God’s choice to save is not based on foreseen faith/merit, but on His purpose and mercy.
+- **Limited (Definite) Atonement** — Christ’s atonement actually secures salvation for the elect (it accomplishes, not merely makes possible).
+- **Irresistible (Effectual) Grace** — When God calls savingly, He truly brings the sinner to life so that the renewed will freely comes.
+- **Perseverance of the Saints** — Those whom God saves, He keeps; genuine faith endures because God preserves His people.
+
+## Early Church & Patristic Period
+
+### Greek Fathers (Eastern Church – general tendency)
+
+**Core tendency:**
+
+- Emphasized **free will**
+- Downplayed inherited guilt
+- Reacted against Gnosticism
+- Avoided sharp predestination language
+
+**View of sin:**
+
+- Sin begins in free choice
+- More weakness/ignorance than total corruption
+
+**View of grace:**
+
+- Necessary, but man often initiates
+- Often synergistic in tone
+
+### Tertullian (c. 160–225)
+
+**Key contribution: Traducianism**
+
+- The soul is transmitted from parents
+- Helped develop the idea of **innate sin**
+- Spoke in ways that sometimes sounded synergistic
+
+### Cyprian (c. 200–258)
+
+- Affirmed **original sinfulness**
+- Stronger view of grace
+- Leaned toward monergism
+
+### The Great Divide: Pelagius vs. Augustine
+
+### Pelagius (c. 354–420)
+
+**View of Man:**
+
+- Adam created morally neutral
+- Fall harmed Adam only
+- No inherited guilt
+- No total depravity
+
+**View of Sin:**
+
+- Bad example, not transmitted corruption
+- Sin comes from imitation
+
+**View of Grace:**
+
+- External help (law, teaching, Christ’s example)
+- Not internally transforming
+
+**Bottom Line:**
+Man can choose good without regenerating grace.
+
+### Augustine (354–430)
+
+**View of Man:**
+
+- Humanity sinned in Adam
+- Guilt and corruption transmitted
+- Total depravity (though not utter depravity)
+
+**View of Sin:**
+
+- Privation of good
+- Rooted in disordered love
+
+**View of Grace:**
+
+- Monergistic
+- Effectual
+- Necessary for faith
+- God renews the will
+
+**Predestination:**
+
+- Unconditional election
+- Later affirmed stronger view
+- Reprobation as “passing over”
+
+**Bottom Line:**
+Dead men need resurrection.
+
+### Semi-Pelagianism (Mediating Position)
+
+### General Semi-Pelagians
+
+**View of Man:**
+
+- Fallen, but weakened — not dead
+- First step toward God can originate in man
+
+**View of Grace:**
+
+- Necessary but cooperative
+
+Condemned at:
+
+- **Council of Orange (529)**
+
+### Medieval Thinkers
+
+### Gregory the Great (540–604)
+
+- Modified Augustinianism
+- Saw sin more as weakness
+- Grace necessary
+- Predestination softened
+
+### Gottschalk (805–868)
+
+- Strong Augustinian
+- Double predestination
+- Opposed foreknowledge-based election
+
+Condemned and imprisoned
+
+### Anselm (1033–1109)
+
+- Strong original sin
+- Humanity sinned in Adam
+- True freedom = ability to choose good
+- Guilt transmitted
+
+### Reformation Era
+
+### Martin Luther (1483–1546)
+
+- Bondage of the will
+- Total depravity
+- Monergistic grace
+- Double predestination
+
+### John Calvin (1509–1564)
+
+- Total depravity
+- Unconditional election
+- Effectual grace
+- Perseverance
+- Federal headship (Adam represents humanity)
+
+### Philip Melanchthon (1497–1560)
+
+- Shifted toward synergy
+- Softened strict monergism
+
+### Anti-Reformation / Reaction
+
+### Socinus (Faustus Socinus, 1539–1604)
+
+- Revived Pelagian ideas
+- No original righteousness
+- No inherited guilt
+- No need for supernatural regeneration
+
+### Arminian Controversy
+
+### Jacob Arminius (1560–1609)
+
+**View of Man:**
+
+- Corrupted but not totally depraved
+
+**View of Grace:**
+
+- Prevenient grace restores ability
+
+**Election:**
+
+- Based on foreseen faith
+
+Led to:
+
+- Five Articles of Remonstrance
+
+### Synod of Dort (1618–1619)
+
+Responded with:
+
+- Total depravity
+- Unconditional election
+- Definite atonement
+- Effectual grace
+- Perseverance
+
+### School of Saumur
+
+### Amyraldus (1596–1664)
+
+- Hypothetical universalism
+- God decrees universal atonement conditionally
+- Then elects some effectually
+
+Attempted middle position within Calvinism
+
+### Later Developments
+
+### John Wesley (1703–1791)
+
+Wesleyan Arminianism:
+
+- Affirmed real original sin
+- Affirmed prevenient grace
+- Denied inability in final sense
+- Emphasized holiness
+
+### Jonathan Edwards (1703–1758)
+
+- Strong Calvinist
+- Deterministic view of will
+- Realistic union with Adam
+- Emphasized moral inability
+
+### Philosophical Influences
+
+### Immanuel Kant
+
+- Sin rooted in autonomous will
+- Moral evil as philosophical problem
+
+### Schleiermacher
+
+- Sin = weak God-consciousness
+- Denied objective inherited guilt
+
+## The Big Pattern
+
+| Camp          | Man     | Sin               | Grace            | Election          |
+| ------------- | ------- | ----------------- | ---------------- | ----------------- |
+| Pelagius      | Able    | Imitation         | External help    | None              |
+| Semi-Pelagian | Weak    | Diseased          | Cooperative      | Based on foreseen |
+| Augustine     | Dead    | Inherited guilt   | Monergistic      | Unconditional     |
+| Reformers     | Dead    | Total depravity   | Effectual        | Unconditional     |
+| Arminius      | Corrupt | Partial inability | Prevenient grace | Conditional       |
+
+## Augustine stance on elect - non-elect
+
+Let’s walk through it slowly and organize it into **three categories**:
+
+1. Grace in time
+2. Election in eternity
+3. The non-elect
+
+### 1️⃣ Augustine on Grace (What Happens in Time)
+
+Augustine believed:
+
+- Man is **spiritually dead** because of Adam.
+- The will is bound — not destroyed, but unable to love God rightly.
+- Grace is not assistance; it is **renewal**.
+- God changes the will so that the person freely believes.
+
+He did not mean grace forces the will. He meant grace **heals and reorders** the will.
+
+So:
+
+- God gives *prevenient grace* (awakening)
+- God gives *operative grace* (produces faith)
+- God gives *co-operative grace* (sanctification)
+
+Faith itself is a gift.
+
+This is clearly **monergistic regeneration**.
+
+### 2️⃣ Augustine on Election (What Happens in Eternity)
+
+Early Augustine (before deep controversy with Pelagius):
+
+- Thought election was based on **foreknowledge**
+- God elects those He foresees will believe
+
+Later Augustine (more mature view):
+
+- Realized that if faith itself is a gift,
+- Then God cannot be electing based on something man produces.
+- Therefore election must be based on God’s will alone.
+
+So he shifted to:
+
+- Election is unconditional.
+- God gives grace to the elect.
+- The elect will certainly believe because grace makes them willing.
+
+This is the root of later Reformed thought.
+
+### 3️⃣ Augustine on the Non-Elect (This is where nuance matters)
+
+Here is where he differs slightly from later strict Calvinism.
+
+He described reprobation as **pretermission**:
+
+- God “passes over” some.
+- He does not actively create their unbelief.
+- He withholds regenerating grace.
+- They remain in Adam — and are justly condemned.
+
+Important distinction:
+
+Election = active mercy
+Reprobation = just non-intervention
+
+He did **not** teach that God works evil in them.
+
+He believed:
+
+- All deserve condemnation.
+- God saves some by grace.
+- God leaves others in their deserved state.
+
+So:
+
+| Group     | Augustine’s View                                                 |
+| --------- | ---------------------------------------------------------------- |
+| Elect     | Unconditionally chosen; given grace; regenerated; will persevere |
+| Non-Elect | Passed over; not given saving grace; remain guilty in Adam       |
+
+He does not describe reprobation as symmetrical with election.
+
+### 4️⃣ What About Baptismal Regeneration?
+
+This is where historical Augustine differs from later Reformers.
+
+He believed:
+
+- Baptism was ordinarily the means by which grace is conveyed.
+- The Church functioned as dispenser of grace.
+
+However, this does not negate his monergism — it reflects his sacramental framework.
+
+He still believed:
+
+- Grace originates in God.
+- The Church is the instrument.
+- The elect ultimately persevere.
+
+This sacramental language later becomes more developed (and problematic) in medieval theology.
+
+### 5️⃣ Putting It All Together
+
+Augustine’s Mature Position:
+
+- Man is totally unable.
+- Grace is sovereign and effectual.
+- Election is unconditional.
+- Faith is the gift of God.
+- The elect are saved by active mercy.
+- The non-elect are justly left in sin (pretermission).
+- God is not the author of sin.
+
+He is not Semi-Pelagian.
+He is not modern Arminian.
+He is the theological bridge between Paul and Calvin.
+
+### 6️⃣ The Simple Summary
+
+Augustine held that all humanity fell in Adam and is spiritually dead. God eternally elected some to salvation, not based on foreseen faith but on His sovereign mercy. In time, God regenerates the elect by effectual grace, granting them faith and perseverance. The non-elect are not forced into sin but are passed over and left in their fallen condition, justly condemned. Election is active mercy; reprobation is just pretermission.
+
+---
+
+## Augustine vs. Calvin
+
+### 1️⃣ View of Man (Anthropology)
+
+**Augustine**
+
+- Humanity sinned in Adam (real participation).
+- Guilt and corruption transmitted.
+- Man is spiritually unable apart from grace.
+- Will is bound but still voluntary.
+
+**Calvin**
+
+- Humanity fell in Adam (federal headship emphasized more clearly).
+- Total depravity (every faculty corrupted).
+- Moral inability — man cannot choose God apart from regeneration.
+- Will chooses according to nature (bondage of will).
+
+🔎 **Difference:**
+Calvin articulates federal headship more clearly. Augustine leaned more toward a “realistic” participation model (humanity sinned in Adam organically).
+
+---
+
+### 2️⃣ Nature of Grace
+
+**Augustine**
+
+- Grace renews the will.
+- Faith is a gift.
+- Grace is effectual.
+- Used categories: prevenient, operative, cooperative grace.
+- Taught baptism as normal instrument of regeneration.
+
+**Calvin**
+
+- Grace is effectual and monergistic.
+- Regeneration precedes faith logically.
+- Faith is entirely gift.
+- Rejects baptismal regeneration.
+- Sacraments are signs/seals, not regenerating causes.
+
+🔎 **Difference:**
+Augustine retained sacramental regeneration language. Calvin rejects that and grounds regeneration directly in the Spirit’s sovereign work.
+
+---
+
+### 3️⃣ Election
+
+### Early Augustine
+
+- Election based on foreknowledge (initial view).
+
+### Mature Augustine
+
+- Election unconditional.
+- Based solely on God’s mercy.
+- Faith itself is gift of grace.
+
+**Calvin**
+
+- Election unconditional from the outset.
+- Explicitly grounded in God’s sovereign decree.
+- More systematically tied to God’s glory.
+
+🔎 **Difference:**
+Calvin presents a more fully developed decree structure. Augustine arrived there progressively.
+
+---
+
+### 4️⃣ Reprobation
+
+**Augustine**
+
+- Reprobation = pretermission (passing over).
+- God does not actively produce evil.
+- Leaves non-elect in just condemnation.
+
+**Calvin**
+
+- Affirms double predestination more explicitly.
+- God ordains both election and reprobation.
+- Still denies God is author of sin.
+- Reprobation is part of sovereign decree.
+
+🔎 **Difference:**
+Calvin is more symmetrical and explicit.
+Augustine is more cautious and asymmetrical.
+
+---
+
+### 5️⃣ Perseverance
+
+**Augustine**
+
+- True elect will persevere.
+- However, he sometimes spoke of grace being lost.
+- Distinguished between:
+
+  - Regenerated
+  - Those given perseverance
+
+**Calvin**
+
+- Perseverance guaranteed for all elect.
+- No true regeneration can be lost.
+
+🔎 **Difference:**
+Calvin clarifies perseverance more tightly and consistently.
+
+---
+
+### 6️⃣ Church & Sacraments
+
+**Augustine**
+
+- Church is primary dispenser of grace.
+- Strong sacramental realism.
+- Baptism linked closely to regeneration.
+
+**Calvin**
+
+- Church important but not dispenser of regenerating grace.
+- Sacraments confirm faith; do not create it.
+- Stronger distinction between visible/invisible church.
+
+🔎 **Difference:**
+Calvin removes medieval sacramental developments rooted in Augustine.
+
+---
+
+## 7️⃣ Summary Table
+
+| Doctrine               | Augustine         | Calvin                              |
+| ---------------------- | ----------------- | ----------------------------------- |
+| Total Depravity        | Yes               | Yes (more defined)                  |
+| Unconditional Election | Yes (mature view) | Yes (systematically)                |
+| Effectual Grace        | Yes               | Yes                                 |
+| Perseverance           | Yes, but nuanced  | Yes, firmly defined                 |
+| Reprobation            | Pretermission     | More explicit double predestination |
+| Baptismal Regeneration | Yes               | No                                  |
+| Federal Headship       | Less developed    | Strongly developed                  |
+
+---
+
+### The Big Picture
+
+Calvin did not invent Augustinian theology — he refined and systematized it.
+
+Augustine laid the theological foundation:
+
+- Total inability
+- Sovereign grace
+- Unconditional election
+- Faith as gift
+
+Calvin removed:
+
+- Sacramental regeneration
+- Certain inconsistencies on perseverance
+- Ambiguity on decree symmetry
+
+---
+
+### In One Sentence
+
+Augustine is the father of monergistic grace;
+Calvin is the architect of its systematic form.
+
+---
+
+## Calvin on Reprobation (Carefully Defined)
+
+Calvin did not teach that:
+
+- God creates evil in the heart.
+- God forces men to sin.
+- God is the author of sin.
+
+He taught that:
+
+- All men are already fallen in Adam.
+- All deserve condemnation.
+- God elects some to mercy.
+- God passes over others, leaving them in their sin.
+- God ordains even this outcome for His glory.
+- Man sins voluntarily and is fully accountable.
+
+This is often called **double predestination**, but Calvin distinguished between:
+
+- **Active mercy (election)**
+- **Judicial hardening / passing over (reprobation)**
+
+---
+
+## The Core Text: Romans 9
+
+**Romans 9:14–18 (NASB1995)**
+
+> vs. 14 *What shall we say then? There is no injustice with God, is there? May it never be!*  
+> vs. 15 *For He says to Moses, 'I WILL HAVE MERCY ON WHOM I HAVE MERCY, AND I WILL HAVE COMPASSION ON WHOM I HAVE COMPASSION.'*  
+> vs. 16 *So then it does not depend on the man who wills or the man who runs, but on God who has mercy.*  
+> vs. 17 *For the Scripture says to Pharaoh, 'FOR THIS VERY PURPOSE I RAISED YOU UP, TO DEMONSTRATE MY POWER IN YOU, AND THAT MY NAME MIGHT BE PROCLAIMED THROUGHOUT THE WHOLE EARTH.'*  
+> vs. 18 *So then He has mercy on whom He desires, and He hardens whom He desires.*
+
+Calvin argued:
+
+- Mercy is sovereign.
+- Hardening is also sovereign.
+- God is not reacting — He is ordaining.
+
+But notice Paul anticipates the objection:
+
+**Romans 9:19–21 (NASB1995)**
+
+> vs. 19 *You will say to me then, 'Why does He still find fault? For who resists His will?'*  
+> vs. 20 *On the contrary, who are you, O man, who answers back to God? The thing molded will not say to the molder, 'Why did you make me like this,' will it?*  
+> vs. 21 *Or does not the potter have a right over the clay, to make from the same lump one vessel for honorable use and another for common use?*
+
+Paul does not deny sovereignty to protect responsibility. He affirms sovereignty and silences pride.
+
+## Does This Remove Human Responsibility?
+
+No.
+
+Scripture holds both simultaneously.
+
+**Acts 2:23 (NASB1995)**
+
+> vs. 23 *this Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put Him to death.*
+
+- The crucifixion was predestined.
+- The men were guilty.
+
+God ordains.
+Men act willingly.
+Both are true.
+
+## God Is Not the Author of Sin
+
+**James 1:13–15 (NASB1995)**
+
+> vs. 13 *Let no one say when he is tempted, 'I am being tempted by God'; for God cannot be tempted by evil, and He Himself does not tempt anyone.*  
+> vs. 14 *But each one is tempted when he is carried away and enticed by his own lust.*  
+> vs. 15 *Then when lust has conceived, it gives birth to sin; and when sin is accomplished, it brings forth death.*
+
+Sin arises from the sinner’s own corrupt desire.
+
+Calvin argued:
+God ordains the event.
+Man provides the evil motive.
+
+### Reprobation Is Judicial
+
+**Proverbs 16:4 (NASB1995)**
+
+> vs. 4 *The LORD has made everything for its own purpose, Even the wicked for the day of evil.*
+
+God does not create wickedness in the heart.
+He ordains the existence of the wicked for just judgment.
+
+### Election Is Pure Mercy
+
+**2 Thessalonians 2:13 (NASB1995)**
+
+> vs. 13 *But we should always give thanks to God for you, brethren beloved by the Lord, because God has chosen you from the beginning for salvation through sanctification by the Spirit and faith in the truth.*
+
+Salvation is chosen by God.
+Faith is the result.
+
+### Man Is Still Fully Accountable
+
+**Ezekiel 18:20 (NASB1995)**
+
+> vs. 20 *The person who sins will die. The son will not bear the punishment for the father’s iniquity... The righteousness of the righteous will be upon himself, and the wickedness of the wicked will be upon himself.*
+
+God judges individuals for their own sin.
+
+No one is condemned for being *“non-elect.”*
+They are condemned for sin.
+
+### The Clean Theological Summary
+
+Calvin’s position:
+
+1. All men deserve condemnation.
+2. God sovereignly elects some to mercy.
+3. God passes over others, leaving them in their sin.
+4. God ordains this distinction for His glory.
+5. Man sins freely according to his nature.
+6. God is never the author of sin.
+7. Accountability remains intact.
+
+### The Key Distinction
+
+Election = Active mercy
+Reprobation = Judicial passing over
+
+Calvin is more explicit than Augustine, but he still maintains:
+
+- God decrees all things.
+- Man acts voluntarily.
+- God is holy.
+- Man is guilty.
+
+### Why This Feels Difficult
+
+Because Scripture teaches:
+
+- Absolute sovereignty (Romans 9)
+- Real responsibility (Acts 2)
+- No injustice in God (Romans 9:14)
+- No authorship of sin in God (James 1)
+
+We want to resolve the tension.
+Scripture maintains it.
+
+### A Final Clarifying Statement
+
+Reprobation does not mean:
+
+*“God prevents people from believing who want to believe.”*
+
+It means:
+
+*“No fallen person wants God or seeks after Him.”*
+
+**Romans 3:9-12**
+
+> vs. 9 *What then? Are we better than they? Not at all; for we have already charged that both Jews and Greeks are all under sin;*  
+> vs. 10 *as it is written,*  
+> *“There is none righteous, not even one;*  
+> vs. 11 *There is none who understands,*  
+> *There is none who seeks for God;*  
+> vs. 12 *All have turned aside, together they have become useless;*  
+> *There is none who does good,*  
+> *There is not even one.”*
+
+**John 6:37 (NASB1995)**
+
+> vs. 37 *"All that the Father gives Me will come to Me, and the one who comes to Me I will certainly not cast out."*
+
+Those given come.  
+Those not given remain unwilling.
+
+---
