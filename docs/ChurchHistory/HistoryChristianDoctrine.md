@@ -76,3 +76,15 @@ Throughout this section, the central struggle is clear: What did Christ accompli
 Ultimately, this chapter shows that the atonement is foundational because it reveals the character of God — His justice, righteousness, love, mercy, and sovereignty working together in His perfect plan of redemption.
 
 ---
+
+## **Doctrine of the Atonement (Since the Reformation)**
+
+This section traces the development and defense of the doctrine of the atonement from the Reformation onward. While the Reformers and the Roman Catholic Church both affirmed that Christ’s death was a satisfaction for sin, they differed significantly on how that satisfaction is applied. The Reformers strengthened Anselm’s teaching by grounding the atonement more clearly in God’s justice, defining sin as transgression of divine law, and emphasizing the penal and substitutionary nature of Christ’s death. They distinguished between Christ’s active obedience (His perfect life under the Law) and passive obedience (His suffering and death), affirming that both were necessary to fully satisfy divine justice. Justification was clarified as being by faith alone — not as a meritorious act, but as the instrument by which believers receive Christ’s righteousness.
+
+Following the Reformation, new challenges emerged. Socinianism denied the Trinity, rejected substitution, and reduced forgiveness to an act of divine leniency. The Governmental Theory (Grotius) weakened the concept of satisfaction by portraying Christ’s death as a demonstration meant to uphold moral order rather than as true penal substitution. Arminianism affirmed Christ’s death as sacrificial but denied that it was a full satisfaction of justice, asserting instead a universal design of the atonement that depended ultimately on human will.
+
+The Synod of Dort responded by affirming that Christ’s atonement is of infinite worth and sufficient for all, yet intentionally and effectively applied only to the elect. Later developments such as Neonomianism and various Moral Influence theories attempted to reframe the atonement in more subjective or man-centered terms. Liberal theology further eroded substitutionary atonement by denying Christ’s deity or redefining reconciliation as merely a change in human attitude.
+
+Throughout these controversies, the central issue remained the same: What did Christ actually accomplish at the cross? This chapter demonstrates that doctrinal conflicts, though often painful, clarified and strengthened the Church’s confession. The atonement is not merely an abstract theological concept — it reveals the justice, holiness, love, and sovereignty of God. The Church must therefore continue to contend for the faith once delivered, guarding the truth that Christ’s death fully satisfied divine justice and accomplished real redemption for His people.
+
+---

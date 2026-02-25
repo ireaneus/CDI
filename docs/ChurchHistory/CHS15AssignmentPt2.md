@@ -507,11 +507,10 @@ Therefore, the atonement cannot be an actual substitutionary payment for every i
 
 Christ did not merely make redemption “possible.” He accomplished it.
 
-- *“It is finished.”* (**John 19:30**)
-- *“By one offering He has perfected for all time those who are sanctified.”* (**Hebrews 10:14**)
-- *“He Himself bore our sins in His body on the cross.”* (**1 Peter 2:24**)
-
-Notice — not “potentially bore,” but **bore**.
+- *“She will bear a Son; and you shall call His name Jesus, for He will save His people from their sins.”* (**Matthew 1:21**)  
+- *“Blessed be the Lord God of Israel, For He has visited us and accomplished redemption for His people.”* (**Luke 1:68**)  
+- *“To give to His people the knowledge of salvation By the forgiveness of their sins.”* (**Luke 1:76–77**)  
+- *“He entered the holy place once for all… having obtained eternal redemption.”* (**Hebrews 9:11–12**)  
 
 ### 5️⃣ What About “World” Texts?
 
@@ -835,7 +834,7 @@ Heidelberg Catechism
 **Atonement Clarified:**
 Christ bore:
 
-> “The wrath of God against the sin of the whole human race.”
+> *“The wrath of God against the sin of the whole human race.”*
 
 Strong penal substitution emphasis.
 
