@@ -206,10 +206,10 @@ In 1892, Rudolph Sohm, (1841-1917) a German-Lutheran theologian and church histo
 
 - the Early Church had no legal constitution,
 - ecclesiastical law stands in contradiction to the nature of Ecclesia,
-- the Early Church was ruled not by legal concepts but by a power he called "charisma" ("a gift of grace") bestowed by the Holy Spirit, and
+- the Early Church was ruled not by legal concepts but by a power he called *"charisma"* (**"a gift of grace"**) bestowed by the Holy Spirit, and
 - the charismatically based Jesus movement of the Early Church changed into the legalistic bureaucracy of Roman Catholicism.
 
-The Apostolic Fathers and the Apologists generally represented the Church as “The Communion of The Saints” – the People of God – those He has chosen for a possession. They did, at times, refer to the church as: “The True Israel;” though how it related to the people of Israel and God’s covenant with them was not always clear.
+The Apostolic Fathers and the Apologists generally represented the Church as *“The Communion of The Saints”* – the People of God – those He has chosen for a possession. They did, at times, refer to the church as: *“The True Israel;”* though how it related to the people of Israel and God’s covenant with them was not always clear.
 
 ## Question 1
 
@@ -229,58 +229,182 @@ By the second century, with the rise of heresies, it became necessary to designa
 
 **2. What should be the external characteristics that designate a true church, a truly Christian church? Are there core doctrines, practices or a specific organizational structure we must use? What are some things that we probably should not use to determine a true church? For example, I once heard that if a church did not have a bus ministry and a gymnasium, then it was not a New Testament church. What would you put on this list?**
 
-The local churches were thought of, not separate units, but parts of the universal church (governed by the bishops). They would be true churches only as long as they were loyal and subject to the catholic Church as a whole.
+When we look at the development of the doctrine of the Church in , one consistent theme emerges: whenever the Church drifted toward purely external measures (hierarchy, politics, buildings, programs), confusion and corruption followed. Likewise, whenever groups reduced the Church merely to personal holiness or private spirituality, imbalance also resulted.
 
-The sects (Montanism, Novatianism, and Donatism) tended to focus on the holiness of its members as the real mark of the true Church. This was a reaction against the gradual secularization and increasing worldliness and corruption of the Church.
+### External Characteristics of a True Church
 
-The Montanists (late 2nd century)
+Based on Scripture and the best insights of the Reformation (especially the Lutheran and Reformed emphasis), the following external characteristics should mark a true church:
 
-- railed against the worldliness of the churches,
-- insisted on ascetic practices,
-- declared sins after baptism as unpardonable, but
-- said there was a possibility of atoning for mortal sins by martyrdom.
+1. **The Pure Preaching of the Word (the Gospel)**
+   The church must faithfully proclaim the biblical gospel — Christ crucified and risen.
 
-The Novatians (middle of 3rd century)
+   > **Romans 1:16 (NASB1995)**
+   > *For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.*
 
-- worked for the purity of the church, believing that the Church has no power to forgive those who had denied the faith during the Decian persecution (249-251) and then sought readmission to the Church.
-- they also re-baptized those who joined their circle.
+   > **2 Timothy 4:2 (NASB1995)**
+   > *Preach the word; be ready in season and out of season; reprove, rebuke, exhort, with great patience and instruction.*
 
-The Donatists (beginning of 4th century)
+2. **Right Administration of the Ordinances (Baptism and the Lord’s Supper)**
+   These are to be practiced according to Christ’s command — not magically, not neglected, but biblically.
 
-- rejected those who denied the faith during the persecution of Diocletian (284-304),
-- insisted on rigorous ecclesiastical discipline,
-- insisted on a pure church-membership,
-- rejected unworthy ministers, and
-- protested state interference in religious matters – though they themselves courted the favor and protection of the emperor.
+   > **Matthew 28:19–20 (NASB1995)**
+   > *Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit, teaching them to observe all that I commanded you…*
+
+   > **1 Corinthians 11:23–26 (NASB1995)**
+   > *For I received from the Lord that which I also delivered to you…*
+
+3. **Faithful Church Discipline**
+   Loving correction and accountability are biblical marks of a healthy church.
+
+   > **Matthew 18:15–17 (NASB1995)**
+   > *If your brother sins, go and show him his fault in private…*
+
+   > **1 Corinthians 5:12–13 (NASB1995)**
+   > *Remove the wicked man from among yourselves.*
+
+4. **Biblically Qualified Leadership**
+   While Scripture allows for different church governance models (elder-led, congregational, presbyterian, etc.), leaders must meet biblical qualifications.
+
+   > **1 Timothy 3:1–7 (NASB1995)**
+   > *An overseer, then, must be above reproach…*
+
+The New Testament does not mandate one universal structural model (bishop vs. elder vs. presbytery), but it does mandate spiritual qualifications and servant leadership (Matthew 20:25–28).
+
+### Core Doctrines That Must Be Present
+
+A true Christian church must hold to essential biblical doctrines, including:
+
+- The Trinity
+- The full deity and humanity of Christ
+- Salvation by grace through faith
+- The bodily resurrection of Christ
+- The authority of Scripture
+
+> **Ephesians 2:8–9 (NASB1995)**
+> *For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works…*
+
+> **1 Corinthians 15:3–4 (NASB1995)**
+> *Christ died for our sins according to the Scriptures… He was buried, and that He was raised on the third day…*
+
+If these core truths are denied, the church ceases to be truly Christian, regardless of its size, structure, or history.
+
+### What Should NOT Determine a True Church
+
+History (as seen in the sects and hierarchical excesses described in ) shows us what not to use as measuring sticks:
+
+- Buildings, gyms, or bus ministries
+- Size or numerical growth
+- Cultural influence or political power
+- Emotional intensity
+- Strict external holiness codes
+- Denominational label
+- Apostolic succession alone
+- National affiliation or state recognition
+
+Programs, facilities, and ministries may be helpful tools — but they are not biblical marks of the Church.
+
+A church does not become *“New Testament”* because it has:
+
+- A bus ministry
+- A gymnasium
+- A certain music style
+- A particular dress code
+
+None of these are found as defining marks in Scripture.
+
+### Question 2 Conclusion
+
+A true church is not defined primarily by:
+
+- Hierarchical authority (as in later Roman developments),
+- External purity tests (as in Montanism, Novatianism, Donatism), nor
+- Mere institutional visibility.
+
+Rather, a true church is recognized where:
+
+- The Gospel is faithfully preached,
+- The ordinances are rightly administered,
+- Discipline is lovingly practiced,
+- Leaders are biblically qualified, and
+- Christ alone is acknowledged as Head.
+
+> **Colossians 1:18 (NASB1995)**
+> *He is also head of the body, the church…*
+
+The external characteristics must reflect internal spiritual reality. The Church is both visible and invisible — but its visibility must align with Scripture, not with tradition, politics, or preference.
+
+That is the balance point history repeatedly shows us.
 
 ## Question 3
 
-**3. Is the idea of a pure church membership in the local church, realistic? Where is the balance? Augustine considered Jesus’ teaching on the wheat and the tares as evidence that a pure (visible) church is not expected. See Mt 13:24-30 (the parable) and 13:36-43 (the explanation). What do you think?**
+**3. Is the idea of a pure church membership in the local church, realistic? Where is the balance? Augustine considered Jesus’ teaching on the wheat and the tares as evidence that a pure (visible) church is not expected. See Mt 13:24–30 and 13:36–43. What do you think?**
 
-Does this mean that we should somehow make accommodation for the tares? Is there really any church, this side of the return of Christ, which could seriously consider itself as pure? Is God able, through the work of Jesus Christ, the Holy Spirit and His word, to transform tares into wheat?
+The idea of a perfectly pure visible church is not realistic this side of Christ’s return. Jesus Himself teaches that within the present age, the kingdom will contain both true believers and false professors until the final judgment.
 
-The Church Fathers took issue with all these sects and emphasized the episcopal (rule by bishops) institution of the Church.
+> **Matthew 13:24–30 (NASB1995)**
+> *The kingdom of heaven may be compared to a man who sowed good seed in his field… but while his men were sleeping, his enemy came and sowed tares among the wheat…*
+> *“Allow both to grow together until the harvest…”*
 
-Cyprian (200-258) was the first to develop the doctrine of the episcopal (bishop led) Church. He regarded the bishops as chosen by the Lord Himself and as the real successors of the Apostles. He maintained, based on **Matthew 16:18**, that the Church was founded on the bishops. He considered the bishop as the absolute lord of the Church (the local congregations within his area), it was he who decided who could belong to the Church and who could be restored to fellowship. The bishop conducted the worship of the Church as a priest of God – by virtue of their sacrificial work. He saw the unity of the Church as based on the unity of the bishops. He also maintained their parity and ascribed no primacy to the bishop of Rome.
+> **Matthew 13:36–43 (NASB1995)**
+> *The one who sows the good seed is the Son of Man… the field is the world… the good seed, these are the sons of the kingdom; and the tares are the sons of the evil one… So just as the tares are gathered up and burned with fire, so shall it be at the end of the age.*
 
-> **Matthew 16:18 (NASB1995)**  
-> *I also say to you that you are Peter, and upon this rock I will build My church; and the gates of Hades will not overpower it.*
+Jesus makes it clear that the final separation belongs to Him at “the end of the age,” not to us now. Therefore, a completely pure visible church is not expected in this present time.
 
-He taught that true members always obey and remain in the Church, outside of which there is no possibility of being saved.
+### Where Is the Balance?
 
-He denied the validity of baptism administered by heretics and taught that only the leaders who received the Spirit – which could be received only in the Church – could impart forgiveness of sins. These were, at least in part, “Cyprian’s grand contributions to the progress of error and corruption in the Church.” (Cunningham – Historical Theology pg.169)
+1. **We do not aim for careless tolerance.**
+   Scripture commands church discipline.
 
-Augustine’s (354-430) struggle with the Donatists compelled him to reflect more deeply on the essence of the Church. Sadly, his conception of the Church does not harmonize with his doctrine of sin and grace. There is a dualism in his idea of the Church:
+   > **Matthew 18:15–17 (NASB1995)**
+   > *If your brother sins, go and show him his fault in private…*
 
-On the one hand, he is the predestinarian who conceives of the Church as the company of the elect, The Communion (community) of the Saints, who have the Spirit of God and are characterized by true love. These truly belong to the Church – not just in an outward sense. The real unity of the saints is an invisible one.
+   > **1 Corinthians 5:13 (NASB1995)**
+   > *Remove the wicked man from among yourselves.*
 
-On the other hand, he is the Churchman, who holds to the Cyprianic idea of the Church, in its general aspects. The true Church is the catholic Church, in which the apostolic authority is continued by episcopal succession – outside of which there is no salvation – its sacraments are not merely symbols, with divine energy: Sins are really forgiven in Baptism and the Lord’s Supper gives spiritual refreshment to the soul. This Church is a mixed body but is destined for perfect purity in the future.
+   The Church must confront open, unrepentant sin.
 
-The Donatists criticized Augustine saying that he split the Church into two Churches: the mixed Church of the present and the pure Church of the future in heaven. Augustine maintained the purity of the one catholic Church also in the present, but sought it more particularly in the objective institution – with its offices, sacraments and ministries; he also defended a certain subjective purity.
+2. **We do not claim perfect purity.**
+   We cannot infallibly distinguish the elect from false professors.
 
-Augustine’s view of the Kingdom of God went beyond the earlier Church Fathers, who used the term to describe the result and goal of the Church’s development – the eschatological Kingdom to come.
+   > **2 Timothy 2:19 (NASB1995)**
+   > *The Lord knows those who are His…*
 
-Augustine said, “The Church is the Kingdom of Heaven, even now.” By this, he means primarily that the saints constitute the Kingdom of God – though he applies this term to the leaders of the Church collectively. The contrast between the city (State/Kingdom) of God and the city (State/Kingdom) of the world is regarded as equivalent to that between Christianity and heathenism, between the good and the bad, between the saints and the wicked – even within the Church – between the spiritual and the carnal, between the elect and the non-elect. He never was able to affect a true synthesis of his divergent views about the Church. It could certainly be questioned as to whether such a harmonizing could be possible.
+   The visible church will always be a mixed body until Christ returns.
+
+3. **We trust the transforming power of God.**
+   The gospel can turn tares into wheat.
+
+   > **2 Corinthians 5:17 (NASB1995)**
+   > *Therefore if anyone is in Christ, he is a new creature…*
+
+   No one is beyond the reach of grace while there is repentance.
+
+### Historical Perspective
+
+As noted in , groups like the Montanists, Novatians, and Donatists insisted on a rigorously pure church membership. Their reaction arose from real corruption and worldliness. However, their solution often overcorrected — denying restoration to repentant sinners or re-baptizing members.
+
+Augustine responded by emphasizing:
+
+- The **invisible church** (the elect known perfectly only to God), and
+- The **visible church** (a mixed body in the present age).
+
+Though Augustine’s synthesis had tensions, he rightly recognized that the Church now is not perfectly pure, but will be in the future.
+
+### Question 3 Conclusion
+
+A completely pure local church is not realistic before Christ’s return. The biblical balance is:
+
+- Maintain doctrinal faithfulness.
+- Practice loving church discipline.
+- Call sinners to repentance.
+- Recognize that only Christ will perfectly separate wheat from tares at His return.
+
+The Church must pursue holiness without claiming infallibility.
+
+> **Ephesians 5:27 (NASB1995)**
+> *That He might present to Himself the church in all her glory, having no spot or wrinkle… but that she would be holy and blameless.*
+
+Perfect purity belongs to the future glorified Church — not the present visible one.
 
 ## Question 4
 
