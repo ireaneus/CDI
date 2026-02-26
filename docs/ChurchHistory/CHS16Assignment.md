@@ -51,7 +51,7 @@ In the Last Session
 - It would be unreasonable to look for a common, definite, well-integrated and fully developed view of the application of the work of redemption in the earliest Church Fathers.
 - **Karl Kahnis** – a Lutheran theologian said: *“It stands as an assured fact, a fact knowing no exceptions, and acknowledged by all well versed in the matter, that all of the pre-Augustinian Fathers taught that in the appropriation of salvation there is a co-working of freedom and grace.”*
 - This was in harmony with the New Testament statement, that man obtains the blessing of salvation by *“repentance toward God and faith in our Lord Jesus Christ”* **(Acts 20:21)**; the early Fathers stressed these requirements.
-- They regarded faith as the way we receive the merits of Christ, and often called it the “only means.”
+- They regarded faith as the way we receive the merits of Christ, and often called it the *“only means.”*
 - They taught, that faith consists of:
     - True knowledge of God.
     - Confidence in Him.
@@ -71,7 +71,7 @@ In the Last Session
 
 **Born Catholic**
 
-- Rudolph Sohm, a German-Lutheran theologian and church historian, explained the departure from the teachings of Scripture in the fact that “the natural man is born Catholic.”
+- Rudolph Sohm, a German-Lutheran theologian and church historian, explained the departure from the teachings of Scripture in the fact that *“the natural man is born Catholic.”*
 
 **Pelagius**
 
@@ -127,13 +127,13 @@ In the Last Session
 - There was much discussion about the order of events related to a person experiencing God’s grace and salvation.
 - This ordering is about God’s working, not about our completion of a series of steps.
 - I have included, in your notes, a chart that shows the “order of salvation” from five perspectives: Calvinism, Modified Calvinism, Classical Arminian/Wesleyan, Lutheran and Catholic.
-- Those wishing to sustain an idea of sequential order in salvation appeal to a variety of Scriptures, especially, Romans 8:29-30, “For those whom He foreknew He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren and these whom He predestined, He also called and these whom He called, He also justified and these whom He justified, He also glorified.”
+- Those wishing to sustain an idea of sequential order in salvation appeal to a variety of Scriptures, especially, **Romans 8:29-30**, *“For those whom He foreknew He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren and these whom He predestined, He also called and these whom He called, He also justified and these whom He justified, He also glorified.”*
 - However, when we compare the various lists in our chart, with the Scriptures, there seems to be some gaps or perhaps dyslexia in the order?
 - Some theologians have criticized the idea of an order of salvation.
-- They think that we run the risk of "psychologizing" salvation and that we do not do justice to the fullness of salvation by trying to determine the order or timing in the process.
+- They think that we run the risk of *"psychologizing"* salvation and that we do not do justice to the fullness of salvation by trying to determine the order or timing in the process.
 - The concept of an ordered sequence of the doctrine of salvation was an important part of the construction of the Westminster Confession.
 - In addition, some have observed that Christians cannot avoid thinking about the particular elements of salvation and the order in which they are experienced. This is the way humans operate.
-- Perhaps we should consider, Deut 29:29 – “The secret things belong to the LORD our God, but the things revealed belong to us and to our sons forever, that we may observe all the words of this law.”
+- Perhaps we should consider, **Deut 29:29** – *“The secret things belong to the LORD our God, but the things revealed belong to us and to our sons forever, that we may observe all the words of this law.”*
 - Let us beware of speculation and take our stand on the sure foundation of God’s Word.
 
 **To Consider**
@@ -203,247 +203,418 @@ Faith consisted in true knowledge of God, confidence in Him, self-committal to H
 
 This faith, rather than the works of the law, was regarded as the means of justification. They generally did not expand on this doctrine – mostly repeating what they found in the Bible!
 
+## Question 1
+
 **1. Discuss “repeating what they found in the Bible” is always safe ground to stand on. Read 1 Corinthians 4:6, “…learn not to exceed what is written…”**
 
-Despite all their emphasis on the grace of God and on faith as the way we obtain salvation, the early Fathers reveal a moralism that is not in harmony with the Pauline doctrine of salvation. The Gospel is often described as a new law. They tended to see salvation as depending on the grace of God AND on the voluntary co-operation of man.
+*“Repeating what they found in the Bible”* is safe ground because it keeps doctrine anchored in Scripture rather than in speculation or human reasoning. Paul warns in **1 Corinthians 4:6** to
+
+> *'Now these things, brethren, I have figuratively applied to myself and Apollos for your sakes, so that in us you may learn not to exceed what is written, so that no one of you will become arrogant in behalf of one against the other.'*
+
+reminding us that truth and authority come from God’s revealed Word, not from theological creativity. When the early Fathers simply repeated Scripture, they protected the church from drifting into moralism, legalism, or philosophical additions. The danger begins when we go beyond what is written and begin building doctrines on human logic rather than divine revelation.
+
+## Question 2
 
 **2. What is it in us, which pulls us toward moralism and legalism? Moralism means that we have an especially undue emphasis on morality. Legalism refers to the idea that we are saved by the keeping of the Law, or a variety of other standards established by the Scripture or by others.**
 
-It is certainly connected to pride and ego. It is also connected to “the flesh,” that principle of sin we see in Romans 7:14-25. We want to appear spiritual and “on God’s side,” so we compare ourselves to others – see 2 Corinthians 10:12. Perhaps we are hoping that, if we condemn sin in others, He won’t notice our sin and hypocrisy?
+What pulls us toward moralism and legalism is our pride and what Paul calls *“the flesh.”* We want to contribute something to our salvation. Legalism gives us measurable standards so we can feel righteous, compare ourselves with others, and maintain a sense of control.
 
-To the early Fathers, repentance, alongside of faith, was regarded as a preliminary condition of salvation. The question was whether they conceived of it merely as an act or as a condition of the mind, or regarded it as including amendment of life. The moralistic perversion of New Testament Christianity – seeing good works in a legal vs. evangelical sense – was the continuation of the Judaistic legalism combated in Galatians; and the natural self-righteousness of the human heart.
+Paul describes this inner struggle in **Romans 7:14–25**, especially when he speaks of *“a different law in the members of my body, waging war against the law of my mind”* (Rom. 7:23). Even when we agree that God’s law is good, there is a war within us. The flesh resists total dependence on grace.
 
-It should be noted, that the Church Fathers of the first three centuries already reveal an initial drift towards ceremonialism – especially in the idea that baptism carried with it the forgiveness of previous sins and that pardon for sins committed after baptism can be obtained by penance. Gradually the idea that the good works of some, and especially the sufferings of martyrs, may serve to atone for sins of others.
+This is why we drift toward comparing ourselves with others rather than relying fully on Christ (cf. **2 Corinthians 10:12**). Legalism feeds pride; grace humbles it. The pull toward moralism is simply the natural reflex of the fallen heart.
 
-Rudolph Sohm, (1841-1917) a German-Lutheran theologian and church historian, explained the departure from the teachings of Scripture in the fact that “the natural man is born Catholic.”
+## Question 3
 
 **3. What does he mean that “the natural man is born Catholic”?**
 
-Here is the quote in context: This "fall" – from the authentic church - occurs because the unregenerate "natural man" is a "born Catholic" who seeks legal authenticity and a guarantee of salvation and who desires what is tangible and visible, providing pomp and circumstance that appeal to the senses. This "natural man" relies upon "small faith" bound to ecclesiastical law that is, bound to the past. – Perhaps we might classify this with "the flesh," the principle of sin or the idea of "works righteousness."
+When Sohm says *“the natural man is born Catholic,”* he is describing a universal tendency in fallen humanity — not merely Roman Catholicism as a denomination.
 
-**The Soteriology of the Remaining Centuries of the Patristic-Period**
+The natural man prefers religion that is visible, structured, and measurable. He wants rituals, external authority, and systems that seem to guarantee salvation. This appeals to the flesh because it offers control and tangible assurance.
 
-Pelagius deviated much further from the Scriptural representation of the application of redemption. He forsook the biblical foundation and re-asserted the self-sufficient principle of heathen philosophy. “God helps those who help themselves.” His view of grace consisted only in:
+Instead of resting in salvation by grace through faith, the fallen heart gravitates toward ceremony, law, and works-righteousness. In short, we naturally prefer a religion we can manage rather than one that humbly depends on sovereign grace.
 
-- The good of nature – man is endowed with a free will.
-- So that he can do either good or evil.
-- The Gospel is preached and the example of Christ are directed to the mind of man to teach the way of salvation.
-- It is given only to those who make a proper use of their natural powers.
+## Question 4
 
 **4. What would be “the way of salvation” according to Pelagius?**
 
-Be or do good to others. Make use of your natural powers? Perhaps this means "reach your full potential as a human being"? Be the best you! Be kind and nice to others. Do unto others...
+According to Pelagius, the way of salvation is essentially the proper use of one’s natural abilities. Since he denied total depravity, he believed man is born morally capable of choosing good or evil without the need for inward transforming grace.
 
-Augustine starts with a radically different view of man’s natural condition. He regards man as totally depraved and utterly unable to perform spiritual good. Grace consists of the Gospel, baptism and the forgiveness of sins – among other things; but realizes this is not sufficient – that man needed something internal, a spiritual grace, a supernatural influence of the Spirit of God enlightening the mind and inclining the will towards holiness. He distinguished between:
+Grace, in his view, consists mainly of external helps — the law, the teaching of the Gospel, and the example of Christ. Therefore, salvation comes by choosing to obey, doing good, and improving oneself through moral effort.
+
+In short, the “way of salvation” for Pelagius is self-improvement and moral obedience — God helps those who help themselves.
+
+## Question 4a
+
+**Question 4a – What would be “the way of salvation” according to Augustine?**
+
+According to Augustine, the way of salvation begins entirely with God’s grace. Because man is totally depraved and unable to perform spiritual good on his own, salvation cannot originate in human effort or free will.
+
+Grace must first act upon the sinner — *“grace that goes before”* — awakening the will and enabling faith. God not only offers external means such as the Gospel and baptism, but also provides internal, supernatural grace that enlightens the mind and inclines the will toward holiness.
 
 - *“Grace that goes before man when unwilling, that he may will,”* and
 - *“Grace that follows him when willing, that he may not will in vain.”*
 
-Grace is irresistible in the sense that it inevitably renews the heart, so that the will voluntarily chooses the right.
+Thus, the way of salvation for Augustine is not self-improvement, but sovereign, transforming grace that produces faith, renews the heart, and enables obedience. Salvation is rooted in God’s initiative, not man’s ability.
 
-Faith marks the beginning of the Christian life and is the source of all good works. It is primarily an intellectual assent to the truth. He distinguished between believing Christ and believing IN Christ: one really believes in Christ only when one loves Him and fixes his hope on Him. Christian faith works by love.
+Augustine starts with a radically different view of man’s natural condition. He regards man as totally depraved and utterly unable to perform spiritual good. Grace consists of the Gospel, baptism and the forgiveness of sins – among other things; but realizes this is not sufficient – that man needed something internal, a spiritual grace, a supernatural influence of the Spirit of God enlightening the mind and inclining the will towards holiness. He distinguished between:
 
-In justification, God not merely declares but makes the sinner righteous by transforming his inner nature; assuming sanctification is included in justification. Everything is related to the grace of God.
+## Question 5
 
 **5. Is there a legitimate distinction between “believing Christ” and “believing in Christ”? How would you explain the distinctions? Are they significant?**
 
-I would see believing Christ as the prerequisite for believing in Christ. I must believe the things that Jesus taught about Himself, about God, about salvation and about following Him, as His disciple. This would lead me to a commitment to follow Him, believing in Him – that He, Himself is my salvation. It is not just His teachings and ideas that I believe, that I trust and have faith in; but it is Jesus, Himself that I trust and have faith in.
+Yes, there is a legitimate and important distinction between *believing Christ* and *believing in Christ*, and the difference is significant.
 
-The Semi-Pelagians denied the total inability of man to do spiritual good but did admit his inability to perform really saving works without the assistance of divine grace. God’s grace illuminates the mind and supports the will, but always in such a manner that the free will of man is in no way compromised; the two work together to accomplish redemption. God’s grace is universal and intended for all, but only becomes effective in those who make a proper use of their free will. Pelagianism was condemned by various councils/synods and Augustinianism appeared triumphant in the Church.
+To **believe Christ** is to accept what He says as true. *“Faith comes from hearing, and hearing by the word of Christ”* (**Romans 10:17**). We must first hear and believe the message about who Jesus is, what He taught, and what He accomplished. This is intellectual assent to revealed truth.
 
-Augustine’s doctrine did undergo some modifications, since it contained some elements that conflicted with man’s absolute dependence on God and pointed toward ceremonialism and works-righteousness:
+But to **believe in Christ** goes further. Scripture says, *“If you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved”* (**Romans 10:9**). This is not mere agreement with facts; it is heart-level trust, reliance, and submission. It is entrusting oneself to Christ personally.
 
-- Participation in the grace of God is dependent on the Church and its sacraments.
-- Regeneration may be lost again.
+- So believing Christ is accepting His testimony.
+- Believing in Christ is resting in Him as Savior and Lord.
 
-The doctrine of justification by faith does not consist primarily in the forgiveness of sins but in regeneration – the infusion of grace, which enables man to do good works and to merit everlasting life.
+The distinction matters because saving faith is not simply believing ideas about Jesus, but trusting Jesus Himself. Faith comes by hearing the Word, but it culminates in personal reliance upon the Person.
 
-Faith justifies, not because it appropriates the righteousness of Jesus Christ, but because it works by love. Grace merely serves the purpose of making it possible for man once more to merit salvation.
-
-Though these ideas were foreign to his main teaching, some were eager to use them to give credence to the Semi-Pelagian teaching.
-
-The Church eventually settled on a modified Augustinianism and “grace alone” was upheld; but the doctrine of predestination was abandoned, along with irresistible grace. The doctrine of grace was brought closer to popular Catholicism by the exaltation of good work as the aim of the divine impartation of grace.
+## Question 6
 
 **6. Review and discuss “influences contrary to the doctrine of grace as the source of all spiritual blessings” (below). What were the contrary ideas that were being supported by some of the Catholic Church’s practices?**
 
-Some influences contrary to the doctrine of grace as the source of all spiritual blessings included:
-
-The tendency to confound faith with orthodoxy – assuming to believe was simply to hold an orthodox creed; focusing on a list of doctrines that required assent. (This is not just a “Catholic” issue, is it.)
-
-Works of mercy and self-discipline were highly commended and often described as the proper way of making satisfaction for the sins of believers.
-
-Many Church Fathers distinguished between divine commands, which were absolutely binding on all Christians, and evangelical counsels, which were a matter of choice, but brought greater reward to those who observed them, with eminent holiness belonging to those who were diligent in the performance of certain externals.
-
-The increasing practice of saint-worship and dependence on the intercession of saints, and especially of the virgin Mary, proved detrimental to spiritual conceptions of salvation; leading to reliance on the works of man; the saints having a super-abundance of good works and could simply transfer some of them to others.
-
-There was a growing tendency to make salvation dependent on baptism, which marked the entrance into that Church outside of which there is no salvation.
-
-**The Soteriology of the Scholastic Period**
-
-There were varieties of opinions regarding the main elements of the saving process: grace, faith, justification, merit and good works. Overall, the position of the Church was that of a mild Augustinianism, though the Schoolmen drifted toward Semi-Pelagianism.
-
-**The Scholastic Conception of Grace**
-
-Pelagianism (and the Semi version) asserted that it lay within the power of the natural man to originate and increase faith.
-
-The Scholastics generally maintained that man could not do this without the aid of sufficient grace. (Sufficient grace is the grace all men are given.)
-
-Augustine asserted the necessity of efficient grace. (Efficient grace is a higher form of grace that, if received, leads to justification.)
-
-Peter the Lombard distinguished between grace which enables man to turn to God in faith and grace that co-operates with the will and is effective in bringing about the desired results. The first is worked in man without any action on his part.
-
-Alexander of Hales (along with Thomas Aquinas) introduced another division by speaking of:
-
-- Grace giving freely – referring to the gracious activity of God.
-- Grace given freely – designating all actual graces and infused virtues.
-- Grace making gracious – as a permanent quality of the soul.
-
-**The Scholastic Conception of Faith**
-
-The Schoolmen tended to distinguish between faith as a form of knowledge – a mere assent to the truth and faith as a spiritual affection – productive of good works.
-
-Peter the Lombard makes a three-fold distinction:
-
-- To believe in a god/God
-- To believe in God
-- To believe God (so as to love Him, be joined to Him)
-
-**The Scholastic Conception of Justification and Merit**
-
-Augustine’s confusion of justification and sanctification was not rectified by the Schoolmen – it was intensified. Their common teaching being, that justification is effected through the infusion of sanctifying grace into the soul by God; included the forgiveness of sins and on the part of man the turning of his free will to God through faith and contrition. However, of course, this did not apply to infants, in them justification is entirely the work of God and is only the infusion of grace and the remission of original sin. (via baptism?)
-
-Justification was never conceived of as a mere imputation of the righteousness of Christ to the sinner. The big debate was over the order of the various elements in justification.
-
-Thomas Aquinas said that:
-
-- First was the infusion of grace.
-- Then the turning of the free will to God.
-- Next the turning of the free will against sin.
-- Finally, the remission of guilt.
-
-Alexander Hales & Bonaventura contended for a different order:
-
-- Attrition or turning from sin.
-- Infusion of grace (with attrition becoming contrition).
-- Remission or expulsion of sin.
-- The turning of the free will to God.
-
-Duns Scotus had a completely different opinion. Justification consisted of two divine operations:
-
-- The forgiveness of sins.
-- The renovation of the soul through sanctifying grace; the two being simultaneous in time with forgiveness preceding the infusion of grace.
-
-The Scholastics speak of justification as instantaneous but the Council of Trent mentions a progressive increase of justification. Aquinas maintains that assurance of justification is not the common privilege of believers in general, but only for those who have accomplished or suffered much for the sake of religion and so receive a special revelation.
-
-The doctrine of meritorious works was taught in the middle ages. Aquinas distinguished two kinds of merit: Merit of Condignity (deserving or earned) – which in strict justice deserves reward and belongs to Christ alone and Merit of Congruity (in harmony with or like) – which is fit to be rewarded and can be acquired by men. His followers carried this a little bit further and taught, that after justification, man may, by divine grace, attain to the Merit of Condignity – doing things that give him a claim on God. (God blesses because we have earned it.)
-
-The Roman Catholic doctrine of the application and appropriation of divine grace finally assumed the following form: (handed down from the Apostles?)
-
-Children born with the Church receive the grace of regeneration, including the forgiveness of sin, in baptism. Others, who come under the influence of the Gospel in later years, receive sufficient grace – the illumination of the understanding and a strengthening of the will by the Holy Spirit. They can resist or yield. By yielding and co-operating, they prepare themselves for the grace of justification.
-
-The preparation includes seven elements:
-
-- Assent to the truth taught by the Church
-- Insight into one’s sinful condition
-- Hope in the mercy of God
-- The beginnings of love to God
-- An abhorrence of sin
-- A resolution to obey the commandments of God
-- A desire for baptism
-
-Justification follows in baptism; this is the infusion of grace and the forgiveness of sins. The measure of forgiveness depends on the degree in which sin is overcome. Forgiveness is preserved by obeying the commandments and by doing good works.
-
-The grace of God, therefore, serves the purpose of enabling man once more to merit salvation. However, it is not certain if justification will be retained. It may be lost through unbelief or by any mortal sin. Yet, it may be regained by the sacrament of penance: contrition (or attrition), confession – along with absolution, and works of sanctification. Question: What's the difference between contrition and attrition?  
-Answer: (Catholic)
-
-Contrition is sorrow for one’s sins based on the selfless motive of love for God and sorrow for having offended him.
-
-Attrition is sorrow for one’s sins based on the fear of punishment. For someone in the state of mortal sin (1 John 5:16-17), perfect contrition is required in order to reconcile with God.
-
-**Reformation and Post Reformation Soteriology**
-**The Lutheran Order of Salvation**
-
-Romans 1:17 – man is justified by faith alone  
-Matthew 4:17 – repentance consisted in real inner contrition of the heart and was a fruit of the grace of God only.
-
-There is some disagreement re: how Luther placed repentance and faith in relation to each other.
-
-Did he at first regard repentance as a fruit of faith and later place it before faith, as something produced by the law? Or did he always hold to the second opinion? Both are instrumental in leading the sinner to Christ and do not yet presuppose a union with Him.
-
-In opposing Roman Catholic works-righteousness, he did stress that true repentance is the fruit of faith. Later in opposing antinomianism, he stressed that true faith is preceded by a deep feeling of penitence.
+## Question 7
 
 **7. Can both these positions (above) be true? Perhaps this is an example of Scripture being written for the direction you are going?**
 
-There was much discussion about the order of events related to a person experiencing God’s grace and salvation. Some sought to base their order on Scripture – such as Acts 2:38; 20:21; Romans 8:29-30; 1 Corinthians 1:30; 6:11; 1Pt 1:1-2.
+From my understanding of salvation, God first regenerates the heart — removing the heart of stone and giving a heart of flesh (Ezekiel 36:26). In His timing, the Word is heard (*“faith comes from hearing”* — Romans 10:17), and that “seed” of truth produces life. The response of the regenerated heart is faith — “I believe.” Repentance then flows as a willing act of a sinner saved by grace. It is not forced; it is the natural response of a renewed heart.
 
-Those wishing to sustain an idea of sequential order in salvation appeal to Romans 8:29-30, along with other scriptures. However, when we compare the various lists with the Scriptures, there seems to be some gaps or perhaps dyslexia in the order?
+Looking at the Thief on the Cross, we see both repentance and faith present. He acknowledged his guilt and then entrusted himself to Christ for mercy. The order in his words may appear sequential, but both realities were clearly there.
+
+Therefore, we should not measure the genuineness of someone’s salvation by whether repentance seemed to come before faith or faith before repentance. Scripture presents them together as inseparable responses to God’s saving work. The real evidence of grace is not the psychological order, but the presence of both — trust in Christ and a turning from sin.
+
+## Question 8
 
 **8. Compare these scriptures: Acts 2:38; 20:21; Romans 8:29-30; 1 Corinthians 1:30; 6:11; 1 Peter 1:1-2. See if a biblical base for the order of salvation can be established.**
 
-I have included, in your notes, a chart that shows the “order of salvation” from five perspectives: Calvinism, Modified Calvinism, Classical Arminian/Wesleyan, Lutheran and Catholic
+When we examine the listed passages carefully, we see that Scripture presents the elements of salvation clearly — but not always in the same sequence.
 
-Some theologians have criticized the idea of an order of salvation. They think that we run the risk of "psychologizing" salvation and that we do not do justice to the fullness of salvation by trying to determine the order or timing in the process.
+**Acts 2:38 (NASB1995)**
 
-The concept of an ordered sequence of the doctrine of salvation was an important part of the construction of the Westminster Confession. In addition, some have observed that Christians cannot avoid thinking about the particular elements of salvation and the order in which they are experienced. Because this is the way humans operate.
+> *“Repent, and each of you be baptized in the name of Jesus Christ for the forgiveness of your sins; and you will receive the gift of the Holy Spirit.”*
+
+Here repentance appears first, followed by forgiveness and the gift of the Spirit.
+
+**Acts 20:21 (NASB1995)**
+
+> *“Solemnly testifying to both Jews and Greeks of repentance toward God and faith in our Lord Jesus Christ.”*
+
+Repentance and faith are mentioned together, without defining strict sequence.
+
+**Romans 8:29–30 (NASB1995)**
+
+> *“For those whom He foreknew, He also predestined… and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.”*
+
+Here the emphasis is entirely on God’s sovereign action — foreknowledge, predestination, calling, justification, glorification — with no explicit mention of repentance or faith, though they are assumed within the calling.
+
+**1 Corinthians 1:30 (NASB1995)**
+
+> *“But by His doing you are in Christ Jesus, who became to us wisdom from God, and righteousness and sanctification, and redemption.”*
+
+This verse stresses union with Christ as the source of righteousness, sanctification, and redemption — again emphasizing divine initiative.
+
+**1 Corinthians 6:11 (NASB1995)**
+
+> *“Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God.”*
+
+The order here (washed, sanctified, justified) is not arranged in the systematic order many theological systems propose.
+
+**1 Peter 1:1–2 (NASB1995)**
+
+> *“…who are chosen according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood…”*
+
+Election, sanctification of the Spirit, obedience, and the sprinkling of Christ’s blood are presented together — again without a rigid psychological timeline.
+
+### **Question 8 Conclusion**
+
+A biblical base for the *elements* of salvation clearly exists:
+
+- Foreknowledge / Election
+- Calling
+- Regeneration / Sanctification
+- Repentance
+- Faith
+- Justification
+- Glorification
+
+However, Scripture does not present these in one uniform, mechanical order. Different passages emphasize different aspects depending on the pastoral or theological context.
+
+**Romans 8:29–30** gives what is often called the *“golden chain”* from God’s eternal perspective. Acts emphasizes the human response of repentance and faith. Paul elsewhere emphasizes union with Christ as foundational.
+
+So, while theology may construct an *ordo salutis* (order of salvation) for clarity, Scripture itself presents salvation as an organic, Spirit-wrought work rather than a rigid sequence of psychological steps.
+
+This supports what we observed in Question 7: we should be cautious about measuring the genuineness of salvation by perceived order. The biblical pattern shows consistency in content — repentance, faith, justification, sanctification — but flexibility in presentation.
+
+The emphasis throughout is this:
+Salvation is ultimately **“by His doing”** (**1 Corinthians 1:30**), not by our ability to arrange the steps correctly.
+
+## Question 9
 
 **9. Review the conceptions of the order of Salvation chart (page 296 of this book, page 167 in the student guides). How important or necessary is it that we can designate an order? What does it mean, if a person’s experience is, or seems to be, different from the established order? Does it mean that this person is not saved?**
 
-The Lutheran order of salvation only had three elements at the beginning, but later became far more elaborate in the 17th century. They based their order (loosely) on Acts 2:17-18 and included:
+The order of salvation is a helpful theological tool because it protects key doctrines such as justification by faith and salvation by grace alone. Careful ordering helps prevent confusion between regeneration, faith, justification, and sanctification. The Church has wrestled deeply with these distinctions for good reason.
 
-- Calling
-- Illumination
-- Conversion
-- Regeneration
-- Justification
-- Renovation
-- Glorification
+However, Scripture itself presents salvation from multiple vantage points. Romans 8:29–30 emphasizes God’s eternal purpose. Acts 2:38 emphasizes repentance. Acts 20:21 joins repentance and faith together. Other passages highlight union with Christ or sanctification without presenting a strict sequence. The elements are consistent, but the presentation is not mechanically uniform.
 
-The process of salvation was seen as:
+This does not mean we avoid wrestling with the text. On the contrary, we hold firmly to what is written and allow Scripture to define the categories. God has clearly revealed that salvation is His work — foreknown, predestined, called, justified, and glorified — and that repentance and faith are real responses produced in the believer.
 
-- Children born of Christian parents, who cannot yet resist the grace of God, are regenerated in baptism and receive the gift of faith.
-- Others are called in later life with a sufficient ability, alike in all cases, and which by illuminating the mind and strengthening the will enables them to not resist the grace of God.
-- If they do not resist the work of the Holy Spirit in calling, they are brought to contrition, are regenerated and are endowed with the gift of faith.
-- By faith they are then justified, receive the forgiveness of sins and are adopted as children of God, incorporated into Christ, renewed by the Holy Spirit and are finally glorified.
-- The beginning does not ensure its completion. God is always resistible.
+If a person’s conscious experience does not match a systematic timeline, that does not invalidate their salvation. The theological order describes logical relationships in God’s saving work, not necessarily the psychological sequence in human awareness. What matters is the presence of genuine faith in Christ and repentance toward God.
 
-**The Reformed Order of Salvation**
+Much was accomplished on our behalf — far beyond our ability to comprehend fully — yet Scripture sufficiently reveals what God has done. Our task is not to speculate beyond it, but to faithfully articulate what it clearly teaches: salvation is by grace, through faith, in Christ alone, and every aspect of it ultimately traces back to God’s initiating work.
 
-In reformed theology, the order of salvation acquired a different form, because Calvin consistently took his starting point in an eternal election and in the mystical union established in the Covenant of Redemption. There is no participation in the blessings of Christ, except through a living union with the Savior.
+## **Below this is AI driven reference material**
 
-The very first of the blessings of saving grace already presupposes a union with Christ and the imputation of His righteousness precedes all else. A union already established between Him and those who were given unto Him by the Father – both legal & mystical. They are ready for distribution and are appropriated by faith.
+## **The Visible Church, the Invisible Church, and the Modern Crisis of Easy Believism**
 
-Regeneration, repentance and faith are not mere preparations, nor conditions. They are blessings of the covenant of grace. Calvin recognized a repentance preceding faith but saw in it merely an initial fear, a legal repentance that does not necessarily lead to faith and cannot be regarded as an essential preparation for it. He stresses the repentance that flows from faith, that is possible only in communion with Christ and that continues throughout life.
+### Introduction: A Statistical Superpower?
 
-Calvin and Luther, in their common opposition to Rome, agreed on the nature and importance of the doctrine of justification by faith. They describe it as an act of free grace and as a forensic act (a legality) which does not change the inner life of man, but only the judicial relationship in which he stands to God; with no inherent righteousness of the believer, but only in the imputed righteousness of Jesus Christ, which the sinner appropriates by faith.
+Recent surveys estimate that over 200 million Americans identify as Christian. Globally, Christianity remains the largest religion by affiliation. On paper, the church appears massive.
 
-Justification is instantaneous and complete. The believer can be sure that he is forever translated from a state of wrath and condemnation to one of favor and acceptance. However, Lutheran theology did not remain entirely true to this position.
+Yet many believers sense a disconnect.
 
-**The Arminian Order of Salvation**
+If the United States alone has such staggering numbers, why do we see:
 
-The Arminians teach that:
+- Moral confusion within professing Christianity?
+- Minimal biblical literacy?
+- Weak church discipline?
+- Gospel presentations reduced to decisions rather than regeneration?
 
-- God bestows a universal grace on man, which is sufficient to enable the sinner to believe and obey the Gospel; and that the call which comes to man through the preaching of the Word exerts a merely moral influence on his understanding and will.
-- If he assents to the truth, trusts in the grace of God and obeys the commandments of Christ, he receives a greater measure of divine grace, is justified because of his faith and, if he perseveres to the end, becomes a partaker of life eternal.
+This tension forces an important theological distinction — one the Reformers were careful to maintain.
 
-The School of Saumur moved in the same general direction, teaching that the will of man always follows the final dictate of the understanding and that therefore in regeneration and conversion an effective illumination of the mind is all that is required and all that takes place. There is no supernatural operation of the Holy Spirit directly on the will of man and that the efficacy of the divine calling depends on its congruity with the external circumstances in which it comes to man.
+### The Visible Church vs. The Invisible Church
 
-The order of salvation that arose from Arminian teachings was:
+Historically, Christian theology distinguishes between:
 
-- Christ atoned for the sins of all men, making salvation possible for all and brought them into a salvable state.
-- He met the demands of the old law, the covenant of works; substituting for it a new law, a law of grace – which is satisfied with faith and conversion; as well as a true, though imperfect, obedience of the repentant sinner.
+- **The visible church** — those who outwardly profess Christ and participate in the covenant community.
+- **The invisible church** — those who are truly regenerated by the Spirit of God.
 
-They developed the ideas of a legal righteousness and an evangelical righteousness. Evangelical righteousness consisted of obedience to the new law of faith and conversion, which was the ground of our justification.
+Jesus Himself acknowledged this mixture. The field contains both wheat and tares (Matthew 13). Not everyone who says, “Lord, Lord,” truly belongs to Him (Matthew 7:21–23).
 
-This rationalistic tendency eventually led to a liberalism that recognizes Christ only as a great prophet and teacher, who proclaimed the truth of God and sealed it with His death, and whose example man has but to follow; to obtain eternal salvation.
+Large numbers prove visibility. They do not prove regeneration.
 
-Methodism, a more pietistic form of Arminianism, was averse to the idea of gradual conversions and did not recognize a lengthy period of contrition, followed by a period in which the darkness is dispelled and the light breaks through, and a still later season when doubt turns into the glad assurance of salvation. They concentrated all efforts in the preaching of the Gospel on a single point – casting the sinner down by the preaching of the law. The sinner who does so accept Christ passes in a single moment from the greatest misery into the most rapturous ecstasy and from the deepest gloom into the most transcendent joy; along with an immediate assurance of being saved.
+### The Modern Drift: Easy Believism and Practical Semi-Pelagianism
 
-Many hold that a second radical change is necessary, and is worked in man, for entire sanctification.
+Many modern Western gospel presentations subtly communicate:
 
-**Minor Conceptions of the Order of Salvation**
+- God has done His part.
+- Now the decisive factor is yours.
+- Say the prayer.
+- Make the decision.
+- Secure your eternity.
 
-The Antinomians (without law) leave no room for a subjective application of the redemption wrought by Christ. They make no distinction between Christ procuring and the Holy Spirit applying the blessings of saving grace. The only requirement of man is to believe – to become conscious of the fact of what Christ has done. Some even said that Christ did not atone for sin but only revealed the love of God.
+Repentance becomes optional. Discipleship becomes secondary. Regeneration is assumed rather than proclaimed.
 
-The Mystical approach to salvation sought the essential thing of the Christian life in experience, emphasizing the fact that true faith IS experience. This experience is not guided by the Scripture, but by the experiences of those who were reputed to be “oaks of righteousness.” The law should be preached to all but the Gospel only to certain “qualified sinners” who will go through great gloom, despair and agony; ... until they receive a special token from the Spirit; then after further struggle a special assurance by voice, vision, word of Scripture or such.
+This resembles a functional Semi-Pelagianism:
 
-**Below this is AI driven reference material**
+- Grace is offered universally.
+- The human will becomes the decisive trigger.
+- Salvation is framed primarily as a natural decision rather than a supernatural resurrection.
+
+But Scripture presents salvation differently:
+
+- God foreknew.
+- God predestined.
+- God called.
+- God justified.
+- God glorified. (Romans 8:29–30)
+
+Even faith itself comes through hearing the Word (Romans 10:17). The initiative is divine.
+
+When human choice becomes central, grace is subtly repositioned as assistance rather than causation.
+
+That is where *“cheap grace”* emerges — grace without transformation.
+
+## Geographic Realities: Where the Church Appears Strongest
+
+### United States
+
+The U.S. has one of the largest visible Christian populations in the world. However:
+
+- Scripture engagement is far lower than affiliation.
+- Many professing Christians do not regularly read the Bible.
+- Cultural Christianity still influences self-identification.
+
+This suggests a large visible church, but a much smaller Scripture-engaged core.
+
+### Europe
+
+In many European nations, Christian identification is declining. The visible church is shrinking. Those who remain tend to be more consciously confessional rather than culturally inherited believers.
+
+### Sub-Saharan Africa
+
+Christianity is rapidly growing in sub-Saharan Africa. At the same time, certain regions face severe persecution.
+
+Persecution refines profession. It removes social advantage. It often exposes nominal faith.
+
+This does not automatically mean persecution equals true regeneration. But costly faith is harder to counterfeit.
+
+### Middle East & Parts of Asia
+
+In regions of high persecution, public identification with Christ carries social, economic, or even mortal risk.
+
+In such contexts, the visible and invisible church often overlap more closely — not perfectly, but more clearly.
+
+## Where Is the Invisible Church Most Evident?
+
+We cannot map the invisible church by nation.
+
+But we can observe biblical marks:
+
+1. **A new heart** (Ezekiel 36:26).
+2. **Repentance and faith** (Acts 20:21).
+3. **Perseverance under trial**.
+4. **Love for Scripture** — searching the Scriptures daily (Acts 17:11).
+5. **Progressive holiness**.
+
+Where those marks are evident, the invisible church is present.
+
+This may be:
+
+- In persecuted house churches.
+- In small, faithful congregations in declining Europe.
+- In quiet Bible-saturated churches in America.
+- In ordinary believers who tremble at the Word.
+
+The invisible church is not defined by geography but by regeneration.
+
+## Conclusion: Not Speculation, but Submission
+
+The Word of God sufficiently describes what was accomplished on our behalf:
+
+- We were dead.
+- God made us alive.
+- He granted faith.
+- He justified us in Christ.
+- He is sanctifying us.
+- He will glorify us.
+
+The extent of that work is beyond comprehension — but not beyond revelation.
+
+We do not speculate beyond what is written.
+
+We hold firmly to what is written.
+
+And wherever we see hearts awakened, repentance flowing, faith resting in Christ, and believers searching the Scriptures daily — there the invisible church is present.
+
+Even if it is smaller than the statistics suggest.
+
+---
+
+## Westminister Confession Articles of Grace, Salvation, Visible Church
+
+### 1️⃣ Of God’s Eternal Decree
+
+#### **Chapter III**
+
+> **III.3** — *“By the decree of God, for the manifestation of His glory, some men and angels are predestinated unto everlasting life; and others foreordained to everlasting death.”*
+
+> **III.5** — *“Those of mankind that are predestinated unto life, God, before the foundation of the world was laid… hath chosen in Christ unto everlasting glory… without any foresight of faith, or good works… or any other thing in the creature, as conditions or causes moving Him thereunto.”*
+
+🔎 **Relevance to this session:**
+This directly opposes Semi-Pelagianism and affirms that election is not based on foreseen faith or merit.
+
+### 2️⃣ Of Effectual Calling
+
+#### **Chapter X**
+
+> **X.1** — *“All those whom God hath predestinated unto life… He is pleased… effectually to call… enlightening their minds spiritually and savingly to understand the things of God; taking away their heart of stone, and giving unto them a heart of flesh…”*
+
+> *“…renewing their wills, and, by His almighty power, determining them to that which is good…”*
+
+🔎 **Relevance:**
+This aligns with your statement about regeneration preceding faith. It affirms sovereign grace and heart transformation (Ezekiel 36 language).
+
+### 3️⃣ Of Justification
+
+#### **Chapter XI**
+
+> **XI.1** — *“Those whom God effectually calleth, He also freely justifieth… not by infusing righteousness into them, but by pardoning their sins, and by accounting and accepting their persons as righteous… not for anything wrought in them, or done by them… but for Christ’s sake alone…”*
+
+> *“…by imputing the obedience and satisfaction of Christ unto them…”*
+
+> *“Faith… is the alone instrument of justification.”*
+
+🔎 **Relevance:**
+This rejects the Roman Catholic view of infused righteousness and affirms forensic (legal) justification — a major theme in your session.
+
+### 4️⃣ Of Saving Faith
+
+#### **Chapter XIV**
+
+> **XIV.1** — *“The grace of faith… is the work of the Spirit of Christ in their hearts…”*
+
+> **XIV.2** — *“By this faith, a Christian believeth to be true whatsoever is revealed in the Word… and acteth differently upon that which each particular passage thereof containeth…”*
+
+> *“…but the principal acts of saving faith are accepting, receiving, and resting upon Christ alone for justification, sanctification, and eternal life…”*
+
+🔎 **Relevance:**
+This helps clarify the distinction between “believing Christ” and “believing in Christ.” It affirms that faith rests upon Christ Himself.
+
+### 5️⃣ Of Repentance Unto Life
+
+#### **Chapter XV**
+
+> **XV.1** — *“Repentance unto life is an evangelical grace… wrought in the heart of a sinner by the Spirit and Word of God…”*
+
+> **XV.3** — *“Although repentance be not to be rested in, as any satisfaction for sin… yet it is of such necessity to all sinners, that none may expect pardon without it.”*
+
+🔎 **Relevance:**
+This affirms that repentance is necessary but not meritorious — avoiding both easy believism and works-righteousness.
+
+### 6️⃣ Of Good Works
+
+#### **Chapter XVI**
+
+> **XVI.1** — *“Good works… are the fruits and evidences of a true and lively faith…”*
+
+> **XVI.5** — *“We cannot by our best works merit pardon of sin, or eternal life…”*
+
+🔎 **Relevance:**
+This addresses the medieval concept of merit and modern practical legalism.
+
+### 7️⃣ Of Perseverance of the Saints
+
+#### **Chapter XVII**
+
+> **XVII.1** — *“They, whom God hath accepted in His Beloved… can neither totally nor finally fall away from the state of grace…”*
+
+🔎 **Relevance:**
+This contrasts with systems where salvation may be lost and regained.
+
+### 8️⃣ Of the Church (Visible & Invisible)
+
+#### **Chapter XXV**
+
+> **XXV.1** — *“The catholic or universal church, which is invisible, consists of the whole number of the elect…”*
+
+> **XXV.2** — *“The visible church… consists of all those throughout the world that profess the true religion; and of their children…”*
+
+🔎 **Relevance:**
+This directly supports your visible/invisible church distinction.
+
+### 9️⃣ On the Sufficiency of Scripture
+
+#### **Chapter I**
+
+> **I.6** — *“The whole counsel of God… is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture…”*
+
+🔎 **Relevance:**
+This supports your desire not to speculate, but to wrestle with what is written and draw necessary conclusions.
+
+## 📌 Summary of Westminster’s Contribution to This Session
+
+The Westminster Confession:
+
+- Rejects Semi-Pelagianism.
+- Affirms sovereign regeneration.
+- Defines faith as resting in Christ.
+- Distinguishes justification from sanctification.
+- Denies merit.
+- Clarifies visible vs invisible church.
+- Grounds theology in Scripture alone.
+
+It carefully orders salvation logically, but does not reduce it to a mechanical psychological sequence.

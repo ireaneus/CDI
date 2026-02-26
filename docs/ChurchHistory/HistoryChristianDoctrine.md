@@ -88,3 +88,15 @@ The Synod of Dort responded by affirming that Christ’s atonement is of infinit
 Throughout these controversies, the central issue remained the same: What did Christ actually accomplish at the cross? This chapter demonstrates that doctrinal conflicts, though often painful, clarified and strengthened the Church’s confession. The atonement is not merely an abstract theological concept — it reveals the justice, holiness, love, and sovereignty of God. The Church must therefore continue to contend for the faith once delivered, guarding the truth that Christ’s death fully satisfied divine justice and accomplished real redemption for His people.
 
 ---
+
+### **The History of Church Doctrine – The Doctrine of Divine Grace (Soteriology)**
+
+***In this chapter, Berkhof*** traces the historical development of how the benefits of Christ’s atonement are applied to the believer. In the early church, the Fathers emphasized repentance and faith as necessary responses to the Gospel (cf. Acts 20:21), but many also affirmed a cooperation between human freedom and divine grace. Over time, moralism and sacramentalism began to influence the church, especially in linking forgiveness to baptism and penance.
+
+Pelagius denied total depravity and taught that man could choose good apart from transforming grace, reducing grace to external assistance. Augustine responded by asserting man’s total inability and the necessity of sovereign, internal grace that renews the will. Though Augustinianism prevailed formally, later developments softened his views, moving toward a modified system in which grace enabled merit.
+
+During the Scholastic period, justification became increasingly tied to infused righteousness and sacramental grace. Merit (condign and congruent) was developed as a theological category. The Reformation corrected this trajectory by restoring the biblical doctrine of justification by faith alone — a forensic act grounded in the imputed righteousness of Christ (Romans 8:29–30; 1 Corinthians 1:30).
+
+The chapter concludes by examining differing “orders of salvation” (Calvinist, Lutheran, Arminian, Catholic), noting that while Scripture clearly presents the elements of salvation, it does not always present them in a rigid psychological sequence.
+
+---
