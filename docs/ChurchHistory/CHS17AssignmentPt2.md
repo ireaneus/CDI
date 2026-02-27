@@ -476,7 +476,7 @@ After instituting the bread and the cup, Jesus makes a striking statement:
 > **Matthew 26:29**
 > *“But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in My Father’s kingdom.”*
 
-This suggests that the final cup — the **Cup of Praise / Consummation** — was intentionally postponed.
+*"The fruit of the vine"* Pure wine Passover wine — the **Cup of Praise / Consummation** — was intentionally postponed.
 
 Instead of finishing the meal in the traditional way, He:
 
