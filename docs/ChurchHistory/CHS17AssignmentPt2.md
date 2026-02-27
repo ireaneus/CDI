@@ -385,6 +385,7 @@ Therefore:
     - a casual memorial.
 
 ---
+
 ## Question 4
 
 **4. Because of their qualifications, perhaps it could be said that the Apostolic Fathers viewed baptism as only for those who have already responded to Jesus Christ for salvation and are being baptized to confirm that commitment?**
