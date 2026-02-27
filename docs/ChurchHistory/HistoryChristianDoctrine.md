@@ -114,3 +114,7 @@ The Reformation brought correction by emphasizing the true marks of the Church: 
 The chapter ultimately demonstrates that throughout history the Church has wrestled with maintaining balance between its visible and invisible aspects. The healthiest understanding affirms that the Church is both a spiritual body of true believers and a visible gathered community — always called to remain faithful to Christ, His Word, and His gospel mission.
 
 ---
+
+### **The Doctrine of the Sacraments
+
+In this chapter, Berkhof traces the historical development of the doctrine of the Lord’s Supper from the early Church through the Middle Ages and the Reformation. The early Church viewed the Supper primarily as a memorial and spiritual participation in Christ, though without precise metaphysical definitions. During the medieval period, the doctrine evolved into transubstantiation, and the Mass came to be regarded as a repeated sacrificial offering of Christ, marking a significant departure from the once-for-all nature of the atonement. The Reformers rejected the sacrificial character of the Mass but differed in their understanding of Christ’s presence: Luther affirmed a real bodily presence, Zwingli emphasized memorialism, and Calvin articulated a real spiritual presence received by faith. Ultimately, the Reformation sought to restore the Supper to its biblical and covenantal framework, emphasizing Christ’s completed sacrifice, spiritual communion with Him, and the believer’s participation by faith.
