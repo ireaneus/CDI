@@ -438,20 +438,19 @@ Baptism declares that we now belong to Him.
 The Passover meal in the first century followed a defined order built around **four cups of wine**, each representing a promise from **Exodus 6:6–7**:
 
 > **Exodus 6:6–7**
-> *“I will bring you out… I will deliver you… I will redeem you… I will take you to be My people…”*
+> “Say, therefore, to the sons of Israel, **‘I am the Lord, and I will bring you out** from under the burdens of the Egyptians, and **I will deliver you** from their bondage. **I will also redeem you** with an outstretched arm and with great judgments. Then **I will take you for My people, and I will be your God**; and you shall know that I am the Lord your God, who brought you out from under the burdens of the Egyptians.”
 
 The four cups were traditionally understood as:
 
-1. **The Cup of Sanctification** – “I will bring you out.”
-2. **The Cup of Deliverance** – “I will deliver you.”
-3. **The Cup of Redemption** – “I will redeem you.”
-4. **The Cup of Praise (Hallel)** – “I will take you.”
+1. **The Cup of Sanctification** – *“I will bring you out.”*
+2. **The Cup of Deliverance** – *“I will deliver you.”*
+3. **The Cup of Redemption** – *“I will redeem you.”*
+4. **The Cup of Praise (Hallel)** – *“I will take you.”*
 
 Along with these cups were:
 
 - Unleavened bread
 - Bitter herbs
-- The roasted lamb
 - The singing of the Hallel Psalms (**Psalm 113–118**)
 
 **The Third Cup — The Cup of Redemption**
