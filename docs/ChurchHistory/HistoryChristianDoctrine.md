@@ -89,7 +89,7 @@ Throughout these controversies, the central issue remained the same: What did Ch
 
 ---
 
-### **The History of Church Doctrine – The Doctrine of Divine Grace (Soteriology)**
+## **The Doctrine of Divine Grace (Soteriology)**
 
 ***In this chapter, Berkhof*** traces the historical development of how the benefits of Christ’s atonement are applied to the believer. In the early church, the Fathers emphasized repentance and faith as necessary responses to the Gospel (cf. Acts 20:21), but many also affirmed a cooperation between human freedom and divine grace. Over time, moralism and sacramentalism began to influence the church, especially in linking forgiveness to baptism and penance.
 
@@ -98,5 +98,19 @@ Pelagius denied total depravity and taught that man could choose good apart from
 During the Scholastic period, justification became increasingly tied to infused righteousness and sacramental grace. Merit (condign and congruent) was developed as a theological category. The Reformation corrected this trajectory by restoring the biblical doctrine of justification by faith alone — a forensic act grounded in the imputed righteousness of Christ (Romans 8:29–30; 1 Corinthians 1:30).
 
 The chapter concludes by examining differing “orders of salvation” (Calvinist, Lutheran, Arminian, Catholic), noting that while Scripture clearly presents the elements of salvation, it does not always present them in a rigid psychological sequence.
+
+---
+
+## **The Doctrine of the Church**
+
+This chapter traces the historical development of the Doctrine of the Church from the early centuries through the Reformation and beyond. As shown in , the early Church initially understood itself primarily as *“The Communion of the Saints”* — a spiritual fellowship of believers. However, as persecution, heresy, and internal division increased, the Church began defining itself more institutionally, emphasizing episcopal authority and visible unity.
+
+Figures like Cyprian strongly asserted that *“outside of the Church there is no salvation,”* linking salvation closely with the visible institution. Augustine further developed a dual understanding of the Church — distinguishing between the visible church (a mixed body) and the invisible church (the elect known fully to God). His theology profoundly shaped medieval thought.
+
+During the Middle Ages, the Church increasingly identified itself with the Kingdom of God, leading to the primacy of Rome, papal authority, and political entanglement. This union of Church and State contributed to secularization and institutional dominance over spiritual vitality.
+
+The Reformation brought correction by emphasizing the true marks of the Church: the pure preaching of the Word, the right administration of the sacraments, and faithful church discipline. Reformers restored the biblical understanding that Christ alone is the Head of the Church and that salvation rests in Him, not in institutional structure.
+
+The chapter ultimately demonstrates that throughout history the Church has wrestled with maintaining balance between its visible and invisible aspects. The healthiest understanding affirms that the Church is both a spiritual body of true believers and a visible gathered community — always called to remain faithful to Christ, His Word, and His gospel mission.
 
 ---
