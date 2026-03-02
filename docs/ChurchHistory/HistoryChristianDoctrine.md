@@ -115,6 +115,14 @@ The chapter ultimately demonstrates that throughout history the Church has wrest
 
 ---
 
-### **The Doctrine of the Sacraments
+### **The Doctrine of the Sacraments**
 
 In this chapter, Berkhof traces the historical development of the doctrine of the Lord’s Supper from the early Church through the Middle Ages and the Reformation. The early Church viewed the Supper primarily as a memorial and spiritual participation in Christ, though without precise metaphysical definitions. During the medieval period, the doctrine evolved into transubstantiation, and the Mass came to be regarded as a repeated sacrificial offering of Christ, marking a significant departure from the once-for-all nature of the atonement. The Reformers rejected the sacrificial character of the Mass but differed in their understanding of Christ’s presence: Luther affirmed a real bodily presence, Zwingli emphasized memorialism, and Calvin articulated a real spiritual presence received by faith. Ultimately, the Reformation sought to restore the Supper to its biblical and covenantal framework, emphasizing Christ’s completed sacrifice, spiritual communion with Him, and the believer’s participation by faith.
+
+---
+
+### **The Doctrine of the Last Things**
+
+This chapter explains how the doctrine of the Last Things (eschatology) developed throughout Church history. Early Christians strongly expected Christ’s imminent return, but as time passed, the Church began reflecting more on the intermediate state, resurrection, judgment, and the millennium. Over time, speculative ideas such as purgatory and allegorical interpretations influenced eschatological views, especially in the Middle Ages.
+
+The Reformers returned to a Scripture-centered understanding, affirming the bodily resurrection, the final judgment, eternal life for believers, and eternal punishment for the wicked, while rejecting doctrines not grounded in Scripture. Overall, the chapter emphasizes the importance of building eschatology on biblical truth rather than speculation, and maintaining hope in the certain return of Christ.
