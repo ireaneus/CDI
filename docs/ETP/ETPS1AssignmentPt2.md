@@ -1,5 +1,5 @@
 ---
-title: Evangelism Teaching and Preaching Session 1 Part 2
+title: Session 1 Part 2 - Evangelism and the Attributes of God
 date: 2017
 instructor: Robert Dore
 course: Evangelism Teaching and Preaching

@@ -1,5 +1,5 @@
 ---
-title: Evangelism Teaching and Preaching Session 1 Part 3 - Evangelism and Anthropology
+title: Session 1 Part 3 - Evangelism and Anthropology
 date: 2017
 instructor: Robert Dore
 course: Evangelism Teaching and Preaching

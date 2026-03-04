@@ -1,5 +1,5 @@
 ---
-title: Evangelism Teaching and Preaching Session 1 Part 1 - Introduction
+title: Session 1 Part 1 - Introduction
 date: 2017
 instructor: Robert Dore
 course: Evangelism Teaching and Preaching

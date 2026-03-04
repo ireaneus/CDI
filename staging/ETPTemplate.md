@@ -1,5 +1,5 @@
 ---
-title: Evangelism Teaching and Preaching TEMPLATE
+title: TEMPLATE
 date: 2017
 instructor: Robert Dore
 course: Evangelism Teaching and Preaching
