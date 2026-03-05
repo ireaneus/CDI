@@ -168,7 +168,81 @@ Come prepared to discuss Packer’s book, *“Evangelism and the Sovereignty of 
 
 Hand out a list of page numbers for the passages you wish to discuss from the book and ask your students to comment on those passages.
 
+## Chapter 1 Divine Sovereignty
+
+**Pg. 18**
+
+> *It is instructive in this connection to ponder Charles Simeon’s account of his conversation with John Wesley on December 10, 1784 (the date is given in Wesley’s journal): “Sir, I understand that you are called an Arminian; and I have been sometimes called a Calvinist; and therefore I suppose we are to draw daggers. But before I consent to begin the combat, with your permission I will ask you a few questions. . . . Pray, Sir, do you feel yourself a depraved creature, so depraved that you would never have thought of turning to God, if God had not first put it into your heart?” “Yes,” says the veteran, “I do indeed.” “And do you utterly despair of recommending yourself to God by anything you can do; and look for salvation solely through the blood and righteousness of Christ?” “Yes, solely through Christ.” “But, Sir, supposing you were at first saved by Christ, are you not somehow or other to save yourself afterwards by your own works?” “No, I must be saved by Christ from first to last.” “Allowing, then, that you were first turned by the grace of God, are you not in some way or other to keep yourself by your own power?” “No.” “What, then, are you to be upheld every hour and every moment by God, as much as an infant in its mother’s arms?” “Yes, altogether.” “And is all your hope in the grace and mercy of God to preserve you unto his heavenly kingdom?” “Yes, I have no hope but in him.” “Then, Sir, with your leave I will put up my dagger again; for this is all my Calvinism; this is my election, my justification by faith, my final perseverance: it is in substance all that I hold, and as I hold it; and therefore, if you please, instead of searching out terms and phrases to be a ground of contention between us, we will cordially unite in those things wherein we agree.”*
+
 Ask the students to share their own insights from the book. What did they agree with, disagree with, or not fully understand?
+
+## Charles Simeon and John Wesley – A Conversation on Grace
+
+*(Modernized from J.I. Packer, Evangelism and the Sovereignty of God, Chapter 1)*
+
+Charles Simeon once described a conversation he had with John Wesley in 1784.
+
+Simeon began by saying:
+
+*“Sir, I understand that you are called an Arminian, and I am sometimes called a Calvinist. So I suppose we are expected to draw our swords and fight.”*
+
+*“But before we begin the battle, may I ask you a few questions?”*
+
+Wesley agreed.
+
+Simeon asked:
+
+*“Do you believe that you are a sinful and depraved person—so sinful that you would never have turned to God unless God first put that desire in your heart?”*
+
+Wesley replied:
+
+*“Yes, I certainly do.”*
+
+Simeon continued:
+
+*“Do you believe that you cannot make yourself acceptable to God by anything you do, and that your salvation depends entirely on the blood and righteousness of Christ?”*
+
+Wesley answered:
+
+*“Yes, entirely through Christ.”*
+
+Simeon asked another question:
+
+*“After you have been saved by Christ, do you believe you must somehow keep yourself saved by your own efforts?”*
+
+Wesley replied:
+
+*“No. Christ must save me from beginning to end.”*
+
+Simeon continued:
+
+*“Then although God first turned your heart by His grace, do you now keep yourself by your own power?”*
+
+Wesley said:
+
+*“No.”*
+
+Simeon asked:
+
+*“Then are you upheld every hour and every moment by God, just like a child being held in its mother’s arms?”*
+
+Wesley responded:
+
+*“Yes, completely.”*
+
+Simeon concluded:
+
+*“And is all your hope in the grace and mercy of God to preserve you until you reach His heavenly kingdom?”*
+
+Wesley answered:
+
+*“Yes. My hope is entirely in Him.”*
+
+At this point Simeon said:
+
+*“Then I will put away my sword. Because this is exactly what I believe as well."*
+
+---
 
 Have your students write the names of 10 individuals they know personally who do not know Christ.
 

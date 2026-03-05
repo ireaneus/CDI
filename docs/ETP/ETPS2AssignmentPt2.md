@@ -161,8 +161,8 @@ Go through the worldview issues and ask your students which of those issues they
 
 Ask the same question about different perspectives within Christianity, and then ask the students to honestly address their own fears about sharing Christ with others.
 
-Begin memorizing the Romans Road. For this course, the Romans Road is Rom. 3:23, Rom. 6:23, Rom. 5:8, Rom. 10:9-10 and Rom. 10:13.
+Begin memorizing the Romans Road. For this course, the Romans Road is **Rom. 3:23, Rom. 6:23, Rom. 5:8, Rom. 10:9-10 and Rom. 10:13.**
 
-The assignment for this session is to memorize Rom. 3:23; 6:23 and 5:8.
+The assignment for this session is to memorize **Rom. 3:23; 6:23 and 5:8.**
 
 **Below this is AI driven reference material**

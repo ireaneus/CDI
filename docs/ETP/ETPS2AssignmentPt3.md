@@ -108,9 +108,9 @@ You will THINK ABOUT:
 > **Romans 3:23; 6:23; 5:8**  
 > *"for all have sinned and fall short of the glory of God"*  
 > *"For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."*  
-> *"But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us."*
-> **Romans 10:9-10** *"that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; 10for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation."*  
-> **10:13** *"for “Whoever will call on the name of the Lord will be saved.”*
+> *"But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us."*  
+> **Romans 10:9-10** *"that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation."*  
+> **10:13** *for “Whoever will call on the name of the Lord will be saved.”*
 
 ## Class Exercise
 
@@ -126,8 +126,129 @@ Discuss Packer’s book, Evangelism and the Sovereignty of God.
 - What did they agree with or disagree with?
 - Did they take away anything that will change their view or willingness to be involved in evangelism?
 
+In the fifth and sixth chapters of Ephesians, he desires that his readers may “understand what the will of the Lord is” (5:17) and “[do] the will of God from the heart” (6:6). This is the will of God as Lawgiver, the will of God that man is to know and obey. In the same sense, Paul writes to the Thessalonians: “This is the will of God, your sanctification: that you abstain from sexual immorality” (1 Thess 4:3; cf. Mt 7:21; 12:50; Jn 7:17; 1 Jn 2:17, etc.). In the first chapter of Ephesians, however, Paul speaks of God’s having chosen him and his fellow Christians in Christ before the world began “according to the purpose of his will” (verse 5); he calls God’s intention to sum up all things in Christ at the end of the world “the mystery of his will” (verse 9); and he speaks of God himself as “him who works all things according to the counsel of his will” (verse 11). Here God’s “will” is clearly his eternal purpose for the disposal of his creatures, his will as the world’s sovereign Lord. This is the will that God actually fulfills in and through everything that actually happens—even man’s transgressions of his law.[8] Older theology distinguished the two as God’s will of precept and his will of purpose, the former being his published declaration of what man ought to do, the latter his (largely secret) decision as to what he himself will do. The distinction is between God’s law and his plan. The former tells man what he should be; the latter settles what he will be. Both aspects of the will of God are facts, though how they are related in the mind of God is inscrutable to us. This is one of the reasons why we speak of God as incomprehensible.
+
 To direct this discussion, it will be helpful if you have read both the book and underlined those passages that might be helpful for student interaction.
 
 Memorize the second part of the Romans Road: Rom. 10:9-10 and Rom. 10:13.
 
 **Below this is AI driven reference material**
+
+## Discussion: *Evangelism and the Sovereignty of God* — J.I. Packer
+
+### What I Learned from the Book
+
+Packer’s book helped clarify the relationship between **God’s sovereignty in salvation and the responsibility of believers to evangelize**. A key insight is that these two truths are not contradictory but are both clearly taught in Scripture. Packer describes this relationship as an **“antinomy”**—two truths that appear difficult to reconcile logically but must both be accepted because the Bible affirms them.
+
+The book showed that **God’s sovereignty does not weaken evangelism but actually gives it confidence and hope**. If salvation ultimately depended on human persuasion or emotional appeal, evangelism would be uncertain and fragile. But because God has the power to open hearts and grant repentance, evangelism can be carried out faithfully with the assurance that God is able to bring people to faith through the proclamation of the gospel.
+
+Another important lesson was the idea that **Christians already believe in God’s sovereignty when they pray for someone’s salvation**. When we pray for a person to be saved, we are asking God to open their heart, soften their resistance, and bring them to faith in Christ. This assumes that God has the authority and power to change the human heart.
+
+The conversation between **Charles Simeon and John Wesley** illustrated that believers who might identify as Calvinist or Arminian often share many of the same core convictions about grace: that salvation begins with God, is accomplished through Christ alone, and must be sustained by God’s grace from beginning to end.
+
+---
+
+### What I Agreed With
+
+I strongly agreed with Packer’s emphasis that **God’s sovereignty provides the foundation for evangelism rather than undermining it**. Scripture repeatedly shows that God uses the preaching of the gospel as the means by which He calls sinners to salvation.
+
+**Romans 10:14–15 (NASB1995)**
+
+> *“How then will they call on Him in whom they have not believed? How will they believe in Him whom they have not heard? And how will they hear without a preacher? How will they preach unless they are sent?”*
+
+I also agreed with the biblical emphasis that **repentance and faith ultimately result from God’s gracious initiative**.
+
+**Acts 11:18 (NASB1995)**
+
+> *“When they heard this, they quieted down and glorified God, saying, ‘Well then, God has granted to the Gentiles also the repentance that leads to life.’”*
+
+This supports the idea that evangelism involves both **faithful proclamation by believers and the sovereign work of God in the human heart**.
+
+Packer’s explanation that Christians must accept both divine sovereignty and human responsibility without trying to eliminate one or the other was particularly helpful. Scripture consistently holds these truths together.
+
+---
+
+### What I Disagreed With or Found Challenging
+
+While I largely agreed with the main arguments of the book, the concept of **antinomy** can initially feel intellectually unsatisfying because it acknowledges that there are aspects of God’s sovereignty and human responsibility that remain beyond human understanding.
+
+However, Scripture itself often presents truths that exceed our ability to fully comprehend. This reminds us that God’s nature and purposes are greater than human reasoning.
+
+**Romans 11:33 (NASB1995)**
+
+> *“Oh, the depth of the riches both of the wisdom and knowledge of God! How unsearchable are His judgments and unfathomable His ways!”*
+
+Rather than seeing this tension as a problem, it should lead to humility and trust in God’s revealed Word.
+
+---
+
+### How This Book Affected My View of Evangelism
+
+Reading this book strengthened my conviction that **evangelism is both a command and a privilege for every believer**. Because God is sovereign in salvation, evangelism does not depend on human ability or persuasion but on the power of God working through the gospel message.
+
+This truth removes both fear and pressure. The believer’s responsibility is to **faithfully proclaim Christ**, while trusting God to work in the hearts of those who hear.
+
+**1 Corinthians 3:6–7 (NASB1995)**
+
+> *“I planted, Apollos watered, but God was causing the growth. So then neither the one who plants nor the one who waters is anything, but God who causes the growth.”*
+
+As a result, the book encourages a greater willingness to share the gospel, knowing that **God uses the faithful witness of His people to accomplish His purposes**.
+
+---
+
+## Understanding the Two Aspects of God’s Will
+
+Scripture speaks about the **will of God** in two different senses.
+
+### 1. God’s Will of Precept (His Law)
+
+This refers to God’s revealed commands—what He desires people to do and obey.
+
+**Psalm 143:10**
+
+> *Teach me to do Your will, For You are my God; Let your good Spirit lead me on level ground*
+
+**Ephesians 5:17 (NASB1995)**
+
+> *“So then do not be foolish, but understand what the will of the Lord is.”*
+
+**Ephesians 6:6 (NASB1995)**
+
+> *“…not by way of eye-service, as men-pleasers, but as slaves of Christ, doing the will of God from the heart.”*
+
+**1 Thessalonians 4:3 (NASB1995)**
+
+> *“For this is the will of God, your sanctification; that is, that you abstain from sexual immorality.”*
+
+This aspect of God’s will tells us **what we ought to do**.
+
+---
+
+### 2. God’s Will of Purpose (His Sovereign Plan)
+
+This refers to God’s eternal plan that He is working out throughout history.
+
+**Ephesians 1:5 (NASB1995)**
+
+> *“He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will.”*
+
+**Ephesians 1:9 (NASB1995)**
+
+> *“He made known to us the mystery of His will, according to His kind intention which He purposed in Him.”*
+
+**Ephesians 1:11 (NASB1995)**
+
+> *“…having been predestined according to His purpose who works all things after the counsel of His will.”*
+
+This aspect of God’s will describes **what God Himself has determined will happen**.
+
+---
+
+## Summary
+
+Older theology described these two aspects as:
+
+- **God’s Will of Precept** — His commands that reveal how humans should live.
+- **God’s Will of Purpose** — His sovereign plan that governs everything that occurs.
+
+Both are clearly taught in Scripture. While the relationship between them remains beyond full human understanding, believers can trust that **God is sovereignly working out His purposes while calling His people to faithful obedience and gospel proclamation**.
