@@ -62,7 +62,7 @@ You will THINK ABOUT:
 
 *Instructor’s Note: Instruct your students to highlight any Bible passages or key points discussed in this session. They will be used in a group discussion at the end of the video.*
 
-Begin video.
+**Begin video.**
 
 ---
 
@@ -117,15 +117,15 @@ Begin video.
 
 **Four Parts to Your Testimony**
 
-- There are four parts to your testimony.
-- Your testimony has 4 parts:
+There are four parts to your testimony.  
+Your testimony has 4 parts:
 
 1. What my life was like before I met Christ?
 2. How I realized I needed Christ?
 3. How I committed my life to Christ?
 4. What difference has it made in my life?
 
-- Let’s take a closer look at each of these 4 parts of our testimony.
+Let’s take a closer look at each of these 4 parts of our testimony.
 
 1. What my life was like before I met Christ. What common circumstances would an unbeliever identify with in your personal story? What were your attitudes that an unbeliever would identify with? What was most important to you? What substitute for God did you use to find meaning in your life? (sports/fitness, success at work, marriage, sex, making money, drugs/alcohol, having fun, entertainment, popularity, hobbies, etc.) What was going on in your life before you came to faith in Christ?
 
@@ -158,7 +158,7 @@ Begin video.
 
 ---
 
-## Key Verses
+## Key Scriptural Passages
 
 ### Memory Verses
 
@@ -184,11 +184,83 @@ Discuss, and then, have them begin writing down the key points of their own test
 
 Finish polishing these testimonies and have then write their personal testimony using the four steps discussed in class.
 
-1. What my life was like before I met Christ?
-2. How I realized I needed Christ?
-3. How I committed my life to Christ?
+## My Personal Testimony
+
+1. What my life was like before I met Christ
+
+    Before I came to Christ, my life felt mostly blank. I have bits and pieces of memories, but it seemed like I was just moving from one thing to the next without much purpose. I didn’t even know I needed school until I was enrolled and started attending. I was simply being moved along by life.
+
+    Eventually my life revolved around my friends and hanging out. Thoughts about love, relationships, and sex were constantly on my mind, influenced by the music of the day — *“I want to know what love is.”* I joined the Air Force because I thought it would make me cool and maybe impress the ladies. But none of that really worked out the way I imagined.
+
+    Looking back now, it almost feels like something was leading me somewhere, though at the time I didn’t understand it.
+
+2. How I realized I needed Christ
+
+    During Air Force basic training I was again being led — told when to wake up, when to eat, and where to go. One day someone started talking about the end times, the dragon, heaven, and hell. I was given a Bible to read.
+
+    I didn’t really understand what I was reading. I was young and honestly not thinking much about my future. I was mostly focused on getting through the six weeks of basic training so I could experience real freedom.
+
+    At that point in my life, I was still just moving forward without direction.
+
+3. How I committed my life to Christ
+
+    When I arrived at tech school I was assigned a dorm room with a roommate. When I first walked into the room it looked like it was already completely full, so I went downstairs and told them. They said there had been a recent change and gave me the room next door.
+
+    I went in and set up my side of the room. As I looked around to see what kind of roommate I had, I noticed a Bible and a Petra tape. I remember thinking, *“At least he’s God-fearing.”*
+
+    Later he came in from class with a big grin and said, “What’s the Word?” I didn’t know what he meant, so I said, “I’m Dave, and I’m here.” He laughed and said his name was Dave too.
+
+    Every time he came into the room he would say, “What’s the Word?” Eventually I asked him what he wanted me to say. He said, “Jesus! That’s what the Word is.”
+
+    So I said, “Oh, so you know about the end times and all that?” He said yes, and then he asked me a question that stopped me: “If you were to die tonight, where would you go?”
+
+    I said, “I hope heaven… because my life up to this point has been hell.” Hell had become very real to me during those six weeks of basic training.
+
+    He then said something that changed my life. He said, “What if I told you that you could know you are going to heaven?”
+
+    He began explaining the Scriptures to me — about sin, forgiveness, and about Jesus Christ who died for sinners.
+
+    > **Romans 10:9–10**
+    > *“that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; for with the heart a person believes, resulting in righteousness
+
+    I committed my life to Christ that very day. The next day I was already telling others in my class about Him. From that point on people started calling me a holy roller, “shwacked,” or a Bible thumper. The label stuck, and when I went to my first assignment people already knew me as that Bible–Jesus guy.
+
 4. What difference has it made in my life?
+
+    I am no longer blindly being led through life. I am still being led, but not in fog or darkness. Christ now leads my life with purpose and direction. That alone has made an incredible difference.
+
+    The Lord has blessed me with a great godly wife, three daughters, and five grandchildren. But the greatest change is deeper than those blessings. I now have hope, a new life, and a new purpose. My life is no longer about drifting from one thing to another. It is about living for the One who saved me.
+
+    > **2 Corinthians 5:17**
+    > *“Therefore if anyone is in Christ, this person is a new creation; the old things passed away; behold, new things have come.”*
+
+    My purpose now is what the church has long confessed — **to glorify God and enjoy Him forever**. The Lord continues to shape my life and conform me to a new image, His image.
+
+    > **Romans 8:29**
+    > *“For those whom He foreknew, He also predestined to become conformed to the image of His Son.”*
+
+    And wherever He leads me is far better than where I could ever go on my own. My life now follows the One who truly knows the way.
+
+    > **John 14:6**
+    > *“Jesus said to him, ‘I am the way, and the truth, and the life; no one comes to the Father except through Me.’”*
 
 Be prepared to share their prepared testimony with the class next time.
 
 **Below this is AI driven reference material**
+
+## Context for Scripture is everything
+
+### The coming of the Lord **2 Peter 3:9**
+
+> **The Coming Day of the Lord**  
+> *3Know this first of all, that in the last days mockers will come with their mocking, following after their own lusts, 4and saying, “Where is the promise of His coming? For ever since the fathers fell asleep, all continues just as it was from the beginning of creation.” 5For when they maintain this, it escapes their notice that by the word of God the heavens existed long ago and the earth was formed out of water and by water, 6through which the world at that time was destroyed, being flooded with water. 7But by His word the present heavens and earth are being reserved for fire, kept for the day of judgment and destruction of ungodly men. 8But do not let this one fact escape your notice, beloved, that with the Lord one day is like a thousand years, and a thousand years like one day. The Lord is not slow about His promise, as some count slowness, but is patient toward you, not wishing for any to perish but for all to come to repentance.*
+
+**2 Peter 3:9** is often cited to argue that God intends to save every individual, but the context shows Peter is speaking about God's patience **toward believers**, not the entire world. The verse states that the Lord is *“patient toward you,”* referring to the **beloved recipients of the letter** (**2 Peter 3:1, 8, 14**), indicating that God is delaying the **Coming of the Lord** until all of His people come to repentance. Christ’s atonement fully satisfied God’s wrath against sin (**Romans 3:25–26; Hebrews 10:12–14**), and while it is sufficient in value for all humanity, Scripture teaches that its saving effect is applied specifically to those whom the Father has given to the Son (**John 6:37–39; John 10:14–15**). Therefore, the verse speaks not of universal salvation, but of God’s sovereign patience in gathering **all the elect** before the Day of the Lord arrives.
+
+2 Peter 3:9 teaches that the apparent delay of Christ’s return is not due to God desiring universal salvation, but to His patience toward His people, ensuring that every one of the elect comes to repentance before the Coming of the Lord.
+
+Classic Reformed Framing (Atonement Emphasis)
+
+Christ’s atonement is sufficient for all because of its infinite worth, but it is effectual only for the elect whom God brings to repentance before the Day of the Lord.
+
+---
