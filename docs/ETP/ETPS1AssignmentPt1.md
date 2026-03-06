@@ -111,7 +111,7 @@ You will THINK ABOUT:
 - We will look at seven attributes of God that connect to evangelism.
 - We will discuss God’s righteousness, His goodness, His benevolence, His love, His grace, His mercy, and His truth.
 
-## Key Verses
+## Key Scripture Passages
 
 **Isaiah 6:1-8.**
 
@@ -164,7 +164,7 @@ Have each student:
 
 ## Personal Statement
 
-Hello, my name is **David L. Haines**. I grew up in **Bloomington, Minnesota**. I do not have much detailed information about my extended family origin, but I was raised there and spent most of my early years in that community.
+Hello, my name is **David L. Haines** and I grew up in **Bloomington, Minnesota**. I do not have much detailed information about my extended family origin, but I was raised there and spent most of my early years in that community.
 
 I attended **John F. Kennedy High School** in Bloomington. While there, I participated in the High School Choir and also completed my written pilot’s license exam during that time.
 

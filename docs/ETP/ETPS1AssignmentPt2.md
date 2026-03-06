@@ -122,7 +122,38 @@ Instructor’s Note: Instruct your students to highlight the key points discusse
 
 - We will discuss how the Fall of Adam and Eve in the Garden of Eden not only changed man’s relationship to God, but also his relationship to his fellow man and even his relationship to creation.
 
-## Key Verses
+## Key Scripture Passages
+
+### Righteousness of God
+
+- Psalm 11:7
+- Psalm 9:8
+
+### Benevolence of God
+
+- Psalm 145:9
+- 2 Peter 3:9
+
+### Love of God
+
+- 1 John 4:9–19
+- John 3:16
+
+### Grace of God
+
+- Ephesians 2:8–9
+- 2 Corinthians 8:9
+- Titus 2:11
+
+### Mercy of God
+
+- Ephesians 2:4–5
+
+### Truth of God
+
+- John 17:17
+- 2 Timothy 2:13
+- 1 John 5:13
 
 ## Class Exercise
 
@@ -132,532 +163,230 @@ Have a discussion following this session and review the eight attributes of God 
 
 Read Chapter 2 of Packer’s book, *“Evangelism and the Sovereignty of God.”*
 
-## Chapter 2 **Divine Sovereignty and Human Responsibility**
+### The Eight Attributes of God Discussed
 
-**Below this is AI driven reference material**
+1. Holiness of God (from Session 1 Part 1)
+2. Righteousness of God
+3. Goodness of God
+4. Benevolence of God
+5. Love of God
+6. Grace of God
+7. Mercy of God
+8. Truth of God
 
-In Chapter 2, Packer addresses what he calls an **antinomy** — *an apparent contradiction between two truths that Scripture clearly teaches side by side:*
+These attributes reveal both the **content of the Gospel message** and the **motivation for evangelism**. God’s holiness and righteousness reveal humanity’s need for salvation, while His goodness, love, grace, and mercy reveal His provision for salvation through Christ. Because God is true and faithful, the message of the Gospel can be proclaimed with confidence.
 
-- **God as King** (sovereign over all things)
-- **God as Judge** (holding humans responsible for their choices)
+## *Evangelism and the Sovereignty of God* – Chapter 2
 
-As King, God orders and governs all events according to His eternal purpose (**Gen 50:20; Prov 16:9; Eph 1:11; Rom 9:20-21**). Nothing lies outside His control.
+**Divine Sovereignty and Human Responsibility (J. I. Packer)**
 
-Yet as Judge, God holds every person accountable for their response to Him (**Rom 2:1-16; Rev 20:11-13**). People are responsible for rejecting the gospel (**John 3:18**). Paul himself was responsible to preach it (**1 Cor 9:16**).
+In Chapter 2, J. I. Packer explains that the Bible teaches two truths that must both be accepted by Christians: **God is sovereign in salvation and humans are responsible to respond to the gospel.** These two truths may appear difficult to reconcile logically, but Scripture affirms both clearly. Packer calls this relationship an **antinomy**—two truths that seem contradictory to human understanding but are both true because God has revealed them.
 
-Both truths are taught clearly. Sometimes they even appear in the same passage.
+*God, as King*, sovereignly governs all things and works according to His eternal purpose. At the same time, *God, as Judge*, holds every person accountable for their response to Him. Therefore, people are responsible to repent and believe the gospel, and Christians are responsible to proclaim it.
 
-To our finite minds, this feels contradictory. Paul anticipates the objection in Romans 9:19 — *“Why does He still find fault? For who resists His will?”* If God controls all things, how can He blame anyone?
+Packer emphasizes that belief in God’s sovereignty does not weaken evangelism but actually strengthens it. If salvation depended entirely on human persuasion, evangelism would ultimately fail. However, because God has the power to change hearts, believers can proclaim the gospel with confidence, trusting that God works through the message to bring sinners to faith.
 
-Paul does not philosophically resolve the tension. Instead, he rebukes the arrogance behind the objection:
+The proper response for Christians is humility and obedience. Rather than trying to eliminate one truth to make the other easier to understand, believers must accept both as Scripture presents them: **God sovereignly saves, and people are responsible to believe and to share the gospel.**
 
-> *“Who are you, O man, to answer back to God?”* (**Rom 9:20**)
+## AI Reference Study Notes
 
-The issue is not a logical flaw in Scripture, but the limitation of human understanding. God’s sovereignty is just because His right over His creation is absolute. Isaiah 55:8-9 reminds us that God’s thoughts and ways are higher than ours.
+The following material expands on the themes from J. I. Packer’s *Evangelism and the Sovereignty of God*, Chapter 2.  
+These notes provide supporting explanations and Scripture references for further study.
 
-Packer concludes: we must accept both truths because Scripture affirms both. Denying one to protect the other distorts the Bible. Evangelism depends on holding both together — God saves sovereignly, and humans must respond responsibly.
+---
 
-## What Is an “Antinomy”
+## 1. The Biblical Tension: Divine Sovereignty and Human Responsibility
 
-An **antinomy** is not a contradiction.
-It is two truths that:
+Scripture teaches two truths that must both be accepted:
 
-1. Seem logically incompatible to us
-2. Are both clearly revealed
-3. Cannot be harmonized by finite human reasoning
-4. Are reconciled in God’s higher understanding
+- **God is sovereign in salvation**
+- **Humans are responsible to respond to the gospel**
 
-Packer’s key point:
-**A contradiction means one must be false.**  
-An antinomy means both are true, but we cannot see how they fit together.**
+God governs all things according to His eternal purpose.
 
-- Think of it like looking at railroad tracks.
-- From your perspective they never meet.
-- From above, they are perfectly parallel.
+**Ephesians 1:11**
 
-## Modern Examples of Antinomy
+> *“Also we have obtained an inheritance, having been predestined according to His purpose who works all things after the counsel of His will.”*
 
-Here are some helpful illustrations:
+At the same time, Scripture clearly teaches human accountability.
 
-### 1. Light as Wave and Particle (Physics)
+**John 3:18**
 
-- Light behaves as a wave and as a particle.
-- Those categories seem mutually exclusive.
-- Yet experiments prove both are true.
-- The problem is not with light — it is with the limits of our categories.
+> *“He who believes in Him is not judged; he who does not believe has been judged already.”*
 
-### 2. Jesus Fully God and Fully Man
+Because both truths are taught in Scripture, Christians must accept both without removing one to make the other easier to understand.
 
-Christ is:
+---
 
-- 100% God
-- 100% Man
+## 2. What Packer Calls an “Antinomy”
 
-Not 50/50. Not blended. Fully both.
+J. I. Packer describes the relationship between these truths as an **antinomy**.
 
-That defies our mathematical logic — yet Scripture teaches it plainly. That is an antinomy.
+An **antinomy** is:
 
-### 3. Prayer and God’s Sovereign Plan
+1. Two truths clearly taught in Scripture
+2. That appear logically difficult to reconcile
+3. But are both true because God has revealed them
 
-God has ordained all things.  
-Yet Scripture commands us to pray, and prayer genuinely matters.
+The difficulty lies not in Scripture but in the **limits of human understanding**.
 
-- If God has already decreed everything, why pray?  
-- Yet prayer is real, meaningful, and effective.
+**Isaiah 55:8–9**
 
-Both are true.
+> *“For My thoughts are not your thoughts, nor are your ways My ways,” declares the Lord.*
 
-### 4. Your Choices and God’s Providence
+Christians therefore accept both truths exactly as Scripture presents them.
 
-You freely chose to read this message.  
-Yet God ordained all your days before one of them came to be (**Ps 139:16**).
+---
 
-- You are responsible.
-- God is sovereign.
+## 3. Why Prayer Reveals Our Belief in God’s Sovereignty
 
-Both truths operate simultaneously.
+Packer explains that Christians already demonstrate belief in God’s sovereignty whenever they pray for someone’s salvation.
 
-### What Packer Is Protecting
-
-Packer is guarding two dangers:
-
-### If you deny sovereignty
-
-- Salvation becomes man-centered.
-- Prayer loses meaning.
-- Assurance weakens.
-
-### If you deny responsibility
-
-- Evangelism loses urgency.
-- Accountability disappears.
-- Sin becomes excusable.
-
-He refuses to sacrifice one truth to make the other easier to understand.
-
-### The Big Takeaway
-
-The antinomy teaches humility.
-
-We do not stand over Scripture as judges of what makes sense.
-We stand under it.
-
-- God is King.
-- God is Judge.
-- Both are true.
-
-**Isaiah 55:8-9** reminds us:  
-There is a category difference between Creator and creature.
-
-Packer uses this idea to explain that **God must change the sinner’s heart first**, because fallen humanity does not naturally seek God. Yet at the same time, **people are still responsible to believe**.
-
-## Evangelism and the Sovereignty of God  
-
-### Chapter 3 – The Antinomy of Divine Sovereignty and Human Responsibility
-
-In this chapter, J. I. Packer explains that Scripture teaches two truths that must both be accepted:
-
-- God is sovereign in salvation.
-- Humans are responsible to believe the gospel and share it with others.
-
-To illustrate this, Packer describes a conversation between two Christians who initially appear to disagree.
-
-### The Conversation
-
-One Christian says:
-
-*“If God has already chosen who will be saved, then why should we evangelize?  
-If God has determined the outcome, what difference can our efforts make?”*
-
-The other Christian responds by asking a simple question:
-
-*“Do you pray for people to be saved?”*
-
-The first person answers yes.
-
-The second Christian then asks:
-
-*“When you pray for someone to be saved, what exactly are you asking God to do?”*
-
-After thinking about it, the answer becomes clear.
-
-When we pray for someone’s salvation, we are asking God to:
+When believers pray for someone to be saved, they are asking God to:
 
 - open their eyes
 - soften their heart
-- remove their resistance
+- remove spiritual blindness
 - bring them to faith in Christ
 
-In other words, we are asking God to **change their will**.
+In other words, prayer acknowledges that **only God can change the human heart**.
 
-This is exactly what Augustine meant when he wrote:
+This reflects Augustine’s well-known statement:
 
-*“Grace comes to the unwilling to make them willing.”*
+> *“Grace comes to the unwilling to make them willing.”*
 
-At this point the realization becomes obvious.
+---
 
-Both Christians actually believe the same thing:
+## 4. Spurgeon’s Illustration: The Railroad Tracks
 
-- The sinner must believe the gospel.
-- But only God can give the sinner the willingness to believe.
-
-### The Key Point
-
-Packer explains that Christians often feel uncomfortable with the doctrine of God’s sovereignty in salvation, yet they already affirm it whenever they pray for someone’s conversion.
-
-Prayer itself assumes that:
-
-- God has the power to change hearts.
-- God can overcome spiritual blindness.
-- God can bring someone to faith.
-
-Therefore, belief in God’s sovereignty is already built into Christian practice.
-
-### The Antinomy
-
-Packer calls the relationship between these two truths an **antinomy**.
-
-An antinomy exists when two truths appear difficult to reconcile logically but are both clearly taught in Scripture.
-
-The Bible teaches both:
-
-- God is sovereign in saving sinners.
-- Humans are responsible to repent, believe, and proclaim the gospel.
-
-Because Scripture affirms both truths, Christians must accept both without trying to eliminate one to make the other easier to understand.
-
-### The Result for Evangelism
-
-Rather than weakening evangelism, God’s sovereignty actually gives evangelism hope.
-
-If salvation depended entirely on human persuasion or clever arguments, evangelism would ultimately fail.
-
-But because God has the power to change hearts, the evangelist can preach the gospel with confidence, knowing that God works through the message to bring sinners to faith.
-
-The believer’s responsibility is simple:
-
-- faithfully proclaim the gospel
-- pray for God to work
-- trust God with the results
-
-## Divine Sovereignty and Human Responsibility
-
-### Spurgeon’s Illustration (Parallel to Packer’s Chapter 2)
-
-Charles Spurgeon was often asked how two truths could both be true:
-
-- God is sovereign in salvation.
-- Humans are responsible to believe and to preach the gospel.
-
-Spurgeon famously replied that he did not try to reconcile them, because they were never enemies.
-
-He said:
-
-*"I never reconcile friends."*
-
-Both truths are taught clearly in Scripture, and therefore both must be accepted.
-
-### The Railroad Track Illustration
-
-Spurgeon explained the relationship this way:
+Charles Spurgeon used a well-known illustration to explain this relationship.
 
 Divine sovereignty and human responsibility are like **two rails of a railroad track**.
 
-From our perspective they appear to run parallel and never meet.
+From our perspective they appear parallel and never meet.  
+But in the distance they meet in the **mind and purpose of God**.
 
-But if we could see far enough ahead, we would discover that the two rails **meet at a point in eternity in the mind of God**.
+Both rails are necessary for the train to move.
 
-Both rails are necessary for the train to move forward.
+Likewise:
 
-If you remove one rail, the train cannot run.
+- If **sovereignty is removed**, salvation becomes dependent on human effort.
+- If **responsibility is removed**, evangelism becomes unnecessary.
 
-In the same way:
+Scripture preserves both truths.
 
-- If you remove **God’s sovereignty**, salvation becomes dependent on human effort.
-- If you remove **human responsibility**, evangelism becomes unnecessary.
+---
 
-The Bible keeps both truths together.
+## 5. Why God’s Sovereignty Encourages Evangelism
 
-### How This Connects to Packer’s Argument
+Rather than weakening evangelism, God’s sovereignty actually gives evangelism hope.
 
-J. I. Packer makes the same point in Chapter 2.
+If salvation depended entirely on human persuasion, the evangelist would ultimately fail.
 
-He says that the Bible teaches two truths that appear difficult for us to reconcile:
+However, because God has the power to change hearts, believers can proclaim the gospel with confidence.
 
-1. God is sovereign in salvation.
-2. Humans are responsible to believe and to evangelize.
+**Romans 10:14–15**
 
-Packer calls this relationship an **antinomy**.
+> *“How then will they call on Him in whom they have not believed? How will they believe in Him whom they have not heard? And how will they hear without a preacher?”*
 
-An antinomy exists when two truths appear logically incompatible from our limited perspective, but both are clearly taught in Scripture and must both be accepted.
+God has ordained the **preaching of the gospel** as the means by which people come to faith.
 
-Rather than trying to force a philosophical solution, Packer encourages Christians to accept both truths exactly as the Bible presents them.
+---
 
-### Why This Matters for Evangelism
+## 6. A Biblical Overview of the Work of Salvation
 
-Spurgeon and Packer both emphasize the same practical result.
+Scripture presents salvation as a work that begins with God and results in a transformed believer.
 
-God’s sovereignty **does not discourage evangelism**.
-
-Instead, it gives evangelism confidence.
-
-If salvation depended entirely on human persuasion or clever arguments, evangelism would ultimately fail.
-
-But because God is sovereign and able to change hearts, the preacher can proclaim the gospel with confidence, knowing that God works through the message to bring sinners to faith.
-
-### The Balance
-
-Therefore Christians must hold both truths together:
-
-- God alone saves.
-- We are commanded to proclaim the gospel.
-
-Evangelism is the means that God has chosen to use to accomplish His sovereign purpose in saving sinners.
-
-## The Biblical “Salvation Map”
-
-### Key Passages That Reveal the Process of Salvation
-
-The New Testament repeatedly presents salvation as a **work that begins with God and results in a transformed believer**.  
-When several major passages are placed side-by-side, they form a clear pattern showing how salvation unfolds.
-
-This is often called the **Ordo Salutis (Order of Salvation)**.
-
-The passages below form a kind of **“salvation map”** that shows both:
-
-- **God’s sovereign initiative (grace preceding the unwilling)**
-- **The genuine response of repentance and faith**
-
-### 1. The Condition of Humanity (Total Spiritual Need)
-
-Before salvation, humanity is spiritually dead and unable to seek God.
+### Humanity’s Condition
 
 **Romans 3:10–11**
 
-> *“There is none righteous, not even one;*  
-> *There is none who understands,*  
-> *There is none who seeks for God.”*
+> *“There is none righteous, not even one.”*
 
 **Ephesians 2:1**
 
-> *“And you were dead in your trespasses and sins.”*
+> *“You were dead in your trespasses and sins.”*
 
-**1 Corinthians 2:14**
+Humanity is spiritually unable to save itself.
 
-> *“But a natural man does not accept the things of the Spirit of God, for they are foolishness to him; and he cannot understand them.”*
+---
 
-Human beings are spiritually incapable of saving themselves.  
-This is why salvation must begin with God.
+### Christ Accomplishes Redemption
 
-### 2. God’s Eternal Purpose (Election)
+**Hebrews 9:12**
 
-Salvation originates in God’s eternal plan.
-
-**Ephesians 1:4–5**
-
-> *“Just as He chose us in Him before the foundation of the world… He predestined us to adoption as sons through Jesus Christ.”*
-
-**2 Timothy 1:9**
-
-> *“Who has saved us and called us with a holy calling… according to His own purpose and grace which was granted us in Christ Jesus from all eternity.”*
-
-God’s plan to save sinners existed **before creation**.
-
-### 3. Christ Accomplishes Redemption
-
-Christ’s death and resurrection secure salvation.
-
-**Luke 1:68**
-
-> *“Blessed be the Lord God of Israel, For He has visited us and accomplished redemption for His people,*
-
-**Romans 5:8**
-
-> *“But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.”*
-
-**Hebrews 9:12 (NASB1995)**  
-
-> *“and not through the blood of goats and calves, but through His own blood, He entered the holy place once for all, having obtained eternal redemption.”*
-
-**Hebrews 10:14 (NASB1995)**
-
-> *“For by one offering He has perfected for all time those who are sanctified.”*
+> *“He entered the holy place once for all… having obtained eternal redemption.”*
 
 **1 Peter 2:24**
 
 > *“He Himself bore our sins in His body on the cross.”*
 
-Salvation is purchased through Christ’s substitutionary atonement.
+Christ’s death and resurrection secure salvation.
 
-### 4. The Gospel Proclaimed (External Call)
+---
 
-God sends the message of salvation into the world.
-
-**Romans 10:14–15**
-
-> *“How then will they call on Him in whom they have not believed?*  
-> *How will they believe in Him whom they have not heard?*  
-> *And how will they hear without a preacher?”*
+### The Gospel Is Proclaimed
 
 **Matthew 28:19**
 
 > *“Go therefore and make disciples of all the nations.”*
 
-The preaching of the gospel is **God’s ordained means** of salvation.
+Evangelism is the means God has chosen to spread the gospel.
 
-### 5. God Draws the Sinner (Grace Precedes the Will)
+---
 
-God begins the work inside the heart.
+### God Draws the Sinner
 
 **John 6:44**
 
 > *“No one can come to Me unless the Father who sent Me draws him.”*
 
-**Acts 16:14**
+God initiates the work of salvation.
 
-> *“The Lord opened her heart to respond to the things spoken by Paul.”*
+---
 
-This is where Augustine’s statement applies:
-
-> *Grace comes to the unwilling to make them willing.*
-
-God softens the heart so the sinner becomes able to respond.
-
-### 6. Regeneration (The New Birth)
-
-The Holy Spirit gives spiritual life.
-
-**John 3:3**
-
-> *“Unless one is born again he cannot see the kingdom of God.”*
-
-**Titus 3:5**
-
-> *“He saved us… by the washing of regeneration and renewing by the Holy Spirit.”*
-
-The sinner receives new spiritual life.
-
-### 7. Repentance and Faith (Human Response)
-
-Once awakened by grace, the sinner responds.
-
-**Romans 2:4 (NASB1995)**
-
-> *“Or do you think lightly of the riches of His kindness and tolerance and patience, not knowing that the kindness of God leads you to repentance?”*
-
-**Acts 5:31 (NASB1995)**
-
-> *“He is the one whom God exalted to His right hand as a Prince and a Savior, to grant repentance to Israel, and forgiveness of sins.”*
-
-**Acts 11:18 (NASB1995)**
-
-> *“When they heard this, they quieted down and glorified God, saying, ‘Well then, God has granted to the Gentiles also the repentance that leads to life.’”*
-
-**2 Timothy 2:24–25 (NASB1995)**
-
-> *“The Lord’s bond-servant must not be quarrelsome, but be kind to all, able to teach, patient when wronged, with gentleness correcting those who are in opposition, if perhaps God may grant them repentance leading to the knowledge of the truth.”*
+### Repentance and Faith
 
 **Acts 20:21**
 
 > *“Repentance toward God and faith in our Lord Jesus Christ.”*
 
-**Ephesians 2:8–9**
+The sinner responds to the gospel message.
 
-> *“For by grace you have been saved through faith; and that not of yourselves, it is the gift of God.”*
+---
 
-Faith and repentance are real acts of the believer, but enabled by grace.
-
-### 8. Justification (Legal Declaration)
-
-God declares the believer righteous.
+### Justification and New Life
 
 **Romans 5:1**
 
-> *“Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ.”*
+> *“Having been justified by faith, we have peace with God through our Lord Jesus Christ.”*
 
-**Romans 3:24**
+The believer is declared righteous and reconciled to God.
 
-> *“Being justified as a gift by His grace through the redemption which is in Christ Jesus.”*
+---
 
-### 9. Adoption
+## 7. The “Golden Chain of Salvation”
 
-The believer becomes part of God’s family.
-
-**Romans 8:15**
-
-> *“You have received a spirit of adoption as sons by which we cry out, ‘Abba! Father!’”*
-
-### 10. Sanctification (Growth in Holiness)
-
-God progressively transforms the believer.
-
-**1 Thessalonians 4:3**
-
-> *“For this is the will of God, your sanctification.”*
-
-**Philippians 2:12–13**
-
-> *“Work out your salvation… for it is God who is at work in you.”*
-
-### 11. Perseverance and Security
-
-God preserves believers to the end.
-
-**John 10:28**
-
-> *“I give eternal life to them, and they will never perish.”*
-
-**Philippians 1:6**
-
-> *“He who began a good work in you will perfect it until the day of Christ Jesus.”*
-
-### 12. Glorification
-
-Salvation reaches its final completion.
-
-**Romans 8:30**
-
-> *“These whom He justified, He also glorified.”*
-
-**1 John 3:2**
-
-> *“We will be like Him, because we will see Him just as He is.”*
-
-## The “Golden Chain of Salvation”
-
-One passage summarizes this entire process.
+A single passage summarizes the work of salvation from beginning to end.
 
 **Romans 8:29–30**
 
-> *“For those whom He foreknew, He also predestined…*  
-> *and these whom He predestined, He also called;*  
-> *and these whom He called, He also justified;*  
-> *and these whom He justified, He also glorified.”*
+> *“For those whom He foreknew, He also predestined…  
+> and these whom He predestined, He also called;  
+> and these whom He called, He also justified;  
+> and these whom He justified, He also glorified.”*
 
-This passage shows salvation as **one continuous work of God from beginning to end**.
+Salvation is ultimately **God’s work from beginning to end**, yet people are still responsible to believe the gospel.
 
-## The Key Insight
+---
 
-The entire salvation process reveals two truths simultaneously:
+## Key Takeaway
 
-### God’s Sovereignty
+The Bible holds two truths together:
 
-God initiates, calls, regenerates, justifies, and glorifies.
+- **God sovereignly saves sinners.**
+- **Humans are responsible to repent, believe, and proclaim the gospel.**
 
-### Human Responsibility
+Rather than weakening evangelism, this truth strengthens it.
 
-The sinner must repent, believe, and follow Christ.
-
-Scripture never removes either truth.
-
-This is exactly the tension that **Augustine, the Reformers, Spurgeon, and J. I. Packer** describe.
-
-### The Simple Summary
-
-Grace precedes the unwilling.
-
-God acts first to awaken the sinner.
-
-Then the sinner willingly responds in repentance and faith.
-
-Both truths together form the biblical foundation for **evangelism, prayer, and the hope of salvation**.
+Believers faithfully proclaim the gospel, pray for God to work, and trust Him with the results.

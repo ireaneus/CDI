@@ -145,14 +145,74 @@ Begin video.
 - Review key Scriptural passages that address our responsibility to be involved in evangelism.
 - Discuss obstacles that make evangelism a challenge for the Christian in the modern era.
 
-## Key Verses
+## Key Scripture Passages
 
-| **Scripture** | **Verse** | **Scripture** | **Verse** |
-| ------------- | --------- | ------------- | --------- |
-| **1 Chron. 16:8** | *Oh give thanks to the Lord, call upon His name; Make known His deeds among the peoples.* | **Psalm 9:11** | *Sing praises to the Lord, who dwells in Zion;Declare among the peoples His deeds.* |
-| **Isaiah 43:8-12** | *Bring out the people who are blind, even though they have eyes, And the deaf, even though they have ears. All the nations have gathered together So that the peoples may be assembled. Who among them can declare this And proclaim to us the former things? Let them present their witnesses that they may be justified, Or let them hear and say, “It is true.” “You are My witnesses,” declares the Lord, “And My servant whom I have chosen, So that you may know and believe Me And understand that I am He. Before Me there was no God formed, And there will be none after Me. I, even I, am the Lord, And there is no savior besides Me. It is I who have declared and saved and proclaimed, And there was no strange god among you; So you are My witnesses,” declares the Lord, “And I am God.* | **Matthew 5:13-16; 9:36-38** | *“You are the salt of the earth; but if the salt has become tasteless, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled under foot by men. “You are the light of the world. A city set on a hill cannot be hidden; nor does anyone light a lamp and put it under a basket, but on the lampstand, and it gives light to all who are in the house. Let your light shine before men in such a way that they may see your good works, and glorify your Father who is in heaven.* 9:36-38 *Seeing the people, He felt compassion for them, because they were distressed and dispirited like sheep without a shepherd. Then He said to His disciples, “The harvest is plentiful, but the workers are few. Therefore beseech the Lord of the harvest to send out workers into His harvest.”* |
-| **John 4:35** | *Do you not say, ‘There are yet four months, and then comes the harvest’? Behold, I say to you, lift up your eyes and look on the fields, that they are white for harvest.* | **Acts 1:8** | *but you will receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth.”* |
-| **2 Peter 3:9** | *The Lord is not slow about His promise, as some count slowness, but is patient toward you, not wishing for any to perish but for all to come to repentance.* | **Ephesians 2:8-9** | *For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works, so that no one may boast.* |
+| Passage | Theme |
+|--------|-------|
+| 1 Chron. 16:8 | Israel declaring God's works |
+| Psalm 9:11 | Proclaiming God's deeds |
+| Isaiah 43:8–12 | Israel as God's witnesses |
+| Matthew 5:13–16 | Salt and light |
+| Matthew 9:36–38 | Compassion for the lost |
+| John 4:35 | The harvest is ready |
+| Acts 1:8 | The church as witnesses |
+| 2 Peter 3:9 | God's desire that none perish |
+| Ephesians 2:8–9 | Salvation by grace (**memory verse**) |
+
+### Scripture Text
+
+> *Oh give thanks to the Lord, call upon His name;*  
+> *Make known His deeds among the peoples.*  
+> — **1 Chron. 16:8**
+
+> *Sing praises to the Lord, who dwells in Zion;*  
+> *Declare among the peoples His deeds.*  
+> — **Psalm 9:11**
+
+> *Bring out the people who are blind, even though they have eyes,*  
+> *And the deaf, even though they have ears.*  
+> *All the nations have gathered together*  
+> *So that the peoples may be assembled.*  
+> *Who among them can declare this*  
+> *And proclaim to us the former things?*  
+> *Let them present their witnesses that they may be justified,*  
+> *Or let them hear and say, “It is true.”*  
+> *“You are My witnesses,” declares the Lord,*  
+> *“And My servant whom I have chosen,*  
+> *So that you may know and believe Me*  
+> *And understand that I am He.*  
+> *Before Me there was no God formed,*  
+> *And there will be none after Me.*  
+> *I, even I, am the Lord,*  
+> *And there is no savior besides Me.*  
+> *It is I who have declared and saved and proclaimed,*  
+> *And there was no strange god among you;*  
+> *So you are My witnesses,” declares the Lord,*  
+> *“And I am God.”*  
+> — **Isaiah 43:8–12**
+
+> *“You are the salt of the earth; but if the salt has become tasteless, how can it be made salty again?*  
+> *It is no longer good for anything, except to be thrown out and trampled under foot by men.*  
+>
+> *“You are the light of the world. A city set on a hill cannot be hidden; nor does anyone light a lamp and put it under a basket, but on the lampstand, and it gives light to all who are in the house.*  
+>
+> *“Let your light shine before men in such a way that they may see your good works, and glorify your Father who is in heaven.”*  
+> — **Matthew 5:13–16**
+
+> *Seeing the people, He felt compassion for them, because they were distressed and dispirited like sheep without a shepherd. Then He said to His disciples, “The harvest is plentiful, but the workers are few. Therefore beseech the Lord of the harvest to send out workers into His harvest.”*  
+> — **Matthew 9:36–38**
+
+> *“Do you not say, ‘There are yet four months, and then comes the harvest’?  Behold, I say to you, lift up your eyes and look on the fields, that they are white for harvest.”*  
+> — **John 4:35**
+
+> *“But you will receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth.”*  
+> — **Acts 1:8**
+
+> *The Lord is not slow about His promise, as some count slowness, but is patient toward you, not wishing for any to perish but for all to come to repentance.*  
+> — **2 Peter 3:9**
+
+> *For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works, so that no one may boast.*  
+> — **Ephesians 2:8–9** *(Memory Verse)*
 
 ## Class Exercise
 
@@ -168,79 +228,89 @@ Come prepared to discuss Packer’s book, *“Evangelism and the Sovereignty of 
 
 Hand out a list of page numbers for the passages you wish to discuss from the book and ask your students to comment on those passages.
 
-## Chapter 1 Divine Sovereignty
+### Discussion Pages from Chapter 1 – Divine Sovereignty
 
-**Pg. 18**
+Students should read and prepare to discuss the following pages from Chapter 1:
+
+| Page | Topic for Discussion |
+|-----|----------------------|
+| **18** | Charles Simeon and John Wesley conversation about grace |
+| **19–20** | The relationship between divine sovereignty and human responsibility |
+| **21–22** | Why belief in God’s sovereignty encourages evangelism |
+| **23–24** | Misunderstandings about Calvinism and evangelism |
+| **25–26** | Why prayer and evangelism go together |
+
+### Historical Illustration – Charles Simeon and John Wesley
 
 > *It is instructive in this connection to ponder Charles Simeon’s account of his conversation with John Wesley on December 10, 1784 (the date is given in Wesley’s journal): “Sir, I understand that you are called an Arminian; and I have been sometimes called a Calvinist; and therefore I suppose we are to draw daggers. But before I consent to begin the combat, with your permission I will ask you a few questions. . . . Pray, Sir, do you feel yourself a depraved creature, so depraved that you would never have thought of turning to God, if God had not first put it into your heart?” “Yes,” says the veteran, “I do indeed.” “And do you utterly despair of recommending yourself to God by anything you can do; and look for salvation solely through the blood and righteousness of Christ?” “Yes, solely through Christ.” “But, Sir, supposing you were at first saved by Christ, are you not somehow or other to save yourself afterwards by your own works?” “No, I must be saved by Christ from first to last.” “Allowing, then, that you were first turned by the grace of God, are you not in some way or other to keep yourself by your own power?” “No.” “What, then, are you to be upheld every hour and every moment by God, as much as an infant in its mother’s arms?” “Yes, altogether.” “And is all your hope in the grace and mercy of God to preserve you unto his heavenly kingdom?” “Yes, I have no hope but in him.” “Then, Sir, with your leave I will put up my dagger again; for this is all my Calvinism; this is my election, my justification by faith, my final perseverance: it is in substance all that I hold, and as I hold it; and therefore, if you please, instead of searching out terms and phrases to be a ground of contention between us, we will cordially unite in those things wherein we agree.”*
 
-Ask the students to share their own insights from the book. What did they agree with, disagree with, or not fully understand?
+### Historical Background
 
-## Charles Simeon and John Wesley – A Conversation on Grace
+The conversation between Charles Simeon and John Wesley reflects a much older theological discussion within the church about the relationship between God’s grace and human responsibility.
 
-*(Modernized from J.I. Packer, Evangelism and the Sovereignty of God, Chapter 1)*
+This issue was first strongly debated in the early church between **Augustine of Hippo** and **Pelagius** in the fifth century. Pelagius taught that human beings possess the natural ability to obey God and choose righteousness without the necessity of divine grace. Augustine, however, argued from Scripture that humanity is deeply affected by sin and that salvation must begin with the grace of God working in the human heart.
 
-Charles Simeon once described a conversation he had with John Wesley in 1784.
+Augustine’s emphasis on the necessity of grace strongly influenced later Protestant theology during the Reformation. Reformers such as Martin Luther and John Calvin affirmed that salvation is entirely dependent upon God’s grace, while still calling people to respond to the gospel in repentance and faith.
 
-Simeon began by saying:
+The conversation between Simeon and Wesley demonstrates that although Christians may use different theological language, they often affirm the same central truth: that salvation from beginning to end depends upon the grace of God through Jesus Christ.
 
-*“Sir, I understand that you are called an Arminian, and I am sometimes called a Calvinist. So I suppose we are expected to draw our swords and fight.”*
+```mermaid
+timeline
+    title Grace and Responsibility Through Church History
+    400s : Augustine vs Pelagius (grace necessary due to sin)
+    1500s : Reformation (Luther/Calvin emphasize grace alone)
+    1700s : Simeon & Wesley (1784 conversation; unity in gospel)
+    1900s : Packer (sovereignty strengthens evangelism)
+```
 
-*“But before we begin the battle, may I ask you a few questions?”*
+## Discussion Questions
 
-Wesley agreed.
+1. **Why do you think this issue of God's grace and human responsibility has been discussed throughout church history?**
 
-Simeon asked:
+    I believe this issue has been discussed throughout church history because it touches on a very deep tension within the human heart that goes all the way back to the fall in the Garden of Eden. In **Genesis 3**, the serpent tempted humanity with the idea that they could be *“like God, knowing good and evil.”* At its core, this was a desire for autonomy—the desire to determine truth and destiny apart from God.
 
-*“Do you believe that you are a sinful and depraved person—so sinful that you would never have turned to God unless God first put that desire in your heart?”*
+    That same impulse continues to surface in theological discussions about salvation. Human beings naturally want to believe that they contribute something to their own salvation or retain some measure of control over their spiritual destiny. Yet Scripture consistently teaches that salvation is ultimately the work of God's grace from beginning to end.
 
-Wesley replied:
+    At the same time, the Bible clearly calls people to repent and believe the gospel. Because both truths appear in Scripture—God’s sovereign grace and human responsibility—the church has wrestled with how to understand them together. This discussion can be traced throughout church history, from the debates between Augustine and Pelagius, through the Reformation, and even into modern conversations such as those highlighted by Packer.
 
-*“Yes, I certainly do.”*
+2. **Why does Packer argue that belief in God’s sovereignty should encourage evangelism rather than discourage it?**
 
-Simeon continued:
+    Packer argues that belief in God's sovereignty should encourage evangelism because it gives believers confidence that the success of the gospel does not ultimately depend on human ability or persuasion, but on God's power to save. While every person is responsible for their response to the gospel, Christians are responsible to faithfully proclaim it. Scripture commands believers to preach the gospel to all people, trusting that God will work through that message to bring people to faith.
 
-*“Do you believe that you cannot make yourself acceptable to God by anything you do, and that your salvation depends entirely on the blood and righteousness of Christ?”*
+    Because God has chosen to accomplish His saving purposes through the proclamation of the gospel, evangelism becomes the means through which He gathers His people. If salvation depended entirely on human effort, evangelism could easily become discouraging. But because God is sovereign, believers can share the gospel with confidence, knowing that He is able to open hearts and bring people to repentance and faith.
 
-Wesley answered:
+    This is why passages such as **2 Peter 3:9** emphasize God's patience toward humanity. *God is not slow in fulfilling His promises but is patiently working out His redemptive plan in history*. As the gospel continues to be proclaimed, God calls people to Himself through that message. Therefore, belief in God's sovereignty does not weaken evangelism—it strengthens it by assuring believers that God is actively working through the message of the gospel.
 
-*“Yes, entirely through Christ.”*
+3. **How does belief in God’s sovereignty affect the way we pray for unbelievers?**
 
-Simeon asked another question:
+    Belief in God's sovereignty gives believers confidence and urgency in prayer for unbelievers. Because we know that salvation ultimately comes from the Lord, we recognize that no human argument or persuasion can change a person's heart apart from God's work. Scripture teaches that *faith comes through hearing the Word of Christ* (**Romans 10:17**), but it is God who opens the heart to receive that truth.
 
-*“After you have been saved by Christ, do you believe you must somehow keep yourself saved by your own efforts?”*
+    Knowing this, believers pray earnestly for those who do not yet know Christ. We ask God to open their hearts, grant repentance, and bring them to faith. Our prayers acknowledge that while we faithfully share the gospel, it is God who must give spiritual life and understanding.
 
-Wesley replied:
+    Therefore, belief in God's sovereignty does not make prayer unnecessary; it makes prayer essential. Since God alone can change hearts, we depend on Him in prayer for the salvation of those around us.
 
-*“No. Christ must save me from beginning to end.”*
+    **2 Timothy 2:25**
+    > *“…if perhaps God may grant them repentance leading to the knowledge of the truth.”*
 
-Simeon continued:
+4. **Why does Packer say that evangelism without prayer misunderstands the doctrine of sovereignty?**
 
-*“Then although God first turned your heart by His grace, do you now keep yourself by your own power?”*
+    Packer explains that evangelism without prayer misunderstands the doctrine of God's sovereignty because it assumes that human effort alone can bring someone to faith. Scripture teaches that while believers are called to proclaim the gospel, only God can change the human heart and bring someone to repentance and faith. If salvation ultimately depends on God's work, then prayer must accompany evangelism.
 
-Wesley said:
+    Prayer expresses our dependence on God. When we pray for unbelievers, we are acknowledging that God alone can open their eyes, soften their hearts, and bring them to faith through the message of the gospel. Without prayer, evangelism can become an exercise in relying on human persuasion rather than trusting in God's power.
 
-*“No.”*
+    Therefore, prayer and evangelism belong together. As believers share the gospel, they must also pray that God will work through His Word to bring people to salvation. In this way, prayer demonstrates a proper understanding of God's sovereignty in the work of salvation.
 
-Simeon asked:
+    **Romans 10:1**
 
-*“Then are you upheld every hour and every moment by God, just like a child being held in its mother’s arms?”*
+    > *“Brethren, my heart’s desire and my prayer to God for them is for their salvation.”*
 
-Wesley responded:
+5. **What did you agree with, disagree with, or find difficult to understand in this chapter?**
 
-*“Yes, completely.”*
+    I agreed strongly with Packer’s main argument that belief in God’s sovereignty should encourage evangelism rather than weaken it. His explanation that prayer and evangelism go hand in hand was particularly helpful, because it shows that if we truly believe God is the one who changes hearts, then prayer must be central to our evangelistic efforts. I also appreciated the illustration of the conversation between Charles Simeon and John Wesley, which demonstrated that even believers who differ in theological terminology often share the same core understanding that salvation depends entirely upon the grace of God.
 
-Simeon concluded:
+    One area that many Christians may find difficult is understanding how God's sovereignty and human responsibility work together. Scripture clearly teaches both truths, yet our limited understanding can struggle to reconcile them fully. However, rather than trying to eliminate one truth in favor of the other, Packer encourages believers to accept both as biblical realities and to remain faithful in proclaiming the gospel while trusting God with the results.
 
-*“And is all your hope in the grace and mercy of God to preserve you until you reach His heavenly kingdom?”*
-
-Wesley answered:
-
-*“Yes. My hope is entirely in Him.”*
-
-At this point Simeon said:
-
-*“Then I will put away my sword. Because this is exactly what I believe as well."*
+    Overall, this chapter strengthened my understanding that evangelism is both a command and a privilege. Believers are called to faithfully share the gospel, pray for the salvation of others, and trust that God will accomplish His purposes through the proclamation of His Word.
 
 ---
 
@@ -264,3 +334,25 @@ Then ask the students to commit to praying for those 10 people each day for the 
 Ask your students to memorize **Ephesians 2:8-9**.
 
 **Below this is AI driven reference material**
+
+### A Conversation About Faith and Christ's Work
+
+Someone once asked me, *“So when you became a Christian, did you decide to follow Christ?”*
+
+I replied, *“Yes, I absolutely made a decision to follow Him. There was a moment when I heard the gospel and responded in faith.”*
+
+They then asked, *“So do you believe your decision is what saved you?”*
+
+I paused for a moment and said, *“When I first came to Christ, I probably would have said that my decision was the most important part. But as I’ve grown in my understanding of Scripture, I’ve come to see that my decision was really a response to something God was already doing.”*
+
+They asked, *“What do you mean by that?”*
+
+I said, “Well, the Bible says that *‘faith comes from hearing, and hearing by the word of Christ’* (**Romans 10:17**). Someone shared the gospel with me, I heard the message of Christ, and I responded in faith. But even that response happened because God was working through His Word.”
+
+They thought about that and asked, *“So you’re saying both things are true—you chose to follow Christ, but God was already directing the work?”*
+
+I answered, *“Exactly. My decision to follow Christ was real, but it was not something I produced on my own. It was a response to the grace of God and the work of Christ on the cross.”*
+
+Then I added, *“That’s why my confidence isn’t really in the strength of my decision. My hope is in what Christ has done for me.”*
+
+And we both agreed that salvation ultimately rests not on our ability, but on **the finished work of Christ and the grace of God that calls us to respond in faith**.

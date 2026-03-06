@@ -43,7 +43,7 @@ stated: *“And He ordered us to preach to the people, and solemnly to testify t
 
 **Instructors Guide** *(pg.321)*
 
-## Key Verses
+## Key Scripture Passages
 
 ## Class Exercise
 

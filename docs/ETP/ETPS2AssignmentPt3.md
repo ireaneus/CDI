@@ -97,20 +97,56 @@ You will THINK ABOUT:
 - We will see how evangelism is centered in Christ’s mission and purpose for coming into our world.
 - We will also look at the value of our personal testimony in sharing Christ, and just how to go about preparing our personal testimony.
 
-## Key Verses
+## Key Scriptural Passages
 
-### Memory Verses
+### Memory Verse
 
-> **Ephesians 2:8-9** (last session)  
+> **Ephesians 2:8-9**  
 > *For by grace you have been saved through faith; and that not of yourselves,*  
 > *it is the gift of God; not as a result of works, so that no one may boast.*
->
-> **Romans 3:23; 6:23; 5:8**  
-> *"for all have sinned and fall short of the glory of God"*  
-> *"For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."*  
-> *"But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us."*  
-> **Romans 10:9-10** *"that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation."*  
-> **10:13** *for “Whoever will call on the name of the Lord will be saved.”*
+
+### Memory Verses — Romans Road
+
+> **Romans 3:23 (NASB1995)**  
+> *“for all have sinned and fall short of the glory of God,”*
+
+> **Romans 6:23 (NASB1995)**  
+> *“For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.”*
+
+> **Romans 5:8 (NASB1995)**  
+> *“But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.”*
+
+> **Romans 10:9–10 (NASB1995)**  
+> *“that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; for with the heart a person believes, resulting in righteousness, and with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.*
+
+### Class Session Key Verses
+
+> **1 Peter 3:15 (NASB1995)**  
+> *“But sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence.”*
+
+> **John 13:35 (NASB1995)**  
+> *“By this all men will know that you are My disciples, if you have love for one another.”*
+
+> **John 17:21 (NASB1995)**  
+> *“That they may all be one; even as You, Father, are in Me and I in You, that they also may be in Us, so that the world may believe that You sent Me.”*
+
+> **1 Peter 2:12 (NASB1995)**  
+> *“Keep your behavior excellent among the Gentiles, so that in the thing in which they slander you as evildoers, they may because of your good deeds, as they observe them, glorify God in the day of visitation.”*
+
+> **2 Timothy 2:2 (NASB1995)**  
+> *“The things which you have heard from me in the presence of many witnesses, entrust these to faithful men who will be able to teach others also.”*
+
+> **John 1:39 (NASB1995)**  
+> *“He said to them, ‘Come, and you will see.’ So they came and saw where He was staying; and they stayed with Him that day, for it was about the tenth hour.”*
+
+> **Matthew 11:29 (NASB1995)**  
+> *“Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and you will find rest for your souls.”*
+
+> **John 3:16 (NASB1995)**  
+> *“For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.”*
+
+> **Acts 1:8 (NASB1995)**  
+> *“But you will receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth.”*
 
 ## Class Exercise
 
@@ -126,7 +162,9 @@ Discuss Packer’s book, Evangelism and the Sovereignty of God.
 - What did they agree with or disagree with?
 - Did they take away anything that will change their view or willingness to be involved in evangelism?
 
-In the fifth and sixth chapters of Ephesians, he desires that his readers may “understand what the will of the Lord is” (5:17) and “[do] the will of God from the heart” (6:6). This is the will of God as Lawgiver, the will of God that man is to know and obey. In the same sense, Paul writes to the Thessalonians: “This is the will of God, your sanctification: that you abstain from sexual immorality” (1 Thess 4:3; cf. Mt 7:21; 12:50; Jn 7:17; 1 Jn 2:17, etc.). In the first chapter of Ephesians, however, Paul speaks of God’s having chosen him and his fellow Christians in Christ before the world began “according to the purpose of his will” (verse 5); he calls God’s intention to sum up all things in Christ at the end of the world “the mystery of his will” (verse 9); and he speaks of God himself as “him who works all things according to the counsel of his will” (verse 11). Here God’s “will” is clearly his eternal purpose for the disposal of his creatures, his will as the world’s sovereign Lord. This is the will that God actually fulfills in and through everything that actually happens—even man’s transgressions of his law.[8] Older theology distinguished the two as God’s will of precept and his will of purpose, the former being his published declaration of what man ought to do, the latter his (largely secret) decision as to what he himself will do. The distinction is between God’s law and his plan. The former tells man what he should be; the latter settles what he will be. Both aspects of the will of God are facts, though how they are related in the mind of God is inscrutable to us. This is one of the reasons why we speak of God as incomprehensible.
+## Chapter 4 Divine Sovereignty and Evangelism
+
+> *In the fifth and sixth chapters of Ephesians, he desires that his readers may “understand what the will of the Lord is” (5:17) and “[do] the will of God from the heart” (6:6). This is the will of God as Lawgiver, the will of God that man is to know and obey. In the same sense, Paul writes to the Thessalonians: “This is the will of God, your sanctification: that you abstain from sexual immorality” (1 Thess 4:3; cf. Mt 7:21; 12:50; Jn 7:17; 1 Jn 2:17, etc.). In the first chapter of Ephesians, however, Paul speaks of God’s having chosen him and his fellow Christians in Christ before the world began “according to the purpose of his will” (verse 5); he calls God’s intention to sum up all things in Christ at the end of the world “the mystery of his will” (verse 9); and he speaks of God himself as “him who works all things according to the counsel of his will” (verse 11). Here God’s “will” is clearly his eternal purpose for the disposal of his creatures, his will as the world’s sovereign Lord. This is the will that God actually fulfills in and through everything that actually happens—even man’s transgressions of his law.[8] Older theology distinguished the two as God’s will of precept and his will of purpose, the former being his published declaration of what man ought to do, the latter his (largely secret) decision as to what he himself will do. The distinction is between God’s law and his plan. The former tells man what he should be; the latter settles what he will be. Both aspects of the will of God are facts, though how they are related in the mind of God is inscrutable to us. This is one of the reasons why we speak of God as incomprehensible.*
 
 To direct this discussion, it will be helpful if you have read both the book and underlined those passages that might be helpful for student interaction.
 
@@ -241,6 +279,8 @@ This refers to God’s eternal plan that He is working out throughout history.
 > *“…having been predestined according to His purpose who works all things after the counsel of His will.”*
 
 This aspect of God’s will describes **what God Himself has determined will happen**.
+
+Understanding the distinction between God’s will of precept and His will of purpose helps clarify the relationship between evangelism and divine sovereignty. God commands believers to proclaim the gospel, and at the same time He sovereignly works through that proclamation to accomplish His saving purposes.
 
 ---
 

@@ -133,7 +133,7 @@ You will THINK ABOUT:
 - We will also look at the same call to evangelism for the church in the New Testament.
 - We will see that the call to be a witness for God was the same in both the Old and New Testaments.
 
-## Key Verses
+## Key Scripture Passages
 
 ### Atonement
 
@@ -148,28 +148,68 @@ You will THINK ABOUT:
 2. **Draw** John 6:44
 3. **Conviction** John 16:7-11
 4. **Repentance** Jer. 8:6, 2 Timothy 2:25, 2 Cor. 7:9-10, Acts 8:22
-5. **Faith**
+5. **Faith** Rom. 10:17, Eph. 2:8-9
 6. **Regeneration** 1 Peter 1:3-4, 1 John 2:29; 4:7; 5:1-5
-7. **Justification** Rom. 3:24
+7. **Justification** Rom. 3:24; 5:1
 8. **Sanctification** 1 Peter 1:15-16, John 17:17, Heb. 12:10
 9. **Security** Phil. 1:6; 2:12-13, Rom. 8:28-30
 10. **Glorification** John 14:3, 1 John 3:2
+
+## The Order of Salvation (Ordo Salutis)
+
+| Stage | Description | Key Scripture |
+|------|-------------|--------------|
+| **General Call** | The universal invitation of the gospel to all people. | Rev. 22:17 |
+| **Drawing** | God takes the initiative to draw sinners toward Himself. | John 6:44 |
+| **Conviction** | The Holy Spirit convicts the world of sin, righteousness, and judgment. | John 16:7–11 |
+| **Repentance** | A change of mind and heart toward God and sin. | 2 Tim. 2:25 |
+| **Faith** | Trust in Jesus Christ and submission to Him as Lord. | Rom. 10:17 |
+| **Regeneration** | The new birth; spiritual life given by the Holy Spirit. | 1 Peter 1:3 |
+| **Justification** | God declares the believer righteous through Christ. | Rom. 3:24 |
+| **Sanctification** | The ongoing work of the Spirit conforming believers to Christ. | 1 Peter 1:15–16 |
+| **Security / Perseverance** | God preserves believers in faith until the end. | Phil. 1:6 |
+| **Glorification** | The final transformation when believers are with Christ forever. | 1 John 3:2 |
+
+*Note:* The steps above represent a general description of how salvation unfolds in the life of a believer.  
+Reformed theology often summarizes this process using the **Ordo Salutis (Order of Salvation)**, recognizing that while these elements are logically related, they may not always be experienced sequentially.
 
 ## Class Exercise
 
 **INSTRUCTOR’S NOTES: PRESENT SHORT PRESENTATION**
 
-Discuss with your students, the concepts and associated Scripture passages that have been presented in this session.
+Discuss with your students the concepts and associated Scripture passages that have been presented in this session.
 
 Have each student give their short presentation on their favorite interest or hobby.
 
-Read Ch. 4 of *"Evangelism and the Sovereignty of God."*
+Read Chapter 4 of *Evangelism and the Sovereignty of God.*
 
 Remind your students to come prepared to the next session and be ready to discuss and critique Packer’s arguments in the book.
 
+---
+
+## Chapter 4 Summary – Divine Sovereignty and Evangelism
+
+*(J.I. Packer, Evangelism and the Sovereignty of God)*
+
+In this chapter, Packer explains that belief in God’s sovereignty in salvation does **not weaken evangelism**, but instead **strengthens it**. Scripture teaches both **divine sovereignty and human responsibility**, and these truths work together rather than contradict each other.
+
+Packer argues that God's sovereignty does **not remove the necessity of evangelism**, because people cannot believe unless they hear the gospel (**Romans 10:14–15**). It also does **not remove urgency**, since the Bible calls people to respond to the gospel now (**2 Corinthians 6:2**).
+
+He further explains that God's sovereignty does **not weaken the sincerity of gospel invitations**. The gospel offer is genuinely extended to all people (**Revelation 22:17**), and anyone who comes to Christ will be received (**John 6:37**). At the same time, individuals remain **fully responsible for their response** to the gospel (**Acts 17:30–31**).
+
+Finally, Packer emphasizes that God’s sovereignty is actually **the believer’s greatest encouragement in evangelism**. Because salvation ultimately depends on God, evangelists can speak with **boldness**, show **patience**, and remain **faithful in prayer**, trusting that God alone can change the human heart.
+
+In this way, divine sovereignty provides the **confidence that gospel preaching will accomplish God’s purposes**.
+
+### Discussion Questions
+
+- Why does belief in God’s sovereignty encourage evangelism rather than discourage it?
+- How does Romans 10:14–15 show the necessity of evangelism?
+- Why should the sovereignty of God produce boldness, patience, and prayer in evangelism?
+
 **Below this is AI driven reference material**
 
-## Chapter 4 – Divine Sovereignty and Evangelism  
+## Chapter 4 – Divine Sovereignty and Evangelism - Expanded  
 
 *(J.I. Packer, Evangelism and the Sovereignty of God)*
 

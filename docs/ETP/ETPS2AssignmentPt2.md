@@ -131,27 +131,41 @@ Instructor’s Note: Instruct your students to highlight any Bible passages or k
 - We will discover that the foundation for our witness to others is the life we live.
 - We will also examine the example of Christ in evangelism.
 
-## Key Verses
+## Key Scriptural Passages
 
 ### Memory Verses
 
-> **Ephesians 2:8-9** (last session)  
-> *For by grace you have been saved through faith; and that not of yourselves,*  
-> *it is the gift of God; not as a result of works, so that no one may boast.*
->
-> **Romans 3:23; 6:23; 5:8**  
-> *"for all have sinned and fall short of the glory of God"*  
-> *"For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."*  
-> *"But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us."*
+> **Ephesians 2:8–9 (NASB1995)**  
+> *“For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works, so that no one may boast.”*
 
-### Class Verses
+> **Romans 3:23 (NASB1995)**  
+> *“for all have sinned and fall short of the glory of God,”*
 
-> **Acts 1:8**, *“But you shall receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth.”*  
-> **John 4:28-30**, *“So the woman left her water pot, and went into the city, and said to the men, ‘Come, see a man who told me all the things that I have done; this is not the Christ, is it?’ They went out of the city, and were coming to Him.”*  
-> **Acts 8:4** *“those who had been scattered went about preaching the Word.”*  
-> **2 Cor. 5:20** *“Therefore, we are ambassadors for Christ, as though God were entreating through us; we implore you on behalf of Christ, be reconciled to God.”*  
-> **Eph. 5:15-16** *“Therefore be careful how you walk, not as unwise men, but as wise, making the most of your time, because the days are evil.”*  
-> **Gal. 1:6-12** *I am amazed that you are so quickly deserting Him who called you by the grace of Christ, for a different gospel; which is really not another; only there are some who are disturbing you and want to distort the gospel of Christ. But even if we, or an angel from heaven, should preach to you a gospel contrary to what we have preached to you, he is to be accursed! As we have said before, so I say again now, if any man is preaching to you a gospel contrary to what you received, he is to be accursed! For am I now seeking the favor of men, or of God? Or am I striving to please men? If I were still trying to please men, I would not be a bond-servant of Christ. For I would have you know, brethren, that the gospel which was preached by me is not according to man. For I neither received it from man, nor was I taught it, but I received it through a revelation of Jesus Christ.*
+> **Romans 6:23 (NASB1995)**  
+> *“For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.”*
+
+> **Romans 5:8 (NASB1995)**  
+> *“But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.”*
+
+### Class Scripture References
+
+> **Acts 1:8 (NASB1995)**  
+> *“But you shall receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth.”*
+
+> **John 4:28–30 (NASB1995)**  
+> *“So the woman left her water pot, and went into the city and said to the men, ‘Come, see a man who told me all the things that I have done; this is not the Christ, is it?’ They went out of the city and were coming to Him.”*
+
+> **Acts 8:4 (NASB1995)**  
+> *“Therefore, those who had been scattered went about preaching the word.”*
+
+> **2 Corinthians 5:20 (NASB1995)**  
+> *“Therefore, we are ambassadors for Christ, as though God were making an appeal through us; we beg you on behalf of Christ, be reconciled to God.”*
+
+> **Ephesians 5:15–16 (NASB1995)**  
+> *“Therefore be careful how you walk, not as unwise men but as wise, making the most of your time, because the days are evil.”*
+
+> **Galatians 1:6–12 (NASB1995)**  
+> *“I am amazed that you are so quickly deserting Him who called you by the grace of Christ, for a different gospel; which is really not another; only there are some who are disturbing you and want to distort the gospel of Christ. But even if we, or an angel from heaven, should preach to you a gospel contrary to what we have preached to you, he is to be accursed! As we have said before, so I say again now, if any man is preaching to you a gospel contrary to what you received, he is to be accursed! For am I now seeking the favor of men, or of God? Or am I striving to please men? If I were still trying to please men, I would not be a bond-servant of Christ. For I would have you know, brethren, that the gospel which was preached by me is not according to man. For I neither received it from man, nor was I taught it, but I received it through a revelation of Jesus Christ.”*
 
 ## Class Exercise
 
@@ -161,8 +175,34 @@ Go through the worldview issues and ask your students which of those issues they
 
 Ask the same question about different perspectives within Christianity, and then ask the students to honestly address their own fears about sharing Christ with others.
 
+## Class Reflection
+
+Several of the obstacles discussed in this session are very visible in modern culture, particularly **materialism, consumerism, easy believism, and personal fears and comfort**.
+
+Materialism and consumerism strongly shape the culture around us. Many people live with the mindset that success is measured by what we accumulate in this life, often summarized by the phrase, *“He who dies with the most toys wins.”* Scripture reminds us that earthly possessions are temporary. As Job said, *“Naked I came from my mother’s womb, and naked I shall return there.”* (**Job 1:21**). When people focus on accumulating possessions, eternal realities can easily be ignored.
+
+Another obstacle mentioned in the session is **easy believism**. Easy believism is the idea that someone can simply acknowledge certain truths about Jesus or repeat a prayer and be assured of salvation without genuine repentance, faith, or transformation. In many cases the gospel message becomes reduced to a quick decision rather than a call to follow Christ. Cultural influences such as consumerism and marketing can contribute to this problem, treating the gospel like a product to be accepted rather than a life-changing call to repentance and faith.
+
+The session also challenged me personally regarding **fear and comfort**. Fear of rejection or discomfort in conversations can prevent believers from sharing the gospel. When we choose comfort instead of obedience, we may miss opportunities for people around us to hear the good news of Christ.
+
+This reflection also led me to consider my own spiritual habits, particularly prayer. Evangelism should flow from a life that is dependent upon God in prayer. When prayer becomes weak or absent, our concern for the spiritual condition of others often weakens as well. This session serves as a reminder that sharing the gospel begins with a renewed dependence upon the Lord and a willingness to step outside of personal comfort for the sake of others.
+
 Begin memorizing the Romans Road. For this course, the Romans Road is **Rom. 3:23, Rom. 6:23, Rom. 5:8, Rom. 10:9-10 and Rom. 10:13.**
 
 The assignment for this session is to memorize **Rom. 3:23; 6:23 and 5:8.**
 
 **Below this is AI driven reference material**
+
+## Romans Road Diagram
+
+```mermaid
+flowchart TD
+    A["Sin<br/>**Romans 3:23**<br/>*“for all have sinned and fall short of the glory of God,”"*] --> 
+    B["Consequence<br/>**Romans 6:23**<br/>*“For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.”"*]
+    B --> 
+    C["God’s Love / Provision<br/>**Romans 5:8**<br/>*“But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.”"*]
+    C --> 
+    D["Response<br/>**Romans 10:9–10**<br/>*“that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved…”"*]
+    D --> 
+    E["Promise<br/>**Romans 10:13**<br/>*“for ‘Whoever will call on the name of the Lord will be saved.’”"*]
+```

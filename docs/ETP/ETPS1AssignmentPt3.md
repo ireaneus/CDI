@@ -104,11 +104,24 @@ Instructor’s Note: Instruct your students to highlight any Bible passage and k
 - We will discuss first the key terms that relate to the Scripture’s teaching on salvation.
 - We will explore the general process of an individual coming to faith in Jesus Christ.
 
-## Key Verses
+## Key Scripture Passages
 
-**Psalm 51:13**
+### Man Created in God’s Image
 
-> *Then I will teach transgressors Your ways, And sinners will be converted to You.*
+- Genesis 1:27
+
+### The Corruption of Humanity
+
+- Romans 3:10–18  
+- Isaiah 64:6
+
+### The Consequences of Sin
+
+- Romans 6:23
+
+### Evangelistic Motivation
+
+- Psalm 51:13
 
 ## Class Exercise
 
