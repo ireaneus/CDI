@@ -188,7 +188,7 @@ Ask your students to memorize the four-part presentation of the Gospel given in 
 
 Jesus asked His disciples in **Matthew 16:13-15** *"Who do people say that the Son of Man is?"*, and after they answered, He asked His disciples *"Who do you say that I am?"*. Simeon Peter answered, *"You are the Christ, the Son of the living God"*
 
-*"I want to pose the same question to you, Who do you say that Jesus is?"*
+*"I want to pose the same question to you, Who do you say that Jesus is?"*  
 *“Where would you say you are in your relationship with God?”*
 
 Most people will answer something like:
