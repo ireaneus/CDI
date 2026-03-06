@@ -196,7 +196,7 @@ Most people will answer something like:
 - *“A good teacher”*
 - *“A prophet”*
 - *“The Son of God”*
-- *“I’m not sure”**
+- *“I’m not sure”*
 - *“Just a religious figure”*
 
 *"Thank you for your honest answer, it sounds like you have previously wrestled with this question or someone has asked you this before"*
