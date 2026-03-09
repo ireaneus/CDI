@@ -4,7 +4,7 @@ date: 2017
 instructor: Robert Dore
 course: Evangelism Teaching and Preaching
 description: Select and study a passage of Scripture to either share by teaching or preaching.
-bookReference: Evangelism and the Sovereignty of God by J.I. Packer
+bookReference:
 ---
 
 # {{ page.meta.title }}
