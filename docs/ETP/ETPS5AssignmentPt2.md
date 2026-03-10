@@ -283,9 +283,12 @@ A  Praise to God for Spiritual Blessings (1:3)
 
 > *I once heard someone foolishly suggest that the church needed less teaching on doctrine and more calls to action*  
 > *That’s a clear denial of what we find in the New Testament letters*  
-> That’s like the captain of a cruise ship ordering more propeller but less rudder, it merely results in going nowhere faster*  
+> *That’s like the captain of a cruise ship ordering more propeller but less rudder, it merely results in going nowhere faster*  
 > *But we can see in the epistles themselves evidence that the Lord expected us to understand the doctrines of our faith so we may live by them,*  
-> **[Verse By Verse Ministries - Ephesians Lesson 1A](https://versebyverseministry.org/lessons/ephesians-lesson-1a)
+>
+> [**Verse By Verse Ministries - Ephesians Lesson 1A**](https://versebyverseministry.org/lessons/ephesians-lesson-1a)
+>
+> *"Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth."* (**2 Timothy 2:15**)
 
 ## Ephesians 1:3-14 Central Point
 
@@ -305,84 +308,102 @@ Bible Verse:
 ┌────────────────────────────────────────────────────────────────────────────┐
 │ Approach:                                                                  │
 ├────────────────────────────────────────────────────────────────────────────┤
+│ Ask the class: What kinds of blessings do people usually seek in life?     │
+│ Money, security, family, health, success, protection, or peace?            │
 │                                                                            │
+│ Then ask: If God has already blessed believers with “every spiritual       │
+│ blessing in the heavenly places in Christ,” what does that mean, and why   │
+│ does that matter more than earthly success?                                │
 │                                                                            │
+│ Introduce the lesson by explaining that Ephesians 1:3-14 is Paul’s opening │
+│ praise to God, showing that the believer’s salvation is not accidental or  │
+│ partial, but planned by the Father, accomplished by the Son, and secured   │
+│ by the Holy Spirit.                                                        │
 │                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
+│ This should help the students begin thinking about the greatness of God’s  │
+│ work and the certainty of their salvation in Christ.                       │
 └────────────────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────────────────────────────────────────────────────┐
 │ Information:                                                               │
 ├────────────────────────────────────────────────────────────────────────────┤
+│ Ephesus was a major city in Asia Minor, known for trade, its harbor, and   │
+│ the Temple of Artemis. The city was wealthy, religious, and deeply         │
+│ involved in idolatry and occult practices. Acts 19 shows that magic, idol  │
+│ worship, and commerce were all tied together in Ephesian life.             │
 │                                                                            │
+│ Paul ministered in Ephesus for about three years and saw many turn from    │
+│ magic and idols to Christ. Later, while imprisoned, he wrote this letter   │
+│ to remind believers of their identity and blessings in Christ.             │
 │                                                                            │
+│ In contrast to a culture seeking spiritual power through Artemis, magic,   │
+│ and the Ephesia Grammata, Paul declares that believers already possess     │
+│ every spiritual blessing in Christ.                                        │
 │                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
+│ Ephesians 1:3-14 is one long Greek sentence and reads like a hymn or       │
+│ blessing prayer praising God for His redemptive work.                      │
 └────────────────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────────────────────────────────────────────────────┐
 │ Focus:                                                                     │
 ├────────────────────────────────────────────────────────────────────────────┤
+│ Central Point: Paul praises God for His sovereign work of redemption,      │
+│ revealing that through Christ believers have been chosen, redeemed, and    │
+│ sealed with every spiritual blessing according to God’s eternal plan, all  │
+│ for the praise of His glory.                                               │
 │                                                                            │
+│ Reinforce that this passage is not mainly a command to believers, but a    │
+│ declaration of what God has done.                                          │
 │                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
+│ The lesson will show that salvation is God’s work from beginning to end:   │
+│ the Father planned it, the Son accomplished it, and the Holy Spirit        │
+│ guarantees it.                                                             │
 └────────────────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────────────────────────────────────────────────────┐
 │ Analysis:                                                                  │
 ├────────────────────────────────────────────────────────────────────────────┤
+│ Verse 3 opens with praise: “Blessed be the God and Father...” Paul begins  │
+│ with worship because all salvation begins with God.                        │
 │                                                                            │
+│ Verses 4-6: The Father chose believers in Christ before the foundation of  │
+│ the world and predestined them to adoption. Salvation begins in God’s      │
+│ eternal purpose, not man’s initiative.                                     │
 │                                                                            │
+│ Verses 7-12: In Christ we have redemption through His blood, forgiveness   │
+│ of sins, and an inheritance. Christ is the center of the passage and the   │
+│ accomplishment of God’s saving plan.                                       │
 │                                                                            │
+│ Verses 13-14: Believers, having heard and believed the gospel, were sealed │
+│ with the Holy Spirit of promise, who is the pledge of our inheritance.     │
 │                                                                            │
+│ Repeated refrain: “to the praise of His glory.” The whole passage teaches  │
+│ that salvation is designed to magnify God’s grace and glory.               │
 │                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
+│ Key observations: every spiritual blessing, in Christ, chosen,             │
+│ predestined, redemption, forgiveness, inheritance, sealed.                 │
 └────────────────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────────────────────────────────────────────────────┐
 │ Personal:                                                                  │
 ├────────────────────────────────────────────────────────────────────────────┤
+│ This passage gives believers deep assurance. My salvation is not grounded  │
+│ in my performance, but in God’s eternal purpose, Christ’s finished work,   │
+│ and the Spirit’s seal.                                                     │
 │                                                                            │
+│ It also calls me to praise. Paul does not begin Ephesians with anxiety,    │
+│ confusion, or human effort, but with worship. Right doctrine should lead   │
+│ to doxology.                                                               │
 │                                                                            │
+│ In a world that looks for blessing in success, wealth, religion, or even   │
+│ spiritual experiences, this passage reminds me that the believer already   │
+│ possesses every spiritual blessing in Christ.                              │
 │                                                                            │
+│ I should live with gratitude, confidence, and humility, knowing that God   │
+│ has chosen, redeemed, and secured His people for His glory.                │
 │                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
-│                                                                            │
+│ Ask the class to reflect: Am I resting in the blessings I already have in  │
+│ Christ, and does my life reflect praise for His glory?                     │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
