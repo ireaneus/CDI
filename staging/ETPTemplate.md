@@ -4,7 +4,7 @@ date: 2017
 instructor: Robert Dore
 course: Evangelism Teaching and Preaching
 description: 
-bookReference: Evangelism and the Sovereignty of God by J.I. Packer
+bookReference: Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. 2 Timothy 2:15
 ---
 
 # {{ page.meta.title }}
@@ -24,7 +24,7 @@ stated: *“And He ordered us to preach to the people, and solemnly to testify t
 
 ## Reading / Memory Assignments
 
-| Session              | Reading / Memory Assignments                                                                 |
+| Session              | Reading / Memory Assignments                       |
 | -------------------- | -------------------------------------------------- |
 | Session 1, Part 1   | Read Ch. 1 of *"Evangelism and the Sovereignty of God"* |
 | Session 1, Part 2   | Read Ch. 2 of *"Evangelism and the Sovereignty of God"* |
@@ -33,8 +33,8 @@ stated: *“And He ordered us to preach to the people, and solemnly to testify t
 | Session 2, Part 1   | Memorize **Ephesians 2:8-9** |
 | Session 2, Part 2   | Memorize **Romans 3:23, 6:23, 5:8** |
 | Session 2, Part 3   | Memorize **Romans 10:9-10, 10:13** |
-| Session 4 | Memorize the 4-part presentation of the Gospel given in this session |
-| Session 6 | Read Chs. 1-4 of *"Teaching to Change Lives"* highlighting passages that make key points  |
+| Session 4 | Memorize the 4-part presentation of the Gospel given in this session *Prayer, Purpose, Preparation, Presentation* |
+| Session 6 | Read Chs. 1-4 of *"Teaching to Change Lives"* highlighting passages that make key points |
 | Session 7, Part 1 | Read Chs. 5-7 of *"Teaching to Change Lives"* highlighting passages that make key points |
 | Session 7, Part 2 | Read pp. 1-78 of *"The Bible, Live"* |
 | Session 8, Part 1   | Read pp. 81-151 of *"The Bible, Live"* |
