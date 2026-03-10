@@ -4,7 +4,7 @@ date: 2017
 instructor: Robert Dore
 course: Evangelism Teaching and Preaching
 description: Select and study a passage of Scripture to either share by teaching or preaching.
-bookReference:
+bibleReference: Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth. 2 Timothy 2:15
 ---
 
 # {{ page.meta.title }}
@@ -13,7 +13,7 @@ bookReference:
 **Instructor:** {{ page.meta.instructor }}  
 **Course:** {{ page.meta.course }}  
 **Description:** {{ page.meta.description }}  
-**BookReference:** {{ page.meta.bookReference }}
+**BibleReference:** {{ page.meta.bibleReference }}
 
 ## Course Scripture references
 
@@ -72,7 +72,11 @@ The 4 “P”s of Communicating God’s Word.
 
 **Prayer.** Prayer is not just an addition to what we do in communicating God’s Word, it is the principle element among many that should mark us in attempting to be used by the Lord for another’s benefit. Christ modeled this essential dynamic in His public ministry. Other effective spokesmen for God have been mighty in prayer. More than any other characteristic, prayer marks out God’s long line of proclaimers in the Old Testament, New Testament, and in church history to the present day. Anyone who would follow the biblical model must take prayer very seriously. Before we ever open our mouths to communicate God’s Word, we must steep ourselves in prayer.
 
+> *"Heavenly Father, I want to know you more, and I want others around me to know you more as well. Reveal Yourself to me through your Word, that I might reveal You to those I come in contact with today. Let my thoughts be Your thoughts, my words be Your words. All for Your Glory, in Christ's name, Amen"*
+
 **Purpose.** What is our intent, our aim, our purpose in preaching or teaching the message before us? Have we thought out carefully and clearly just why we are standing before someone or a group and attempting to communicate God’s Word? Is it to educate, to entertain, to convict, to exhort, to transform, to win friends, or to see people turn to Christ? It is very easy for selfish motives and unloving motives to get mixed into what, on the surface, should be simply done to honor God and bless His people. Further, an understanding of our purpose will give us the passion for preaching that we need. If the preacher/teacher is not purposeful and excited about what he is declaring, why should the listener be?
+
+> *"My purpose for teaching God’s Word is to help others see the truth of God’s sovereignty and the certainty of His plan in Scripture. I already understood the doctrine of God’s sovereignty—that He predestined and adopted us as sons and daughters before the foundation of the world—but He became more real to me when He revealed Himself more clearly through His Word. About six years ago, while listening to Stephen Armstrong teach through Genesis, I heard the account of Judah and Tamar explained in a way that showed how God was preserving the promised line of Christ despite human sin and even Satan’s attempts to corrupt it. In that moment I clearly saw that God’s will cannot be thwarted and that every part of Scripture testifies to His sovereign control. From that point forward my faith was strengthened, and others around me noticed a change as well. Because of that experience, I desire to teach the Bible so that others can also see the light of God’s sovereign work in His Word and grow in their confidence in Him."*
 
 **Preparation.** Here is where we will focus on the nuts and bolts of the lesson, sermon, or evangelistic message. Initially there is a steep learning curve here, but practice and diligence will pay off. There is no place for laziness or slipshod work when it comes to declaring God’s Word. We must *be diligent to present ourselves approved to God as a workman who does not need to be ashamed, handling accurately the word of truth* (**2 Timothy 2:15**).
 
