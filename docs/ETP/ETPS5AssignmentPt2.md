@@ -24,17 +24,17 @@ stated: *“And He ordered us to preach to the people, and solemnly to testify t
 
 ## Reading / Memory Assignments
 
-| Session              | Reading / Memory Assignments                                                                 |
+| Session              | Reading / Memory Assignments                       |
 | -------------------- | -------------------------------------------------- |
 | Session 1, Part 1   | Read Ch. 1 of *"Evangelism and the Sovereignty of God"* |
 | Session 1, Part 2   | Read Ch. 2 of *"Evangelism and the Sovereignty of God"* |
 | Session 1, Part 3   | Read Ch. 3 of *"Evangelism and the Sovereignty of God"* |
 | Session 1, Part 4   | Read Ch. 4 of *"Evangelism and the Sovereignty of God"* |
-| Session 2, Part 1   | Memorize **Ephesians 2:8-9** |
-| Session 2, Part 2   | Memorize **Romans 3:23, 6:23, 5:8** |
-| Session 2, Part 3   | Memorize **Romans 10:9-10, 10:13** |
-| Session 4 | Memorize the 4-part presentation of the Gospel given in this session |
-| Session 6 | Read Chs. 1-4 of *"Teaching to Change Lives"* highlighting passages that make key points  |
+| Session 2, Part 1   | Memorize **Ephesians 2:8-9** *For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works, so that no one may boast.* |
+| Session 2, Part 2   | Memorize **Romans 3:23, 6:23, 5:8** *"for all have sinned and fall short of the glory of God For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord. But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us."* |
+| Session 2, Part 3   | Memorize **Romans 10:9-10, 10:13** *"that if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation."*  **10:13** *for “Whoever will call on the name of the Lord will be saved.”* |
+| Session 4 | Memorize the 4-part presentation of the Gospel given in this session *Prayer, Purpose, Preparation, Presentation* |
+| Session 6 | Read Chs. 1-4 of *"Teaching to Change Lives"* highlighting passages that make key points |
 | Session 7, Part 1 | Read Chs. 5-7 of *"Teaching to Change Lives"* highlighting passages that make key points |
 | Session 7, Part 2 | Read pp. 1-78 of *"The Bible, Live"* |
 | Session 8, Part 1   | Read pp. 81-151 of *"The Bible, Live"* |
@@ -154,130 +154,310 @@ Ask the students to turn in their notes along with their finished assignment so 
 > *Ephesians is a good letter for all churches because it deals with ecclesiology—the theology of the church in its establishment, purpose, and survival.* —**CDI NTSurvey Session 12**  
 > *In Chapter 1, Paul praises God for His redemptive work, highlighting the spiritual blessings believers have in Christ, including adoption, redemption, and the sealing of the Holy Spirit (vv. 1–14). He prays that they may grow in wisdom, understanding the hope of their calling, the riches of their inheritance, and the greatness of God’s power toward them (vv. 15–23)* —**CDI NTSurvey Session 12**
 
-## Historical Context – Ephesus (For Ephesians 1:3–14)
+**Below this is AI driven reference material**
 
-Ephesus was a major port city in the Roman province of Asia and served as a center of commerce, religion, and culture. The city was famous for the Temple of Artemis, one of the Seven Wonders of the Ancient World. Worship of Artemis dominated the religious life of the city and was closely tied to its economy.
+## Ephesians 1:3–14 vs. Ephesian Magic Culture
 
-> **Acts 19:24–27**
-> *“For a man named Demetrius, a silversmith, who made silver shrines of Artemis, was bringing no little business to the craftsmen; these he gathered together with the workmen of similar trades, and said, ‘Men, you know that our prosperity depends upon this business. You see and hear that not only in Ephesus, but in almost all of Asia, this Paul has persuaded and turned away a considerable number of people, saying that gods made with hands are no gods at all. Not only is there danger that this trade of ours fall into disrepute, but also that the temple of the great goddess Artemis be regarded as worthless and that she whom all of Asia and the world worship will even be dethroned from her magnificence.’”*
+### 1. The Ephesia Grammata (Magic Words of Ephesus)
 
-Ephesus was also known throughout the ancient world for magical practices and mystical formulas known as the Ephesia Grammata, which were believed to contain supernatural power.
+Ephesus was widely known in the ancient world for magical formulas called **Ephesia Grammata**. Ancient writers such as **Clement of Alexandria, Plutarch, Hesychius, and Pausanias** refer to these formulas as mystical words believed to contain supernatural power.
 
-> **Acts 19:19**
-> *“And many of those who practiced magic brought their books together and began burning them in the sight of everyone; and they counted up the price of them and found it fifty thousand pieces of silver.”*
+These formulas were commonly:
 
-Against this cultural backdrop of magic, spiritual fear, and idol worship, Paul begins his letter by declaring that believers already possess every spiritual blessing in Christ.
+- written on amulets
+- spoken in ritual incantations
+- used for protection, healing, or spiritual power
 
-## Scripture Context
+A commonly cited example of the Ephesia Grammata included the words:
 
-Ephesians 1:3–14 forms the opening blessing of Paul’s letter and establishes the theological foundation for the entire epistle. The passage begins with praise to God and unfolds the full scope of redemption from eternity past to eternity future.
+> *askion, kataskion, lix, tetrax, damnameneus, aision*
 
-In the original Greek text, Ephesians 1:3–14 is one continuous sentence, containing over two hundred words. Paul constructs a cascading blessing that describes the spiritual blessings believers possess through Christ.
+People believed that the spoken formula itself released spiritual power.
 
-This form resembles a Jewish synagogue blessing prayer (berakah), which commonly began with praise to God and then recounted His works of salvation. Paul adopts this familiar form but centers the blessing on Christ and the redemptive plan of God.
+This cultural background helps explain the dramatic event recorded in **Acts 19:19**:
 
-> **Ephesians 1:3**
-> *“Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ.”*
+> *“And many of those who practiced magic brought their books together and began burning them in the sight of everyone; and they counted up the price of them and found it fifty thousand pieces of silver.”* (**Acts 19:19**)
 
-Paul’s statement establishes the theme of the passage: believers already possess every spiritual blessing through their union with Christ.
+Ephesus therefore functioned as a major center of occult practices within the Roman world. Paul writes his letter to believers living within this environment of magical thinking and spiritual fear.
 
-## Unit of Study
+### Acts 19:19
 
-[Outline of Book of Ephesians](https://ireaneus.github.io/LivingWaters/blog/ephesians/#outline)
+> *“And many of those who practiced magic brought their books together and began burning them in the sight of everyone; and they counted up the price of them and found it fifty thousand pieces of silver.”* (**Acts 19:19**)
 
-## Structural Analysis (grammer)
+This event demonstrates the influence of magic practices in Ephesus and the dramatic transformation that occurred when many turned to Christ.
+
+### 2. Ephesians 1:3–14 Is One Long Greek Sentence
+
+In the Greek text, **Ephesians 1:3–14 forms a single continuous sentence** of approximately **202 words**, making it the longest sentence in the New Testament.
+
+Paul constructs the passage as a cascading declaration of praise that reflects the form of a Jewish blessing prayer.
+
+### A Berakah (Blessing Prayer)
+
+Jewish synagogue prayers often began with a blessing such as:
+
+> *“Blessed be the Lord…”*
+
+Paul follows this pattern in **Ephesians 1:3**:
+
+> *“Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ.”* (**Ephesians 1:3**)
+
+Within the Ephesian cultural context—where people believed that **magic words produced spiritual power**—Paul teaches that believers already possess **every spiritual blessing through union with Christ**.
+
+### 3. Why This Matters in Ephesus
+
+In a city where many believed spiritual power could be obtained through magical words, incantations, and ritual formulas, Paul begins his letter with a declaration that believers already possess true spiritual blessing through Christ.
+
+Rather than seeking spiritual power through mystical practices, believers are already blessed with **every spiritual blessing in the heavenly places in Christ** (**Ephesians 1:3**).
+
+### 4. Paul’s Structure Counters Magical Thinking
+
+Throughout **Ephesians 1:3–14**, Paul repeatedly uses the phrase **“in Christ.”**
+
+This phrase appears multiple times in the passage and emphasizes that spiritual blessing, redemption, and inheritance come through **union with Christ**, not through rituals or mystical formulas.
+
+Spiritual power does not come from:
+
+- spells
+- rituals
+- sacred words
+
+True spiritual blessing comes through **Christ alone**.
+
+### 5. The True “Mystery”
+
+Another important concept in Ephesians is the word **“mystery.”**
+
+In the religious culture of the ancient world, a *mystery* referred to secret knowledge revealed only to initiates in certain religious cults.
+
+Paul redefines the term in **Ephesians 1:9**:
+
+> *“He made known to us the mystery of His will, according to His kind intention which He purposed in Him.”* (**Ephesians 1:9**)
+
+The mystery is not hidden magical knowledge but **God’s revealed redemptive plan in Christ**.
+
+### 6. Paul Also Emphasizes True Spiritual Authority
+
+The people of Ephesus lived with a strong awareness of spiritual powers and authorities. Paul responds by declaring Christ’s supremacy over all spiritual beings.
+
+> *“Far above all rule and authority and power and dominion, and every name that is named, not only in this age but also in the one to come.”* (**Ephesians 1:21**)
+
+This statement affirms that Christ possesses authority over every spiritual power.
+
+### 7. The Seal of the Holy Spirit vs Magical Amulets
+
+Many people in Ephesus wore charms or amulets for protection against spiritual forces. Paul contrasts this practice with the believer’s true security in Christ.
+
+> *“In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise.”* (**Ephesians 1:13**)
+
+Rather than relying on magical objects, believers are **sealed by the Holy Spirit**, who guarantees their inheritance.
+
+### 8. The Big Teaching Point
+
+In a culture that sought spiritual power through magical practices, Paul teaches that believers already possess every spiritual blessing through Christ.
+
+These blessings include:
+
+- Election (**Ephesians 1:4**)
+- Adoption (**Ephesians 1:5**)
+- Redemption (**Ephesians 1:7**)
+- Forgiveness (**Ephesians 1:7**)
+- An inheritance (**Ephesians 1:11**)
+- The sealing of the Holy Spirit (**Ephesians 1:13–14**)
+
+Believers do not need magical knowledge or spiritual rituals. Their salvation and spiritual blessing come through **union with Christ**.
+
+## The Trinitarian Structure of Ephesians 1:3–14
+
+Paul’s blessing unfolds in three movements, each highlighting the work of one person of the Trinity. Each section concludes with a refrain emphasizing the ultimate purpose of redemption.
+
+> *“to the praise of His glory.”*
+
+### 1. The Work of the Father
+
+### Ephesians 1:3–6
+
+Paul begins with the Father as the source of salvation.
+
+Key themes include:
+
+- Election
+- Predestination
+- Adoption
+- Grace
+
+> *“He chose us in Him before the foundation of the world… He predestined us to adoption as sons through Jesus Christ.”* (**Ephesians 1:4–5**)
+
+This passage emphasizes that salvation originates in the eternal purpose of God.
+
+### The Work of the Father Purpose Statement
+
+> *“to the praise of the glory of His grace.”* (**Ephesians 1:6**)
+
+The Father's role is the **planning of redemption**.
+
+### 2. The Work of the Son
+
+### Ephesians 1:7–12
+
+The second section focuses on Christ accomplishing redemption.
+
+Key themes include:
+
+- Redemption
+- Forgiveness
+- Revelation of God’s plan
+- Inheritance
+
+> *“In Him we have redemption through His blood, the forgiveness of our trespasses.”* (**Ephesians 1:7**)
+
+Christ accomplishes the salvation that the Father planned.
+
+### The Work of the Son Purpose Statement
+
+> *“to the praise of His glory.”* (**Ephesians 1:12**)
+
+The Son’s role is the **accomplishment of redemption**.
+
+### 3. The Work of the Holy Spirit
+
+### Ephesians 1:13–14
+
+The final section describes the application of redemption to believers.
+
+> *“You were sealed in Him with the Holy Spirit of promise, who is given as a pledge of our inheritance.”* (**Ephesians 1:13–14**)
+
+The Spirit guarantees the believer’s inheritance and secures the promises of God.
+
+### The Work of the Spirit Purpose Statement
+
+> *“to the praise of His glory.”* (**Ephesians 1:14**)
+
+The Spirit’s role is the **application and guarantee of redemption**.
+
+## The Full Structure
 
 ```scss
-Blessed (Predicate adjective)
-be (Main Verb)
-the God and Father of our Lord Jesus Christ (Subject)
+Ephesians 1:3–14
 
-who has blessed (Modifier of the subject)
-us (Object)
-with every spiritual blessing (Object modifier)
-in the heavenly places
-in Christ
+THE FATHER – The Plan of Redemption
+1:3–6
+Chosen before the foundation of the world
+Predestined to adoption
+Purpose: to the praise of His glory
 
-1:4
-He (Subject)
-chose (Main Verb)
-us (Object)
-in Him
-before the foundation of the world
-that we would be holy and blameless before Him.
+THE SON – The Accomplishment of Redemption
+1:7–12
+Redemption through His blood
+Forgiveness of sins
+Inheritance in Christ
+Purpose: to the praise of His glory
 
-1:5
-He (Subject implied)
-predestined (Main Verb)
-us (Object)
-to adoption as sons
-through Jesus Christ
-to Himself
-according to the kind intention of His will.
-
-1:7
-We (Subject)
-have (Main Verb)
-redemption (Object)
-through His blood
-the forgiveness of our trespasses
-according to the riches of His grace.
-
-1:9
-He (Subject)
-made known (Main Verb)
-to us (Object)
-the mystery of His will
-according to His kind intention
-which He purposed in Him.
-
-1:11
-We (Subject)
-have obtained (Main Verb)
-an inheritance (Object)
-having been predestined
-according to His purpose
-who works all things
-after the counsel of His will.
-
-1:13
-You (Subject)
-were sealed (Main Verb)
-in Him (Modifier)
-with the Holy Spirit of promise.
+THE HOLY SPIRIT – The Guarantee of Redemption
+1:13–14
+Sealed with the Holy Spirit
+Pledge of our inheritance
+Purpose: to the praise of His glory
 ```
 
-## Literary Analysis (Trinitarian / chiastic)
+## The Timeline of Salvation in the Passage
 
-Ephesians 1:3–14 is one continuous sentence in the Greek text, functioning as a berakah (blessing prayer) praising God for His redemptive work. The passage also displays a Trinitarian progression and a literary symmetry centered on Christ and redemption.
+```scss
+ETERNITY PAST
+The Father chose and predestined believers (Ephesians 1:4–5)
 
-The repeated phrase *“to the praise of His glory”* divides the passage into three theological movements highlighting the work of the Trinity.
+HISTORY
+Christ accomplished redemption through His blood (Ephesians 1:7)
+
+PRESENT
+Believers are sealed with the Holy Spirit (Ephesians 1:13)
+
+FUTURE
+Believers receive the full inheritance (Ephesians 1:14)
+```
+
+## Structural Analysis – Ephesians 1:3–14
+
+Ephesians **1:3–14** forms a single sentence in the Greek text functioning as a **berakah (blessing prayer)** praising God for His redemptive work. The passage displays a Trinitarian progression centered on the work of the Father, the Son, and the Holy Spirit.
+
+The repeated phrase **“to the praise of His glory”** provides the structural markers that divide the passage.
 
 ```scss
 A  Praise to God for Spiritual Blessings (1:3)
-   Blessed be the God and Father who blessed us in Christ
 
    B  The Father's Work – Election and Predestination (1:4–6)
-      Chosen before the foundation of the world
-      Predestined to adoption through Jesus Christ
-      Purpose: to the praise of the glory of His grace
 
       C  The Son's Work – Redemption in Christ (1:7–10)
-         Redemption through His blood
-         Forgiveness of sins
-         The mystery of His will revealed
-         The summing up of all things in Christ
 
-      B' The Son's Work Applied – Inheritance in Christ (1:11–12)
-         We have obtained an inheritance
-         Predestined according to His purpose
-         Purpose: to the praise of His glory
+   B' The Son's Work Applied – Inheritance (1:11–12)
 
-   A' The Spirit's Work – Seal and Guarantee (1:13–14)
-      Sealed with the Holy Spirit
-      Guarantee of our inheritance
-      Purpose: to the praise of His glory
+A' The Spirit's Work – Seal and Guarantee (1:13–14)
 ```
+
+### The Literary Center
+
+The theological center of the passage occurs in **Ephesians 1:7–10**, emphasizing redemption through Christ and the revelation of God’s eternal plan.
+
+> *“In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace.”* (**Ephesians 1:7–8**)
+
+Christ stands at the center of God’s redemptive plan.
+
+### Central Point – Ephesians 1:3–14
+
+**Central Point Statement**
+
+> God is to be praised because through Christ He has eternally planned, accomplished, and guaranteed the redemption and inheritance of believers, giving them every spiritual blessing for the praise of His glory.
+
+## Seven Spiritual Blessings in Ephesians 1:3–14
+
+Paul declares that believers possess **“every spiritual blessing in the heavenly places in Christ”** (**Ephesians 1:3**). The passage identifies several of these blessings.
+
+```scss
+1. Election
+   Ephesians 1:4
+   “He chose us in Him before the foundation of the world.”
+
+2. Predestination to Adoption
+   Ephesians 1:5
+   “He predestined us to adoption as sons through Jesus Christ.”
+
+3. Grace Freely Given
+   Ephesians 1:6
+   “He freely bestowed on us in the Beloved.”
+
+4. Redemption Through Christ’s Blood
+   Ephesians 1:7
+   “In Him we have redemption through His blood.”
+
+5. Forgiveness of Sins
+   Ephesians 1:7
+   “The forgiveness of our trespasses.”
+
+6. An Inheritance in Christ
+   Ephesians 1:11
+   “In Him we have obtained an inheritance.”
+
+7. The Seal of the Holy Spirit
+   Ephesians 1:13–14
+   “You were sealed in Him with the Holy Spirit of promise.”
+```
+
+## Jewish Blessing Structure (Berakah) in Ephesians 1:3–14
+
+Ephesians **1:3–14** reflects the structure of a Jewish **berakah** (blessing prayer), which commonly began with praise to God and recounted His works of salvation.
+
+Paul begins the passage with the traditional blessing formula:
+
+> *“Blessed be the God and Father of our Lord Jesus Christ.”* (**Ephesians 1:3**)
+
+However, Paul reshapes the traditional blessing by placing **Christ at the center of God’s redemptive plan**. Rather than recounting Israel’s historical deliverance, Paul celebrates the spiritual blessings believers possess through Christ.
+
+The passage therefore functions both as:
+
+- a **theological explanation of redemption**
+- a **doxology praising God for His saving work**
+
+For believers living in Ephesus—surrounded by pagan worship and magical practices—Paul declares that the true source of spiritual power and blessing is found **in Christ alone**.
 
 ## Commentaries
 
@@ -289,12 +469,6 @@ A  Praise to God for Spiritual Blessings (1:3)
 > [**Verse By Verse Ministries - Ephesians Lesson 1A**](https://versebyverseministry.org/lessons/ephesians-lesson-1a)
 >
 > *"Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth."* (**2 Timothy 2:15**)
-
-## Ephesians 1:3-14 Central Point
-
-**Central Point Statement**
-
-> God is to be praised because through Christ He has eternally planned, accomplished, and guaranteed the redemption and inheritance of believers, giving them every spiritual blessing for the praise of His glory.
 
 ## Prepare a lesson plan
 
@@ -406,413 +580,3 @@ Bible Verse:
 │ Christ, and does my life reflect praise for His glory?                     │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
-
-**Below this is AI driven reference material**
-
-## Ephesians 1:3–14 vs. Ephesian Magic Culture
-
-### 1. The Ephesia Grammata (Magic Words of Ephesus)
-
-In the ancient world, Ephesus was famous for magical formulas called **Ephesia Grammata**.
-
-Ancient writers who mention them include:
-
-- Clement of Alexandria
-- Plutarch
-- Hesychius
-- Pausanias
-
-These were **mystical words believed to contain supernatural power**. They were often:
-
-- written on amulets
-- spoken in rituals
-- used for protection, healing, or power
-
-A typical formula included strange words such as:
-
-> *askion, kataskion, lix, tetrax, damnameneus, aision*
-
-People believed **speaking the formula released spiritual power**.
-
-This is exactly the kind of culture Paul encountered in **Acts 19**.
-
-### Acts 19:19
-
-> “Many of those who practiced magic brought their books together and burned them in the sight of everyone… fifty thousand pieces of silver.”
-
-So Ephesus was essentially the **occult capital of the Roman world**.
-
-### 2. Ephesians 1:3–14 Is One Long Greek Sentence
-
-In the original Greek, **Ephesians 1:3–14 is one continuous sentence**.
-
-It is the **longest sentence in the New Testament** (about **202 Greek words**).
-
-Paul intentionally creates a **long cascading blessing**.
-
-This structure mirrors something familiar to the Jewish world:
-
-### A Berakah (Blessing Prayer)
-
-Jewish prayers often began:
-
-> “Blessed be God…”
-
-This is exactly how Paul begins.
-
-### Ephesians 1:3
-
-> “Blessed be the God and Father of our Lord Jesus Christ…”
-> “who has blessed us with **every spiritual blessing** in the heavenly places in Christ.”
-
-This directly challenges Ephesian thinking.
-
-They believed:
-
-magic words → spiritual power
-
-Paul teaches:
-
-Christ → every spiritual blessing already given
-
-Paul then pours out a **cascade of spiritual realities**.
-
-### 3. Why This Matters in Ephesus
-
-In a city where people believed in **magic words and spiritual formulas**, Paul begins his letter with a **true declaration of spiritual power**.
-
-Instead of magic words giving power, Paul says:
-
-Believers already possess **every spiritual blessing**.
-
-### 4. Paul’s Structure Counters Magical Thinking
-
-Look at the flow of the passage.
-
-Paul repeatedly says:
-
-**“in Christ”**
-
-It appears **11 times** in this opening section.
-
-Power does not come from:
-
-- spells
-- rituals
-- sacred words
-
-Power comes from **union with Christ**.
-
-### 5. The True “Mystery”
-
-Another key word in Ephesians.
-
-### Ephesians 1:9
-
-> “He made known to us the **mystery** of His will…”
-
-In Greek culture a **mystery** meant secret religious knowledge.
-
-Paul says the real mystery is not hidden magic knowledge.
-
-The real mystery is:
-
-God’s eternal plan in Christ.
-
-### 6. Paul Also Emphasizes True Spiritual Authority
-
-Ephesus was full of fear of spirits and powers.
-
-Later Paul says:
-
-### Ephesians 1:21
-
-Christ is
-
-> “far above all rule and authority and power and dominion.”
-
-This language directly confronts the **spiritual hierarchy feared in magic practices**.
-
-### 7. The Seal of the Holy Spirit vs Magical Amulets
-
-People in Ephesus wore magical charms for protection.
-
-Paul says believers already have a **greater seal**.
-
-### Ephesians 1:13
-
-> “you were sealed in Him with the Holy Spirit of promise.”
-
-Instead of an amulet protecting you…
-
-God Himself seals you.
-
-### 8. The Big Teaching Point
-
-In a city obsessed with **magic power**, Paul says:
-
-You already possess **every spiritual blessing**.
-
-You already have:
-
-- election
-- adoption
-- redemption
-- forgiveness
-- inheritance
-- sealing by the Spirit
-
-You do not need **spells or magic**.
-
-You have **Christ**.
-
-## The Trinitarian Structure of Ephesians 1:3–14
-
-Paul’s long blessing unfolds in **three movements**, each focused on one person of the Trinity and ending with the same refrain:
-
-> **“to the praise of His glory.”**
-
-This repetition forms the structural marker.
-
-### 1. The Work of the Father
-
-### Ephesians 1:3–6
-
-The section begins with the Father as the source of salvation.
-
-**Key themes**
-
-- Election
-- Predestination
-- Adoption
-- Grace
-
-> **Ephesians 1:4–5**
-> *“He chose us in Him before the foundation of the world…*  
-> *He predestined us to adoption as sons through Jesus Christ.”*
-
-Paul emphasizes that salvation begins **in eternity past** in the will of the Father.
-
-### The Work of the Father Purpose statement
-
-> **Ephesians 1:6**
-> *“to the praise of the glory of His grace”*
-
-So the Father's work is:
-
-**The Plan of Redemption**
-
-### 2. The Work of the Son
-
-### Ephesians 1:7–12
-
-The second movement focuses on **Christ accomplishing redemption**.
-
-**Key themes**
-
-- Redemption
-- Forgiveness
-- The mystery revealed
-- The inheritance
-
-> **Ephesians 1:7**
-> *“In Him we have redemption through His blood, the forgiveness of our trespasses.”*
-
-Christ is the **means by which the Father’s eternal plan is accomplished**.
-
-Paul also reveals God's cosmic plan:
-
-> **Ephesians 1:10**
-> *“to sum up all things in Christ, things in heaven and things on earth.”*
-
-Christ is not only redeeming individuals but **restoring the entire created order**.
-
-### The Work of the Son Purpose statement
-
-> **Ephesians 1:12**
-> *“to the praise of His glory.”*
-
-So the Son’s work is:
-
-**The Accomplishment of Redemption**
-
-### 3. The Work of the Holy Spirit
-
-### Ephesians 1:13–14
-
-The final movement shows how redemption is **applied to believers**.
-
-> **Ephesians 1:13**
-> *“having believed, you were sealed in Him with the Holy Spirit of promise.”*
-
-The Spirit acts as:
-
-- **a seal**
-- **a guarantee**
-- **a pledge of inheritance**
-
-> **Ephesians 1:14**
-> *“who is given as a pledge of our inheritance.”*
-
-### The Work of the Spirit Purpose statement
-
-> *“to the praise of His glory.”*
-
-So the Spirit’s work is:
-
-**The Application and Guarantee of Redemption**
-
-## The Full Structure
-
-You can visualize the passage like this:
-
-```scss
-Ephesians 1:3–14
-
-THE FATHER – The Plan of Redemption
-1:3–6
-Chosen before the foundation of the world
-Predestined to adoption
-Purpose: to the praise of His glory
-
-THE SON – The Accomplishment of Redemption
-1:7–12
-Redemption through His blood
-Forgiveness of sins
-Inheritance in Christ
-Purpose: to the praise of His glory
-
-THE HOLY SPIRIT – The Guarantee of Redemption
-1:13–14
-Sealed with the Holy Spirit
-Pledge of our inheritance
-Purpose: to the praise of His glory
-```
-
-## The Timeline of Salvation in the Passage
-
-Another beautiful feature is the **timeline Paul presents**.
-
-```scss
-ETERNITY PAST
-The Father chose and predestined us (1:4–5)
-
-HISTORY
-Christ accomplished redemption through His blood (1:7)
-
-PRESENT
-Believers are sealed by the Holy Spirit (1:13)
-
-FUTURE
-We receive the full inheritance (1:14)
-```
-
-## Structural Analysis – Ephesians 1:3–14
-
-Ephesians **1:3–14** is one continuous sentence in the Greek text, functioning as a **berakah (blessing prayer)** praising God for His redemptive work. The passage also displays a **Trinitarian progression** and a **literary symmetry** centered on **Christ and redemption**.
-
-The repeated phrase **“to the praise of His glory”** divides the passage into three theological movements highlighting the work of the Trinity.
-
-```scss
-A  Praise to God for Spiritual Blessings (1:3)
-   Blessed be the God and Father who blessed us in Christ
-
-   B  The Father's Work – Election and Predestination (1:4–6)
-      Chosen before the foundation of the world
-      Predestined to adoption through Jesus Christ
-      Purpose: to the praise of the glory of His grace
-
-      C  The Son's Work – Redemption in Christ (1:7–10)
-         Redemption through His blood
-         Forgiveness of sins
-         The mystery of His will revealed
-         The summing up of all things in Christ
-
-      B' The Son's Work Applied – Inheritance in Christ (1:11–12)
-         We have obtained an inheritance
-         Predestined according to His purpose
-         Purpose: to the praise of His glory
-
-   A' The Spirit's Work – Seal and Guarantee (1:13–14)
-      Sealed with the Holy Spirit
-      Guarantee of our inheritance
-      Purpose: to the praise of His glory
-```
-
-### The Literary Center
-
-The theological center of the structure occurs in **Ephesians 1:7–10**, emphasizing:
-
-- **Redemption through Christ's blood**
-- **The revelation of God's eternal plan**
-- **The summing up of all things in Christ**
-
-> **Ephesians 1:7–8**
-> *“In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace which He lavished on us.”*
-
-This center highlights that **Christ is the focal point of God's redemptive plan**.
-
-### Central Point – Ephesians 1:3–14
-
-Here is a **clear central point statement** suitable for your assignment.
-
-**Central Point Statement**
-
-> God is to be praised because through Christ He has eternally planned, accomplished, and guaranteed the redemption and inheritance of believers, giving them every spiritual blessing for the praise of His glory.
-
----
-
-## Seven Spiritual Blessings in Ephesians 1:3–14
-
-Paul declares that believers have received “every spiritual blessing in the heavenly places in Christ” (Ephesians 1:3). The following verses describe the specific blessings God has given to believers through His redemptive plan.
-
-```scss
-1. Election
-   Ephesians 1:4
-   “He chose us in Him before the foundation of the world.”
-
-2. Predestination to Adoption
-   Ephesians 1:5
-   “He predestined us to adoption as sons through Jesus Christ.”
-
-3. Grace Freely Given
-   Ephesians 1:6
-   “He freely bestowed on us in the Beloved.”
-
-4. Redemption Through Christ’s Blood
-   Ephesians 1:7
-   “In Him we have redemption through His blood.”
-
-5. Forgiveness of Sins
-   Ephesians 1:7
-   “The forgiveness of our trespasses.”
-
-6. An Inheritance in Christ
-   Ephesians 1:11
-   “In Him we have obtained an inheritance.”
-
-7. The Seal of the Holy Spirit
-   Ephesians 1:13–14
-   “You were sealed in Him with the Holy Spirit of promise.”
-```
-
-## Jewish Blessing Structure (Berakah) in Ephesians 1:3–14
-
-There is a strong possibility that **Ephesians 1:3–14 intentionally mirrors the structure of a Jewish synagogue blessing prayer**, often called a **berakah** (Hebrew: *blessing*). These prayers commonly began with the phrase:
-
-> *“Blessed be the Lord…”*
-
-and then continued by recounting the mighty works of God. Jewish prayers frequently followed a pattern of praising God for His actions in creation, redemption, and covenant faithfulness.
-
-Paul begins Ephesians with the same form of blessing:
-
-> **Ephesians 1:3**
-> *“Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ.”*
-
-By using this familiar structure, Paul frames the entire passage as a **hymn of praise to God for His redemptive work**. However, Paul transforms the traditional Jewish blessing by placing **Christ at the center of God’s eternal plan**. Rather than recounting Israel’s historical deliverance, Paul celebrates the spiritual blessings believers possess through Christ, including election, redemption, forgiveness, inheritance, and the sealing of the Holy Spirit.
-
-The passage also reflects the rhythmic style of Hebrew praise, with repeated phrases such as **“in Christ”** and the refrain **“to the praise of His glory.”** These repetitions give the passage a liturgical tone, similar to the worship language used in synagogue prayers.
-
-Understanding this background strengthens the interpretation of the passage. Paul is not merely offering theological statements; he is presenting a **Christ-centered redemption hymn** that praises God for His eternal plan of salvation. For believers living in Ephesus—a city deeply influenced by pagan worship and magical practices—this opening blessing declares that the true source of spiritual power and blessing is found not in rituals or incantations, but **in Christ alone**.
-
-Thus, Ephesians 1:3–14 functions both as a **theological summary of redemption** and as a **doxology of worship**, calling believers to praise God for His sovereign work accomplished through the Father, the Son, and the Holy Spirit.
