@@ -187,3 +187,9 @@ It begins, “Therefore.”—and whenever you see a therefore in Scripture, you
 **H** The Law of the Heart—Teaching that impacts is not head to head, but heart to heart.  
 **E** The Law of Encouragement—Teaching tends to be most effective when the learner is properly motivated.  
 **R** The Law of Readiness—The teaching-learning process will be most effective when both student and teacher are adequately prepared.
+
+## Book Summary
+
+**Teaching to Change Lives — Dr. Howard Hendricks**
+
+In *Teaching to Change Lives*, Howard Hendricks teaches that effective biblical teaching is not merely the transfer of information but the transformation of lives through God’s Word. Hendricks explains that teachers must first be personally impacted by Scripture before they can effectively communicate it to others. The book stresses that teaching should lead to application, helping students connect biblical truth to everyday life.
