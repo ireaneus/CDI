@@ -114,6 +114,9 @@ You will THINK ABOUT:
 
 ## Key Scripture Passages
 
+> **2 Timothy 4:2**
+> *preach the word; be ready in season and out of season; reprove, rebuke, exhort, with great patience and instruction.*
+
 ### Exposition and the Judeo-Christian Tradition
 
 > **Genesis 1:3 (NASB1995)**  
@@ -195,19 +198,27 @@ Have different students get up and lead a discussion on the individual chapters 
 
 Each student should begin by giving a summary of the chapter they’re discussing. Next the student will point out the five statements they highlighted and comment on what was noteworthy about that statement.
 
-## Teaching to Change Lives - Chapter Five Summary
+## Teaching to Change Lives - Chapter Four Summary
 
 **Teaching that impacts is not head to head, but heart to heart.**
 
-- My experience when seeing God is real, was a heart acknowledgment and not a head acknowledgment, that is something I want to convey to my students/congregation.  Going back to their first love.
+- *My own experience of when I truly saw that God is real (Basically I realized, He says what He means, and He means what He says.), that moment was not a matter of intellectual understanding, but a deep acknowledgment in my heart. Because of that, I want my teaching to go beyond communicating information and instead point people back to their first love for Christ, where faith becomes personal and real.*
 
 **Deuteronomy 6:4–6 is one passage that reveals the scriptural context for the word. Moses said, *“Hear, O Israel: The LORD our God, the LORD is one. Love the LORD your God with all your heart and with all your soul and with all your strength. These commandments that I give you today are to be upon your hearts.”**
 
+- *This passage reminds me that God’s Word is not meant to remain only in our minds but must also be written on our hearts. Each morning I pray that before I even begin my day, the Lord would place His Word on my lips. I also pray that I will retain His Word in my mind so that it shapes my thoughts and produces a willing and obedient heart. When God’s Word fills both the mind and the heart, it helps guide my actions so that I may learn to do His will, as Psalm 143:10 says.*
+
 **Socrates knew also that speakers and teachers need content, and he called it—interestingly enough—logos, the same Greek word used of Jesus Christ in John 1: *“In the beginning was the logos, the Word. And the logos became flesh, and pitched his tent among us, and we beheld his glory—the glory of the Father’s one and only Son, full of grace and truth.”**
+
+- *This statement reminds me that true teaching must ultimately point to Christ, who is the living Word. Jesus is the truth, and through Him the Father has been fully revealed to mankind. When we teach God’s Word, our content should always lead people back to Christ, because He is the fullest expression of God’s grace and truth (John 1:14).*
 
 **1. We’ve mentioned this before, and it’s worth repeating: Know your students. The more you know of their needs, the better able you are to meet them.**
 
+- *Knowing the needs of the students is essential for effective teaching because it allows the teacher to apply biblical truth in ways that genuinely serve the people listening. In a small group or Bible study setting, this often begins with prayer and encouragement for one another. When people know they are in a safe place where they can let their guard down and share their struggles, meaningful teaching moments naturally arise. Questions about how to pray, how to support one another, and how to walk faithfully with Christ become opportunities for discipleship. Scripture reminds us that “the effective prayer of a righteous man can accomplish much” (James 5:16), and by coming alongside one another in prayer and encouragement, we help meet the real spiritual needs of those we are teaching.*
+
 **2. Earn the right to be heard. You can’t walk out on the street and tell the first guy you meet that you know what his problem is. He’ll probably give you a portion of his mind that he can’t afford to lose. Even if you do know what his problem is, I can guarantee you won’t get through to him. Credibility always precedes communication.**
+
+- *Teaching and evangelism require credibility because people are more willing to receive truth from someone who has demonstrated genuine care for them. As I matured in my Christian walk, this principle became important in my approach to evangelism. However, I have also seen it misused as an excuse for avoiding sharing the gospel out of fear. While relationships and credibility matter, believers should not remain silent while waiting indefinitely for the perfect moment. I have found that simply engaging people in conversation, asking if they know Jesus, or offering to pray for them often opens the door to share the reason for the hope within us (1 Peter 3:15). When we genuinely care for people and take interest in their lives, we earn the opportunity to speak truth into those relationships.*
 
 The student leading the chapter discussion is to function as a moderator for the rest of the class – much as a teacher would in the classroom setting.
 
@@ -216,5 +227,83 @@ Ideally, each chapter discussion would draw out the views of all the students so
 The goal here is to get the class to interact with Hendricks’ ideas, to reflect on their own learning styles, their likes and dislikes about the teacher/student dynamic, and to practice public speaking.
 
 Begin reading Wilkinson’s book, *“The Bible, Live.”* Read ppg. 1-78 by the next class session.
+
+**There are four steps for developing your sermon:**
+
+1. Read the text of the book or passage to grasp the context of language for the whole sermon process,
+2. Study the passage’s geographical, social, cultural and historical backgrounds,
+3. Analyze grammar, definitions, literary information, and parallel passages in the text,
+4. Record all of the above in a set of notes.
+
+The best way to format these study notes is according to language and other notations.  Break these down into word studies, syntax, and notes.  Syntax or language notes should include the diagrams of sentences and paragraphs that have been done.  Other notes should include any observations on culture, geography, history, theology, insights, possible applications, etc.
+
+### Step 1
+
+The first step is to establish a truth sheet that answers the six basic questions, *who, what, where, when, why, and how*.
+
+*“Answering the question, who? provides the identification of persons.  Answering the question, what? discovers the transaction of any performance.  “When” describes the duration of the period of time involved in the passage.  By asking where? the location becomes the focus.  The causation of production is discovered in answer to the question, why?  Finally, answering the question, how? divulges the function of any procedure that may be described in the text.” (Author’s italics)"*
+
+### Step 2
+
+From the answers on the truth sheet write, a set of truths that combine the answers into truth statements that the passage teaches. After writing out as many as possible eliminate those not pertinent to the truth of the passage.  This should result in two to six principles of truth that the author was teaching.  *“Principles should be stated as positive certainties of universal truth.”*
+
+### Step 3
+
+Next write the theme of the passage.  This is comparable to Haddon Robinson’s “a biblical concept” or “big idea.” This is the central point drawn from the passage’s principles and stated in about nine words.
+
+### Example
+
+**2 Corinthians 1:1-11**
+
+- **WHO:** Paul, as a sufferer on behalf of all suffering believers.
+- **WHAT?** God permits suffering for believers because the are believers but also adminisers commensurate comfort through Christ.
+- **WHERE**? These are places of persecution or opposition to the practices of discipleship or ministry.
+- **WHEN** At times when persecution happens, then the redemptive quality of suffering is used as comfort.
+- **WHY?** PAul's philosophy of suffering has played out to the Corinthians resulting in Paul's suffering and their encouraged faith. This is connected to the suffering of Christ.
+- **HOW?** Suffering for Christ and the Church is parallel with the comfort. Hence, what Paul suffered in Asia is redemptive, renewing and comforting for the church at Corinth.
+
+### PRINCIPLE STATEMENTS
+
+- God gives grace, peace, pity and comfort to those who suffer in discipleship or ministry.
+- God's gifts from suffering (above) are mediated through pastoral experience and example.
+- We benefit personally and corporately from suffering.
+- In the Christian meta-narrative, suffering is redemptive. In this case the redemption is effective in the church.
+- Christian suffering anticipates resurrection.
+- To Face suffering, focus on the comfort by moving your confidence to God.
+
+### Theme
+
+God uses suffering in the lives of His people to produce deeper dependence on Him, to display His comfort, and to equip believers to strengthen others with the same hope.
+
+## Whiting Method
+
+What steps refine the results of study for sermon preparation?
+
+1. Make notes of your study
+2. Ask questions: Who? What? Where? When? Why? How?
+3. Determine principles: two to six outstanding, abiding truths
+4. Write a theme: a simple sentence summary of the principles
+
+Glenn O’Neal once suggested that when we stand up to preach, we should imagine that Jesus just slipped into a seat near the back.  Our preaching and teaching should always honor Him.
+
+### Effects of the Word
+
+**2 Timothy 3:16-17**
+
+> *All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness; so that the man of God may be adequate, equipped for every good work.*
+
+**2 Timothy 4:2**
+
+> *preach the word; be ready in season and out of season; reprove, rebuke, exhort, with great patience and instruction.*
+> The first imperative, *reprove*, commands that preaching point out the wrong that the hearers are doing. The goal is conviction.
+> The second, *rebuke* directs preaching to expose shameful behavior and seek to turn the hearers from activity that dishonors God.
+> The third, *exhort* requires the sermon to encourage new behaviors that honor God and His righteousness.
+
+The picture of life-change is conviction, repentance and right behavior.  This parallels the functions of the Scripture itself as declared in 2 Timothy 3:16 – 17.  Three good effects of the Word are teaching, reproof and correction (3:16) like reprove, rebuke, and exhort (4:2.)
+
+**What is required for biblical communication at the small church?**
+
+1. Patience
+2. Teaching
 
 **Below this is AI driven reference material**
