@@ -162,6 +162,14 @@ Next class period the students will preach their first abbreviated sermon. It wi
 
 For this first sermon, have the students refer to their notes from Session 8, Part 2 that listed the *“Steps to a Sermon.”*
 
+> In this step, we go back to our passage and *write the sub-points that explain, define, clarify, or apply our central point*. If we’ve done our work on the central point correctly, these sub-points will flow from the body of our target text.  
+>
+> Following the central point and the sub-points, *we write the conclusion of the sermon*. It’s a good idea to write the conclusion early on because it’s important to have a firm grasp of where you’re going with the sermon.  
+>
+> *After writing the conclusion, write the transitions between main points*
+
+## Abbreviated Sermon instructor notes - outline
+
 For this abbreviated sermon, the students are to have these six steps in their sermons.
 
 1. State the *big idea*.
@@ -537,5 +545,452 @@ Why has God done all of this?
 
 > **2 Corinthians 3:18 (NASB1995)**
 > *“But we all… beholding as in a mirror the glory of the Lord, are being transformed into the same image…”*
+
+---
+
+## Scholar AI heavy prompting
+
+## Introduction: Every Spritual Blessing
+
+Beloved, if you are able, stand with me and open your Bibles to **Ephesians chapter 1, verses 3 through 14**.
+
+When the Word of God is opened, we are reminded that it is not merely words on a page—God Himself is speaking.
+
+In **Nehemiah 8:5**, when Ezra opened the Book before the people, it says:
+
+> **Nehemiah 8:5 (NASB1995)**  
+> *“Ezra opened the book in the sight of all the people for he was standing above all the people; and when he opened it, all the people stood up.”*
+
+They stood… because they understood the weight of what was happening.
+
+So as we read, let us do the same—giving reverence to the Word of God.
+
+Let us read.
+
+> **Ephesians 1:3–14 (NASB1995)**  
+> 3. *Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,*  
+> 4. *just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love*  
+> 5. *He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,*  
+> 6. *to the praise of the glory of His grace, which He freely bestowed on us in the Beloved.*  
+> 7. *In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace*  
+> 8. *which He lavished on us. In all wisdom and insight*  
+> 9. *He made known to us the mystery of His will, according to His kind intention which He purposed in Him*  
+> 10. *with a view to an administration suitable to the fullness of the times, that is, the summing up of all things in Christ, things in the heavens and things on the earth. In Him*  
+> 11. *also we have obtained an inheritance, having been predestined according to His purpose who works all things after the counsel of His will,*  
+> 12. *to the end that we who were the first to hope in Christ would be to the praise of His glory.*  
+> 13. *In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise,*  
+> 14. *who is given as a pledge of our inheritance, with a view to the redemption of God’s own possession, to the praise of His glory.*
+
+You may be seated.
+
+---
+
+This sermon is not exclusively about our "Spritiual Blessings" as verse three explains,
+
+However, as I was working through this entire passage verse by verse, in keeping with my tradition of expository teaching, I came across something that I simply couldn’t pass by.
+
+So before we move forward, I want to take a few minutes to focus on one key statement in verse 3.
+
+> 3. *Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,*  
+
+So I want to start with a parable that Jesus told…
+
+> **Matthew 13:44 (NASB1995)**  
+> *“The kingdom of heaven is like a treasure hidden in the field, which a man found and hid again; and from joy over it he goes and sells all that he has and buys that field.”*
+
+Now imagine that scene for a moment…
+
+A man is walking through a field—nothing special about it… just dirt, rocks… ordinary ground.
+
+And then suddenly… he discovers something.
+
+Buried beneath the surface… treasure.
+
+Something so valuable that in that moment… everything in his life is re-evaluated.
+
+Notice this:
+
+*“From joy over it…”*
+
+He goes and sells everything.
+
+Because once you truly see the value of the treasure…
+
+Nothing else compares.
+
+---
+
+But here’s the question…
+
+What if someone told you that the treasure was already yours…
+
+…and you still kept living like it wasn’t?
+
+What if you knew the field held infinite treasure…
+
+…but you kept walking past it… settling for scraps on the surface?
+
+Or worse…
+
+What if you left the field entirely…
+
+…and started drinking from muddy puddles outside of it?
+
+> **Jeremiah 2:13 (NASB1995)**  
+> *“For My people have committed two evils: They have forsaken Me, the fountain of living waters, to hew for themselves cisterns, broken cisterns that can hold no water.”*
+
+The problem isn’t that God hasn’t provided…
+
+> **Isaiah 55:1-2**  
+> *Ho! Every one who thirsts, come to the waters; And you who have no money come, buy and eat. Without money and without cost. Eat what is good, and delight yourself in abundance*
+
+The problem is our heart.
+
+> **Matthew 6:21 (NASB1995)**  
+> *“for where your treasure is, there your heart will be also.”*
+
+And if we’re honest…
+
+We trade what is truly valuable…
+
+For things that only look valuable.
+
+We get excited about things that shine…
+
+But don’t satisfy.
+
+We settle for trinkets…
+
+While standing in a field full of treasure.
+
+Do we recognize what is truly valuable?
+
+Or…
+
+Have our hearts settled for less?
+
+---
+
+## 🟣 Introduction: Rethinking Our Story
+
+So catalog that introduction as a sidebar, and let's move on to the passage in its entirety.
+
+Do you remember when you *“came to Christ”?*
+
+What do you remember about that moment?
+
+For many of us, that moment becomes our testimony—our salvation story.
+And when we tell it, it often sounds something like this:
+
+- *“I found myself seeking God.”*
+- *“I just know that Jesus is my Lord and Savior.”*
+- *“I can’t point to a specific day—I just know I’ve always known Him. I grew up in church, I accepted Christ, and over time I chose to follow Him.”*
+
+And those words capture something real.  
+You did seek.  
+You did choose.  
+You did believe.  
+You do know Him.
+
+But when we come to the Scriptures and Ephesians 1, they gently invite us to look a little deeper:
+
+- *Was that truly the starting point of my faith?*
+- *Did I find God—or was He already drawing me?*
+- *Did I choose Him—or was I responding to something He had already begun?*
+
+Because Scripture shows us that our story doesn’t actually begin in that moment.
+It begins much earlier than that.
+
+What we often call the beginning…
+is really our response to something God had already set in motion.
+
+So if our story doesn’t begin with us…
+where does it begin?
+
+Paul answers that question immediately.
+
+> **Ephesians 1:3 (NASB1995)**  
+> *“Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,”*
+
+Before Paul ever talks about what we have done,  
+he draws our attention to what God has already done.
+
+And that leads us to our central idea for this passage:
+
+*From beginning to end, our salvation is God’s work for His glory.*
+
+---
+
+## Movement 1: The Father’s Plan (vv. 3–6)
+
+Paul begins not in our lifetime…  
+but before time itself.
+
+> **Ephesians 1:4–5 (NASB1995)**
+> *“just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love*
+> *He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,”*
+
+He chose us.  
+He predestined us.  
+And notice—He did it *“in love.”*
+
+He predestined us to adoption.
+
+---
+
+### Illustration
+
+Think about the word adoption in verse 5,
+
+In Paul’s world, in the Greco-Roman culture, adoption had a very specific meaning.
+
+- It wasn’t mainly about taking in a child in need.
+- It was more about establishing an heir.
+
+A wealthy man—often someone without a suitable heir—would choose someone and legally adopt them into his family.
+
+And when that happened, several things became true immediately:
+
+- Their old identity was completely replaced
+- They received the full rights of a son
+- They were given a guaranteed inheritance
+
+And that adoption was permanent—it could not be undone
+
+In fact, in many cases, an adopted son was considered more secure than a biological one, because he was chosen intentionally.
+
+That’s the meaning of the word Paul uses here.
+
+So when Scripture says:
+
+> **Ephesians 1:5 (NASB1995)**  
+> *“He predestined us to adoption as sons through Jesus Christ to Himself…”*
+
+This is God saying:  
+*“I have chosen you, I have brought you into My family, and your place here is secure.”*
+
+### Transition to Movement 2
+
+And that’s the picture Paul wants us to see.
+
+Not a loose connection…
+not a temporary relationship…
+
+But a deliberate, secure, and permanent placement into God’s family.
+
+Which means this:
+
+Your place in God’s family is not based on how strongly you hold onto Him—
+but on the fact that He has chosen to bring you in.
+
+And that brings us right back to the point Paul is making:
+
+Salvation doesn’t begin with us finding God.
+It begins with God setting His love on us.
+
+---
+
+## Movement 2: The Son’s Redemption (vv. 7–12)
+
+Now Paul moves from the Father’s plan…  
+to the Son’s work.  
+
+> **Ephesians 1:7 (NASB1995)**
+> *“In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace”*
+
+If the Father planned salvation,  
+the Son accomplished it.
+
+Paul uses the word *“redemption.”*
+
+Again in Paul's day, this word was commonly used in the context of slavery and captivity.
+
+If someone was enslaved, their freedom could be purchased—but only if someone else paid the full price.
+
+The slave could not partially contribute.
+They could not negotiate their release.
+
+Their freedom depended entirely on someone outside of them stepping in and paying what they could not.
+
+And once that price was paid, their status changed completely.
+
+They were no longer identified by their former condition.
+They were now free.
+
+That’s the picture Paul is using.
+
+### Transition to Movement 3
+
+And notice how Paul describes it:
+
+> *“according to the riches of His grace which He lavished on us”*
+
+This is not measured grace.
+This is not restrained grace.
+
+This is overflowing grace—grace that has been lavished on us.
+
+Do you hear the richness of that language?
+
+It paints the picture of something abundant, overwhelming—
+as if His grace and mercy are poured out so fully that we are completely covered, completely surrounded by what He has done.
+
+And if that’s true… then there is no room to say:
+
+“I was partially saved.”
+“That Christ did most of the work, and I had to finish the rest.”
+
+Because Scripture speaks clearly:
+
+Hebrews 9:12 (NASB1995)
+“and not through the blood of goats and calves, but through His own blood, He entered the holy place once for all, having obtained eternal redemption.”
+
+He didn’t begin redemption—
+He obtained it.
+
+Fully.
+Completely.
+Once for all.
+
+
+
+## 🟢 Movement 3: The Spirit’s Guarantee (vv. 13–14)
+
+> **Ephesians 1:13–14 (NASB1995)**
+> “In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise,
+> who is given as a pledge of our inheritance, with a view to the redemption of God’s own possession, to the praise of His glory.”
+
+Notice the sequence:
+
+- You heard
+- You believed
+- **You were sealed**
+
+Your response is real.
+But the **security comes from God**.
+
+The Spirit is called a **“pledge”**—a guarantee.
+
+---
+
+### 🧠 Illustration
+
+Like a deposit that guarantees a future purchase, the Holy Spirit is God’s way of saying:
+
+**“I will finish what I started.”**
+
+---
+
+### 🔍 Reflective Questions
+
+- Do you find yourself trusting more in your consistency… or in God’s promise?
+- What would change if you truly believed your future with God is secure?
+- How does the Spirit’s presence shift your understanding of assurance?
+
+---
+
+### 🎯 Application
+
+Your salvation is not fragile.
+It is **sealed by God Himself**.
+
+---
+
+## 🟣 The Unifying Thread
+
+Three times Paul says:
+
+> “to the praise of His glory”
+
+Why?
+
+Because salvation ultimately answers one question:
+
+> **Who gets the credit?**
+
+And Paul’s answer is clear:
+
+**God does.**
+
+---
+
+## 🔴 Conclusion: The Bigger Story (Directed by Scripture)
+
+Let’s bring it all together.
+
+- The Father planned it
+- The Son accomplished it
+- The Spirit secures it
+
+And then we read this:
+
+> **Hebrews 12:2 (NASB1995)**
+> “fixing our eyes on Jesus, the author and perfecter of faith, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.”
+
+Jesus is not just part of your faith.
+
+He is the **author** of it.
+He is the **perfecter** of it.
+
+---
+
+### 🧭 What does that mean?
+
+It means:
+
+- Salvation begins with God
+- Salvation is accomplished by God
+- Salvation is completed by God
+
+And where are we?
+
+Right there in Ephesians 1:
+
+> **Ephesians 1:13 (NASB1995)**
+> “after listening to the message of truth, the gospel of your salvation—having also believed…”
+
+We **hear**.
+We **believe**.
+We **respond**.
+
+But we are not the authors of salvation.
+We are the **responders to it**.
+
+---
+
+### 💥 Final Reflection
+
+- What if your salvation is not something you started—but something you were invited into?
+- What if your faith is not the foundation—but the response to a foundation God already laid?
+- What if assurance comes not from holding onto God—but from realizing He is holding onto you?
+
+---
+
+## 🙏 Final Call
+
+So what do we do with this?
+
+We don’t argue.
+We don’t boast.
+
+We **worship**.
+
+Because from beginning to end—
+**our salvation is God’s work for God’s glory.**
+
+---
+
+## 📚 Sources
+
+1. *Stott, J. (2021).* The Message of Ephesians. IVP.
+2. *Bock, D. L. (2019).* Ephesians: An Introduction and Commentary. IVP.
+3. *DeSilva, D. A. (2022).* Ephesians. Eerdmans.
+4. *Bloesch, D. G. (2002).* The Church. IVP.
+5. *Naselli, A. D. (2008).* Keswick Theology. Detroit Baptist Seminary Journal.
+6. *Croy, N. C. (1995).* Endurance in Hebrews 12. ProQuest.
+7. *Denton, R., & Smith, S. (2025).* A Certain Sound.
+8. *Long, F. J. (2017).* Structural Relationships in Ephesians. Asbury Seminary.
+9. *Mitchell, D. R. (2023).* Mission and Theology in Paul.
+10. *Hernández, A. (2025).* Communion with the Triune God in Ephesians.
 
 ---
