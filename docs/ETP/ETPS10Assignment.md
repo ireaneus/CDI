@@ -104,7 +104,7 @@ Context is always important in determining the central idea of a passage. This p
 
 The apostle Paul’s discussion on eating meat sacrificed to idols began back in 1 Cor. 8. This passage is the conclusion of that discussion.
 
-As with any text, the first step is to determine the central point of that text. It is easy to get side-tracked by the details of this text. Have the students work through this text, thinking aloud, and on the white board recording the different themes and topics Paul brings up. 1 Cor. 10:31 is the climax statement in this passage, but it’s not the central point. Have the students work on getting the bird’s-eye-view of this passage.
+As with any text, the first step is to determine the central point of that text. It is easy to get side-tracked by the details of this text. Have the students work through this text, thinking aloud, and on the white board recording the different themes and topics Paul brings up. **1 Cor. 10:31** is the climax statement in this passage, but it’s not the central point. Have the students work on getting the bird’s-eye-view of this passage.
 
 Have them attempt to step back after they’ve discovered the different themes that the apostle discusses, and come up with a unifying statement for the whole passage.
 
@@ -117,7 +117,10 @@ Where does the central point of the passage seem to lead us in terms of life tra
 
 Here’s where some creativity comes into play. There are certainly many possibilities for the application of this central point. A focus on whether to eat meat sacrificed to idols is too narrow, and not really applicable to today’s audience.
 
-Remember, the **problem/question** should be connected to and flow out of the **central point** of the text. I would suggest that the problem/question for this passage also include the climax statement of v. 31. Here is one suggestion: *What can each of us do every day, in every activity, that brings glory to God?* The answer, from the text, *is to put the best interests of those we are with ahead of our own interests.*
+Remember, the **problem/question** should be connected to and flow out of the **central point** of the text. I would suggest that the problem/question for this passage also include the climax statement of v. 31.
+
+Here is one suggestion: *What can each of us do every day, in every activity, that brings glory to God?*  
+The answer, from the text, *is to put the best interests of those we are with ahead of our own interests.*
 
 Have fun with this activity, for this text’s central point certainly applies to what you’re doing with the students before you.
 
@@ -144,6 +147,44 @@ Divide the book this way: **James 2:14-26**
 Direct the students to refer to Session 8, Parts 1 & 2, for sermon preparation and how to discover the central point of the text.
 
 By next time they should be prepared to hand in a statement of the central point of their assigned text and their notes as to how they arrived at that central point. There are three more sessions in this course.
+
+## Central Point
+
+**The essential test for any profession of faith is: “Does my belief in God produce the kind of practical, life-changing actions that prove my faith is actually alive?”**
+
+---
+
+### Study Notes: James 2:14-26
+
+**Step 1: Verse-by-Verse Major Ideas**
+
+- **v. 14:** Faith that is merely *"said"* or *"claimed"* but has no accompanying action cannot save.
+- **vv. 15-17:** Faith without works is like telling a starving person to *"be filled"* without giving them food—it is useless and, in fact, dead.
+- **v. 18:** Faith is invisible on its own; works are the only way to *"show"* or prove that faith exists.
+- **v. 19:** Intellectual agreement is not saving faith; even demons believe God exists, but they do not obey Him.
+- **vv. 20-24:** Abraham’s faith was *"perfected"* or brought to its intended goal when he acted on God's command; his works proved his righteousness.
+- **v. 25:** Rahab’s faith was proven authentic because she risked her life to act on what she believed about God.
+- **v. 26:** The Final Analogy—Just as a body without a spirit is a corpse, faith without works is a dead religion.
+
+**Step 2: Identifying Key Words and Context**
+
+- **Key Words:** *"Faith," "Works," "Dead," "Show," "Alive"*.
+- **Bird’s Eye View:** James is not arguing *against* faith, but against a *counterfeit* faith that consists only of words. He is looking for *"living"* evidence.
+
+**Step 3: Draft Statements (Refining the Idea)**
+
+- *Draft 1:* Faith needs works to be real.
+- *Draft 2:* If you don't do good things, your faith is dead.
+- *Draft 3:* True faith is always visible through the way we treat others and obey God.
+
+**Step 4: The Final Big Idea Statement**
+> **"The essential test for any profession of faith is: 'Does my belief in God produce the kind of practical, life-changing actions that prove my faith is actually alive?'"**
+
+**Step 5: The "So What?" Application**
+
+- **Application:** Because saving faith is a living power, we must examine our own lives not by what we *say* we believe on Sunday, but by how our belief *moves us* to act toward those in need and in obedience to God's commands throughout the week. If there is no movement, we must ask if there is truly any life.
+
+---
 
 This second sermon will be preached by the students during the last two class sessions of this course, Sessions 12 and 13.
 
