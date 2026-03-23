@@ -185,118 +185,38 @@ This first sermon will be limited to 10-15 minutes. They should practice at home
 
 **This was AI generated, with heavy prompting**
 
-## Introduction: Every Spiritual Blessing
+## The Trinitarian Berakah: Our Sovereign Heritage
 
-Beloved, if you are able, stand with me and open your Bibles to **Ephesians chapter 1**.
+**Text:** Ephesians 1:3-14 (NASB 1995)
 
-When the Word of God is opened, we are reminded that it is not merely words on a page—God Himself is speaking.
+### The Call to Reverence
 
-In **Nehemiah 8:5**, when *“Ezra opened the book in the sight of all the people... and when he opened it, all the people stood up.”*
+Friends, we come today to a passage that is often called the *"Berakah"*—a Hebrew-style blessing or *"eulogy"* of God. In the original Greek, verses 3 through 14 are one single, breathless sentence. It is as if the Apostle Paul, caught up in the heights of celestial glory, cannot find a place to stop for air.
 
-So as we read, we are giving reverence to God.
+He is looking at the *"Golden Chain"* of our salvation. As we read these words, remember that you are not looking at a dry theological manual; you are looking at the inventory of your inheritance in Christ.
 
-Let us read.
+Before we approach the throne of God through His Word, let us remember the scene in **Nehemiah 8:5**:
 
-> **Ephesians 1:3–14 (NASB1995)**
-> *Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ…*  
-> *just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love*  
-> *He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,*  
-> *to the praise of the glory of His grace, which He freely bestowed on us in the Beloved.*  
-> *In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace*  
-> *which He lavished on us. In all wisdom and insight*  
-> *He made known to us the mystery of His will, according to His kind intention which He purposed in Him*  
-> *with a view to an administration suitable to the fullness of the times, that is, the summing up of all things in Christ, things in the heavens and things on the earth. In Him*  
-> *also we have obtained an inheritance, having been predestined according to His purpose who works all things after the counsel of His will,*  
-> *to the end that we who were the first to hope in Christ would be to the praise of His glory.*  
-> *In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise,*  
-> *who is given as a pledge of our inheritance, with a view to the redemption of God’s own possession, to the praise of His glory.*
+> *"Ezra opened the book in the sight of all the people for he was standing above all the people; and when he opened it, all the people stood up."*
 
-You may be seated.
+As we read these verses in Ephesians, I invite you to stand, if you are able, in honor of the reading of God’s Holy Word.
+
+**Ephesians 1:3-14 (NASB 1995):**
+> *"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ, just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will, to the praise of the glory of His grace, which He freely bestowed on us in the Beloved.*
+>
+> *In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace which He caused to abound to us. In all wisdom and insight He made known to us the mystery of His will, according to His kind intention which He purposed in Him with a view to an administration suitable to the fullness of the times, that is, the summing up of all things in Christ, things in the heavens and things on the earth. In Him also we have obtained an inheritance, having been predestined according to His purpose who works all things after the counsel of His will, to the end that we who were the first to hope in Christ would be to the praise of His glory.*
+>
+> *In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise, who is given as a pledge of our inheritance, with a view to the redemption of God’s own possession, to the praise of His glory."*
 
 ---
 
-As we walk through this passage, it helps to recognize what Paul is doing here.
+## Central Point
 
-He is offering a blessing to God—a *berakah*—one long expression of praise.
-
-And right at the beginning, in verse 3, there is a phrase that shapes everything that follows:
-
-*“…who has blessed us with every spiritual blessing in the heavenly places in Christ.”*
-
-Every spiritual blessing.
-
-Meaning full… complete… lacking nothing.
-
-And as Paul unfolds this, we see what those blessings are:
-
-We are chosen.  
-We are adopted.  
-We are redeemed.  
-We are forgiven.  
-We are given an inheritance.  
-We are sealed.  
-We are secured.
-
-This is not an exhaustive list of blessings, but it lists 7 of them, which means that represents that whole or complete of something.
-
-And to help us feel the weight of that, listen to how Jesus describes the value of what God gives:
-
-> **Matthew 13:44 (NASB1995)**
-> *“The kingdom of heaven is like a treasure hidden in the field… and from joy over it he goes and sells all that he has and buys that field.”*
-
-A man finds treasure—something so valuable that everything in his life is re-evaluated.
-
-Nothing compares.
-
-Scripture describes what God gives like that of:
-
-- **A treasure.**
-- **A pearl of great value.**
-- **A fountain of living water.**
-
-Something priceless.  
-Something satisfying.  
-Something complete.
-
-And the right response?
-
-To let go of everything else… because nothing compares.
-
-But here is the tension:
-
-If that is what we have been given…
-
-Why do we still look elsewhere?
-
-> **Jeremiah 2:13 (NASB1995)**
-> *“They have forsaken Me, the fountain of living waters, to hew for themselves cisterns, broken cisterns that can hold no water.”*
-
-We trade living water for broken cisterns.  
-We trade eternal treasure for what fades.
-
-And God asks:
-
-> **Isaiah 55:2 (NASB1995)**
-> *“Why do you spend money for what is not bread, and your wages for what does not satisfy?”*
-
-This is a question of the heart:
-
-> **Matthew 6:21 (NASB1995)**
-> *“For where your treasure is, there your heart will be also.”*
-
-So if we are honest…
-
-Are we holding onto what is truly valuable?  
-Or chasing what only appears to be?
-
-Are we living in light of what is eternal…  
-or settling for what is passing away?
+**Our salvation is a Trinitarian masterpiece, sovereignly orchestrated by the Father, legally purchased by the Son, and eternally preserved by the Spirit—all to the end that He might be praised.**
 
 ---
 
-That introduction is but a sidebar into our sermon, so now we begin with the main message of our passage.
-
-Let’s take a step back in time for a moment and think about our own story.
+Let’s take a step back in time for a moment and think about our own salvation story.
 
 Do you remember when you *came to Christ?*
 
@@ -326,177 +246,86 @@ is actually our response to something God started long before.
 
 So where does our story begin?
 
-It begins with God.
+---
+
+## I. The Father’s Decree: The Source of Grace
+
+Paul begins our story in the heavens: *"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ..."*
+
+Our salvation began in the mind of God before time existed. Note verse 4: *"He chose us in Him before the foundation of the world."* This is reinforced by **Romans 8:29-30**:
+
+> *"For those whom He foreknew, He also predestined to become conformed to the image of His Son... and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified."*
+
+Augustine famously argued against the Pelagians that if God chose us based on our future faith or merit, grace would no longer be grace. He wrote, *"God does not find us good; He makes us good"* (Augustine, On the Predestination of the Saints).
+
+If your salvation rested on your ability to stay *"choosable,"* you would lose it by lunchtime. But because it was settled before the stars were hung, it is as firm as the throne of God. As Charles Spurgeon once quipped, *"I believe the doctrine of election, because I am quite certain that, if God had not chosen me, I should never have chosen Him"* (Spurgeon, Sermon No. 41-42).
 
 ---
 
-## Movement 1: The Father’s Plan
+## II. The Son’s Purchase: The Means of Grace
 
-Paul tells us:
+Paul shifts from the decree in eternity to the delivery in history: *"In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace..."* (v. 7).
 
-> **Ephesians 1:3–5 (NASB1995)**
-> *Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ…*  
-> *just as He chose us in Him before the foundation of the world, that we would be holy and blameless before Him. In love*  
-> *He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,*
+The Father’s plan required a price. This is not a *"metaphorical"* redemption; it is a legal reality. We see this echoed in **Colossians 1:13-14**:
 
-Before you ever sought Him—  
-He set His love on you.
+> *"For He rescued us from the domain of darkness, and transferred us to the kingdom of His beloved Son, in whom we have redemption, the forgiveness of sins."*
 
-Before you ever responded—  
-He had already purposed your salvation.
+Here we see the *"Happy Exchange."* Martin Luther often spoke of this—that Christ takes our *"strangled, sin-stained conscience"* and gives us His *"radiant righteousness."*
 
-And he says:
+Luther noted that without the blood of Christ, God’s *"wisdom"* and *"purpose"* mentioned in verses 8 and 9 would only be terrifying to us. It is the blood that makes God’s mystery a *"sweet comfort"* rather than a *"consuming fire"* (Luther, Sermon on Ephesians 1).
 
-*“In love.”*
+Note the phrase in verse 10: *"the summing up of all things in Christ."* Everything in the universe—from the smallest atom to the largest galaxy—is being pulled toward the gravity of Jesus Christ.
 
-This is personal, just as you had a personal experience with Him.
+You are not just *"forgiven"* in a legal sense; you are *"accepted in the Beloved."* You are no longer a rebel waiting for a pardon; you are a son or daughter inheriting a kingdom.
 
-God did not just save you from something—  
-He brought you into something.
+## III. The Spirit’s Seal: The Security of Grace
 
-Adoption.
+Finally, Paul brings this home to our present experience: *"In Him, you also, after listening to the message of truth... were sealed in Him with the Holy Spirit of promise..."*
 
-You are brought into His family.
+In the ancient world, a seal indicated ownership and authenticity. When a king put his signet ring into hot wax on a document, that document carried his authority.
 
-> **Romans 8:15 (NASB1995)**
-> *“You have received a spirit of adoption as sons by which we cry out, ‘Abba! Father!’”*
+But Paul goes further; he calls the Spirit the *"earnest"* or *"pledge"* of our inheritance (v. 14). In modern terms, the Holy Spirit is the down payment.
 
-From beginning to end, our salvation is God’s work for His glory.
+> **2 Corinthians 1:21-22**:
+> *"Now He who establishes us with you in Christ and anointed us is God, who also sealed us and gave us the Spirit in our hearts as a pledge."*
+
+Spurgeon loved this imagery. He explained that if God has given you the Holy Spirit—He is giving you a hunger for Word, a hatred for sin, and a love for Christ—He has given you the first installment of heaven itself. And God is not a businessman who defaults on His installments. If He gave the down payment, He will finish the transaction.
 
 ---
 
-## Movement 2: The Son’s Redemption
+## Conclusion: Soli Deo Gloria
 
-Now Paul moves from the Father’s plan to the Son’s work.
+Three times in this passage, like a recurring holy thunder, Paul strikes the same chord: **"To the praise of His glory"** (vv. 6, 12, 14). This brings us to the great Reformation banner: **Soli Deo Gloria.**
 
-> *In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace*  
-> *which He lavished on us. In all wisdom and insight*  
+**The Definition:**
+*Soli Deo Gloria* is the confession that all of creation, all of history, and every heartbeat of our salvation exists for the sake of God’s renown alone. It means that God is the Alpha and the Omega of our redemption; it begins in His sovereign will, is accomplished by His sovereign power, and terminates in His sovereign praise. It is the refusal to allow any human merit, any human "cooperation," or any human pride to steal even a fraction of the spotlight from the Creator.
 
-If the Father planned salvation,  
-the Son accomplished it.
+As the Prophet Isaiah records the very heart of the Father in **Isaiah 42:8**:
+> *"I am the Lord, that is My name; I will not give My glory to another, nor My praise to graven images."*
 
-Redemption means a price was paid.
+And as Paul concludes his grandest theological treatise in **Romans 11:36**:
+> *"For from Him and through Him and to Him are all things. To Him be the glory forever. Amen."*
 
-> **1 Peter 1:18–19 (NASB1995)**
-> *“…not with perishable things like silver or gold… but with precious blood… the blood of Christ.”*
+**The Complete Display:**
+We must never forget: **Our salvation is a Trinitarian masterpiece, sovereignly orchestrated by the Father, legally purchased by the Son, and eternally preserved by the Spirit—all to the end that He might be praised.**
 
-And what did it accomplish?
+If we try to take credit for even our *faith*, we are attempting to rob the King of His crown. As **John Calvin** powerfully noted:
+> "The world was established to be the theater of God’s glory... We never truly glory in Him until we have utterly discarded our own glory... For God does not share His glory with us, but He displays it in us, that He alone may be seen and praised." (Calvin, *Institutes of the Christian Religion*)
 
-Forgiveness.
+And as **Charles Spurgeon** would roar from his pulpit:
+> "If there be one stitch in the celestial garment of our righteousness which we ourselves have put there, then we are lost. But if it be all of grace, from the first thread to the last, then are we saved! To God alone be the glory, for He is the Author and the Finisher of it all." (Spurgeon, *Sermon No. 231*)
 
-> **Hebrews 9:12 (NASB1995)**
-> *“…having obtained eternal redemption.”*
+**Final Exhortation:**
+Beloved, your story began long ago *"before the foundation"*, we know elsewhere *"that we were dead in our trespasses and sins"* and from this long blessing we know that,
 
-Complete.
+The Father elected you to the praise of His glory.  
+The Son redeemed you to the praise of His glory.  
+The Spirit sealed you to the praise of His glory.
 
----
+Pastors usually end a sermon with an Application section, however as with John MacArthur, I will not persuade you with what I think the application should be, I want the Holy Spirit to apply His words to your hearts and let Him provide the conviction and application to you personally.
 
-## Movement 3: The Spirit’s Guarantee
+Thank you for your time
 
-Then Paul shows us the work of the Spirit.
-
-> *In Him, you also, after listening to the message of truth, the gospel of your salvation—having also believed, you were sealed in Him with the Holy Spirit of promise,*  
-> *who is given as a pledge of our inheritance, with a view to the redemption of God’s own possession, to the praise of His glory.*
-
-You heard.  
-You believed.  
-You were sealed.
-
-> **2 Corinthians 1:21–22 (NASB1995)**
-> *“…He also sealed us and gave us the Spirit… as a pledge.”*
-
-To be sealed means God has sealed you with His authority, you are His.
-
-And the Spirit is given as a guarantee—
-
-> **1 Peter 1:4 (NASB1995)**
-> *“…an inheritance… reserved in heaven for you.”*
-
-Not just promised—
-
-**reserved.**
-
-This inheritance is not uncertain.
-
-It is kept by God,  
-secured by the Spirit,  
-and guaranteed to be received.
-
-*“So what we’re seeing is this—*  
-*from beginning to end, this is God’s work…”*
+**Soli Deo Gloria.**
 
 ---
-
-## Conclusion
-
-When we step back and look at this passage, the picture becomes clear:
-
-The Father planned our salvation.  
-The Son accomplished our redemption.  
-The Spirit seals and guarantees it.
-
-And three times Paul tells us why:
-
-> *“to the praise of His glory.”*
-
-> **2 Corinthians 4:6 (NASB1995)**
-> *“…the Light of the knowledge of the glory of God in the face of Christ.”*
-
-Our salvation is not just rescue—
-
-it is a display.
-
-A display of His grace.  
-A display of His power.  
-A display of His completeness.
-
-So that when people look at what God has done…
-
-they don’t see us.
-
-They see Him.
-
----
-
-## Application
-
-So what does this mean for us?
-
-If it is true that God has given us every spiritual blessing in Christ…  
-Why do we keep looking elsewhere?
-
-What are you treating as treasure that cannot truly satisfy?
-
----
-
-Your *"coming to Christ"* moment was not the beginning of your story,  
-It happened long before, your decision to follow Him was a response to Him working in your salvation long ago.
-
----
-
-And if this salvation is truly God’s work…
-
-Then you can rest.
-
-He chose.  
-He redeemed.  
-He sealed.
-
-Rest in what God has already done.
-
----
-
-And finally—
-
-If your salvation is for the praise of His glory…
-
-Then your life has a purpose.
-
-Not just to exist.  
-Not just to get by.
-
-But to display His glory.
-
-In how you live.  
-In how you speak.  
-In how you respond.
