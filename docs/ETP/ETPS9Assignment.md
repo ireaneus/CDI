@@ -154,7 +154,7 @@ Your final statement of the big idea should be a single simple sentence. There a
 
 ---
 
-Encourage your students to keep refining their big idea statements until everyone, including you the mentor, are satisfied with the result.
+Encourage your students to keep refining their big idea statements until everyone, *including you the mentor, are satisfied with the result.*
 
 Review the assignment from last time. Each student was to take an assigned section of Ephesians and discover the central point of that passage.
 
