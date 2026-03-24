@@ -128,6 +128,8 @@ Assign the students their texts for their second and final sermon.
 
 All students will be preaching from the Book of James.
 
+## James 2:14-26 Big Idea
+
 Divide the book this way: **James 2:14-26**
 
 > 14 *What use is it, my brethren, if someone says he has faith but he has no works? Can that faith save him?*  
@@ -184,6 +186,64 @@ By next time they should be prepared to hand in a statement of the central point
 
 - **Application:** Because saving faith is a living power, we must examine our own lives not by what we *say* we believe on Sunday, but by how our belief *moves us* to act toward those in need and in obedience to God's commands throughout the week. If there is no movement, we must ask if there is truly any life.
 
+---
+
+## The Problem/Question Framework
+
+**The Problem (The Human Dilemma):** Many people within the church possess a *"verbal-only"* faith—they claim to believe in God but live lives that are indistinguishable from the world. This creates a dangerous spiritual false security where individuals believe they are saved while possessing what James calls *"dead faith"*.
+
+**The Question (The Hook):** *"Is a verbal profession of faith enough to save a person, or is there a specific kind of evidence that must be present for faith to be considered alive and saving?"*
+
+### Student Study Notes: Working Toward the Conclusion
+
+**1. The Internal Tension (vv. 14-17)**
+
+- **Observation:** James begins with two rhetorical questions. He isn't questioning the *necessity* of faith, but the *nature* of the faith being claimed.
+- **The "Dead" Diagnosis:** Just as words of well-wishing do not fill a hungry stomach, words of faith without actions do not save the soul.
+- **Note:** The problem isn't a lack of *"works"* as a merit, but a lack of *"life"* in the faith itself.
+
+**2. The Intellectual Trap (vv. 18-19)**
+
+- **Observation:** James introduces an objector. Some want to separate faith and works into two different *"spiritual gifts"* (You have faith; I have works).
+- **The Demonic Comparison:** James shatters the idea that *"belief"* is merely intellectual agreement. Even demons have *"correct"* theology (they believe God is one), but their belief leads to trembling, not transformation.
+- **Note:** Intellectual *"belief"* without a change of heart is the same faith the demons possess.
+
+**3. The Historical Proof (vv. 20-25)**
+
+- **Observation:** James uses two extremes—Abraham (the father of the Jews) and Rahab (a Gentile prostitute)—to show this principle is universal.
+- **The "Perfecting" of Faith:** Abraham’s faith wasn't *"added to"* by works; his faith was *brought to its intended goal* when he obeyed God. His actions were the *"visibility"* of his invisible trust.
+- **Note:** Regardless of your background, the evidence of life is always the same: active obedience.
+
+### Conclusion: The Big Idea as the Answer
+
+(This is where the "Problem" is resolved by the "Big Idea")
+
+**The Answer to our Question:**
+Because faith is an internal, invisible reality, it is only through the *"spirit"* of active obedience that we can know our faith is not a corpse. Therefore, **the essential test for any profession of faith is: “Does my belief in God produce the kind of practical, life-changing actions that prove my faith is actually alive?”**
+
+**The "So What?" (Application):**
+If you were put on trial for being a Christian, would there be enough physical evidence (works) to convict you, or would the case be dismissed for lack of proof? We must stop resting on a *"decision"* made years ago if there is no *"discipleship"* happening today.
+
+If from what we read, you are now thinking, am I truly saved? What marks me as a Christian? If I am a Christian why can't I go out and "win the world for Christ"?
+
+- Fear of rejection, being labeled as a religious nut, persecuted?
+
+If I don't see *"works"* in my life, how do I know that I am truly saved?
+
+- If your wrestling with this question, then you are
+    - these questions are not asked by unbelievers, they don't care
+    - if they are asking these questions, and they know the answer, seeking God.  He will send a messenger, would you like to be that messenger?
+- If you have genuine love for the brethern - love for one another.
+
+**Scripture References**
+
+> *"if you have love for one-another"*  
+> *"If you confess with your mouth, and **believe** (an action that is produced)"*  
+> *"Judas with Jesus 3 years, Lord, lord, show us a sign"*  
+> *"Do you struggle with "your salvation", I can tell you unbelievers don't ask such questions"*  
+> *"examine yourselves"*  
+> *"The question now becomes, if you find all these to be true, what are you going to do about it, what is stopping you from "producing good fruit"*  
+> *"Someone will preach"*
 ---
 
 This second sermon will be preached by the students during the last two class sessions of this course, Sessions 12 and 13.
