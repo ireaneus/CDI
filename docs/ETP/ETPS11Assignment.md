@@ -146,20 +146,67 @@ When the Japanese invaded in 1938, she led 100 orphans on a 12-day trek over mou
 > 17 *But the wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, without hypocrisy.*  
 > 18 *And the seed whose fruit is righteousness is sown in peace by those who make peace.*
 
-**State the Big Idea or Problem/Question:** **The Big Idea:** This passage contrasts two very different types of wisdom.
-    **The Problem/Question:** How can we tell if the "wisdom" we are following is truly from God or if it is just our own selfish ambition in disguise?.
+**State The Big Idea:** *This passage contrasts two very different types of wisdom.*
+
+**The Problem/Question:** *How can we tell if the "wisdom" we are following is truly from God or if it is just our own selfish ambition in disguise?.*
 
 **Background:** James is writing to believers who are navigating the pressures of daily life and relationships. He has just finished talking about the power of the tongue, and now he moves to the source of our words: the wisdom that governs our hearts.
 
 **Restate the Big Idea or Problem/Question:** We need to ask ourselves: Is our *"wisdom"* producing peace, or is it creating disorder?. Put another way, *"What is the source and the fruit of the advice we live by?"*.
 
-**Outline (The Road Map):** As we unpack this text today, we will look at three things:
-    1. The **Evidence** of true wisdom (v. 13).
-    2. The **Warning** against earthly wisdom (v. 14-16).
-    3. The **Characteristics** of heavenly wisdom (v. 17-18).
+**Outline (The Road Map):** As we unpack this text today, we will look at three things:  
+
+1. The **Evidence of Wisdom**  (v. 13).
+2. The **Warning against Earthly Wisdom** (v. 14-16).
+3. The **Character of Heavenly Wisdom** (v. 17-18).
 
 ---
 
-## James 2:14-26 Introduction
+## James 2:14-26 Introduction (NASB1995)
+
+> **14** *What use is it, my brethren, if someone says he has faith but he has no works? Can that faith save him?*  
+> **15** *If a brother or sister is without clothing and in need of daily food,*  
+> **16** *and one of you says to them, “Go in peace, be warmed and be filled,” and yet you do not give them what is necessary for their body, what use is that?*  
+> **17** *Even so faith, if it has no works, is dead, being by itself.*  
+> **18** *But someone may well say, “You have faith and I have works; show me your faith without the works, and I will show you my faith by my works.”*  
+> **19** *You believe that God is one. You do well; the demons also believe, and shudder.*  
+> **20** *But are you willing to recognize, you foolish fellow, that faith without works is useless?*  
+> **21** *Was not Abraham our father justified by works when he offered up Isaac his son on the altar?*  
+> **22** *You see that faith was working with his works, and as a result of the works, faith was perfected;*  
+> **23** *and the Scripture was fulfilled which says, “And Abraham believed God, and it was reckoned to him as righteousness,” and he was called the friend of God.*  
+> **24** *You see that a man is justified by works and not by faith alone.*  
+> **25** *In the same way, was not Rahab the harlot also justified by works when she received the messengers and sent them out by another way?*  
+> **26** *For just as the body without the spirit is dead, so also faith without works is dead.*
+
+## Sermon Introduction: The Evidence of Life
+
+**Pray**
+*Heavenly Father, we come before You today recognizing that our own hearts can often be deceptive. We pray for our own submission to this text—both as the preacher and the listener—asking that You would grant us the courage to examine our faith in the light of Your truth. We pray that this would not just be a time of information, but of transformation. In Jesus’ name, Amen.*
+
+**Introduction / Connection**
+In the summer of 1859, a famous French tightrope walker named Charles Blondin became the first person to cross Niagara Falls on a tightrope. He crossed the roaring gorge several times—blindfolded, on stilts, and even carrying a small stove to cook an omelet while suspended hundreds of feet in the air.
+
+As thousands cheered, Blondin turned to the crowd and asked if they believed he could cross while pushing a man in a wheelbarrow. The crowd erupted with a resounding, "Yes!" They were intellectually convinced of his skill. But when Blondin asked for a volunteer to actually get into the wheelbarrow, the crowd went silent. They had "faith" in his ability, but no one was willing to put their life behind that claim. This story illustrates the dangerous gap we often find in our spiritual lives: the distance between what we say we believe and what we are actually willing to do.
+
+**State the Big Idea or Problem/Question**
+
+- **The Big Idea:** The essential test for any profession of faith is: “Does my belief in God produce the kind of practical, life-changing actions that prove my faith is actually alive?”.
+- **The Problem/Question:** Is a verbal profession of faith enough to save a person, or is there a specific kind of evidence that must be present for faith to be considered alive and saving?.
+
+**Background**
+James is writing to believers who were navigating the pressures of daily life and relationships. He is addressing a dangerous spiritual false security where individuals possess what he calls "dead faith"—a "verbal-only" faith where they claim to believe in God but live lives indistinguishable from the world. He wants us to understand that saving faith is not merely intellectual agreement; it is a living power.
+
+**Read the Passage**
+*Read **James 2:14-26** (NASB1995) with meaning and inflection, capturing the weight of the contrast between "dead" religion and "living" faith.*
+
+**Restate the Big Idea or Problem/Question**
+We have to ask ourselves: Is our faith a living, breathing reality that moves our hands and feet, or is it just a ghost of a confession with no power to change us? If there is no movement in our lives toward obedience and those in need, we must ask if there is truly any life in our faith at all.
+
+**Outline (The Road Map)**
+As we unpack this passage today, we will explore three things:
+
+1. **The Internal Tension:** Why words without deeds leave the soul empty (v. 14-17).
+2. **The Intellectual Trap:** Why even demons have "correct" theology but no transformation (v. 18-19).
+3. **The Historical Proof:** How the lives of Abraham and Rahab prove that active obedience is the visibility of invisible trust (v. 20-26).
 
 **Below this is AI driven reference material**
