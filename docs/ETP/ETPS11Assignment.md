@@ -202,11 +202,85 @@ James is writing to believers who were navigating the pressures of daily life an
 **Restate the Big Idea or Problem/Question**
 We have to ask ourselves: Is our faith a living, breathing reality that moves our hands and feet, or is it just a ghost of a confession with no power to change us? If there is no movement in our lives toward obedience and those in need, we must ask if there is truly any life in our faith at all.
 
-**Outline (The Road Map)**
-As we unpack this passage today, we will explore three things:
+## II. THE ROAD MAP (Transitions)
+
+**To understand the difference between a faith that *talks* and a faith that *walks*, we are going to look at three things in James chapter 2:**
 
 1. **The Internal Tension:** Why words without deeds leave the soul empty (v. 14-17).
 2. **The Intellectual Trap:** Why even demons have "correct" theology but no transformation (v. 18-19).
 3. **The Historical Proof:** How the lives of Abraham and Rahab prove that active obedience is the visibility of invisible trust (v. 20-26).
+
+**Imagine: You are standing at the edge of the Niagara gorge, just like that crowd watching Blondin.** You’ve shouted your "Amen," you’ve sung the songs, and you’ve checked the boxes. But James is about to ask us to get into the wheelbarrow.
+
+**This isn't about earning your salvation; it’s about *proving* your salvation.** [Pause for effect] Just as the Triune God was fully involved in your redemption in Ephesians, that same God now calls for a full-bodied response in James.
+
+**[Verbal Bridge]:** Let’s look at our first point and see why a faith that is "verbal-only" is actually a "dead" faith. Turn with me to verses 14 through 17.
+
+---
+
+## III. THE INTERNAL TENSION: WORDS VS. DEEDS (v. 14-17)
+
+**Look at Verse 14:** > *“What use is it, my brethren, if someone says he has faith but he has no works? Can that faith save him?”*
+
+James starts with a rhetorical punch. He isn't asking if *true* faith can save—we know it does. He’s asking if the *claim* of faith, devoid of action, has any saving power.
+
+**He gives us a "gut-level" example in verses 15 and 16.** Imagine a brother or sister is shivering and hungry. If you look at them and say, *"Go in peace, be warmed and be filled,"* but you don't give them a coat or a sandwich—what use is that?
+
+**This is the "Personal God" reality in reverse.** We talked about how God knows the hairs on our heads and cares for the sparrows. If we claim to be His children, but we have no care for the tangible needs of the people He created, our "faith" is a ghost. It has no pulse.
+
+As **St. Augustine** might say in this context:
+> **“Grace goes before to make us willing”** to love our neighbor, and if that willingness never results in a sandwich or a coat, we have to ask if the grace ever actually arrived.
+
+**[Verbal Bridge]:** But some might argue, "I'm a person of deep thought! I have great theology!" James anticipates that excuse in our second point.
+
+---
+
+## IV. THE INTELLECTUAL TRAP: EVEN DEMONS BELIEVE (v. 18-19)
+
+**Look at Verse 19:** > *“You believe that God is one. You do well; the demons also believe, and shudder.”*
+
+**This is the most sobering verse in the passage.** [Pause] James is saying that "correct theology" is not the same thing as "saving faith."
+
+The demons are Monotheists. They have a perfectly "Reformed" view of the Sovereignty of God. They know He tells the waves where to stop and calls the stars by name. They don't just believe it—they *shudder* at it.
+
+**In other words: God doesn't just want your intellectual agreement—He wants your heart's allegiance.** If your "faith" doesn't produce more fruit than a demon’s "faith," it is an intellectual trap.
+
+---
+
+## V. THE HISTORICAL PROOF: ABRAHAM AND RAHAB (v. 20-26)
+
+**[Verbal Bridge]:** To prove that saving faith is never solitary, James points us to two of the most different people in the entire Bible. He shows us that whether you are a "Friend of God" like Abraham or a social outcast like Rahab, the evidence of life is the same.
+
+**Look at Verse 21:** > *“Was not Abraham our father justified by works when he offered up Isaac his son on the altar?”*
+
+**Think about the scale of this trust.** [Pause] This is the same Abraham who was told his descendants would be as numerous as the stars—the same stars the Sovereign God calls by name. Abraham didn't just "intellectually agree" with God’s promise; he got into the wheelbarrow. When God asked for Isaac, Abraham moved his feet in obedience because he trusted the "Intimate, Personal God" who provides.
+
+**As the text says in Verse 22:** > *“You see that faith was working with his works, and as a result of the works, faith was perfected.”*
+
+**But then James gives us a shock.** He moves from the "Patriarch" to the "Prostitute."
+**Look at Verse 25:** > *“In the same way, was not Rahab the harlot also justified by works when she received the messengers and sent them out by another way?”*
+
+**Rahab had heard the stories.** She knew this was the God who tells the waves how far they can go. She knew He had dried up the Red Sea. But she didn't just "shudder" like the demons; she acted. She risked her life to hide the spies.
+
+**What do these two have in common?** * **Abraham** represents the "inside" religious hero.
+
+- **Rahab** represents the "outside" moral failure.
+- **Both** proved their faith was alive by what they did.
+
+**This is the "following after" Grace we've discussed.** As St. Augustine said:
+> **“Grace goes before to make us willing, and follows after to keep us willing.”** If God has made you willing, He will move your hands to act. If there is no movement, we must ask if there is any life. As **Verse 26** concludes:
+> *“For just as the body without the spirit is dead, so also faith without works is dead.”*
+
+---
+
+## VI. CONCLUSION: THE EVIDENCE OF LIFE
+
+**So, we return to our Problem Question:** Is a verbal profession of faith enough to save a person, or is there a specific kind of evidence that must be present?
+
+**The Big Idea is clear:** The essential test for any profession of faith is: “Does my belief in God produce the kind of practical, life-changing actions that prove my faith is actually alive?”
+
+**Let us leave this place not just as people who *say* we have faith, but as people whose lives provide the *evidence* of the riches of His grace.**
+
+[Final Pause] **Amen.**
 
 **Below this is AI driven reference material**
